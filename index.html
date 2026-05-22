@@ -151,26 +151,44 @@
     function cardTemplate(item, index) {
       const tags = (item.tags && item.tags.length ? item.tags : ['好玩'])
         .map(tag => `<span class="rounded-full px-3 py-1 text-xs font-bold ${tagClasses(tag)}">${tag}</span>`).join('');
-      const image = item.image_url || fallbackImage;
+      const images = Array.from(new Set([item.image_url, ...(item.images || [])].filter(Boolean))).slice(0, 8);
+      const image = images[0] || fallbackImage;
       const title = escapeHtml(item.title || '未命名景點');
       const reason = escapeHtml(item.reason || '適合親子出遊，建議出發前確認開放時間。');
+      const summary = escapeHtml(item.summary || '目前沒有更多介紹，請點擊原文查看詳細內容。');
+      const source = escapeHtml(item.source_name || new URL(item.url || location.href).hostname.replace('www.', ''));
       const url = escapeHtml(item.url || '#');
+      const gallery = images.length > 1 ? `
+        <details class="mt-5 rounded-2xl bg-emerald-950/5 p-4">
+          <summary class="cursor-pointer text-sm font-bold text-fern">展開更多文章圖片（${images.length}）</summary>
+          <div class="mt-4 grid grid-cols-2 gap-3">
+            ${images.map((src, i) => `<img class="aspect-[4/3] rounded-2xl object-cover" src="${escapeHtml(src)}" alt="${title} 圖片 ${i + 1}" loading="lazy" onerror="this.remove()" />`).join('')}
+          </div>
+        </details>` : '';
       return `
-        <article class="card-enter group overflow-hidden rounded-[2rem] border border-white/70 bg-white/72 shadow-card backdrop-blur-xl" style="animation-delay:${Math.min(index * 55, 550)}ms">
-          <a href="${url}" target="_blank" rel="noopener noreferrer" class="block h-full">
+        <article class="card-enter overflow-hidden rounded-[2rem] border border-white/70 bg-white/72 shadow-card backdrop-blur-xl" style="animation-delay:${Math.min(index * 55, 550)}ms">
+          <a href="${url}" target="_blank" rel="noopener noreferrer" class="group block">
             <div class="aspect-[1.35] overflow-hidden bg-emerald-950">
               <img class="h-full w-full object-cover transition duration-700 ease-out group-hover:scale-110 group-hover:opacity-95" src="${escapeHtml(image)}" alt="${title}" loading="lazy" onerror="this.src='${fallbackImage}'" />
             </div>
-            <div class="p-6 sm:p-7">
-              <div class="mb-4 flex flex-wrap gap-2">${tags}</div>
-              <h2 class="font-display text-2xl font-semibold leading-tight text-fern transition group-hover:text-clay">${title}</h2>
-              <p class="mt-4 leading-7 text-bark/70">${reason}</p>
-              <div class="mt-6 flex items-center justify-between border-t border-emerald-900/10 pt-5 text-sm font-bold text-clay">
-                <span>閱讀原文</span>
-                <span class="transition group-hover:translate-x-1">→</span>
-              </div>
-            </div>
           </a>
+          <div class="p-6 sm:p-7">
+            <div class="mb-4 flex flex-wrap gap-2">${tags}</div>
+            <p class="mb-3 text-xs font-bold uppercase tracking-[.18em] text-bark/45">${source}</p>
+            <a href="${url}" target="_blank" rel="noopener noreferrer" class="group/title block">
+              <h2 class="font-display text-2xl font-semibold leading-tight text-fern transition group-hover/title:text-clay">${title}</h2>
+            </a>
+            <p class="mt-4 leading-7 text-bark/75">${reason}</p>
+            <details class="mt-4 rounded-2xl border border-emerald-900/10 bg-white/55 p-4">
+              <summary class="cursor-pointer text-sm font-bold text-clay">看完整介紹</summary>
+              <p class="mt-3 whitespace-pre-line leading-7 text-bark/72">${summary}</p>
+            </details>
+            ${gallery}
+            <a href="${url}" target="_blank" rel="noopener noreferrer" class="mt-6 flex items-center justify-between border-t border-emerald-900/10 pt-5 text-sm font-bold text-clay">
+              <span>閱讀原文</span>
+              <span class="transition group-hover:translate-x-1">→</span>
+            </a>
+          </div>
         </article>`;
     }
 
@@ -198,3 +216,4 @@
   </script>
 </body>
 </html>
+
