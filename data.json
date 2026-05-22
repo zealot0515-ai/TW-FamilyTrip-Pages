@@ -1,0 +1,37 @@
+{
+  "updated_at": "2026-05-22T14:35:44.660293+00:00",
+  "source": "TW-FamilyTrip-Data",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte5xuuxtce9jwnmzdm8xww41mzfobve0s",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XUUxtcE9jWnMzdm8xWW41MzFObVE0SFR3ajQycURtODhMTzhxQk1BeVpTWXBRSEl5WHNLUS0tcGtpaHJSbXlleWt6WjVkenYxbUNiWWN3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XUUxtcE9jWnMzdm8xWW41MzFObVE0SFR3ajQycURtODhMTzhxQk1BeVpTWXBRSEl5WHNLUS0tcGtpaHJSbXlleWt6WjVkenYxbUNiWWN3?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive, up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "這是一筆適合親子出遊的候選景點，建議確認交通、停車、廁所與推車動線後再安排。",
+      "published_at": "2026-05-22T12:25:17+00:00",
+      "collected_at": "2026-05-22T14:35:44.447074+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmixefvx3lxtfbzotaxsgzprjzss2x3n3g2sw55b0jpe",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzOTAxSGZpRjZSS2x3N3g2SW55b0JPeDVaUWtXTE9wRlByWUlvR2x5NU1TQVgxekVYby1Yc01ETWlkQ2dKeHN5XzhNcDdaVi1WRHhEYnUxcnFOZmVu?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzOTAxSGZpRjZSS2x3N3g2SW55b0JPeDVaUWtXTE9wRlByWUlvR2x5NU1TQVgxekVYby1Yc01ETWlkQ2dKeHN5XzhNcDdaVi1WRHhEYnUxcnFOZmVu?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive, up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "這是一筆適合親子出遊的候選景點，建議確認交通、停車、廁所與推車動線後再安排。",
+      "published_at": "2026-05-22T11:32:37+00:00",
+      "collected_at": "2026-05-22T14:35:44.659884+00:00",
+      "query": "台灣 親子景點 近兩週"
+    }
+  ]
+}

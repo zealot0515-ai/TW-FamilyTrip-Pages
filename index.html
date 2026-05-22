@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>週末親子踏青靈感 | Taiwan Family Trips</title>
+  <meta name="description" content="自動整理台灣近兩週適合親子踏青、放電、看動物與雨天備案的旅遊靈感。" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            display: ['Fraunces', 'Noto Serif TC', 'serif'],
+            body: ['Noto Sans TC', 'ui-sans-serif', 'sans-serif']
+          },
+          colors: {
+            bark: '#25372b',
+            moss: '#1f6f4a',
+            fern: '#0f3f2e',
+            sun: '#f59e0b',
+            clay: '#ea580c',
+            cream: '#fff8ed'
+          },
+          boxShadow: {
+            card: '0 24px 80px rgba(37, 55, 43, 0.14)'
+          }
+        }
+      }
+    };
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650;9..144,750&family=Noto+Sans+TC:wght@400;500;700&family=Noto+Serif+TC:wght@600;700&display=swap" rel="stylesheet">
+  <style>
+    :root { color-scheme: light; }
+    body {
+      background:
+        radial-gradient(circle at 10% 10%, rgba(245, 158, 11, .18), transparent 28rem),
+        radial-gradient(circle at 88% 8%, rgba(31, 111, 74, .16), transparent 24rem),
+        linear-gradient(135deg, #fff8ed 0%, #f7efe0 48%, #edf5e8 100%);
+    }
+    .paper-grain::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      opacity: .26;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140' viewBox='0 0 140 140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)' opacity='.25'/%3E%3C/svg%3E");
+      mix-blend-mode: multiply;
+    }
+    .card-enter { animation: cardIn .6s both; }
+    @keyframes cardIn { from { opacity: 0; transform: translateY(18px) scale(.98); } to { opacity: 1; transform: translateY(0) scale(1); } }
+  </style>
+</head>
+<body class="paper-grain min-h-screen font-body text-bark antialiased">
+  <header class="relative overflow-hidden px-5 pb-10 pt-8 sm:px-8 lg:px-12 lg:pb-16">
+    <nav class="mx-auto flex max-w-7xl items-center justify-between rounded-full border border-white/60 bg-white/50 px-5 py-3 shadow-sm backdrop-blur-xl">
+      <a href="./" class="font-display text-lg font-bold tracking-tight text-fern">Family Fieldnotes</a>
+      <span id="updatedAt" class="text-xs font-medium text-bark/60">讀取資料中...</span>
+    </nav>
+
+    <section class="mx-auto grid max-w-7xl gap-10 pt-14 lg:grid-cols-[1.08fr_.92fr] lg:items-end">
+      <div>
+        <p class="mb-5 inline-flex rounded-full bg-emerald-900 px-4 py-2 text-xs font-bold uppercase tracking-[.28em] text-amber-200">Taiwan weekend guide</p>
+        <h1 class="font-display text-5xl font-semibold leading-[.98] tracking-tight text-fern sm:text-7xl lg:text-8xl">
+          週末帶孩子<br><span class="text-clay">出去走走</span>
+        </h1>
+        <p class="mt-7 max-w-2xl text-lg leading-8 text-bark/72">
+          每天自動蒐集近兩週台灣親子景點、特色飯店、遊樂園與自然公園文章，再用 AI 萃取「為什麼適合帶小孩去」。少一點滑手機，多一點出門靈感。
+        </p>
+      </div>
+      <div class="rounded-[2.5rem] border border-white/70 bg-white/45 p-5 shadow-card backdrop-blur-xl">
+        <div class="aspect-[4/3] overflow-hidden rounded-[2rem] bg-emerald-900">
+          <img class="h-full w-full object-cover opacity-90" src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80" alt="親子踏青草地" />
+        </div>
+        <div class="flex items-center justify-between px-2 pt-5">
+          <p class="font-display text-2xl font-semibold text-fern">Latest 20-30 picks</p>
+          <p id="itemCount" class="rounded-full bg-amber-400 px-4 py-2 text-sm font-bold text-fern">0 places</p>
+        </div>
+      </div>
+    </section>
+  </header>
+
+  <main class="px-5 pb-16 sm:px-8 lg:px-12">
+    <section class="mx-auto max-w-7xl">
+      <div class="sticky top-3 z-20 mb-8 rounded-[1.75rem] border border-white/70 bg-cream/80 p-3 shadow-sm backdrop-blur-2xl">
+        <div id="filters" class="flex gap-2 overflow-x-auto pb-1"></div>
+      </div>
+      <div id="status" class="hidden rounded-3xl border border-amber-200 bg-amber-50 p-6 text-amber-900"></div>
+      <div id="grid" class="grid gap-6 sm:grid-cols-2 xl:grid-cols-3"></div>
+    </section>
+  </main>
+
+  <footer class="px-5 pb-10 text-center text-sm text-bark/55">
+    <p>資料來源為公開文章摘要與 Open Graph metadata；請以原文最新資訊為準。</p>
+  </footer>
+
+  <script>
+    const TAGS = ['全部', '放電', '看動物', '好玩', '室內', '大自然'];
+    const state = { items: [], active: '全部' };
+    const fallbackImage = 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80';
+
+    function formatDate(value) {
+      if (!value) return '尚未更新';
+      const date = new Date(value);
+      if (Number.isNaN(date.getTime())) return '尚未更新';
+      return new Intl.DateTimeFormat('zh-TW', { month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' }).format(date);
+    }
+
+    function tagClasses(tag) {
+      const green = ['看動物', '大自然'];
+      return green.includes(tag)
+        ? 'bg-emerald-800 text-emerald-50'
+        : 'bg-amber-400 text-emerald-950';
+    }
+
+    function renderFilters() {
+      const wrap = document.getElementById('filters');
+      wrap.innerHTML = TAGS.map(tag => {
+        const active = state.active === tag;
+        return `<button class="shrink-0 rounded-full px-5 py-3 text-sm font-bold transition ${active ? 'bg-fern text-amber-100 shadow-lg shadow-emerald-900/20' : 'bg-white/75 text-bark/70 hover:bg-amber-200 hover:text-fern'}" data-tag="${tag}">${tag}</button>`;
+      }).join('');
+      wrap.querySelectorAll('button').forEach(button => {
+        button.addEventListener('click', () => {
+          state.active = button.dataset.tag;
+          renderFilters();
+          renderCards();
+        });
+      });
+    }
+
+    function renderCards() {
+      const grid = document.getElementById('grid');
+      const status = document.getElementById('status');
+      const items = state.active === '全部'
+        ? state.items
+        : state.items.filter(item => (item.tags || []).includes(state.active));
+
+      document.getElementById('itemCount').textContent = `${items.length} places`;
+      if (!items.length) {
+        grid.innerHTML = '';
+        status.classList.remove('hidden');
+        status.textContent = state.items.length ? '這個分類暫時沒有資料，換個標籤看看。' : '目前 data.json 還沒有資料，請先執行 private repo 的 GitHub Actions。';
+        return;
+      }
+      status.classList.add('hidden');
+      grid.innerHTML = items.map((item, index) => cardTemplate(item, index)).join('');
+    }
+
+    function cardTemplate(item, index) {
+      const tags = (item.tags && item.tags.length ? item.tags : ['好玩'])
+        .map(tag => `<span class="rounded-full px-3 py-1 text-xs font-bold ${tagClasses(tag)}">${tag}</span>`).join('');
+      const image = item.image_url || fallbackImage;
+      const title = escapeHtml(item.title || '未命名景點');
+      const reason = escapeHtml(item.reason || '適合親子出遊，建議出發前確認開放時間。');
+      const url = escapeHtml(item.url || '#');
+      return `
+        <article class="card-enter group overflow-hidden rounded-[2rem] border border-white/70 bg-white/72 shadow-card backdrop-blur-xl" style="animation-delay:${Math.min(index * 55, 550)}ms">
+          <a href="${url}" target="_blank" rel="noopener noreferrer" class="block h-full">
+            <div class="aspect-[1.35] overflow-hidden bg-emerald-950">
+              <img class="h-full w-full object-cover transition duration-700 ease-out group-hover:scale-110 group-hover:opacity-95" src="${escapeHtml(image)}" alt="${title}" loading="lazy" onerror="this.src='${fallbackImage}'" />
+            </div>
+            <div class="p-6 sm:p-7">
+              <div class="mb-4 flex flex-wrap gap-2">${tags}</div>
+              <h2 class="font-display text-2xl font-semibold leading-tight text-fern transition group-hover:text-clay">${title}</h2>
+              <p class="mt-4 leading-7 text-bark/70">${reason}</p>
+              <div class="mt-6 flex items-center justify-between border-t border-emerald-900/10 pt-5 text-sm font-bold text-clay">
+                <span>閱讀原文</span>
+                <span class="transition group-hover:translate-x-1">→</span>
+              </div>
+            </div>
+          </a>
+        </article>`;
+    }
+
+    function escapeHtml(value) {
+      return String(value).replace(/[&<>'"]/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[char]));
+    }
+
+    async function loadData() {
+      renderFilters();
+      try {
+        const response = await fetch('./data.json', { cache: 'no-store' });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const payload = await response.json();
+        state.items = Array.isArray(payload.items) ? payload.items : [];
+        document.getElementById('updatedAt').textContent = `更新：${formatDate(payload.updated_at)}`;
+      } catch (error) {
+        console.error(error);
+        document.getElementById('updatedAt').textContent = '資料讀取失敗';
+        state.items = [];
+      }
+      renderCards();
+    }
+
+    loadData();
+  </script>
+</body>
+</html>
