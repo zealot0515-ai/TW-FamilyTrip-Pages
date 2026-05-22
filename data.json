@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-22T14:35:44.660293+00:00",
+  "updated_at": "2026-05-22T16:12:20.795195+00:00",
   "source": "TW-FamilyTrip-Data",
-  "count": 2,
+  "count": 30,
   "items": [
     {
       "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte5xuuxtce9jwnmzdm8xww41mzfobve0s",
@@ -32,6 +32,426 @@
       "published_at": "2026-05-22T11:32:37+00:00",
       "collected_at": "2026-05-22T14:35:44.659884+00:00",
       "query": "台灣 親子景點 近兩週"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmia0fvx3lxtfbwwhvgyxjxdzdwb2ztbhvtq0ruwmowq",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWWHVGYXJxdzdwb2ZTbHVtQ0RUWmowQ3ZDa1JKU3psNFJfS0pQQlRodU1TbG1WV1E3NHJydG92Z3BzUmlNbG1QT2pxN0ZfWEdhODVIV2VBVUR3TjZkQXNlZ0w1cXNnZE9pYTM00gFrQVVfeXFMUFZYdUZhcnF3N3BvZlNsdW1DRFRaajBDdkNrUkpTemw0Ul9LSlBCVGh1TVNsbVZXUTc0cnJ0b3ZncHNSaU1sbVBPanE3Rl9YR2E4NUhXZUFVRHdONmRBc2VnTDVxc2dkT2lhMzQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWWHVGYXJxdzdwb2ZTbHVtQ0RUWmowQ3ZDa1JKU3psNFJfS0pQQlRodU1TbG1WV1E3NHJydG92Z3BzUmlNbG1QT2pxN0ZfWEdhODVIV2VBVUR3TjZkQXNlZ0w1cXNnZE9pYTM00gFrQVVfeXFMUFZYdUZhcnF3N3BvZlNsdW1DRFRaajBDdkNrUkpTemw0Ul9LSlBCVGh1TVNsbVZXUTc0cnJ0b3ZncHNSaU1sbVBPanE3Rl9YR2E4NUhXZUFVRHdONmRBc2VnTDVxc2dkT2lhMzQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為Google News聚合頁面，非實際旅遊文章，無法判斷適合親子踏青之地點。",
+      "published_at": "2026-05-22T08:55:00+00:00",
+      "collected_at": "2026-05-22T16:09:09.740248+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfbfm1p6m0reslnzogtfngm2ue9iy0y1t",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfM1p6M0RESlNzOGtfNGM2UE9IY0Y1T0VoRTFFcWhadFl2bDVvcXJzT3hvam5ZQzJadElwWFQ5cE1OakdycFRaS3plTExQbEdrcFE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfM1p6M0RESlNzOGtfNGM2UE9IY0Y1T0VoRTFFcWhadFl2bDVvcXJzT3hvam5ZQzJadElwWFQ5cE1OakdycFRaS3plTExQbEdrcFE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為Google News新聞聚合連結，非親子旅遊文章，無法提供分類與推薦理由。",
+      "published_at": "2026-05-22T08:29:00+00:00",
+      "collected_at": "2026-05-22T16:09:23.128986+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte1nbwzcdgh6allnouj4avfqrdjhd3k0v",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nbWZCdGh6allNOUJ4aVFqRDJhd3k0VkhSYXNzQkFLeHZQTHI3VVVOemJKdnN4NmpZTWROUFpnZGE0ZWY2ZTJ6dWpjOWpfZm1XMHc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nbWZCdGh6allNOUJ4aVFqRDJhd3k0VkhSYXNzQkFLeHZQTHI3VVVOemJKdnN4NmpZTWROUFpnZGE0ZWY2ZTJ6dWpjOWpfZm1XMHc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "這是一筆適合親子出遊的候選景點，建議確認交通、停車、廁所與推車動線後再安排。",
+      "published_at": "2026-05-22T06:33:00+00:00",
+      "collected_at": "2026-05-22T16:09:24.952010+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmia0fvx3lxte9qrwhiqwzkqvkwzdy1c3f1uwtqbvpkz",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QRWhiQWZKQVkwZDY1c3F1UWtqbVpKZEJ1OHNEZ3diRXFLOEtoeTRIVDZ1ekRPMTNPb0lEYnFVVGlwVk9ZR1RQcGxPdlpFNFBDNnVYamZsNmtqMGRKekNxTkZuZW5oek00ZnlV?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QRWhiQWZKQVkwZDY1c3F1UWtqbVpKZEJ1OHNEZ3diRXFLOEtoeTRIVDZ1ekRPMTNPb0lEYnFVVGlwVk9ZR1RQcGxPdlpFNFBDNnVYamZsNmtqMGRKekNxTkZuZW5oek00ZnlV?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此連結為Google News RSS摘要，非實際旅遊文章，無法判斷是否適合親子踏青，請提供具體文章內容後再進行分類。",
+      "published_at": "2026-05-22T05:52:26+00:00",
+      "collected_at": "2026-05-22T16:09:27.348214+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmilafbvv95cuxqrevbtxhfszdjmgrtsufpqvq1tc1yx",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQREVBTXhFSzdjMGRTSUFPQVQ1TC1YX1FfU2RidHFISnN1VDFQeGhjSFJGdUFJNXd3RlI1MHZNaTZ0dGFfNVozMENkbHZTNkQzYTk2a0FhemNlMDhVcE1iYkhtamtNbzNHbjVKenBTLUM5azZWWjFNQVJpeTExUm9mQUF3SVBmZXJ3dU1SX1F3cHVnVkVn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQREVBTXhFSzdjMGRTSUFPQVQ1TC1YX1FfU2RidHFISnN1VDFQeGhjSFJGdUFJNXd3RlI1MHZNaTZ0dGFfNVozMENkbHZTNkQzYTk2a0FhemNlMDhVcE1iYkhtamtNbzNHbjVKenBTLUM5azZWWjFNQVJpeTExUm9mQUF3SVBmZXJ3dU1SX1F3cHVnVkVn?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "放電"
+      ],
+      "reason": "此為 Google News 新聞摘要，非親子旅遊文章，無法提供推薦。",
+      "published_at": "2026-05-22T01:51:12+00:00",
+      "collected_at": "2026-05-22T16:09:29.806627+00:00",
+      "query": "台灣 動物農場 親子 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiakfvx3lxtfbrekj4uwt1cgw2rknxemfimendx285n",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrekJ4UWt1cGw2RkNXemFiMENDX285N1haVS1EamNEeWlGOElMejJuWXZMNS1HNWxHSEhWcG1ROXlHbDZtb2Q3a3FFUkxfWHhiaTZvQkxhWGdHTE9xcXFHREQ4UWdHUFVmdmfSAWpBVV95cUxQa3pCeFFrdXBsNkZDV3phYjBDQ19vOTdYWlUtRGpjRHlpRjhJTHoybll2TDUtRzVsR0hIVnBtUTl5R2w2bW9kN2txRVJMX1h4Ymk2b0JMYVhnR0xPcXFxR0REOFFnR1BVZnZn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrekJ4UWt1cGw2RkNXemFiMENDX285N1haVS1EamNEeWlGOElMejJuWXZMNS1HNWxHSEhWcG1ROXlHbDZtb2Q3a3FFUkxfWHhiaTZvQkxhWGdHTE9xcXFHREQ4UWdHUFVmdmfSAWpBVV95cUxQa3pCeFFrdXBsNkZDV3phYjBDQ19vOTdYWlUtRGpjRHlpRjhJTHoybll2TDUtRzVsR0hIVnBtUTl5R2w2bW9kN2txRVJMX1h4Ymk2b0JMYVhnR0xPcXFxR0REOFFnR1BVZnZn?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google News RSS 連結，非親子旅遊文章，無法進行分類與推薦。",
+      "published_at": "2026-05-22T01:22:16+00:00",
+      "collected_at": "2026-05-22T16:09:31.239922+00:00",
+      "query": "台灣 特色景點 親子 打卡"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmidefvx3lxte9lsuhfrdbjak9fm1jhm0fzcjrqcxfay",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lSUhfRDBjak9FM1JHM0FzcjRQcXFaY0lfMVVCNUNzQklpOF9nTzAtd1UxdGJjcXdPRHpSWEFMMmRYWUdmcG5EWkk4Y1UzTFlVM29Cb2ZvVUd3MWZqdnR2cnZHekxPb3VIdmxKdV9sLWVaWTJF0gF0QVVfeXFMT2VJSF9EMGNqT0UzUkczQXNyNFBxcVpjSV8xVUI1Q3NCSWk4X2dPMC13VTF0YmNxd09EelJYQUwyZFhZR2ZwbkRaSThjVTNMWVUzb0JvZm9VR3cxZmp2dHZydkd6TE9vdUh2bEp1X2wtZVpZMkU?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lSUhfRDBjak9FM1JHM0FzcjRQcXFaY0lfMVVCNUNzQklpOF9nTzAtd1UxdGJjcXdPRHpSWEFMMmRYWUdmcG5EWkk4Y1UzTFlVM29Cb2ZvVUd3MWZqdnR2cnZHekxPb3VIdmxKdV9sLWVaWTJF0gF0QVVfeXFMT2VJSF9EMGNqT0UzUkczQXNyNFBxcVpjSV8xVUI1Q3NCSWk4X2dPMC13VTF0YmNxd09EelJYQUwyZFhZR2ZwbkRaSThjVTNMWVUzb0JvZm9VR3cxZmp2dHZydkd6TE9vdUh2bEp1X2wtZVpZMkU?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為Google News新聞聚合頁面，非旅遊主題文章，無景點資訊可供評估親子適合性。",
+      "published_at": "2026-05-22T01:22:16+00:00",
+      "collected_at": "2026-05-22T16:09:34.131701+00:00",
+      "query": "台灣 動物農場 親子 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmitafbvv95cuxpwwttbvh5ywytym1aqnngwu8yltb3q",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWWttbVh5YWYtYm1aQnNGWU8yLTB3Q0dncEc4dGc2M1h2X1BwSl9hWWRHQzgxZzVnc3cyN0NpeW5uZktITE9JRjNDZ19RaXRPZ0pFb1k0SlZyWVFGcDJlVFA5bDNPYl8xRVdwNW10c1RUSEo0REF4M2xxeVF3bFY4UGNrVmU0ZTZnc1I3Rm12SFRZZmJZc2hVYjAzZjBxSjhtV0s5MjBlVjNFZF9WTDRvVjlXdFg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWWttbVh5YWYtYm1aQnNGWU8yLTB3Q0dncEc4dGc2M1h2X1BwSl9hWWRHQzgxZzVnc3cyN0NpeW5uZktITE9JRjNDZ19RaXRPZ0pFb1k0SlZyWVFGcDJlVFA5bDNPYl8xRVdwNW10c1RUSEo0REF4M2xxeVF3bFY4UGNrVmU0ZTZnc1I3Rm12SFRZZmJZc2hVYjAzZjBxSjhtV0s5MjBlVjNFZF9WTDRvVjlXdFg?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "適合親子出遊，建議出發前再確認開放時間與交通資訊。",
+      "published_at": "2026-05-22T00:18:06+00:00",
+      "collected_at": "2026-05-22T16:09:42.702963+00:00",
+      "query": "台灣 特色景點 親子 打卡"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte94mvprzuznszzstvfyntnhtxrbtexzw",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MVpRZUZNSzZsTVFyNTNhTXRBTExzWFh4cWNGclp5RFMxdlZWWHE0aUx4TktLdnlFWmxrVXhBRVdfdk0zakdvVnZHOWh6Yk9lNW9lU9IBWkFVX3lxTFB5VmNXY2o5MWljTjItMF9UZmNEc05FbG9VM0dBQzF3eUJEMTRIVktTNlFLdGl4d1huWHdOb1ByVVRSQng5RGdLbWZEZUJJdlJPSDBXRWJSbldPZw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MVpRZUZNSzZsTVFyNTNhTXRBTExzWFh4cWNGclp5RFMxdlZWWHE0aUx4TktLdnlFWmxrVXhBRVdfdk0zakdvVnZHOWh6Yk9lNW9lU9IBWkFVX3lxTFB5VmNXY2o5MWljTjItMF9UZmNEc05FbG9VM0dBQzF3eUJEMTRIVktTNlFLdGl4d1huWHdOb1ByVVRSQng5RGdLbWZEZUJJdlJPSDBXRWJSbldPZw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google News 新聞聚合服務連結，非實際旅遊景點，無法推薦適合親子的戶外踏青地點。",
+      "published_at": "2026-05-21T11:00:00+00:00",
+      "collected_at": "2026-05-22T16:09:53.252578+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmix0fvx3lxtfbez0s0rnzwcgfhctlhodhrrvgtr1lqc",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEZ0s0RnZwcGFHcTlhODhrRVgtR1lQcFJnVHl1MVBqd2t0M18xSjc1cVR1MUZpVGJjOVYxRHQ0ZWprMW9GQzlIYURRYTh4MHRGbTcyWXdZQUZORjdOSVlj0gFfQVVfeXFMUERnSzRGdnBwYUdxOWE4OGtFWC1HWVBwUmdUeXUxUGp3a3QzXzFKNzVxVHUxRmlUYmM5VjFEdDRlamsxb0ZDOUhhRFFhOHgwdEZtNzJZd1lBRk5GN05JWWM?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEZ0s0RnZwcGFHcTlhODhrRVgtR1lQcFJnVHl1MVBqd2t0M18xSjc1cVR1MUZpVGJjOVYxRHQ0ZWprMW9GQzlIYURRYTh4MHRGbTcyWXdZQUZORjdOSVlj0gFfQVVfeXFMUERnSzRGdnBwYUdxOWE4OGtFWC1HWVBwUmdUeXUxUGp3a3QzXzFKNzVxVHUxRmlUYmM5VjFEdDRlamsxb0ZDOUhhRFFhOHgwdEZtNzJZd1lBRk5GN05JWWM?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google News RSS 摘要，非旅遊相關文章，無法分類推薦。",
+      "published_at": "2026-05-21T10:50:14+00:00",
+      "collected_at": "2026-05-22T16:09:56.928815+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmijgfbvv95cuxpwef0sgnhqv85ofkwquzfwkzuq2roy",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEF0SGNhQV85OFkwQUZfWkZUQ2ROY1FRY3J6R05VdExFLVFybVMxdERtS0VCUElTVUM5aGpsVExwTnRZaUhtWFJLeEJ2NWhFa29YUWZEcE12ajdCYXRWcmxsempqZExIRnpJZUl2dFBEMWdIZGs3YkZtSEtxdlZIdGNzN0ZTRFQzNzFBdVJ3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEF0SGNhQV85OFkwQUZfWkZUQ2ROY1FRY3J6R05VdExFLVFybVMxdERtS0VCUElTVUM5aGpsVExwTnRZaUhtWFJLeEJ2NWhFa29YUWZEcE12ajdCYXRWcmxsempqZExIRnpJZUl2dFBEMWdIZGs3YkZtSEtxdlZIdGNzN0ZTRFQzNzFBdVJ3?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為Google News新聞聚合連結，非實際旅遊景點文章，無法提供親子踏青分類與推薦理由。",
+      "published_at": "2026-05-21T10:26:13+00:00",
+      "collected_at": "2026-05-22T16:10:13.145484+00:00",
+      "query": "台灣 特色景點 親子 打卡"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte1gsl90avpithbyotdrn1zmdnf1exvyu",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GSl90aVpiTHByOTdRN1ZMdnF1eXVyUHhsYTIyajRfeWVFZ0w0MEw0eU1iNzN0aFdLNHl1RVpZckdjQ01aUE1Jc2Nhc1Rqb1dEX3c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GSl90aVpiTHByOTdRN1ZMdnF1eXVyUHhsYTIyajRfeWVFZ0w0MEw0eU1iNzN0aFdLNHl1RVpZckdjQ01aUE1Jc2Nhc1Rqb1dEX3c?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "適合親子出遊，建議出發前再確認開放時間與交通資訊。",
+      "published_at": "2026-05-21T10:26:00+00:00",
+      "collected_at": "2026-05-22T16:10:16.065287+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmigwfbvv95cuxprepvnwowavvvvkc2ywlyvucyufzkv",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPREpVNWowaVVVVkc2YWlyVUcyUFZKVFRfNmI1OGZ2c25MTHctOWxwVkhwS21Ld1RnNWQxVzBHU3lhdHpyeUIwY1BLT2dud2VXRm1GMFBwMkUxQVFueHcteXFETjdFU0Vxam9SWHpOUVVBMVh3bmgyS292ZUtwSlJTRWQ1b9IBYkFVX3lxTFBzUkVsX2UtSE5iMEFxeHdMUExHLWFPdTZDdnJwOXF3S05rX2VIZVV4OHcwSzQ4aEZXeHhVdmYxR2hqSDg5TDBpbzdVbC1DNlpaOWo4OU1kdExKTUQ2d2pRelVn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPREpVNWowaVVVVkc2YWlyVUcyUFZKVFRfNmI1OGZ2c25MTHctOWxwVkhwS21Ld1RnNWQxVzBHU3lhdHpyeUIwY1BLT2dud2VXRm1GMFBwMkUxQVFueHcteXFETjdFU0Vxam9SWHpOUVVBMVh3bmgyS292ZUtwSlJTRWQ1b9IBYkFVX3lxTFBzUkVsX2UtSE5iMEFxeHdMUExHLWFPdTZDdnJwOXF3S05rX2VIZVV4OHcwSzQ4aEZXeHhVdmYxR2hqSDg5TDBpbzdVbC1DNlpaOWo4OU1kdExKTUQ2d2pRelVn?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為Google News新聞摘要，非親子旅遊相關文章，無法提供分類與推薦理由。",
+      "published_at": "2026-05-21T10:19:56+00:00",
+      "collected_at": "2026-05-22T16:10:29.266571+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiekfvx3lxtfaxa0xazkhezznzvkhyttrxyvfymxpeu",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxa0xaZkhEZzNZVkhYTTRxYVFyMXpEUDkwM0VJZ2VMQ3Z0ZnhWdzNfcnJnSlM0ZGN2Q1FsQ0ltU3RNUGptT1BZOFV6UHVMQkJWVFFnY3c1MGFFUVlBSkpwTzlzeVJUMVpmUmxRN0Y4bVFmRW80aFlMSVZB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxa0xaZkhEZzNZVkhYTTRxYVFyMXpEUDkwM0VJZ2VMQ3Z0ZnhWdzNfcnJnSlM0ZGN2Q1FsQ0ltU3RNUGptT1BZOFV6UHVMQkJWVFFnY3c1MGFFUVlBSkpwTzlzeVJUMVpmUmxRN0Y4bVFmRW80aFlMSVZB?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google News 新聞聚合頁面，非實際景點資訊，不建議作為親子踏青推薦。",
+      "published_at": "2026-05-21T08:57:22+00:00",
+      "collected_at": "2026-05-22T16:10:34.285826+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte4wm1des0npnxpgvtfhsu1sanc0tdlpv",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wM1dES0NPNXpGVTFhSU1Sanc0TDlpVkU4UHRJNjFfQU0ycHI4T1YyZkhqczFoWnZiYWdOUDlZVjJucFhvbm84TEVtYThJclJnRHc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wM1dES0NPNXpGVTFhSU1Sanc0TDlpVkU4UHRJNjFfQU0ycHI4T1YyZkhqczFoWnZiYWdOUDlZVjJucFhvbm84TEVtYThJclJnRHc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為Google News新聞聚合頁面，非旅遊相關文章，無法提供親子踏青分類與推薦。",
+      "published_at": "2026-05-21T08:39:00+00:00",
+      "collected_at": "2026-05-22T16:10:45.979857+00:00",
+      "query": "台灣 特色景點 親子 打卡"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmirkfvx3lxte51wmfzmnizatrvq0lyc1b1a01xchk4q",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51WmFZMnIzaTRVQ0lYc1B1a01xcHk4QVl2TVVpbWs5cWVvUFFNSWcyMllSYVZZbFJpZlp1eU1XNTZjbzFVOXc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51WmFZMnIzaTRVQ0lYc1B1a01xcHk4QVl2TVVpbWs5cWVvUFFNSWcyMllSYVZZbFJpZlp1eU1XNTZjbzFVOXc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此連結為Google News新聞聚合頁面，非旅遊相關文章，無法提供分類與推薦理由。",
+      "published_at": "2026-05-21T08:10:30+00:00",
+      "collected_at": "2026-05-22T16:10:57.093853+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte9xaul5sy0wcw1bx1jpzkh5vvexze1xq",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XaUl5Sy0wcW1BX1JpZkh5VVExZE1XQlQ3MmpDTjF3VmtHSWt5Ni1LUUM3aC1LTTQtOXdDZkRscjJxT1FzOGxxTnNRaVFLdEZkYnc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XaUl5Sy0wcW1BX1JpZkh5VVExZE1XQlQ3MmpDTjF3VmtHSWt5Ni1LUUM3aC1LTTQtOXdDZkRscjJxT1FzOGxxTnNRaVFLdEZkYnc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google News RSS 連結，非親子旅遊相關文章，無法提供分類與推薦理由。",
+      "published_at": "2026-05-21T07:28:00+00:00",
+      "collected_at": "2026-05-22T16:11:00.318337+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmibkfvx3lxte1sts02otnhruvjdmdbd2vssetsalzns",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1STS02OTNhRUVjdmdBd2VsSEtsalZNSXVYeGwxTWZkUmRoQW9NQ2t0czFaT3RncGx1N1VLeUUwRGlVRHJCSF9ycUtMamdSOHVZMW9JLXd0UU9hdzVFRnRkbXBrZUg3emtYMlR4Tk1n?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1STS02OTNhRUVjdmdBd2VsSEtsalZNSXVYeGwxTWZkUmRoQW9NQ2t0czFaT3RncGx1N1VLeUUwRGlVRHJCSF9ycUtMamdSOHVZMW9JLXd0UU9hdzVFRnRkbXBrZUg3emtYMlR4Tk1n?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此文章為 Google News 新聞聚合平台說明，非實際旅遊報導，無法判斷是否適合親子踏青。",
+      "published_at": "2026-05-21T07:26:04+00:00",
+      "collected_at": "2026-05-22T16:11:03.150415+00:00",
+      "query": "台灣 親子景點 近兩週"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmibkfvx3lxte9wrw80zllxqvlxnv9uv3rwvtlyqxlgw",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WRW80ZllxQVlxNV9UV3RwVTlyQXlGWEIzSWFmbVFxbEF5SGg2dEVQQkpkU3pxRVhMYXV6NXVyYThxZ3o3Qnh1bjlTOGM3eUxVVnA3MzEyN0h4MmJYQkROTGNKV0RTcHh1ZFZvaDBB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WRW80ZllxQVlxNV9UV3RwVTlyQXlGWEIzSWFmbVFxbEF5SGg2dEVQQkpkU3pxRVhMYXV6NXVyYThxZ3o3Qnh1bjlTOGM3eUxVVnA3MzEyN0h4MmJYQkROTGNKV0RTcHh1ZFZvaDBB?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此內容為 Google News 新聞聚合服務，非親子旅遊相關文章，無法提供分類與推薦。",
+      "published_at": "2026-05-21T07:26:04+00:00",
+      "collected_at": "2026-05-22T16:11:13.697923+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte82am1udvdkmg54rmvzrlc5mejnytjpe",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82am1UdVdKMG54RmVZRlc5MEJNYTJpeUkzbDhJUHdvZEpNdUk5QnFkN0lVYXF1Z0l2ZG9tb1pKWHBPZS1ocFlYV0tzMUhDanRlRFZ5S0FWMUVaVXkwc3Rj?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82am1UdVdKMG54RmVZRlc5MEJNYTJpeUkzbDhJUHdvZEpNdUk5QnFkN0lVYXF1Z0l2ZG9tb1pKWHBPZS1ocFlYV0tzMUhDanRlRFZ5S0FWMUVaVXkwc3Rj?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "適合親子出遊，建議出發前再確認開放時間與交通資訊。",
+      "published_at": "2026-05-21T07:26:00+00:00",
+      "collected_at": "2026-05-22T16:11:25.998817+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmihgfbvv95cuxqx0txsvqtrzjjd09rngrrsnlib1lqt",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0tXSVQtRzJJd09RNGRrSnlib1lQTExaVzgwVzFabUtlNFlGMlNNZzNfWTRfLXhwMWd1QUkwWUgzRE90bXN0RGpySm1yLTRGQzM3Q0F1RnZnSnNzTFVUQ29VWHAzUnlhemF1NDVjU2RIZmtwQWhfcEQ3Sk5FZzJJYTI4OU9zZw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0tXSVQtRzJJd09RNGRrSnlib1lQTExaVzgwVzFabUtlNFlGMlNNZzNfWTRfLXhwMWd1QUkwWUgzRE90bXN0RGpySm1yLTRGQzM3Q0F1RnZnSnNzTFVUQ29VWHAzUnlhemF1NDVjU2RIZmtwQWhfcEQ3Sk5FZzJJYTI4OU9zZw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google News 新聞聚合平台說明，非旅遊相關內容，不適用於親子踏青推薦。",
+      "published_at": "2026-05-21T05:09:57+00:00",
+      "collected_at": "2026-05-22T16:11:28.181739+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiqkfvx3lxtfbmwg1oqwcyekvclwi5wkwxvfvqt2dat",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBmWG1oQWcyekVCLWI5WkwxVFVQT2daTUVNU1pzZjhQa2c5NFlNNW5vd2pMMk9fYWJIOGoxRXRjTGtnZw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBmWG1oQWcyekVCLWI5WkwxVFVQT2daTUVNU1pzZjhQa2c5NFlNNW5vd2pMMk9fYWJIOGoxRXRjTGtnZw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "適合親子出遊，建議出發前再確認開放時間與交通資訊。",
+      "published_at": "2026-05-21T04:30:01+00:00",
+      "collected_at": "2026-05-22T16:11:32.502157+00:00",
+      "query": "台灣 特色景點 親子 打卡"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxqdtazn3n1wwfrqzlnd2ptzek3zdfqz",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTAzN3N1WWFrQzlNd2ptZEk3ZDFqZklPN3lQdFI5NnNMRGYwT0o1dXRfVGpwUWR1NnVzVnVhRElTR0ZpZUFOMEJvRDJua1p0RmoyVUcwWVRwcXFOWW5rbGRfZGZxckpHTEhzSThpLUs3UnpHUGtsbmFtV1dpTGRHVlVJVUw5R2tTR1FaNQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTAzN3N1WWFrQzlNd2ptZEk3ZDFqZklPN3lQdFI5NnNMRGYwT0o1dXRfVGpwUWR1NnVzVnVhRElTR0ZpZUFOMEJvRDJua1p0RmoyVUcwWVRwcXFOWW5rbGRfZGZxckpHTEhzSThpLUs3UnpHUGtsbmFtV1dpTGRHVlVJVUw5R2tTR1FaNQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此連結為 Google News 新聞彙整頁面，非旅遊相關文章，無法提供親子旅遊分類與推薦理由。",
+      "published_at": "2026-05-21T00:00:00+00:00",
+      "collected_at": "2026-05-22T16:11:35.198472+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmixkfvx3lxte04vw1utfhxt1vkveq5ltjfdelkr01qz",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04VW1uTFhxT1VKVEQ5LTJFdElKR01qZXctWGF5d2Y5REFqTTNJS01Zb183c3M0b3A4UTB2RE9xcC0yMWhXRmJXamVwaFNzdHZfbW1iWkZSQlZ4eVVtWkE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04VW1uTFhxT1VKVEQ5LTJFdElKR01qZXctWGF5d2Y5REFqTTNJS01Zb183c3M0b3A4UTB2RE9xcC0yMWhXRmJXamVwaFNzdHZfbW1iWkZSQlZ4eVVtWkE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為Google News新聞彙整連結，非旅遊相關文章，不適用於親子踏青推薦分類。",
+      "published_at": "2026-05-20T10:40:00+00:00",
+      "collected_at": "2026-05-22T16:11:47.525206+00:00",
+      "query": "台灣 特色景點 親子 打卡"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmi-gjbvv95cuxqy3nfri1pbi0ytxzztghkevb0dhhpm",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQY3NFRi1pbi0yTXZzTGhkeVB0dHhPMm9ZUXBrX3g3dU1iSlpWYVltVmZIX1gyS3JDYldsZHFPenotdWFCRzE4QUI2ODdzQUh5eEFxeFpTTGdoU0NCWXIwakpfaEh0d2VGb3Q1WlpXQ1pmVWlMbzZ4VnJwYjhEMGtNRnRQRFJJTEVDd3hKTjFud1VyRG11cE51OGE5OGxDZ2xpUDRCNTNORUlxaVRMZ0VjUFh0OVVlWUxsYVdLSjhpdXlvTGdydENlTFlrYlp4aFVYdDZuY0VuSE5lb0ZIeThJbkVDTjA3cWdaVVJiSWpLQ1BZMTJ3UEN4bGNmNEdBTnZSSUtSY2FncWVUZzExOE81Tm5nQ3VkTkZ1VWk0NUt6cG51X0g3dk9tS1B6NVc3OXlMTjdsX2RzVVBnWk5PWXd4SE81QmVHanAzaTNrM081aDVuVUVDOG1lbk9wNHJ0azlwN0ZVR0stZlI3RlcxTFRQRFV4N3h6ZmRaMDZnR3JR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQY3NFRi1pbi0yTXZzTGhkeVB0dHhPMm9ZUXBrX3g3dU1iSlpWYVltVmZIX1gyS3JDYldsZHFPenotdWFCRzE4QUI2ODdzQUh5eEFxeFpTTGdoU0NCWXIwakpfaEh0d2VGb3Q1WlpXQ1pmVWlMbzZ4VnJwYjhEMGtNRnRQRFJJTEVDd3hKTjFud1VyRG11cE51OGE5OGxDZ2xpUDRCNTNORUlxaVRMZ0VjUFh0OVVlWUxsYVdLSjhpdXlvTGdydENlTFlrYlp4aFVYdDZuY0VuSE5lb0ZIeThJbkVDTjA3cWdaVVJiSWpLQ1BZMTJ3UEN4bGNmNEdBTnZSSUtSY2FncWVUZzExOE81Tm5nQ3VkTkZ1VWk0NUt6cG51X0g3dk9tS1B6NVc3OXlMTjdsX2RzVVBnWk5PWXd4SE81QmVHanAzaTNrM081aDVuVUVDOG1lbk9wNHJ0azlwN0ZVR0stZlI3RlcxTFRQRFV4N3h6ZmRaMDZnR3JR?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google News 新聞聚合頁面，非旅遊相關內容，無法提供親子踏青分類與推薦。",
+      "published_at": "2026-05-20T10:24:41+00:00",
+      "collected_at": "2026-05-22T16:11:55.419665+00:00",
+      "query": "台灣 特色飯店 親子 房型"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivanbvv95cuxndjjnnnpmexvfwm1hnfryytiyvlvzv",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNdjJNNnpMeXVFWm1HNFRyYTIyVlVzVFVsUjQ3RVNZQXU2TUNGQXFLVkFoeHhSYTN4ZzZKclBGa3ozRWJBRkwzeUhSRm0yR1dsSmFseWFPUjBoQ0JjN29OcW1uRHlEYVhScmczNlk2WjAwYXdwVW1hbTFBY0RLeDZfNmhwbjJ6NERfM1FQZERjSmpYa3BzV2tQc2YxMGpoS1ZxZzRrT1NYYkNMR2J2cFdpYVljeHhyS0EzbG9sZTU0TjJ1ZlNRRGt3ZV9Obk52SXRkM19jT2dWOHJrUllONWU5RDFBeVdnMEQtcUxQdkRWZnVRYURZVDN2ay1jNlRFNmgtZC12dnNkZGprT1lBTWY5ZHRpWi1UNkdSdlJpMklhX1ZhMzhHb19CMGFxNm5YMngxUWpsbW11b1ZxSm1sRVR2ejJRUUU0TUE3bnBIV0tNS3B3bWpRRC1NUUhxMGN2Rm5ldFQ5XzBBV0l2UHFfYWpiVjlXb0RfU2M0Y3RZVWZoQ242Y1pGQWIxZ0pWNEtlaG04Wm4yMXNNVWN4ZXNfaHYyNVY0SFRFUkpud1ROcjNPNFUyalhSTU1CVTZtbzg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNdjJNNnpMeXVFWm1HNFRyYTIyVlVzVFVsUjQ3RVNZQXU2TUNGQXFLVkFoeHhSYTN4ZzZKclBGa3ozRWJBRkwzeUhSRm0yR1dsSmFseWFPUjBoQ0JjN29OcW1uRHlEYVhScmczNlk2WjAwYXdwVW1hbTFBY0RLeDZfNmhwbjJ6NERfM1FQZERjSmpYa3BzV2tQc2YxMGpoS1ZxZzRrT1NYYkNMR2J2cFdpYVljeHhyS0EzbG9sZTU0TjJ1ZlNRRGt3ZV9Obk52SXRkM19jT2dWOHJrUllONWU5RDFBeVdnMEQtcUxQdkRWZnVRYURZVDN2ay1jNlRFNmgtZC12dnNkZGprT1lBTWY5ZHRpWi1UNkdSdlJpMklhX1ZhMzhHb19CMGFxNm5YMngxUWpsbW11b1ZxSm1sRVR2ejJRUUU0TUE3bnBIV0tNS3B3bWpRRC1NUUhxMGN2Rm5ldFQ5XzBBV0l2UHFfYWpiVjlXb0RfU2M0Y3RZVWZoQ242Y1pGQWIxZ0pWNEtlaG04Wm4yMXNNVWN4ZXNfaHYyNVY0SFRFUkpud1ROcjNPNFUyalhSTU1CVTZtbzg?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "適合親子出遊，建議出發前再確認開放時間與交通資訊。",
+      "published_at": "2026-05-20T09:51:26+00:00",
+      "collected_at": "2026-05-22T16:12:04.257749+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmixkfvx3lxte43t25itzi2nkhuaetqdc1lqwd2cdazb",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43T25iTzI2NkhuaEtQdC1lQWd2cDAzbWN3X2hsN0hKUDU0TFk2dE5ZY1JSc1RSZVRoeExzTEpmVml4THlZb0NwbGVGUWJ2NXVyWEJJRzNzcTNiWEFZaFHSAWxBVV95cUxPbFFrZTJxbDBWSU5Bb2VfdTlRS1FiSG5BaS1EUWtQQjBYMXBBX3cxM1ROWkRKQlFVeGFwQ3UxNTRwVzVXR3RSd3VUT0k1ZVV6SnptQXU3NzJaYTlxamRqQUxIaHhqcDZGMUpoTWs?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43T25iTzI2NkhuaEtQdC1lQWd2cDAzbWN3X2hsN0hKUDU0TFk2dE5ZY1JSc1RSZVRoeExzTEpmVml4THlZb0NwbGVGUWJ2NXVyWEJJRzNzcTNiWEFZaFHSAWxBVV95cUxPbFFrZTJxbDBWSU5Bb2VfdTlRS1FiSG5BaS1EUWtQQjBYMXBBX3cxM1ROWkRKQlFVeGFwQ3UxNTRwVzVXR3RSd3VUT0k1ZVV6SnptQXU3NzJaYTlxamRqQUxIaHhqcDZGMUpoTWs?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為Google News一般新聞聚合連結，非親子踏青相關文章，無法提供分類與推薦理由。",
+      "published_at": "2026-05-20T09:00:00+00:00",
+      "collected_at": "2026-05-22T16:12:07.934918+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiggnbvv95cuxocuvubzuzu0oysnu3z3fkegvdcwjxt",
+      "title": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOcUVUbzUzU0oySnU3Z3FkeGVDcWJxTzNpckhuVnJHeUExWkRUZ1hfUm9HTEFDVktlNFdHWmF2ZnY4d0JkYThwb0dxRjFLdE13N3E2N3VKaklFWmJxNGRSSjJWemJJUlFNX1lSOXo1b1pfOENqclFfNlBvWUtYZmFCY2w1WlFtRVVXLW9BQ0ZKMjVWOTBrREQ3MThQTzJwSmhpNTk5cHlXbkl3NFJwc1l0OTlJM09NWlpoZS0yeXRrRGNUSUQ3c1c1NEI3VmVucU5MaWg0bV9TOUJpZEpRSU44OE9ZbTZzX2E5eHhraklXZFBkZjhwY0lhUXhMZ3NHVGFlOXlnWHFURVdxS3RubFNmdFNVTVRNZlpvUVU4QjNab2tXT2Z6cnN3anY2VTI4NTFwamxJclA2U2pYUVZiUk15QWdrRlJ4VzBmV1dfdmdMckc5eTZLSklfNVNadHpoY2RvWkJ6STBJcm5KcHN6aG9ZTnJZNXowZEQydWUwZXdpMGh4dw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOcUVUbzUzU0oySnU3Z3FkeGVDcWJxTzNpckhuVnJHeUExWkRUZ1hfUm9HTEFDVktlNFdHWmF2ZnY4d0JkYThwb0dxRjFLdE13N3E2N3VKaklFWmJxNGRSSjJWemJJUlFNX1lSOXo1b1pfOENqclFfNlBvWUtYZmFCY2w1WlFtRVVXLW9BQ0ZKMjVWOTBrREQ3MThQTzJwSmhpNTk5cHlXbkl3NFJwc1l0OTlJM09NWlpoZS0yeXRrRGNUSUQ3c1c1NEI3VmVucU5MaWg0bV9TOUJpZEpRSU44OE9ZbTZzX2E5eHhraklXZFBkZjhwY0lhUXhMZ3NHVGFlOXlnWHFURVdxS3RubFNmdFNVTVRNZlpvUVU4QjNab2tXT2Z6cnN3anY2VTI4NTFwamxJclA2U2pYUVZiUk15QWdrRlJ4VzBmV1dfdmdMckc5eTZLSklfNVNadHpoY2RvWkJ6STBJcm5KcHN6aG9ZTnJZNXowZEQydWUwZXdpMGh4dw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google News 入口頁面，非旅遊文章，無法推薦。",
+      "published_at": "2026-05-20T08:10:40+00:00",
+      "collected_at": "2026-05-22T16:12:14.948731+00:00",
+      "query": "台灣 特色景點 親子 打卡"
     }
   ]
 }
