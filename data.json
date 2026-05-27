@@ -1,8 +1,559 @@
 {
-  "updated_at": "2026-05-27T20:59:11.544918+00:00",
+  "updated_at": "2026-05-27T21:49:52.515801+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmicefvx3lxte95a095rdlkmnjpblbvwun3vujcehfqn",
+      "title": "台南遠東香格里拉結合樂園古蹟慢旅行 推暑假親子住房專案",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95a095RDlKMnJPblBvWUN3VUJCeHFqNDJHV0JFVjZCa0prTUt1Z1lTLVZJSnE5MnpwSjdoVWotMGtrZnBvME45bnlEdmJJcThwM0tlMXFjU0c2eVBOb3dhSXdiZTVSSlYwWmZkVnZBU0w?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95a095RDlKMnJPblBvWUN3VUJCeHFqNDJHV0JFVjZCa0prTUt1Z1lTLVZJSnE5MnpwSjdoVWotMGtrZnBvME45bnlEdmJJcThwM0tlMXFjU0c2eVBOb3dhSXdiZTVSSlYwWmZkVnZBU0w?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台南遠東香格里拉結合樂園古蹟慢旅行 推暑假親子住房專案。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "台南遠東香格里拉結合樂園古蹟慢旅行 推暑假親子住房專案。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "大成報",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-05-27T16:15:02+00:00",
+      "collected_at": "2026-05-27T21:49:31.301211+00:00",
+      "query": "台灣 親子飯店 親子樂園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmikwfbvv95cuxprhrbtvpocuq2zgo3qvl1ndmtmmn2c",
+      "title": "新北親子放電新去處 宏匯廣場150坪享樂園一站暢玩還有家長充電區",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRHRBTVpocUQ2ZGo3QVl1NDMtMmN2cDFNaGJqR0Y4WFY3WXdlY1pWVk9wV2lidlJBWG5sM0F5cThjWENLcHZsUXB5NHFZRTlHZHJjUnFYY3VOUmRSVTNlLUhnZUZTdjlObnFob3B6dU5QLXRrSEpqdHdSVk4tVU1XWDR0djZzTmpTZzZQdDV6QkZFdlHSAWJBVV95cUxOSTdpb0dlUkpQN1J0TUNpMVBPUjZfdkpkdGFja002b0lkY19BaDRLSGpSQS1nZUFhUVBTZWhrYlhVSmkyVExTOFl3MTNjMmhuZjFKcnhpSW9GTF9wUVVxRVEzUQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRHRBTVpocUQ2ZGo3QVl1NDMtMmN2cDFNaGJqR0Y4WFY3WXdlY1pWVk9wV2lidlJBWG5sM0F5cThjWENLcHZsUXB5NHFZRTlHZHJjUnFYY3VOUmRSVTNlLUhnZUZTdjlObnFob3B6dU5QLXRrSEpqdHdSVk4tVU1XWDR0djZzTmpTZzZQdDV6QkZFdlHSAWJBVV95cUxOSTdpb0dlUkpQN1J0TUNpMVBPUjZfdkpkdGFja002b0lkY19BaDRLSGpSQS1nZUFhUVBTZWhrYlhVSmkyVExTOFl3MTNjMmhuZjFKcnhpSW9GTF9wUVVxRVEzUQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "新北親子放電新去處 宏匯廣場150坪享樂園一站暢玩還有家長充電區。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "新北親子放電新去處 宏匯廣場150坪享樂園一站暢玩還有家長充電區。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "經濟日報",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-05-27T11:27:06+00:00",
+      "collected_at": "2026-05-27T21:49:31.895852+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmib0fvx3lxte52rdfmzkhnrmk3rerxqujen08zwny3t",
+      "title": "新北遛孩新去處！150坪室內樂園開幕 超大滑梯球池、智能超市玩翻",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52RDFMZkhNRmk3RERXQUJEN08zWnY3TjI0ZzE1Y3hjMlVWWmRKSEtlU2czWFY2SjN1V202RkFRQl83ODBWNkhpNmtfMEJZT3doTTVkZEM4eExPWUh4cy13Z0p5RmFQYmNZSVpwT1JwUQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52RDFMZkhNRmk3RERXQUJEN08zWnY3TjI0ZzE1Y3hjMlVWWmRKSEtlU2czWFY2SjN1V202RkFRQl83ODBWNkhpNmtfMEJZT3doTTVkZEM4eExPWUh4cy13Z0p5RmFQYmNZSVpwT1JwUQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "新北遛孩新去處！150坪室內樂園開幕 超大滑梯球池、智能超市玩翻。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "新北遛孩新去處！150坪室內樂園開幕 超大滑梯球池、智能超市玩翻。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "知新聞",
+      "tags": [
+        "室內",
+        "放電"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-05-27T09:20:00+00:00",
+      "collected_at": "2026-05-27T21:49:32.597753+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmixefvx3lxte9mmudnvepzzwtsbzlcsmpou1vlrfrao",
+      "title": "新北親子放電新去處！宏匯廣場「150坪享樂園」一站暢玩 還有家長充電區",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MMUdNVEpZZWtsbzlCSmpoU1VLRFRaOWs1Uk5yZ2pyTno2ZGRYVkNPQmYydm9BbUVSSmxRNFY5WXl2V3BoaVN3Nkt3aktHcEF3Z1pEU21uQmhONHo5?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MMUdNVEpZZWtsbzlCSmpoU1VLRFRaOWs1Uk5yZ2pyTno2ZGRYVkNPQmYydm9BbUVSSmxRNFY5WXl2V3BoaVN3Nkt3aktHcEF3Z1pEU21uQmhONHo5?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "新北親子放電新去處！宏匯廣場「150坪享樂園」一站暢玩 還有家長充電區。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "新北親子放電新去處！宏匯廣場「150坪享樂園」一站暢玩 還有家長充電區。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "UDN",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-05-27T08:12:30+00:00",
+      "collected_at": "2026-05-27T21:49:33.244139+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfborelmctlrnlf6tmywmvfsb1rznfbym",
+      "title": "嘉義親子放電新景點！ 賞花、玩工藝、逛復古農村超充實",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoRElmcTlRNlF6TmYwMVFSb1RzNFByMUF6bjFUWEpNVGgwUk9kYXRSV1RwSjlMMTVIX0lhdjY4ZnBYTXpMOXhIM0lLS1BNcDdHeHc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoRElmcTlRNlF6TmYwMVFSb1RzNFByMUF6bjFUWEpNVGgwUk9kYXRSV1RwSjlMMTVIX0lhdjY4ZnBYTXpMOXhIM0lLS1BNcDdHeHc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "嘉義親子放電新景點！ 賞花、玩工藝、逛復古農村超充實。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "嘉義親子放電新景點！ 賞花、玩工藝、逛復古農村超充實。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
+      "published_at": "2026-05-27T05:03:00+00:00",
+      "collected_at": "2026-05-27T21:49:33.856137+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte85q2lbbjl4evjadmlindl6rdlavxbqm",
+      "title": "台南遠東香格里拉夏日住房有好康！入住就送樂園、景點門票",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85Q2lBbjl4eVJadmliNDl6RDlaVXBQMDdqYzF0U0hTQk10ODJ6X0xEZmdvSUx4YWc3QjlOUHI4aVh2anN1MENWaGpNc1NYWF96SnfSAVdBVV95cUxQbkdQS0FVdjBXRnR5VTI4Qkc2TGdfWW9IRWlUMEUtNm01cnk1VjBuRHFyT0xfWFhUQUt4aDhVTE9FN0pfeWhwZE9ac0NZY1haczhobnpLaGc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85Q2lBbjl4eVJadmliNDl6RDlaVXBQMDdqYzF0U0hTQk10ODJ6X0xEZmdvSUx4YWc3QjlOUHI4aVh2anN1MENWaGpNc1NYWF96SnfSAVdBVV95cUxQbkdQS0FVdjBXRnR5VTI4Qkc2TGdfWW9IRWlUMEUtNm01cnk1VjBuRHFyT0xfWFhUQUt4aDhVTE9FN0pfeWhwZE9ac0NZY1haczhobnpLaGc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台南遠東香格里拉夏日住房有好康！入住就送樂園、景點門票。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "台南遠東香格里拉夏日住房有好康！入住就送樂園、景點門票。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "玩咖Playing",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-05-27T03:17:00+00:00",
+      "collected_at": "2026-05-27T21:49:34.513886+00:00",
+      "query": "台灣 室內親子景點"
+    },
+    {
+      "id": "https-n-yam-com-article-20260527638106",
+      "title": "嘉義親子放電新景點！　賞花、玩工藝、逛復古農村超充實 | 蕃新聞",
+      "url": "https://n.yam.com/Article/20260527638106",
+      "canonical_url": "https://n.yam.com/Article/20260527638106",
+      "image_url": "https://ni.yam.com/20260527/v01-a5fcac790ed81b96.jpg",
+      "images": [
+        "https://ni.yam.com/20260527/v01-a5fcac790ed81b96.jpg",
+        "https://funnews-tw.b-cdn.net/spi/funnews/dl/75a62733fdfa4126aef2b97ccd130aaf/v01?tn=1280",
+        "https://funnews-tw.b-cdn.net/spi/funnews/dl/8feac7ef733a42ada3f4d3cfa0211960/v01?tn=1280",
+        "https://funnews-tw.b-cdn.net/spi/funnews/dl/6a2196d6bc73475384cb781e276e49e0/v01?tn=1280",
+        "https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/7cd01aeb-6a44-486d-d2d7-3995bfa42e00/public",
+        "https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/58c13bd4-f610-4916-4b30-27e09cb7c900/public",
+        "https://ni.yam.com/20260521/_20260521201027-scaled-3f5d58431435b46f.jpg",
+        "https://ni.yam.com/20260521/00434107.20260521430179442m-5b3bbbd0596a6316.jpg"
+      ],
+      "summary": "嘉義親子放電新景點！　賞花、玩工藝、逛復古農村超充實 | 蕃新聞。深受親子旅客喜愛的板陶窯交趾剪黏工藝園區。（圖／嘉義縣政府） 【記者陳夏恩／綜合報導】當大片金黃色向日葵迎著陽光盛開，嘉義新港的夏天，也正式切換成最療癒的模樣。近來新港鄉悄悄成為親子旅遊熱門話題，不只有滿版向日葵花海能拍到記憶體爆滿，還能一路從馬賽克藝術玩到古早農村體驗，把「放電、放鬆、放空」一次完成。走進新港鄉，最先讓人驚呼的，就是田野間那片燦爛到像會發光的向日葵花海。金黃色花朵隨風搖曳，旁邊還有翠綠稻田一路延伸，整個畫面像打開夏日濾鏡，隨手拍都像明信片。不少旅人特地趁著花期衝一波，就是為了捕捉這個期間限定的夢幻場景。融合傳統工藝文化與在地生活特色，非常適合規劃親子「慢旅行」。（圖／嘉義縣政府） 而這趟旅程最讓親子族群著迷的，還不只是賞花而已。位在新港的海賊庄休閒農場，以超浮誇的馬賽克藝術牆成為人氣打卡熱點。超過500萬片馬賽克拼貼出的繽紛圖案，在陽光照射下色彩更加鮮豔，一旁又剛好是盛開中的向日葵花田，形成超有夏日感的拍照場景。",
+      "analysis": {
+        "overview": "嘉義親子放電新景點！　賞花、玩工藝、逛復古農村超充實 | 蕃新聞。深受親子旅客喜愛的板陶窯交趾剪黏工藝園區。（圖／嘉義縣政府） 【記者陳夏恩／綜合報導】當大片金黃色向日葵迎著陽光盛開，嘉義新港的夏天，也正式切換成最療癒的模樣。近來新港鄉悄悄成為親子旅遊熱門話題，不只有滿版向日葵花海能拍到記憶體爆滿，還能一路從馬賽克藝術玩到古早農村體驗，把「放電、放鬆、放空」一次完成。走進新港鄉，最先讓人驚呼的，就是田野間那片燦爛到像會發光的向日葵花海。金黃色花朵隨風搖曳，旁邊還有翠綠稻田一路延伸，整個畫面像打開夏日濾鏡，隨手拍都像",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 室內活動比較不受天氣影響，適合當雨天或高溫備案。 動物互動與自然觀察能提高孩子參與感。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 熱門時段可能人多，互動設施也可能需要排隊。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 可先預約或確認場次，並安排附近用餐點。 出發前確認餵食、互動體驗與休園時間。"
+      },
+      "source_name": "n.yam.com",
+      "tags": [
+        "看動物",
+        "放電",
+        "好玩"
+      ],
+      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
+      "published_at": "2026-05-26T22:03:00+00:00",
+      "collected_at": "2026-05-27T21:49:35.161036+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-playing-ltn-com-tw-article-32543",
+      "title": "台南遠東香格里拉夏日住房有好康！入住就送樂園、景點門票 - 玩咖Playing - 自由電子報",
+      "url": "https://playing.ltn.com.tw/article/32543",
+      "canonical_url": "https://playing.ltn.com.tw/article/32543",
+      "image_url": "https://img.ltn.com.tw/Upload/playing/page/2026/05/27/260527-32543-1-2bbBx.jpg",
+      "images": [
+        "https://ad.doubleclick.net/ddm/activity/src=9530821;type=invmedia;cat=ltn_w0;u1=playing;u2=找住宿Stay;u3=32543;u4=;u5=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1",
+        "https://img.ltn.com.tw/Upload/playing/page/2026/05/27/260527-32543-1-2bbBx.jpg",
+        "https://scontent-tpe1-1.cdninstagram.com/v/t39.30808-6/531208006_1165303322281404_6139558248614780780_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=6_Ro37Zy-isQ7kNvwFHlA2W&_nc_oc=Adm8PhvjJlsiw-Kf6mKC4Jb9RweOLrEiwfmr-Y4e_jx_A1_5KCW_9nOhHI23HyW3kh4&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=gxWgDOhKbv-1FLYghjkVNA&oh=00_AfX256ljjHKp5CbpjN6DKtuuC7X62dFFBSoxnl-XwGSlbQ&oe=68A429E3",
+        "https://scontent-tpe1-1.cdninstagram.com/v/t51.71878-15/529868824_1801916710727632_2563158723936407783_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=FioDRC5eTfIQ7kNvwGtpGVo&_nc_oc=AdmqheCbG4DKhOOGGhhSxXJX-Jwr8P6cjEFoEfnfkcrCMDV89_tcBl90gb86KWGgg_w&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=gxWgDOhKbv-1FLYghjkVNA&oh=00_AfUxt-9YmaNu3QMLZ38dj91Dvd-h3pCj3YqUR3ir4Nv3JQ&oe=68A42E0E",
+        "https://scontent-tpe1-1.cdninstagram.com/v/t51.71878-15/530448089_1465720301139037_8743234358115960999_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=wim9yjeaQ9gQ7kNvwENzbQu&_nc_oc=AdnnwIeAeESzvX4oqH7VDBi6_hzfwEhy0UJxcu6WtB6XJVCXDXcrmjdpIiqm9AbiqAY&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=gxWgDOhKbv-1FLYghjkVNA&oh=00_AfXwhaJkM-0mW1VAyQSOki-S4P9OWHBzACMSTdLTNe1sCg&oe=68A40597",
+        "https://scontent-tpe1-1.cdninstagram.com/v/t51.71878-15/527308334_1271584291093901_6905393783500057020_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=3lg8rDzgSjIQ7kNvwHFVKcC&_nc_oc=AdkyIk6hher0KbJ1l8x3gPBGoDiMte2QRwCfO5scD-JaBeSlE9o_AAecNgzO4UTQ62s&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=gxWgDOhKbv-1FLYghjkVNA&oh=00_AfUxt5e2tNZY8alrNmmJFK-2LFK1WC5w1evxRn0uw6IblQ&oe=68A42FB5",
+        "https://scontent-tpe1-1.cdninstagram.com/v/t51.71878-15/527046695_731630876402159_3884847600462158634_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=gVZWvbltodAQ7kNvwHUftDA&_nc_oc=AdkDcyi3npFhfqYlt5tH3XVwK90N8DXJZu7SiS4Z9LRKEmRKZik9YAf0wkofIutPvhI&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=gxWgDOhKbv-1FLYghjkVNA&oh=00_AfXvp3znlaK4TgcBHG4TyhlSL806nq7w8zxmyCQ8i2jY8A&oe=68A42FD4",
+        "https://scontent-tpe1-1.cdninstagram.com/v/t51.71878-15/527054859_765395512698984_1959188442105204477_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=6N9eFHXY3-8Q7kNvwFMWhE5&_nc_oc=AdmKxz5JcKZnqmujaEQhGYMtEKySDd8d4cGHHBP7KPBIDZVhBR7GcuVzhY3Mweh6wac&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=gxWgDOhKbv-1FLYghjkVNA&oh=00_AfWnCcECDGNAc6BZ-vDvF_pEHu4oyk1O4FLKNeLeAzuVKQ&oe=68A40444"
+      ],
+      "summary": "台南遠東香格里拉夏日住房有好康！入住就送樂園、景點門票 - 玩咖Playing - 自由電子報。內文搜尋》 找旅遊》 找住宿》 找美食》 台南遠東香格里拉飯店從六月起推出夏日親子住房優惠專案，入住就送樂園門票。（飯店提供） 隨著暑假旅遊旺季到來，台南遠東香格里拉飯店推出「夏日輕旅・2天1夜」與「夏日慢旅・3天2夜」雙住房專案，結合室內親子主題樂園、台南古蹟景點、戶外泳池與府城特色早餐，打造不用舟車勞頓、就能輕鬆享受台南夏日旅行的親子度假專案。此次優惠住房專案亮點之一，就是入住即贈「追風奇幻島－糖果小鎮」親子票，樂園位在與飯店同棟大樓的台南大遠百成功店4樓，步行即可抵達，讓孩子放電、大人放鬆，一次滿足親子旅遊需求。樂園以繽紛糖果為主題、打造多項人氣遊樂設施，包括糖果迷宮、VR蹦床樂園、角色扮演家家酒區及沙池賽車等互動空間，讓孩子能在舒適冷氣空間裡盡情玩樂，成為暑假親子旅遊中最省力的玩法之一。請繼續往下閱讀... 除了親子樂園體驗外，入住飯店期間也可憑專案贈送的古蹟門票，自由安排台南古蹟巡禮。每位付費成人可獲得兩張古蹟門票，可從赤崁樓、億載金城、安平古堡及安平樹屋4大經典景點中任選兩處參訪，輕鬆感受府城夏日慢旅氛圍。",
+      "analysis": {
+        "overview": "台南遠東香格里拉夏日住房有好康！入住就送樂園、景點門票 - 玩咖Playing - 自由電子報。內文搜尋》 找旅遊》 找住宿》 找美食》 台南遠東香格里拉飯店從六月起推出夏日親子住房優惠專案，入住就送樂園門票。（飯店提供） 隨著暑假旅遊旺季到來，台南遠東香格里拉飯店推出「夏日輕旅・2天1夜」與「夏日慢旅・3天2夜」雙住房專案，結合室內親子主題樂園、台南古蹟景點、戶外泳池與府城特色早餐，打造不用舟車勞頓、就能輕鬆享受台南夏日旅行的親子度假專案。此次優惠住房專案亮點之一，就是入住即贈「追風奇幻島－糖果小鎮」親子票，樂園",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "playing.ltn.com.tw",
+      "tags": [
+        "室內",
+        "放電",
+        "好玩"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-05-26T20:29:00+00:00",
+      "collected_at": "2026-05-27T21:49:35.605273+00:00",
+      "query": "台南 高雄 屏東 親子景點"
+    },
+    {
+      "id": "https-www-scooptw-com-local-news-480060-e7-ab-b9-e5-8c-97-e5-ae-a4-e5-85-a7-e8-a",
+      "title": "竹北室內親子樂園新開幕！追風奇幻島「叢林歷險記」進駐6+PLAZA - 獨家報導",
+      "url": "https://www.scooptw.com/local_news/480060/%e7%ab%b9%e5%8c%97%e5%ae%a4%e5%85%a7%e8%a6%aa%e5%ad%90%e6%a8%82%e5%9c%92%e6%96%b0%e9%96%8b%e5%b9%95%ef%bc%81%e8%bf%bd%e9%a2%a8%e5%a5%87%e5%b9%bb%e5%b3%b6%e3%80%8c%e5%8f%a2%e6%9e%97%e6%ad%b7%e9%9a%aa/",
+      "canonical_url": "https://www.scooptw.com/local_news/480060/%e7%ab%b9%e5%8c%97%e5%ae%a4%e5%85%a7%e8%a6%aa%e5%ad%90%e6%a8%82%e5%9c%92%e6%96%b0%e9%96%8b%e5%b9%95%ef%bc%81%e8%bf%bd%e9%a2%a8%e5%a5%87%e5%b9%bb%e5%b3%b6%e3%80%8c%e5%8f%a2%e6%9e%97%e6%ad%b7%e9%9a%aa",
+      "image_url": "https://www.scooptw.com/wp-content/uploads/h6.png",
+      "images": [
+        "https://www.scooptw.com/wp-content/uploads/h6.png",
+        "https://www.scooptw.com/wp-content/uploads/2026/05/FQftBoJjvhngtuOg2MAf.jpg",
+        "https://www.thehubnews.net/wp-content/uploads/2026/05/uNz2A956ri9182EwVu5M.jpg",
+        "https://www.thehubnews.net/wp-content/uploads/2026/05/meNc2uWAjSyCao1Wh8fI.jpg"
+      ],
+      "summary": "竹北室內親子樂園新開幕！追風奇幻島「叢林歷險記」進駐6+PLAZA - 獨家報導。生活中心／綜合報導 百坪沉浸式叢林主題登場，高鐵生活圈家庭雨天不再沒處去。每逢假日、寒暑假或颱風下雨天，許多竹北、新竹家長總會面臨同樣難題：「孩子精力旺盛，卻不知道能去哪裡放電？」隨著竹北高鐵生活圈家庭人口持續成長，室內親子景點需求也逐年增加。看準新竹地區親子娛樂市場需求，全台知名室內親子主題樂園品牌「追風奇幻島」正式進駐竹北6+PLAZA，推出全新主題館《叢林歷險記》，打造超過百坪的室內親子樂園，結合冒險探索、體能遊戲與沉浸式叢林場景，成為竹北室內景點、雨天親子景點的新選擇。《叢林歷險記》以「玩樂中學習、探索中成長」為核心概念，規劃蹦蹦雲彈跳區、梅花樁平衡挑戰、兒童攀岩牆與森林探寶等四大主題設施，讓孩子能在遊戲過程中訓練肢體協調、平衡感與專注力，同時享受沉浸式冒險體驗。創辦人宋雲飛：室內親子空間不只是遊樂場，更是孩子探索世界的起點 追風奇幻島創辦人宋雲飛表示，近年竹北高鐵特區家庭人口快速增加，家長對室內親子場域的需求也明顯提升，因此選擇在6+PLAZA打造全新主題館。",
+      "analysis": {
+        "overview": "竹北室內親子樂園新開幕！追風奇幻島「叢林歷險記」進駐6+PLAZA - 獨家報導。生活中心／綜合報導 百坪沉浸式叢林主題登場，高鐵生活圈家庭雨天不再沒處去。每逢假日、寒暑假或颱風下雨天，許多竹北、新竹家長總會面臨同樣難題：「孩子精力旺盛，卻不知道能去哪裡放電？」隨著竹北高鐵生活圈家庭人口持續成長，室內親子景點需求也逐年增加。看準新竹地區親子娛樂市場需求，全台知名室內親子主題樂園品牌「追風奇幻島」正式進駐竹北6+PLAZA，推出全新主題館《叢林歷險記》，打造超過百坪的室內親子樂園，結合冒險探索、體能遊戲與沉浸式叢林場",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "scooptw.com",
+      "tags": [
+        "室內",
+        "大自然",
+        "放電",
+        "好玩"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-05-26T20:24:00+00:00",
+      "collected_at": "2026-05-27T21:49:37.614900+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-money-udn-com-money-story-5635-9527337",
+      "title": "台南遠東香格里拉暑假專案登場　入住送親子樂園與古蹟門票 | 熱門亮點 | 商情 | 經濟日報",
+      "url": "https://money.udn.com/money/story/5635/9527337",
+      "canonical_url": "https://money.udn.com/money/story/5635/9527337",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/26/34984551.jpg&M=1&s=Y&x=0&y=0&sw=1000&sh=679&sl=W&fw=1050&exp=3600",
+      "images": [
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/26/34984551.jpg&M=1&s=Y&x=0&y=0&sw=1000&sh=679&sl=W&fw=1050&exp=3600",
+        "http://b.scorecardresearch.com/p?c1=2&c2=7390954&cv=2.0&cj=1",
+        "https://money.udn.com/SSI/fontello-edn/image/default_member_120.png",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/26/34984551.jpg&M=1&s=Y&x=0&y=0&sw=1000&sh=679&exp=3600",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/26/34984553.jpg&M=1&s=Y&x=0&y=0&sw=1000&sh=680&sl=W&fw=1050&exp=3600&exp=3600",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/26/34984555.jpg&M=1&s=Y&x=0&y=0&sw=1000&sh=724&sl=W&fw=1050&exp=3600&exp=3600",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/26/34984552.jpg&M=1&s=Y&x=0&y=0&sw=1000&sh=700&sl=W&fw=1050&exp=3600&exp=3600",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/26/34984554.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=870&sl=W&fw=1050&exp=3600&exp=3600"
+      ],
+      "summary": "台南遠東香格里拉暑假專案登場　入住送親子樂園與古蹟門票 | 熱門亮點 | 商情 | 經濟日報。打開 App 聯合報系著作權所有 © 2026 All Rights Reserved 太棒了！台南遠東香格里拉「夏日輕旅・兩天一夜」與「夏日慢旅・三天兩夜」雙住房專案，隨房贈送台南經典古蹟門票。遠東香格里拉/提供 #div-gpt-ad-1490165564310-0 iframe { margin:auto; display: block; } #div-gpt-ad-1490165564310-0 > div { margin: auto; display: block !important; } googletag.cmd.push(function() { googletag.display('div-gpt-ad-1490165564310-0'); }); 本文共950字 ', ' ', ' 00:00 2026/05/27 10:03:26 經濟日報 張傑 暑假腳步接近，許多家庭已開始規劃親子旅行行程。不同於以往需要長途奔波、趕行程的旅遊模式，今年台南遠東香格里拉飯店則以「城市輕度假」為概念，推出「夏日輕旅・兩天一夜」與「夏日慢旅・三天兩夜」雙住房專案，將親子樂園、台南古蹟、美食早餐與高空泳池一次整合，讓旅客不用離開市區，也能輕鬆享受充滿節奏感的夏日假期。",
+      "analysis": {
+        "overview": "台南遠東香格里拉暑假專案登場　入住送親子樂園與古蹟門票 | 熱門亮點 | 商情 | 經濟日報。打開 App 聯合報系著作權所有 © 2026 All Rights Reserved 太棒了！台南遠東香格里拉「夏日輕旅・兩天一夜」與「夏日慢旅・三天兩夜」雙住房專案，隨房贈送台南經典古蹟門票。遠東香格里拉/提供 #div-gpt-ad-1490165564310-0 iframe { margin:auto; display: block; } #div-gpt-ad-1490165564310-0 > div { m",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "money.udn.com",
+      "tags": [
+        "室內",
+        "放電",
+        "好玩"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-05-26T19:03:00+00:00",
+      "collected_at": "2026-05-27T21:49:38.604697+00:00",
+      "query": "台灣 親子飯店 親子樂園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmibefvx3lxte52qxzwruptdvy1nhhnvfn6yuv6rwzxu",
+      "title": "台南遠東香格里拉推雙住房專案，入住送樂園及熱門景點門票",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52QXZwRUpTdVY1NHhNVFN6YUV6RWZxUXp3dmYtckFHWGZmVTRUR2RxVFV1LXVaZ3JSLUgxZzY2WnhmaUFNblFtRjM2UmMtZG4yU25rTUNzSjFoRUZ0NnlpeWNlVWF3VUkzZXdPVQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52QXZwRUpTdVY1NHhNVFN6YUV6RWZxUXp3dmYtckFHWGZmVTRUR2RxVFV1LXVaZ3JSLUgxZzY2WnhmaUFNblFtRjM2UmMtZG4yU25rTUNzSjFoRUZ0NnlpeWNlVWF3VUkzZXdPVQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台南遠東香格里拉推雙住房專案，入住送樂園及熱門景點門票。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "台南遠東香格里拉推雙住房專案，入住送樂園及熱門景點門票。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "民安救護車",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-05-26T09:51:44+00:00",
+      "collected_at": "2026-05-27T21:49:39.231733+00:00",
+      "query": "台南 高雄 屏東 親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte1smwdhder3ympgevdoafq1nnbkufrco",
+      "title": "親子住房「森」級回歸 台北喜來登打造城市小旅人假期 全新主題房結合台灣動物、溜滑梯、遊戲室全日通一次滿足",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SMWdHdER3YmpGeVdOaFQ1NnBkUFRCOU1RUTR1dWV5VUVpczcxdjQtR0xYR0VSNjNhV2NCdUNQN3Z4YWljZHVlXzQxMkZpX29ETm1ZdHJR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SMWdHdER3YmpGeVdOaFQ1NnBkUFRCOU1RUTR1dWV5VUVpczcxdjQtR0xYR0VSNjNhV2NCdUNQN3Z4YWljZHVlXzQxMkZpX29ETm1ZdHJR?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "親子住房「森」級回歸 台北喜來登打造城市小旅人假期 全新主題房結合台灣動物、溜滑梯、遊戲室全日通一次滿足。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "親子住房「森」級回歸 台北喜來登打造城市小旅人假期 全新主題房結合台灣動物、溜滑梯、遊戲室全日通一次滿足。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "動物互動與自然觀察能提高孩子參與感。 遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。 假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
+        "tips": "出發前確認餵食、互動體驗與休園時間。 建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "Mombaby 媽媽寶寶懷孕生活網",
+      "tags": [
+        "看動物",
+        "放電",
+        "好玩"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-05-26T09:18:14+00:00",
+      "collected_at": "2026-05-27T21:49:39.830427+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte9pd3a1ywthbf8ydws0eghpcmxnbvrjs",
+      "title": "暑假親子旅行 台南遠東香格里拉推雙住房專案送樂園及景點門票",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pd3A1YWthbF8ydWs0eGhpcmxNbVRjSUVQd2pfcGt1enpLYWk0Z1VOZXU5TjdTdTdCVE1UazlnTHNRcDZreTBfZkVYSHBBM2RwVEE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pd3A1YWthbF8ydWs0eGhpcmxNbVRjSUVQd2pfcGt1enpLYWk0Z1VOZXU5TjdTdTdCVE1UazlnTHNRcDZreTBfZkVYSHBBM2RwVEE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "暑假親子旅行 台南遠東香格里拉推雙住房專案送樂園及景點門票。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "暑假親子旅行 台南遠東香格里拉推雙住房專案送樂園及景點門票。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-05-26T08:56:00+00:00",
+      "collected_at": "2026-05-27T21:49:40.412606+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte53nnbum2xnekfltuliadnfvkfnvze5w",
+      "title": "[台南遠東暑假親子遊送景點門票]",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53NnBUM2xnekFLTUliaDNFVkFnVzE5WjlMWV8zWUw2WXNuOFl0YmktT21fN24tX2lGeTlMT1c1enJSYlpzX0o0RDVUSEZBLU9yT3fSAVJBVV95cUxOdzZwVDNsZ3pBS01JYmgzRVZBZ1cxOVo5TFlfM1lMNllzbjhZdGJpLU9tXzduLV9pRnk5TE9XNXpyUmJac19KNEQ1VEhGQS1Pck93?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53NnBUM2xnekFLTUliaDNFVkFnVzE5WjlMWV8zWUw2WXNuOFl0YmktT21fN24tX2lGeTlMT1c1enJSYlpzX0o0RDVUSEZBLU9yT3fSAVJBVV95cUxOdzZwVDNsZ3pBS01JYmgzRVZBZ1cxOVo5TFlfM1lMNllzbjhZdGJpLU9tXzduLV9pRnk5TE9XNXpyUmJac19KNEQ1VEhGQS1Pck93?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "[台南遠東暑假親子遊送景點門票]。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "[台南遠東暑假親子遊送景點門票]。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "1111人力銀行",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-05-26T08:47:00+00:00",
+      "collected_at": "2026-05-27T21:49:41.102624+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiwefvx3lxte83bgxsemvzvjnrvhewrxvsc0f4vhjou",
+      "title": "#桃園約會景點#丸山咖啡#桃園繡球花#桃園景觀餐廳#桃園咖啡館#丸山咖啡繡球花#小紫吃喝玩樂趴趴go #多肉植物#鹿角蕨#花現台七#北橫景觀咖啡#寵物友善咖啡館#親子景點",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83bGxSemVzVjNrVHEwRXVsc0F4VHJOUk9YT2MwSDJjanRKOVo5TjNWWGgtYnpYNDdRZ1hITWc5SmhzeF8yNWl1dEhjcHBZLXNZV0s2dXFWb3E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83bGxSemVzVjNrVHEwRXVsc0F4VHJOUk9YT2MwSDJjanRKOVo5TjNWWGgtYnpYNDdRZ1hITWc5SmhzeF8yNWl1dEhjcHBZLXNZV0s2dXFWb3E?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "#桃園約會景點#丸山咖啡#桃園繡球花#桃園景觀餐廳#桃園咖啡館#丸山咖啡繡球花#小紫吃喝玩樂趴趴go #多肉植物#鹿角蕨#花現台七#北橫景觀咖啡#寵物友善咖啡館#親子景點。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "#桃園約會景點#丸山咖啡#桃園繡球花#桃園景觀餐廳#桃園咖啡館#丸山咖啡繡球花#小紫吃喝玩樂趴趴go #多肉植物#鹿角蕨#花現台七#北橫景觀咖啡#寵物友善咖啡館#親子景點。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "WalkerLand 窩客島",
+      "tags": [
+        "看動物",
+        "室內",
+        "大自然",
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-05-26T08:34:19+00:00",
+      "collected_at": "2026-05-27T21:49:41.706972+00:00",
+      "query": "台灣 親子餐廳 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte03y1u4vzbvywtxqv9dunbiztvrsznsn",
+      "title": "福壽山、武陵輸了！台灣最強農場「美景不輸國外、大人小孩玩整天」，狂吸18 萬遊客造訪",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03Y1U4VzBVYWtxQV9DUnBiZTVRSzNsN0YyX3BfdllYREd4U3I4UFBpRnZiQzU2STRwTlZqT0x6RWg3cUNuQmg5TEk2VlBtNVZ3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03Y1U4VzBVYWtxQV9DUnBiZTVRSzNsN0YyX3BfdllYREd4U3I4UFBpRnZiQzU2STRwTlZqT0x6RWg3cUNuQmg5TEk2VlBtNVZ3?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "福壽山、武陵輸了！台灣最強農場「美景不輸國外、大人小孩玩整天」，狂吸18 萬遊客造訪。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "福壽山、武陵輸了！台灣最強農場「美景不輸國外、大人小孩玩整天」，狂吸18 萬遊客造訪。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "動物互動與自然觀察能提高孩子參與感。",
+        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
+        "tips": "出發前確認餵食、互動體驗與休園時間。"
+      },
+      "source_name": "風傳媒",
+      "tags": [
+        "看動物",
+        "大自然"
+      ],
+      "reason": "有動物或自然觀察元素，孩子比較容易投入；出發前可先確認餵食、展區與洗手設施。",
+      "published_at": "2026-05-26T07:30:22+00:00",
+      "collected_at": "2026-05-27T21:49:42.326584+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfbrrhloywvnnfu0rju5ou1vavc4rgdmu",
+      "title": "親子樂園、古蹟免費玩！台南遠東香格里拉雙住房專案　放電放鬆皆滿足",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrRHloYWVNNFU0RjU5OU1vaVc4RGdmUGhCdGwyN0F5SWplUWVIdFl5c2ozbWhDNlR3WlpyUl9ucnlsaGZYZDFlZWlYTm9iSEJMTXfSAVdBVV95cUxNRWd4T2JRSFh4OGg2TGxIZG1PcHNuRE1nblpSQ0xKTlZkR1E4Ti1mQnNOalotY2NPTks0WnV4X01tSkNyY1NGY2dsbDctalFiMm5FcUg3S1E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrRHloYWVNNFU0RjU5OU1vaVc4RGdmUGhCdGwyN0F5SWplUWVIdFl5c2ozbWhDNlR3WlpyUl9ucnlsaGZYZDFlZWlYTm9iSEJMTXfSAVdBVV95cUxNRWd4T2JRSFh4OGg2TGxIZG1PcHNuRE1nblpSQ0xKTlZkR1E4Ti1mQnNOalotY2NPTks0WnV4X01tSkNyY1NGY2dsbDctalFiMm5FcUg3S1E?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "親子樂園、古蹟免費玩！台南遠東香格里拉雙住房專案　放電放鬆皆滿足。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "親子樂園、古蹟免費玩！台南遠東香格里拉雙住房專案　放電放鬆皆滿足。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "鏡新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-05-26T07:06:00+00:00",
+      "collected_at": "2026-05-27T21:49:42.984902+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiwkfvx3lxte4zuy0zmeo3wui5utyxchdon1bume12m",
+      "title": "住台南最高酒店免費玩親子樂園　五星飯店推1雞4吃還有火焰桌邊秀",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zUy0zMEo3WUI5UTYxcHdON1BUME12Mi11ekZJSTFuNHowLVRHZ3ptbTJVS0pjbVZ6azNWaHAxaWRQRHJYQXktZW1mbHhwV2otLTJYZ1BaOHFMQdIBbEFVX3lxTE5fVm42OXBYMXFYWkJYWnJwc0FEU0pJX3ZOUmNvY1EwbXRJSW9jd0ZXME1QeVFKLURQSVg1OWt1WlBzUVdoNzl3X3ZIQWpvVXg2d1RUaG12UUNmZEFraFlVSU45YkJlck9sMnptdQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zUy0zMEo3WUI5UTYxcHdON1BUME12Mi11ekZJSTFuNHowLVRHZ3ptbTJVS0pjbVZ6azNWaHAxaWRQRHJYQXktZW1mbHhwV2otLTJYZ1BaOHFMQdIBbEFVX3lxTE5fVm42OXBYMXFYWkJYWnJwc0FEU0pJX3ZOUmNvY1EwbXRJSW9jd0ZXME1QeVFKLURQSVg1OWt1WlBzUVdoNzl3X3ZIQWpvVXg2d1RUaG12UUNmZEFraFlVSU45YkJlck9sMnptdQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "住台南最高酒店免費玩親子樂園　五星飯店推1雞4吃還有火焰桌邊秀。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "住台南最高酒店免費玩親子樂園　五星飯店推1雞4吃還有火焰桌邊秀。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "ETtoday遊戲雲",
+      "tags": [
+        "室內",
+        "放電",
+        "好玩"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-05-26T04:13:00+00:00",
+      "collected_at": "2026-05-27T21:49:43.617321+00:00",
+      "query": "台灣 親子飯店 親子樂園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxtfbqbud6ukh0y3v1qnkxykvneuvgotexv",
+      "title": "九份、101輸了！台灣最強景點吸1220萬人，遊客讚交通方便、 全家玩整天不想走",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqbUd6Ukh0Y3V1QnkxYkVNeUVGOTExVHNDSFRlQVEyZGp4MFVRd2VPNnhRR05LRW45dlh6TE1GSXk3bWxEclg1elR0Y0xzT0o4?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqbUd6Ukh0Y3V1QnkxYkVNeUVGOTExVHNDSFRlQVEyZGp4MFVRd2VPNnhRR05LRW45dlh6TE1GSXk3bWxEclg1elR0Y0xzT0o4?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "九份、101輸了！台灣最強景點吸1220萬人，遊客讚交通方便、 全家玩整天不想走。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "九份、101輸了！台灣最強景點吸1220萬人，遊客讚交通方便、 全家玩整天不想走。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "風傳媒",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-05-26T03:20:49+00:00",
+      "collected_at": "2026-05-27T21:49:44.286035+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte96ngdyrkgxcmo0cmzfbngwd2vaa3vfs",
+      "title": "台南遠東香格里拉推雙住房專案 入住送樂園及熱門景點門票",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96NGdyRkgxcmo0cmZFbngwd2Vaa3VFSlRUYlRXLUdrLUFxMHFkYXV3dzRaVnllaDFJdUpwUHBwWGZZcFNDcHFtMWo4OGVSRnlhVUszWmhYTkxzb2tyZTM40gFfQVVfeXFMT3o0Z3JGSDFyajRyZkVueDB3ZVprdUVKVFRiVFctR2stQXEwcWRhdXd3NFpWeWVoMUl1SnBQcHBYZllwU0NwcW0xajg4ZVJGeWFVSzNaaFhOTHNva3JlMzg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96NGdyRkgxcmo0cmZFbngwd2Vaa3VFSlRUYlRXLUdrLUFxMHFkYXV3dzRaVnllaDFJdUpwUHBwWGZZcFNDcHFtMWo4OGVSRnlhVUszWmhYTkxzb2tyZTM40gFfQVVfeXFMT3o0Z3JGSDFyajRyZkVueDB3ZVprdUVKVFRiVFctR2stQXEwcWRhdXd3NFpWeWVoMUl1SnBQcHBYZllwU0NwcW0xajg4ZVJGeWFVSzNaaFhOTHNva3JlMzg?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台南遠東香格里拉推雙住房專案 入住送樂園及熱門景點門票。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "台南遠東香格里拉推雙住房專案 入住送樂園及熱門景點門票。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "經濟日報",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-05-26T01:50:57+00:00",
+      "collected_at": "2026-05-27T21:49:44.938191+00:00",
+      "query": "台灣 室內親子景點"
+    },
     {
       "id": "https-www-storm-mg-lifestyle-11135645",
       "title": "福壽山、武陵輸了！台灣最強農場「美景不輸國外、大人小孩玩整天」，狂吸18萬遊客造訪 | 梁珈瑄 | 風生活",
@@ -36,6 +587,93 @@
       "published_at": "2026-05-26T00:29:00+00:00",
       "collected_at": "2026-05-27T20:58:38.539531+00:00",
       "query": "台灣 動物農場 親子 景點"
+    },
+    {
+      "id": "https-travel-ettoday-net-article-3172204-htm",
+      "title": "住台南最高酒店免費玩親子樂園　五星飯店推1雞4吃還有火焰桌邊秀 | ETtoday旅遊雲 | ETtoday新聞雲",
+      "url": "https://travel.ettoday.net/article/3172204.htm",
+      "canonical_url": "https://travel.ettoday.net/article/3172204.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8757/e8757995.jpg",
+      "images": [
+        "https://cdn2.ettoday.net/images/8757/e8757995.jpg",
+        "https://cdn2.ettoday.net/images/8757/d8757995.jpg",
+        "https://cdn2.ettoday.net/images/8757/d8757994.jpg",
+        "https://cdn2.ettoday.net/images/8757/d8757993.jpg",
+        "https://cdn2.ettoday.net/images/8758/d8758001.jpg",
+        "https://cdn2.ettoday.net/images/8758/d8758003.jpg",
+        "https://cdn2.ettoday.net/images/8758/d8758002.jpg",
+        "https://www.ettoday.net/source/et_track.php7"
+      ],
+      "summary": "住台南最高酒店免費玩親子樂園　五星飯店推1雞4吃還有火焰桌邊秀 | ETtoday旅遊雲 | ETtoday新聞雲。▲台南遠東香格里拉推出夏日親子專案。（圖／業者提供，下同） 記者蔡玟君／綜合報導 隨著暑假旅遊旺季到來，台南遠東香格里拉推出「夏日輕旅・兩天一夜」與「夏日慢旅・三天兩夜」雙住房專案，結合室內親子主題樂園、台南古蹟景點、戶外泳池與府城特色早餐，打造不用舟車勞頓、就能輕鬆享受台南夏日的親子度假。▲入住就送「追風奇幻島－糖果小鎮」親子票。台南遠東香格里拉此次專案推出入住就送「追風奇幻島－糖果小鎮」親子票。樂園位於台南大遠百成功店4樓，步行即可抵達。園區以繽紛糖果為主題打造多項人氣遊樂設施，包括糖果迷宮、VR蹦床樂園、角色扮演家家酒區及沙池賽車等互動空間，讓孩子能在舒適冷氣空間中盡情玩樂。▲專案皆提供尊榮客房、家庭房及高樓層房型選擇。除了親子樂園體驗外，入住期間也可憑專案贈送的古蹟門票，自由安排台南古蹟巡禮。每位付費成人可獲得兩張古蹟門票，可從赤崁樓、億載金城、安平古堡及安平樹屋4大經典景點中任選兩處參訪。入住隔天則可於館內10樓「遠東Café」自助餐廳享受自助式早餐，包括現沖牛肉湯、鮮魚湯、擔仔麵、鹹豆漿與古早味杏仁茶等。",
+      "analysis": {
+        "overview": "住台南最高酒店免費玩親子樂園　五星飯店推1雞4吃還有火焰桌邊秀 | ETtoday旅遊雲 | ETtoday新聞雲。▲台南遠東香格里拉推出夏日親子專案。（圖／業者提供，下同） 記者蔡玟君／綜合報導 隨著暑假旅遊旺季到來，台南遠東香格里拉推出「夏日輕旅・兩天一夜」與「夏日慢旅・三天兩夜」雙住房專案，結合室內親子主題樂園、台南古蹟景點、戶外泳池與府城特色早餐，打造不用舟車勞頓、就能輕鬆享受台南夏日的親子度假。▲入住就送「追風奇幻島－糖果小鎮」親子票。台南遠東香格里拉此次專案推出入住就送「追風奇幻島－糖果小鎮」親子票。樂",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "travel.ettoday.net",
+      "tags": [
+        "看動物",
+        "室內",
+        "放電",
+        "好玩"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-05-25T21:13:00+00:00",
+      "collected_at": "2026-05-27T21:49:46.966869+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte80tulldlbnyjvcc0nmvlcxq0vqber1d",
+      "title": "別只去小人國、麗寶樂園！全台最強遊樂園吸154萬人次，遊客讚：設施非常豐富， 玩一整天也不夠",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80TUlldlBnYjVCc0NmVlcxQ0VqbER1dzdaVlIwQ0J5aVRKTldkRHBaODRVUjNFcVpxOERVWTZGdkpWM29CQnV6Zi1sbDdQeE5Z?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80TUlldlBnYjVCc0NmVlcxQ0VqbER1dzdaVlIwQ0J5aVRKTldkRHBaODRVUjNFcVpxOERVWTZGdkpWM29CQnV6Zi1sbDdQeE5Z?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "別只去小人國、麗寶樂園！全台最強遊樂園吸154萬人次，遊客讚：設施非常豐富， 玩一整天也不夠。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "別只去小人國、麗寶樂園！全台最強遊樂園吸154萬人次，遊客讚：設施非常豐富， 玩一整天也不夠。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "風傳媒",
+      "tags": [
+        "放電"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-05-25T08:00:00+00:00",
+      "collected_at": "2026-05-27T21:49:47.570350+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbminanbvv95cuxnrxhteelytkm4rvlqwelocmm1muxnd",
+      "title": "台灣旅遊｜10大主題樂園人氣榜單 戶外室內一應俱全 親子好去處",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNRXhTeElYTkM4RVlqWElocmM1MUxndFBXdWhMNF9yM2lZMlpTTVJST3JndEU0aHBCWkNpVmhteXNfWnJINGRablBZT0hSS1JYb3lySWphVGtVVktZeGp0MEJZaFlfNmF6M2xEWWEzM2IyVFZIb1B0dTVyeVBHeFNRRkZXQm5nZ0FjakpJMElhT2E4NndReUJYdGprOUJRd0NTZjB5VXRLdlM2c2l3WFIwVUhmdlFucGdjUUlpaEFqcmt2aHp3RXhTSVJVUXNBNzV1a2IyVUxNZXpGWEg1ZW91TnY2MUVLc1cyUXlIMVZLVnJqNDI2U240MEpOZjdSQk42a1hORE42eEtFSWRrVDZFdFU3MkdUSHkyejBHd2xyelZ5WEpQaFZfSlVicVAtRHN5bkdKUnNVME5xRldFLU10eDBEQkZMTU5LYnJ5X25UNVhueThUNHRCbGNnYUFEOTRQZ3NyNzZYWWc4U2xnMFRhLVZ2TS1IZnNjWVFRWVJ6djlDdG1IRW5rU0VGNTBNRXMwbTF1NXk4SFRsdktX?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNRXhTeElYTkM4RVlqWElocmM1MUxndFBXdWhMNF9yM2lZMlpTTVJST3JndEU0aHBCWkNpVmhteXNfWnJINGRablBZT0hSS1JYb3lySWphVGtVVktZeGp0MEJZaFlfNmF6M2xEWWEzM2IyVFZIb1B0dTVyeVBHeFNRRkZXQm5nZ0FjakpJMElhT2E4NndReUJYdGprOUJRd0NTZjB5VXRLdlM2c2l3WFIwVUhmdlFucGdjUUlpaEFqcmt2aHp3RXhTSVJVUXNBNzV1a2IyVUxNZXpGWEg1ZW91TnY2MUVLc1cyUXlIMVZLVnJqNDI2U240MEpOZjdSQk42a1hORE42eEtFSWRrVDZFdFU3MkdUSHkyejBHd2xyelZ5WEpQaFZfSlVicVAtRHN5bkdKUnNVME5xRldFLU10eDBEQkZMTU5LYnJ5X25UNVhueThUNHRCbGNnYUFEOTRQZ3NyNzZYWWc4U2xnMFRhLVZ2TS1IZnNjWVFRWVJ6djlDdG1IRW5rU0VGNTBNRXMwbTF1NXk4SFRsdktX?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台灣旅遊｜10大主題樂園人氣榜單 戶外室內一應俱全 親子好去處。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "台灣旅遊｜10大主題樂園人氣榜單 戶外室內一應俱全 親子好去處。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "香港01",
+      "tags": [
+        "室內",
+        "放電",
+        "好玩"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-05-25T07:12:23+00:00",
+      "collected_at": "2026-05-27T21:49:48.158646+00:00",
+      "query": "台灣 親子景點 最新"
     },
     {
       "id": "https-tw-news-yahoo-com-e7-9c-81-e4-b8-8b-e9-96-80-e7-a5-a8-e5-90-83-e5-a4-a7-e9",
@@ -105,6 +743,31 @@
       "query": "台灣 遊樂園 親子 最新"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmiugnbvv95cuxnammzwerzqjzhwvb5t0vtowl5d3vqc",
+      "title": "城隍廟、內灣老街都輸了！網友推薦新竹景點排名Top10，冠軍親子必去設施多",
+      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNamMzWERzQjZhWVB5T0VTOWl5d3VQcWc4QjRYSF9KdDFQTWl0TzVTbjYtV3BjcUpSNndIbmhuMlVUZlMxSURralJ5RmJiMHZQUTNvRHNYR0FfUF9uZzdxY2lPQ1RHeG45QzZNM2d5VVQ4aGtMVW1ZbWI2a1NEZl9RcXlUNWRrS1BPdklaMVFud0tKcG5QSkFBWElIQVlTS1ZXN1pteFNzQ2NrcjdSMS1WUDNzc1haR05rcjZKY0piWTVGTXdhbFlLQ0NOMVBfS3FXcU5LZUdLaDh6b0JkcjNyRlZndkdTdlRnUzZkVk9vSmVsak1rZ05lQy1pZHVfbkRVQlpyQklvbzRJQWduOHhHbWR3TkJBZ1ZkLWR4NElaRndxTEJRSjl6TFNwbUJvU0lBajhCTk5JNnFZOVNPbVpIazYtbTRoQUpUZFE5b1JRVl9rOGJOUjJ1dHBMVHlpZDVfSl8yRUw3WFVFaUpqYk5zOXgzaXh6YlFYVERMSlpkLVpqUlhMUGczdjVPdHdoS3c3TjByUUJHUlk4d3BKc2NFdUd1RWlkXzBtMXVlN0dwYVRJdzhjQWZrU2tB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNamMzWERzQjZhWVB5T0VTOWl5d3VQcWc4QjRYSF9KdDFQTWl0TzVTbjYtV3BjcUpSNndIbmhuMlVUZlMxSURralJ5RmJiMHZQUTNvRHNYR0FfUF9uZzdxY2lPQ1RHeG45QzZNM2d5VVQ4aGtMVW1ZbWI2a1NEZl9RcXlUNWRrS1BPdklaMVFud0tKcG5QSkFBWElIQVlTS1ZXN1pteFNzQ2NrcjdSMS1WUDNzc1haR05rcjZKY0piWTVGTXdhbFlLQ0NOMVBfS3FXcU5LZUdLaDh6b0JkcjNyRlZndkdTdlRnUzZkVk9vSmVsak1rZ05lQy1pZHVfbkRVQlpyQklvbzRJQWduOHhHbWR3TkJBZ1ZkLWR4NElaRndxTEJRSjl6TFNwbUJvU0lBajhCTk5JNnFZOVNPbVpIazYtbTRoQUpUZFE5b1JRVl9rOGJOUjJ1dHBMVHlpZDVfSl8yRUw3WFVFaUpqYk5zOXgzaXh6YlFYVERMSlpkLVpqUlhMUGczdjVPdHdoS3c3TjByUUJHUlk4d3BKc2NFdUd1RWlkXzBtMXVlN0dwYVRJdzhjQWZrU2tB?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "城隍廟、內灣老街都輸了！網友推薦新竹景點排名Top10，冠軍親子必去設施多。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "城隍廟、內灣老街都輸了！網友推薦新竹景點排名Top10，冠軍親子必去設施多。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-05-25T00:04:02+00:00",
+      "collected_at": "2026-05-27T21:49:48.807181+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
       "id": "https-tw-news-yahoo-com-e5-9f-8e-e9-9a-8d-e5-bb-9f-e5-85-a7-e7-81-a3-e8-80-81-e8",
       "title": "城隍廟、內灣老街都輸了！網友推薦新竹景點排名Top10，冠軍親子必去設施多",
       "url": "https://tw.news.yahoo.com/%E5%9F%8E%E9%9A%8D%E5%BB%9F-%E5%85%A7%E7%81%A3%E8%80%81%E8%A1%97%E9%83%BD%E8%BC%B8%E4%BA%86-%E7%B6%B2%E5%8F%8B%E6%8E%A8%E8%96%A6%E6%96%B0%E7%AB%B9%E6%99%AF%E9%BB%9E%E6%8E%92%E5%90%8Dtop10-%E5%86%A0%E8%BB%8D%E8%A6%AA%E5%AD%90%E5%BF%85%E5%8E%BB%E8%A8%AD%E6%96%BD%E5%A4%9A-000000364.html",
@@ -135,6 +798,31 @@
       "reason": "新竹親子景點排名冠軍，設施完善多元，適合帶小孩盡情放電玩耍",
       "published_at": "2026-05-24T17:00:00+00:00",
       "collected_at": "2026-05-25T12:06:05.966458+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte9yvk1uneo1skr1v1b3r1ziy1pnwm1td",
+      "title": "中台灣有新景點！遊客讚「設施豐富特色、交通方便吃美食」， 全家玩到不想走",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YVk1uNEo1SkR1V1B3R1ZiY1pNWm1TdlhRTmZEdTc4eFU1SWwzVHJNQnI5WnFvNlY2YlBhV0RfUlBKNHZCaVp4LWxJSUVyWURU?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YVk1uNEo1SkR1V1B3R1ZiY1pNWm1TdlhRTmZEdTc4eFU1SWwzVHJNQnI5WnFvNlY2YlBhV0RfUlBKNHZCaVp4LWxJSUVyWURU?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "中台灣有新景點！遊客讚「設施豐富特色、交通方便吃美食」， 全家玩到不想走。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "中台灣有新景點！遊客讚「設施豐富特色、交通方便吃美食」， 全家玩到不想走。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "風傳媒",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-05-24T08:40:02+00:00",
+      "collected_at": "2026-05-27T21:49:49.385515+00:00",
       "query": "台灣 親子旅遊 景點 公園"
     },
     {
@@ -171,806 +859,6 @@
       "published_at": "2026-05-24T01:41:00+00:00",
       "collected_at": "2026-05-25T12:06:09.901973+00:00",
       "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-www-storm-mg-lifestyle-11134745",
-      "title": "北部要有新景點了！「免費設施豐富、交通很方便」今年就登場，全家大小都能玩 | 蔡惠芯 | 風生活",
-      "url": "https://www.storm.mg/lifestyle/11134745",
-      "canonical_url": "https://www.storm.mg/lifestyle/11134745",
-      "image_url": "https://images.storm.mg/cloud/bdaefda5bf76b89e13c542ff8c63ee732e3ed7e0.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2156646%2FVKvE1SG7a1Zua9JFl38PNU5FnMFmuVs4kNoWa9YW.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
-      "images": [
-        "https://images.storm.mg/cloud/bdaefda5bf76b89e13c542ff8c63ee732e3ed7e0.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2156646%2FVKvE1SG7a1Zua9JFl38PNU5FnMFmuVs4kNoWa9YW.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
-        "https://images.storm.mg/webSiteSetting/13/HiDCWacecnqhKNXuGKkKhXQBPz5nFF6dEczk9ZbU.png",
-        "https://images.storm.mg/cloud/bdaefda5bf76b89e13c542ff8c63ee732e3ed7e0.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2156646%2FVKvE1SG7a1Zua9JFl38PNU5FnMFmuVs4kNoWa9YW.jpg&g=sm&h=675&resize=fill&w=1200&format=webp",
-        "https://www.storm.mg/img/article-default-cover.jpg",
-        "https://images.storm.mg/cloud/71d72107494275eacfe0884c237f27fbdf7d8562.webp?url=https%3A%2F%2Fimage.cache.storm.mg%2Fstyles%2Fsmg-150x150-fp%2Fs3%2Fdefault_images%2Fdefault_author_1.png%3Fitok%3DwlNRUDRB&g=sm&h=144&resize=fill&w=144",
-        "https://images.storm.mg/cloud/9f40cf946b20fb79f191cdcaae50b54cf0cab41e.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2068750%2FihYnY1tuAmuvMCdbwqQ6Q6HrrwborpIZYGxHVdqg.jpg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/d7c64dbf9666c1c56c56a35c1dc31d90537493ce.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2146362%2FT5XJbCiMqcoUFUGI6IM0W4I9Awr5zywFrO7oMx9g.png&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/5b21861c3610a510d96318a819f5d74f6c690266.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1925627%2F20240707-041231_U25889_M967495_6fa2.jpg&g=sm&h=400&resize=fill&w=400"
-      ],
-      "summary": "北部要有新景點了！「免費設施豐富、交通很方便」今年就登場，全家大小都能玩 | 蔡惠芯 | 風生活。老台北沼澤地即將大變身，成為下半年最狂的親子放電天堂！位於台北萬華「華中河濱公園（華中露營場旁）」的全新地景遊戲場——「加蚋仔沙洲遊戲區」已正式宣告開工， 預計於 2026 年下半年完工登場。這座耗資活化的全新特色公園，巧妙將南萬華在地的平埔族沼澤歷史與百年「加蚋仔三寶」文化融入設計，打造出全台首創的巨大歪腰麻竹筍溜滑梯、豆芽菜立體攀爬架及茉莉香花園，勢必在雙北爸媽圈掀起一波假日朝聖熱潮。許多人聽到「加蚋仔（讀音：ㄐㄧㄚ ㄌㄚˋ ㄗˇ）」難免感到陌生，其實這裡指的正是現今的南萬華地區，名稱源自平埔族凱達格蘭族語「gara」的音譯，意指「沼澤地」。早期此處因位處新店溪與大漢溪交會處，肥沃的沖積土壤孕育出聞名全台的「在地三寶」：茉莉花、麻竹筍與豆芽菜。為了不讓這段珍貴的生活記憶被遺忘，台北市水利處特別活化原本的河濱空地，將曾經的沼澤地貌與現代景觀建築結合，更導入了綠色生態的「雨水花園」設計。未來這裡不只是一座功能完整的遊樂場，更是一處能讓孩子一邊玩樂、一邊用身體感官探索老台北歷史的沉浸式地景空間。",
-      "analysis": {
-        "overview": "北部要有新景點了！「免費設施豐富、交通很方便」今年就登場，全家大小都能玩 | 蔡惠芯 | 風生活。老台北沼澤地即將大變身，成為下半年最狂的親子放電天堂！位於台北萬華「華中河濱公園（華中露營場旁）」的全新地景遊戲場——「加蚋仔沙洲遊戲區」已正式宣告開工， 預計於 2026 年下半年完工登場。這座耗資活化的全新特色公園，巧妙將南萬華在地的平埔族沼澤歷史與百年「加蚋仔三寶」文化融入設計，打造出全台首創的巨大歪腰麻竹筍溜滑梯、豆芽菜立體攀爬架及茉莉香花園，勢必在雙北爸媽圈掀起一波假日朝聖熱潮。許多人聽到「加蚋仔（讀音：ㄐㄧ",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "storm.mg",
-      "tags": [
-        "放電",
-        "大自然"
-      ],
-      "reason": "河濱免費公園交通方便，有巨大溜滑梯與攀爬架讓孩子盡情放電，且融合歷史文化的地景設計兼具教育意義。",
-      "published_at": "2026-05-23T18:46:00+00:00",
-      "collected_at": "2026-05-24T08:04:09.169798+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-n-yam-com-article-20260521939582",
-      "title": "嘉義新港向日葵花海爆紅　親子慢旅掀打卡熱潮 | 蕃新聞",
-      "url": "https://n.yam.com/Article/20260521939582",
-      "canonical_url": "https://n.yam.com/Article/20260521939582",
-      "image_url": "https://ni.yam.com/20260521/3c9cb696a305cc265fe900daec404de9-4b448d8730d70040.jpg",
-      "images": [
-        "https://ni.yam.com/20260521/3c9cb696a305cc265fe900daec404de9-4b448d8730d70040.jpg",
-        "https://img.hoomedia.com.tw/2026/05/3c9cb696a305cc265fe900daec404de9.jpg",
-        "https://img.hoomedia.com.tw/2026/05/3df2fe3a6b9f3858ece133571a280819.jpg",
-        "https://ni.yam.com/20260521/583c0134-3182-490e-9755-e7edb917b6bc-1024x767-95bf8c93b7fe48d8.jpg",
-        "https://ni.yam.com/20260521/d283f3819d980a8f596689786b557984_l-bfb3bc280d7cc358.jpg",
-        "https://ni.yam.com/20260521/20260521165829-8ded635de0394692.jpg",
-        "https://ni.yam.com/20260521/20260521170224-15f8079faab252ae.jpg",
-        "https://ni.yam.com/20260521/0db695a0-e1ac-4d47-906f-84529297e458-267b168f009a9e5b.png"
-      ],
-      "summary": "嘉義新港向日葵花海爆紅　親子慢旅掀打卡熱潮 | 蕃新聞。【互傳媒／記者 張學宜／嘉義 報導】由嘉義縣文化觀光局推薦的夏日親子小旅行，近期在新港鄉掀起話題，隨著向日葵陸續盛開，金黃色花海與翠綠稻浪交織成迷人景致，再搭配色彩繽紛的馬賽克藝術牆與童趣造景，吸引不少親子家庭與旅人前往賞花、拍照打卡。▲新港鄉海賊庄休閒農場打造超過500萬片馬賽克拼貼藝術牆，色彩鮮豔吸睛。新港不僅保有純樸農村風貌，更融合傳統工藝文化與在地生活特色，非常適合規劃親子「慢旅行」。旅客可漫步於花田與稻浪之間，遠離城市喧囂，感受鄉間悠閒氛圍，也能透過多元農村體驗，讓孩子親近土地、認識傳統文化，留下難忘回憶。新港鄉海賊庄休閒農場打造超過500萬片馬賽克拼貼藝術牆，色彩鮮豔吸睛，搭配一旁盛開的向日葵花田，形成期間限定的夢幻畫面。除了賞景拍照，園區也規劃多項適合親子同樂的DIY體驗，包括手作披薩DIY、花磚陶板彩繪、馬賽克拼貼DIY，以及空氣鳳梨、水草坪景觀盆栽等課程，讓大小朋友都能盡情發揮創意。深受親子旅客喜愛的板陶窯交趾剪黏工藝園區，以充滿童話感的馬賽克城堡及巨大貓咪車站，成為熱門拍照景點。",
-      "analysis": {
-        "overview": "嘉義新港向日葵花海爆紅　親子慢旅掀打卡熱潮 | 蕃新聞。【互傳媒／記者 張學宜／嘉義 報導】由嘉義縣文化觀光局推薦的夏日親子小旅行，近期在新港鄉掀起話題，隨著向日葵陸續盛開，金黃色花海與翠綠稻浪交織成迷人景致，再搭配色彩繽紛的馬賽克藝術牆與童趣造景，吸引不少親子家庭與旅人前往賞花、拍照打卡。▲新港鄉海賊庄休閒農場打造超過500萬片馬賽克拼貼藝術牆，色彩鮮豔吸睛。新港不僅保有純樸農村風貌，更融合傳統工藝文化與在地生活特色，非常適合規劃親子「慢旅行」。旅客可漫步於花田與稻浪之間，遠離城市喧囂，感受鄉間悠閒氛圍，也能透過",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 室內活動比較不受天氣影響，適合當雨天或高溫備案。 動物互動與自然觀察能提高孩子參與感。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 熱門時段可能人多，互動設施也可能需要排隊。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 可先預約或確認場次，並安排附近用餐點。 出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "n.yam.com",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "園區有馬賽克城堡與DIY手作體驗，孩子可以盡情發揮創意消耗體力；搭配期間限定的向日葵花海與寬廣田園，兼具打卡美拍與親近自然。",
-      "published_at": "2026-05-21T02:57:00+00:00",
-      "collected_at": "2026-05-23T07:44:20.600167+00:00",
-      "query": "台灣 特色景點 親子 打卡"
-    },
-    {
-      "id": "https-tw-news-yahoo-com-e5-98-89-e7-be-a9-e6-96-b0-e6-b8-af-e5-90-91-e6-97-a5-e8",
-      "title": "嘉義新港向日葵花海爆紅 親子慢旅掀打卡熱潮",
-      "url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E6%96%B0%E6%B8%AF%E5%90%91%E6%97%A5%E8%91%B5%E8%8A%B1%E6%B5%B7%E7%88%86%E7%B4%85-%E8%A6%AA%E5%AD%90%E6%85%A2%E6%97%85%E6%8E%80%E6%89%93%E5%8D%A1%E7%86%B1%E6%BD%AE-090414944.html",
-      "canonical_url": "https://tw.news.yahoo.com/%E5%98%89%E7%BE%A9%E6%96%B0%E6%B8%AF%E5%90%91%E6%97%A5%E8%91%B5%E8%8A%B1%E6%B5%B7%E7%88%86%E7%B4%85-%E8%A6%AA%E5%AD%90%E6%85%A2%E6%97%85%E6%8E%80%E6%89%93%E5%8D%A1%E7%86%B1%E6%BD%AE-090414944.html",
-      "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "嘉義新港向日葵花海爆紅 親子慢旅掀打卡熱潮。開，金黃色花海與翠綠稻浪交織成迷人景致，再搭配色彩繽紛的馬賽克藝術牆與童趣造景，吸引不少親子家庭與旅人前往賞花、拍照打卡。▲新港鄉海賊庄休閒農場打造超過500萬片馬賽克拼貼藝術牆，色彩鮮豔吸睛。",
-      "analysis": {
-        "overview": "嘉義新港向日葵花海爆紅 親子慢旅掀打卡熱潮。開，金黃色花海與翠綠稻浪交織成迷人景致，再搭配色彩繽紛的馬賽克藝術牆與童趣造景，吸引不少親子家庭與旅人前往賞花、拍照打卡。▲新港鄉海賊庄休閒農場打造超過500萬片馬賽克拼貼藝術牆，色彩鮮豔吸睛。",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 室內活動比較不受天氣影響，適合當雨天或高溫備案。 動物互動與自然觀察能提高孩子參與感。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 熱門時段可能人多，互動設施也可能需要排隊。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 可先預約或確認場次，並安排附近用餐點。 出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "tw.news.yahoo.com",
-      "tags": [
-        "看動物",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-05-21T02:29:00+00:00",
-      "collected_at": "2026-05-22T17:07:16.015821+00:00",
-      "query": "台灣 特色景點 親子 打卡"
-    },
-    {
-      "id": "https-tw-news-yahoo-com-e5-8f-b0-e5-8c-97-e9-9b-a8-e5-a4-a9-e3-80-8c-e5-ae-a4-e5",
-      "title": "台北雨天「室內行程」10盤點！不用花大錢就能從早逛到晚",
-      "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E9%9B%A8%E5%A4%A9%E3%80%8C%E5%AE%A4%E5%85%A7%E8%A1%8C%E7%A8%8B%E3%80%8D10%E7%9B%A4%E9%BB%9E%EF%BC%81%E4%B8%8D%E7%94%A8%E8%8A%B1%E5%A4%A7%E9%8C%A2%E5%B0%B1%E8%83%BD%E5%BE%9E%E6%97%A9%E9%80%9B%E5%88%B0%E6%99%9A-021300706.html",
-      "canonical_url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E9%9B%A8%E5%A4%A9%E3%80%8C%E5%AE%A4%E5%85%A7%E8%A1%8C%E7%A8%8B%E3%80%8D10%E7%9B%A4%E9%BB%9E%EF%BC%81%E4%B8%8D%E7%94%A8%E8%8A%B1%E5%A4%A7%E9%8C%A2%E5%B0%B1%E8%83%BD%E5%BE%9E%E6%97%A9%E9%80%9B%E5%88%B0%E6%99%9A-021300706.html",
-      "image_url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "台北雨天「室內行程」10盤點！不用花大錢就能從早逛到晚。除了諸多不便，也恐會遇到因為大雨而沒有開放的窘境。本篇我們盤點了10個位於台北的室內行程，如果遇到颱風或是豔陽不必怕無聊，走訪這些景點就對了！台北室內行程推薦：國立故宮博物院 Source: 國立故宮博物院@I ...",
-      "analysis": {
-        "overview": "台北雨天「室內行程」10盤點！不用花大錢就能從早逛到晚。除了諸多不便，也恐會遇到因為大雨而沒有開放的窘境。本篇我們盤點了10個位於台北的室內行程，如果遇到颱風或是豔陽不必怕無聊，走訪這些景點就對了！台北室內行程推薦：國立故宮博物院 Source: 國立故宮博物院@I ...",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。"
-      },
-      "source_name": "tw.news.yahoo.com",
-      "tags": [
-        "室內",
-        "好玩"
-      ],
-      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
-      "published_at": "2026-05-17T19:24:00+00:00",
-      "collected_at": "2026-05-22T17:07:16.279425+00:00",
-      "query": "台灣 雨天 親子 室內 景點"
-    },
-    {
-      "id": "https-www-storm-mg-lifestyle-11132214",
-      "title": "台灣有新觀光景點開幕！遊客爆滿讚「免費設施豐富、交通方便」，全家大小玩到不想走 | 梁珈瑄 | 風生活",
-      "url": "https://www.storm.mg/lifestyle/11132214",
-      "canonical_url": "https://www.storm.mg/lifestyle/11132214",
-      "image_url": "https://images.storm.mg/cloud/e2b3d68bf3ee9bf325cc364e6cb68f300ed755ce.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1902128%2F20240418-041507_U28513_M947647_ada7.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
-      "images": [
-        "https://images.storm.mg/cloud/e2b3d68bf3ee9bf325cc364e6cb68f300ed755ce.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1902128%2F20240418-041507_U28513_M947647_ada7.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
-        "https://images.storm.mg/webSiteSetting/13/HiDCWacecnqhKNXuGKkKhXQBPz5nFF6dEczk9ZbU.png",
-        "https://images.storm.mg/cloud/e2b3d68bf3ee9bf325cc364e6cb68f300ed755ce.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1902128%2F20240418-041507_U28513_M947647_ada7.jpg&g=sm&h=675&resize=fill&w=1200&format=webp",
-        "https://www.storm.mg/img/article-default-cover.jpg",
-        "https://images.storm.mg/cloud/747d01baaa49c1a8fe26945747383492b2f048ba.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2065311%2FpebpNmXX4Yph5hEDeLykqc2iUTVeLjaz1YNt93to.jpg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/f7c4760bddc12dd5fe0bca3c3281faa4851528cf.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2152946%2Frvq5DLHHex3YsrwApEPNc4Z1GknxVMGZe7PPlqpm.jpg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/896d349f0df115953c20cae265538d73f5a28ee4.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2153374%2Fy5MbI26LINFZ6aizn05SAICZEz3YikMPehkwdxWy.png&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/09dab6f06484e601e86e3d9eaaa8754125eda0ae.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1628191%2F20240223-115203_U16224_M934442_4242.jpg&g=sm&h=400&resize=fill&w=400"
-      ],
-      "summary": "台灣有新觀光景點開幕！遊客爆滿讚「免費設施豐富、交通方便」，全家大小玩到不想走 | 梁珈瑄 | 風生活。台中最新親子景點「谷溜遊戲場」才剛啟用，就立刻掀起朝聖熱潮，位於清水鰲峰山公園、主打34道溜滑梯的超大型遊戲場，開放後瞬間吸引大量親子家庭湧入，假日單日人潮甚至突破千人。不過，爆滿人流也讓周邊交通與停車問題全面失控，不少民眾違停遭開罰，警方單日更開出超過百張違規停車罰單，引發不少抱怨聲浪。對此，台中市府緊急推出「停車攻略地圖」，希望協助遊客快速找到合法車位，避免開心出遊最後卻收到紅單。由台中市建設局打造的「谷溜遊戲場」，號稱擁有全台最多溜滑梯設施，結合鰲峰山原有高低地形，規劃出大型山坡共融式遊戲空間，其中34道不同造型與長度的溜滑梯成為最大亮點，也讓園區在社群平台迅速爆紅。然而，人氣來得太快，周邊停車容量卻明顯不足。上週末大量民眾開車前往，導致周邊道路塞爆，違規停車情況頻傳，警方也加強取締，短短一天就開出上百張違停罰單，不少家長因此掃興而歸。面對停車亂象，市府緊急啟動跨局處協調，由建設局、交通局、警察局以及清水區公所共同盤點周邊交通動線與停車空間，同時重新調整導引措施，並製作「停車指南地圖」，方便民眾提前掌握停車位置。",
-      "analysis": {
-        "overview": "台灣有新觀光景點開幕！遊客爆滿讚「免費設施豐富、交通方便」，全家大小玩到不想走 | 梁珈瑄 | 風生活。台中最新親子景點「谷溜遊戲場」才剛啟用，就立刻掀起朝聖熱潮，位於清水鰲峰山公園、主打34道溜滑梯的超大型遊戲場，開放後瞬間吸引大量親子家庭湧入，假日單日人潮甚至突破千人。不過，爆滿人流也讓周邊交通與停車問題全面失控，不少民眾違停遭開罰，警方單日更開出超過百張違規停車罰單，引發不少抱怨聲浪。對此，台中市府緊急推出「停車攻略地圖」，希望協助遊客快速找到合法車位，避免開心出遊最後卻收到紅單。由台中市建設局打造的「谷溜遊",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "storm.mg",
-      "tags": [
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-05-15T21:10:00+00:00",
-      "collected_at": "2026-05-22T17:07:16.647962+00:00",
-      "query": "台灣 親子景點 近兩週"
-    },
-    {
-      "id": "https-tw-news-yahoo-com-34-e9-81-93-e6-ba-9c-e6-bb-91-e6-a2-af-e5-85-a8-e5-8f-b0",
-      "title": "34道溜滑梯全台最多！台中鰲峰山「谷溜遊戲場」最新親子景點玩翻天",
-      "url": "https://tw.news.yahoo.com/34%E9%81%93%E6%BA%9C%E6%BB%91%E6%A2%AF%E5%85%A8%E5%8F%B0%E6%9C%80%E5%A4%9A%EF%BC%81%E5%8F%B0%E4%B8%AD%E9%B0%B2%E5%B3%B0%E5%B1%B1%E3%80%8C%E8%B0%B7%E6%BA%9C%E9%81%8A%E6%88%B2%E5%A0%B4%E3%80%8D%E6%9C%80%E6%96%B0%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E7%8E%A9%E7%BF%BB%E5%A4%A9-145010116.html",
-      "canonical_url": "https://tw.news.yahoo.com/34%E9%81%93%E6%BA%9C%E6%BB%91%E6%A2%AF%E5%85%A8%E5%8F%B0%E6%9C%80%E5%A4%9A%EF%BC%81%E5%8F%B0%E4%B8%AD%E9%B0%B2%E5%B3%B0%E5%B1%B1%E3%80%8C%E8%B0%B7%E6%BA%9C%E9%81%8A%E6%88%B2%E5%A0%B4%E3%80%8D%E6%9C%80%E6%96%B0%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E7%8E%A9%E7%BF%BB%E5%A4%A9-145010116.html",
-      "image_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "34道溜滑梯全台最多！台中鰲峰山「谷溜遊戲場」最新親子景點玩翻天。台中市清水區 鰲峰山公園 全新「谷溜遊戲場」啟用後人氣持續爆棚，這裡有全國最多、共34道特色滑道設施，不僅創下全國單一遊戲場滑道數量新紀錄，還有首創的互動式音效排笛滑梯，更迅速成為全台親子遊憩新亮點，可說是溜滑梯控的天堂！",
-      "analysis": {
-        "overview": "34道溜滑梯全台最多！台中鰲峰山「谷溜遊戲場」最新親子景點玩翻天。台中市清水區 鰲峰山公園 全新「谷溜遊戲場」啟用後人氣持續爆棚，這裡有全國最多、共34道特色滑道設施，不僅創下全國單一遊戲場滑道數量新紀錄，還有首創的互動式音效排笛滑梯，更迅速成為全台親子遊憩新亮點，可說是溜滑梯控的天堂！",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "tw.news.yahoo.com",
-      "tags": [
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-05-12T08:02:00+00:00",
-      "collected_at": "2026-05-22T17:07:16.908793+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-tw-news-yahoo-com-e9-ba-97-e5-af-b6-e6-a8-82-e5-9c-92-e7-be-8e-e6-a8-82-e5",
-      "title": "麗寶樂園美樂地親子農場賣「萌」，5月媽媽免費入園 還有新亮點──彩虹滑草區無限暢玩！",
-      "url": "https://tw.news.yahoo.com/%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E7%BE%8E%E6%A8%82%E5%9C%B0%E8%A6%AA%E5%AD%90%E8%BE%B2%E5%A0%B4%E8%B3%A3-%E8%90%8C-5%E6%9C%88%E5%AA%BD%E5%AA%BD%E5%85%8D%E8%B2%BB%E5%85%A5%E5%9C%92-%E9%82%84%E6%9C%89%E6%96%B0%E4%BA%AE%E9%BB%9E-%E5%BD%A9%E8%99%B9%E6%BB%91%E8%8D%89%E5%8D%80%E7%84%A1%E9%99%90%E6%9A%A2%E7%8E%A9-020500236.html",
-      "canonical_url": "https://tw.news.yahoo.com/%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92%E7%BE%8E%E6%A8%82%E5%9C%B0%E8%A6%AA%E5%AD%90%E8%BE%B2%E5%A0%B4%E8%B3%A3-%E8%90%8C-5%E6%9C%88%E5%AA%BD%E5%AA%BD%E5%85%8D%E8%B2%BB%E5%85%A5%E5%9C%92-%E9%82%84%E6%9C%89%E6%96%B0%E4%BA%AE%E9%BB%9E-%E5%BD%A9%E8%99%B9%E6%BB%91%E8%8D%89%E5%8D%80%E7%84%A1%E9%99%90%E6%9A%A2%E7%8E%A9-020500236.html",
-      "image_url": "https://s.yimg.com/os/ko/tw-travel.travelrich.com.tw/e4eb5a85390fc5db7870c92bf6df0675",
-      "images": [
-        "https://s.yimg.com/os/ko/tw-travel.travelrich.com.tw/e4eb5a85390fc5db7870c92bf6df0675",
-        "https://s.yimg.com/ny/api/res/1.2/CeBYZ84l_Qw22HBg_9XulQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTcyMA--/https://media.zenfs.com/ko/tw-travel.travelrich.com.tw/e4eb5a85390fc5db7870c92bf6df0675",
-        "https://s.yimg.com/ny/api/res/1.2/kDEvVTNFlLsh3Tyji_DBTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTcyMA--/https://media.zenfs.com/ko/tw-travel.travelrich.com.tw/6e7fd02e0a158e9185f161ee98c50536",
-        "https://s.yimg.com/ny/api/res/1.2/DA0o68FNRFyclpyyylNcyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTcyMA--/https://media.zenfs.com/ko/tw-travel.travelrich.com.tw/eb8c18d5dd3bb201317f502d09cbe043",
-        "https://s.yimg.com/ny/api/res/1.2/P2Oz8vx_8HWT.H8uHQXBww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTcyMA--/https://media.zenfs.com/ko/tw-travel.travelrich.com.tw/67555d8f0097c3cedf0446d8cf91b393",
-        "https://s.yimg.com/ny/api/res/1.2/YLh58L_MD4iNj31N.4lbew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTcyMA--/https://media.zenfs.com/ko/tw-travel.travelrich.com.tw/603015f47e67e3b1613a1613300a926c",
-        "https://s.yimg.com/ny/api/res/1.2/kFlXwmINDbyFEErGYKoLxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/ko/tw-travel.travelrich.com.tw/b2f96a17c6127f465fe3e87fc0f1a3d9",
-        "https://s.yimg.com/lo/mysterio/api/1F79A99AB81FF60A286730A74134F93A0C048D1B9A1AF1516830EE89A02AC3A2/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finnews_com_tw_7%2Ffbc4a84d72c33404ccf69aa2890cb543"
-      ],
-      "summary": "\",\"position\":3}]} Yahoo新聞 即時 麗寶樂園美樂地親子農場賣「萌」，5月媽媽免費入園 還有新亮點──彩虹滑草區無限暢玩！",
-      "analysis": {
-        "overview": "\",\"position\":3}]} Yahoo新聞 即時 麗寶樂園美樂地親子農場賣「萌」，5月媽媽免費入園 還有新亮點──彩虹滑草區無限暢玩！",
-        "pros": "動物互動與自然觀察能提高孩子參與感。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "出發前確認餵食、互動體驗與休園時間。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "tw.news.yahoo.com",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "彩虹滑草區讓小孩盡情放電奔跑，戶外空間大且有新亮點設施，適合親子來放電放風。",
-      "published_at": "2026-05-11T19:27:00+00:00",
-      "collected_at": "2026-05-27T20:58:42.691165+00:00",
-      "query": "台灣 動物農場 親子 景點"
-    },
-    {
-      "id": "https-n-yam-com-article-20260512767041",
-      "title": "麗寶樂園美樂地親子農場賣「萌」，5月媽媽免費入園 還有新亮點──彩虹滑草區無限暢玩！ | 蕃新聞",
-      "url": "https://n.yam.com/Article/20260512767041",
-      "canonical_url": "https://n.yam.com/Article/20260512767041",
-      "image_url": "https://ni.yam.com/20260512/205e79e8-2941-4c99-ade2-f5305a5dcdec-4146b17134964bd5.jpg",
-      "images": [
-        "https://ni.yam.com/20260512/205e79e8-2941-4c99-ade2-f5305a5dcdec-4146b17134964bd5.jpg",
-        "https://www.travelrich.com.tw/data/205e79e8-2941-4c99-ade2-f5305a5dcdec.jpg",
-        "https://www.travelrich.com.tw/data/63ef61ec-7d38-4ba4-b984-6cee37c840d6.jpg",
-        "https://www.travelrich.com.tw/data/7e490063-eee6-400d-9001-9d802dd6ab43.jpg",
-        "https://www.travelrich.com.tw/data/7dd0f4d2-c58e-494d-a3d4-f430050be06e.jpg",
-        "https://www.travelrich.com.tw/data/a9dcec54-944b-480a-9a0d-71dfde900e7c.jpg",
-        "https://www.travelrich.com.tw/data/c1696e72-948e-4bbe-bc0c-767963eb8dfb.jpg",
-        "https://ni.yam.com/20260512/20260512095817_12-42e56d811a03be8e.jpg"
-      ],
-      "summary": "麗寶樂園美樂地親子農場賣「萌」，5月媽媽免費入園 還有新亮點──彩虹滑草區無限暢玩！ | 蕃新聞。麗寶樂園美樂地親子農場賣「萌」，5月媽媽免費入園 還有新亮點──彩虹滑草區無限暢玩！【旅遊經 洪書瑱報導】 麗寶樂園是台灣具代表性的主題樂園之一，也是中台灣重要的景點，值得一提的是──麗寶不單單只是遊樂園，更是一站式的「麗寶樂園渡假區」，整合了多種娛樂型態，包括：水陸雙樂園、麗寶 Outlet Mall，以及多元住宿等，去(2025)年年起魅力再升級，開始賣「萌」了！隨著近年親子旅遊吹起「農場放電風」，不少家長假日最愛帶孩子走進戶外，不僅能盡情奔跑放電，也讓孩子們近距離接觸動物、親近自然。麗寶樂園渡假區規劃多了一處2,000坪美樂地親子農場，「農場」中，不僅有水豚、狐獴、笑笑羊、羊駝、鵜鶘與園區限定的「珍珠奶茶花色」迷你馬等多種可愛動物，五大動物互動區，可讓遊客近距離體驗餵食，讓遊客度假再多一波療癒風。小狐獴「皮克」呆萌又警覺的反差模樣相當討喜，近期將與遊客見面 值得一提的是──近期迎來一波超萌新成員報到，包含：玩偶大小般的熊貓羊寶寶，以及動作靈巧東張西望不休息的小狐獴「皮克」，可愛模樣曝光後立刻掀起話題，吸引不少遊客直呼「萌到融化」！",
-      "analysis": {
-        "overview": "麗寶樂園美樂地親子農場賣「萌」，5月媽媽免費入園 還有新亮點──彩虹滑草區無限暢玩！ | 蕃新聞。麗寶樂園美樂地親子農場賣「萌」，5月媽媽免費入園 還有新亮點──彩虹滑草區無限暢玩！【旅遊經 洪書瑱報導】 麗寶樂園是台灣具代表性的主題樂園之一，也是中台灣重要的景點，值得一提的是──麗寶不單單只是遊樂園，更是一站式的「麗寶樂園渡假區」，整合了多種娛樂型態，包括：水陸雙樂園、麗寶 Outlet Mall，以及多元住宿等，去(2025)年年起魅力再升級，開始賣「萌」了！隨著近年親子旅遊吹起「農場放電風」，不少家長假日最愛",
-        "pros": "動物互動與自然觀察能提高孩子參與感。 遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。 假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
-        "tips": "出發前確認餵食、互動體驗與休園時間。 建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "n.yam.com",
-      "tags": [
-        "看動物",
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "有動物或自然觀察元素，孩子比較容易投入；出發前可先確認餵食、展區與洗手設施。",
-      "published_at": "2026-05-11T19:05:00+00:00",
-      "collected_at": "2026-05-22T17:07:17.147996+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-www-msn-com-zh-tw-health-topic-e5-af-b5-e7-89-a9-e5-af-b6-e5-af-b6-e8-a6-a",
-      "title": "【寵物寶寶】親子必訪宜蘭新景點「狐狸森林」! 近距離互動小白狐、DIY體驗一次滿足",
-      "url": "https://www.msn.com/zh-tw/health/topic/%E5%AF%B5%E7%89%A9%E5%AF%B6%E5%AF%B6-%E8%A6%AA%E5%AD%90%E5%BF%85%E8%A8%AA%E5%AE%9C%E8%98%AD%E6%96%B0%E6%99%AF%E9%BB%9E-%E7%8B%90%E7%8B%B8%E6%A3%AE%E6%9E%97-%E8%BF%91%E8%B7%9D%E9%9B%A2%E4%BA%92%E5%8B%95%E5%B0%8F%E7%99%BD%E7%8B%90-diy%E9%AB%94%E9%A9%97%E4%B8%80%E6%AC%A1%E6%BB%BF%E8%B6%B3/ar-AA23czvm",
-      "canonical_url": "https://www.msn.com/zh-tw/health/topic/%E5%AF%B5%E7%89%A9%E5%AF%B6%E5%AF%B6-%E8%A6%AA%E5%AD%90%E5%BF%85%E8%A8%AA%E5%AE%9C%E8%98%AD%E6%96%B0%E6%99%AF%E9%BB%9E-%E7%8B%90%E7%8B%B8%E6%A3%AE%E6%9E%97-%E8%BF%91%E8%B7%9D%E9%9B%A2%E4%BA%92%E5%8B%95%E5%B0%8F%E7%99%BD%E7%8B%90-diy%E9%AB%94%E9%A9%97%E4%B8%80%E6%AC%A1%E6%BB%BF%E8%B6%B3/ar-AA23czvm",
-      "image_url": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "【寵物寶寶】親子必訪宜蘭新景點「狐狸森林」! 近距離互動小白狐、DIY體驗一次滿足。位於宜蘭的「遛遛三星」主打的不只是動物互動，而是以「美學、教育、友善」為核心理念，打造更有溫度的親子農場。園區以溫室設計結合自然採光與綠植空間，讓人一走進來彷彿進入一座溫室森林。大片草地、舒適動線與文青風格的綠植浮島裝置，讓孩子能自在探索，大人也能放鬆心情拍照打卡。不再只是走馬看花，而是讓全家都能慢下來，好好感受與自然相處的節奏。全台首座「狐狸森林」萌翻登場 園區最大亮點就 ...",
-      "analysis": {
-        "overview": "【寵物寶寶】親子必訪宜蘭新景點「狐狸森林」! 近距離互動小白狐、DIY體驗一次滿足。位於宜蘭的「遛遛三星」主打的不只是動物互動，而是以「美學、教育、友善」為核心理念，打造更有溫度的親子農場。園區以溫室設計結合自然採光與綠植空間，讓人一走進來彷彿進入一座溫室森林。大片草地、舒適動線與文青風格的綠植浮島裝置，讓孩子能自在探索，大人也能放鬆心情拍照打卡。不再只是走馬看花，而是讓全家都能慢下來，好好感受與自然相處的節奏。全台首座「狐狸森林」萌翻登場 園區最大亮點就 ...",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "msn.com",
-      "tags": [
-        "看動物",
-        "大自然",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-05-11T08:36:31+00:00",
-      "collected_at": "2026-05-22T17:07:17.320107+00:00",
-      "query": "台灣 動物農場 親子 景點"
-    },
-    {
-      "id": "https-tw-news-yahoo-com-e5-85-a8-e5-8f-b0-e6-9c-80-e6-ba-9c-e9-81-8a-e6-88-b2-e5",
-      "title": "全台最「溜」遊戲場爆紅！ 鰲峰山「谷溜遊戲場」吸引數千親子朝聖",
-      "url": "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E6%9C%80-%E6%BA%9C-%E9%81%8A%E6%88%B2%E5%A0%B4%E7%88%86%E7%B4%85-%E9%B0%B2%E5%B3%B0%E5%B1%B1-%E8%B0%B7%E6%BA%9C%E9%81%8A%E6%88%B2%E5%A0%B4-064512456.html",
-      "canonical_url": "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E6%9C%80-%E6%BA%9C-%E9%81%8A%E6%88%B2%E5%A0%B4%E7%88%86%E7%B4%85-%E9%B0%B2%E5%B3%B0%E5%B1%B1-%E8%B0%B7%E6%BA%9C%E9%81%8A%E6%88%B2%E5%A0%B4-064512456.html",
-      "image_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "全台最「溜」遊戲場爆紅！ 鰲峰山「谷溜遊戲場」吸引數千親子朝聖。中市清水區鰲峰山公園全新「谷溜遊戲場」啟用後人氣持續爆棚，憑藉全國最多、共34道特色滑道設施，不僅創下全國單一遊戲場滑道數量新紀錄，更迅速成為全台親子遊憩新亮點。開幕短短3天即吸引超過3千名來自各地民眾攜家帶眷前來體驗，現場人潮與孩童歡笑聲不斷，不少家長更直呼是「溜滑梯控的天堂」。台中市政府建設局長陳大田表示，眾多溜滑梯當中，最吸睛的莫過於「排笛音樂滑梯」，民眾滑行時會伴隨音效響起，彷彿一邊溜滑梯 ...",
-      "analysis": {
-        "overview": "全台最「溜」遊戲場爆紅！ 鰲峰山「谷溜遊戲場」吸引數千親子朝聖。中市清水區鰲峰山公園全新「谷溜遊戲場」啟用後人氣持續爆棚，憑藉全國最多、共34道特色滑道設施，不僅創下全國單一遊戲場滑道數量新紀錄，更迅速成為全台親子遊憩新亮點。開幕短短3天即吸引超過3千名來自各地民眾攜家帶眷前來體驗，現場人潮與孩童歡笑聲不斷，不少家長更直呼是「溜滑梯控的天堂」。台中市政府建設局長陳大田表示，眾多溜滑梯當中，最吸睛的莫過於「排笛音樂滑梯」，民眾滑行時會伴隨音效響起，彷彿一邊溜滑梯 ...",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "tw.news.yahoo.com",
-      "tags": [
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-05-11T00:27:00+00:00",
-      "collected_at": "2026-05-22T17:07:17.602505+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-ltn-com-tw-news-life-paper-1754377",
-      "title": "台鐵高雄機廠變親子遊樂園 暑假開放 - 生活 - 自由時報電子報",
-      "url": "https://news.ltn.com.tw/news/life/paper/1754377",
-      "canonical_url": "https://news.ltn.com.tw/news/life/paper/1754377",
-      "image_url": "https://img.ltn.com.tw/Upload/news/600/2026/05/11/148.jpg",
-      "images": [
-        "https://img.ltn.com.tw/Upload/news/600/2026/05/11/148.jpg",
-        "https://news.ltn.com.tw/news/life/paper/assets/images/x.png",
-        "https://ad.doubleclick.net/ddm/activity/src=9530821;type=invmedia;cat=ltn_w0;u1=news;u2=生活;u3=1754377;u4=;u5=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1",
-        "https://b.scorecardresearch.com/p?c1=2&c2=18368781&cv=2.0&cj=1",
-        "https://pv6.ltn.com.tw/impression?ano=",
-        "https://cache.ltn.com.tw/images/sexno.png",
-        "https://cache.ltn.com.tw/images/sexyes.png",
-        "https://news.ltn.com.tw/news/life/paper/assets/images/default800.jpg"
-      ],
-      "summary": "台鐵高雄機廠變親子遊樂園 暑假開放 - 生活 - 自由時報電子報。為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。台鐵高雄機廠的貨車工場舊廠房改建為親子遊樂園，目前進度已達87％，預計6月底完工。（高市府提供） 貨車工場全棟留存活化 預計6月底完工 近30項設施免費玩 台鐵高雄機廠的貨車工場舊廠房，改建為半室內的「高雄親子遊樂園」工程，目前進度已達八十七％，預計六月底完工、暑假期間開放，設施全部免費，讓孩子在遊戲中認識鐵道文化。請繼續往下閱讀... 半室內遊戲場 鐵道元素融入設計 台鐵高雄機廠位於鳳山、苓雅與前鎮地區交界處，曾是台鐵南部維修重地。市府將一．五公頃的貨車工場全棟留存活化，保留歷史風貌，並將鐵道元素融入設計，打造一座全齡共享的半室內親子遊樂園，共有近卅項設施，包括網繩攀爬系統、抱石攀岩場、滑步車及直排輪練習場、Pump Track輪狀車道、室內足球場、跑酷練習區等。有攀爬網繩、滑步車場、足球場 公園處表示，目前工程進度約八十七％，預計今年六月底完工，待相關驗收程序完成後再行開放。",
-      "analysis": {
-        "overview": "台鐵高雄機廠變親子遊樂園 暑假開放 - 生活 - 自由時報電子報。為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。台鐵高雄機廠的貨車工場舊廠房改建為親子遊樂園，目前進度已達87％，預計6月底完工。（高市府提供） 貨車工場全棟留存活化 預計6月底完工 近30項設施免費玩 台鐵高雄機廠的貨車工場舊廠房，改建為半室內的「高雄親子遊樂園」工程，目前進度已達八十七％，預計六月底完工、暑假期間開放，設施全部免費，讓孩子在遊戲中認識鐵道文化。請繼續往下閱讀... 半室內遊戲場",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "news.ltn.com.tw",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "半室內空間不怕雨天，可容納近30項遊戲設施，孩子盡情放電；設施多元，從滑步車到攀岩都有，家長有遮陽休息區。",
-      "published_at": "2026-05-10T14:30:00+00:00",
-      "collected_at": "2026-05-23T07:44:25.597841+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-www-storm-mg-article-11129970",
-      "title": "暑假最夯親子鐵道旅行！阿里山蒸汽火車、檜木列車再掀山林旅遊熱潮 | 徐炳文 | 地方新聞",
-      "url": "https://www.storm.mg/article/11129970",
-      "canonical_url": "https://www.storm.mg/article/11129970",
-      "image_url": "https://images.storm.mg/cloud/fc177a5e542b00a90ef49ec016161863e7dbfd14.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2150675%2FiZiDPivywwK9Ritk9HkMhYZU2LTDYtrgkSM6i8IK.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
-      "images": [
-        "https://images.storm.mg/cloud/fc177a5e542b00a90ef49ec016161863e7dbfd14.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2150675%2FiZiDPivywwK9Ritk9HkMhYZU2LTDYtrgkSM6i8IK.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
-        "https://images.storm.mg/webSiteSetting/13/HiDCWacecnqhKNXuGKkKhXQBPz5nFF6dEczk9ZbU.png",
-        "https://images.storm.mg/cloud/fc177a5e542b00a90ef49ec016161863e7dbfd14.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2150675%2FiZiDPivywwK9Ritk9HkMhYZU2LTDYtrgkSM6i8IK.jpg&g=sm&h=675&resize=fill&w=1200&format=webp",
-        "https://www.storm.mg/img/article-default-cover.jpg",
-        "https://images.storm.mg/cloud/dc5d9194f8daaff12cc002e27d7aadd66826c1dd.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2150676%2FJdpt15fCuqmMDukfDSKeEPysRVvgtbkSraFfHCB7.jpg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/f09b53e1f8cb996e1179f99bfa0a768bf3e763e0.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2148705%2FGe8lCOp9uvhO7k5D5hSvAAcng0sZfEb0CyCfKTZE.jpeg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/1b13cf7bce18a580305da0598187772464ee057b.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2150673%2FKFd23RBV4TW4NBfPYzxgd6CVLoVoD8OSHapTKWHJ.jpg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/bba2e5fa4b381ec731dc748e8a5ab4ab97bc73da.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2114605%2FhLIhixNj02P1tpCU3uQvG2chceo0qNy40t9Dm87H.jpg&g=sm&h=400&resize=fill&w=400"
-      ],
-      "summary": "暑假最夯親子鐵道旅行！阿里山蒸汽火車、檜木列車再掀山林旅遊熱潮 | 徐炳文 | 地方新聞。迎接暑假旅遊旺季，嘉義縣再掀阿里山鐵道觀光熱潮！結合百年森林鐵道、親子體驗與森林療癒行程，嘉義縣政府推出暑假親子主題列車遊程，串聯阿里山、沼平、祝山等經典車站與周邊秘境景點，邀請旅客搭乘蒸汽火車與觀光列車深入山林，感受阿里山夏季最迷人的森林風光。位於阿里山國家森林遊樂園區核心地帶的阿里山賓館，今年暑假同步推出「涼夏禮遇」住房專案，凡搭乘與指定旅行社合作的檜木車廂列車及豪華觀光列車旅客，即可享住宿迎賓券8折優惠，讓旅客從踏上列車開始，就展開一場結合鐵道文化、森林美景與五感療癒的慢旅行。阿里山賓館表示，近年「搭火車旅行」已成旅遊新風潮，尤其結合鐵道與深度體驗的精緻旅遊更受到家庭客與高端旅客青睞。今年特別以「阿里山五感精緻旅行」為主題，從檜木車廂的木質香氣、列車餐桌美學，到入住賓館後的森林景觀與山林氣息，希望讓旅客從視覺、味覺、嗅覺到心靈都能徹底放鬆。阿里山國家風景區管理處指出，遊客搭乘福森號檜木列車或豪華觀光列車抵達阿里山森林遊樂園區後，可沿著沼平步道一路探訪阿里山經典景點，包括擁有夢幻倒影的姊妹潭、人氣神木車站，以及全台最高海拔車站「祝山站」，感受阿里山獨有的雲海、森林與日出景觀。",
-      "analysis": {
-        "overview": "暑假最夯親子鐵道旅行！阿里山蒸汽火車、檜木列車再掀山林旅遊熱潮 | 徐炳文 | 地方新聞。迎接暑假旅遊旺季，嘉義縣再掀阿里山鐵道觀光熱潮！結合百年森林鐵道、親子體驗與森林療癒行程，嘉義縣政府推出暑假親子主題列車遊程，串聯阿里山、沼平、祝山等經典車站與周邊秘境景點，邀請旅客搭乘蒸汽火車與觀光列車深入山林，感受阿里山夏季最迷人的森林風光。位於阿里山國家森林遊樂園區核心地帶的阿里山賓館，今年暑假同步推出「涼夏禮遇」住房專案，凡搭乘與指定旅行社合作的檜木車廂列車及豪華觀光列車旅客，即可享住宿迎賓券8折優惠，讓旅客從踏上列車",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "storm.mg",
-      "tags": [
-        "大自然",
-        "好玩"
-      ],
-      "reason": "搭乘蒸汽與檜木列車深入阿里山森林，車站間有步道串聯秘境景点，寬闘自然環境能讓孩子盡情探索山林生態與鐵道文化，兼具寓教於樂與放電效果。",
-      "published_at": "2026-05-10T05:58:00+00:00",
-      "collected_at": "2026-05-23T07:44:29.807887+00:00",
-      "query": "台灣 特色景點 親子 打卡"
-    },
-    {
-      "id": "https-news-ltn-com-tw-news-kaohsiung-breakingnews-5432254",
-      "title": "高雄多一處親子遊樂園 今年暑假開放 - 高雄市 - 自由時報電子報",
-      "url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5432254",
-      "canonical_url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5432254",
-      "image_url": "https://img.ltn.com.tw/Upload/news/600/2026/05/10/5432254_1_1.jpg",
-      "images": [
-        "https://img.ltn.com.tw/Upload/news/600/2026/05/10/5432254_1_1.jpg",
-        "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/assets/images/x.png",
-        "https://ad.doubleclick.net/ddm/activity/src=9530821;type=invmedia;cat=ltn_w0;u1=news;u2=高雄市;u3=5432254;u4=;u5=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1",
-        "https://b.scorecardresearch.com/p?c1=2&c2=18368781&cv=2.0&cj=1",
-        "https://pv6.ltn.com.tw/impression?ano=",
-        "https://cache.ltn.com.tw/images/sexno.png",
-        "https://cache.ltn.com.tw/images/sexyes.png",
-        "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/assets/images/default800.jpg"
-      ],
-      "summary": "高雄多一處親子遊樂園 今年暑假開放 - 高雄市 - 自由時報電子報。為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。台鐵高雄機廠的貨車工場舊廠房，改建為半室內的「高雄親子遊樂園區」。（市府提供） 台鐵高雄機廠的貨車工場舊廠房，改建為半室內的「高雄親子遊樂園」工程，目前進度已達87%，預計6月底完工、暑假期間開放，設施全部免費，讓孩子在遊戲中認識鐵道文化。台鐵高雄機廠位於鳳山、苓雅與前鎮地區交界處，曾是台鐵南部維修重地。市府將1.5公頃的貨車工場全棟留存活化，保留歷史風貌，並將鐵道元素融入設計，打造一座全齡共享的半室內親子遊樂園，共有近30項設施，包括網繩攀爬系統、抱石攀岩場、滑步車及直排輪練習場、Pump Track輪狀車道、室內足球場、跑酷練習區等。請繼續往下閱讀... 公園處表示，目前工程進度約87％，預計今年6月底完工，待相關驗收程序完成後再行開放。副市長林欽榮表示，未來園區將結合太陽光電與綠能理念，一半區域設置屋頂型光電板，另一半戶外空間則導入建材一體型太陽光電系統，提供遮蔭也兼具淨零教育意義；原有貨車工場則轉化為遊戲設施，例如將門型天車改造為網繩攀爬裝置、軌道紋理改造為人力台車，火車車廂則規劃為特色店舖與導覽空間，讓孩子們在遊戲中認識鐵道文化。",
-      "analysis": {
-        "overview": "高雄多一處親子遊樂園 今年暑假開放 - 高雄市 - 自由時報電子報。為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。台鐵高雄機廠的貨車工場舊廠房，改建為半室內的「高雄親子遊樂園區」。（市府提供） 台鐵高雄機廠的貨車工場舊廠房，改建為半室內的「高雄親子遊樂園」工程，目前進度已達87%，預計6月底完工、暑假期間開放，設施全部免費，讓孩子在遊戲中認識鐵道文化。台鐵高雄機廠位於鳳山、苓雅與前鎮地區交界處，曾是台鐵南部維修重地。市府將1.5公頃的貨車工場全棟留存活化，保留",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "news.ltn.com.tw",
-      "tags": [
-        "室內",
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
-      "published_at": "2026-05-10T04:25:00+00:00",
-      "collected_at": "2026-05-22T17:07:17.803218+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-www-nownews-com-news-6818329",
-      "title": "武陵農場只排第五！台灣最強農場狂吸44萬人 螢火蟲、落羽松超美 | 生活 | NOWnews今日新聞",
-      "url": "https://www.nownews.com/news/6818329",
-      "canonical_url": "https://www.nownews.com/news/6818329",
-      "image_url": "https://media.nownews.com/nn_media/thumbnail/2026/05/1777740239271-3cb7deb1fc304d6fa87dfa2b69ad2ed6-1011x606.webp?unShow=false",
-      "images": [
-        "https://www.nownews.com/NOWnews/images/app-promote.webp",
-        "https://media.nownews.com/nn_media/thumbnail/2026/05/1777740239271-3cb7deb1fc304d6fa87dfa2b69ad2ed6-1011x606.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/05/1777740446820-796b6f1be4f84125adaca85e405a7182-500x295.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/05/1777740958124-5d171d4bac8f4b46b9af70273e4968b7-500x180.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/05/1777740609168-f38b5d688320415c834d8ad842f677e1-500x370.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/05/1777740733168-8a59e434e413488c93584a1c8b925f64-500x269.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/05/1777740796950-c5e71f73710745efb56411520dd872f6-500x281.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/05/1777740829392-77f163fdf50b48dca5c9f58c9599ddc4-500x333.webp?unShow=false&waterMark=false"
-      ],
-      "summary": "武陵農場只排第五！台灣最強農場狂吸44萬人 螢火蟲、落羽松超美 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 潘毅 ／綜合報導 ▲2026年暫居最強農場寶座的是位於桃園大溪的「大溪月眉休閒農業區」，月眉人工濕地生態公園內有超過3百顆落羽松，每到秋季就會展現絕美景色。（圖／大溪月眉休閒農業發展協會） ✕ 五一勞動節3天連假今（3）日進入最後一天，許多人都想把握最後假期來個輕鬆的一日遊，卻又找不到想去的景點嗎？2026 年農場景點排行榜或許能成為您的救贖！說到農場，很多人瞬間就會想起清境農場、武陵農場，但其實最強的農場並不需要跋山涉水就能到達。根據觀光署最新統計資料，2026 年暫居最強農場寶座的是位於桃園大溪的「 大溪月眉休閒農業區 」，短短 2 個月內便吸引超過 44 萬人次參訪。當地不僅能體驗 DIY 染布等體驗，還有絕美落羽松、螢火蟲爆發，玩上一整天都不會無聊！",
-      "analysis": {
-        "overview": "武陵農場只排第五！台灣最強農場狂吸44萬人 螢火蟲、落羽松超美 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 潘毅 ／綜合報導 ▲2026年暫居最強農場寶座的是位於桃園大溪的「大溪月眉休閒農業區」，月眉人工濕地生態公園內有超過3百顆落羽松，每到秋季就會展現絕美景色。（圖／大溪月眉休閒農業發展協會） ✕ 五一勞動節3天連假今（3）日",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "nownews.com",
-      "tags": [
-        "放電",
-        "大自然"
-      ],
-      "reason": "超過300棵落羽松與螢火蟲生態丰富，草皮寬闊且有DIY體驗能讓孩子玩上一整天",
-      "published_at": "2026-05-02T22:16:00+00:00",
-      "collected_at": "2026-05-25T12:06:14.245001+00:00",
-      "query": "台灣 動物農場 親子 景點"
-    },
-    {
-      "id": "https-www-storm-mg-lifestyle-11126689",
-      "title": "南台灣又有新樂園！5月登場「有氣墊滑水道、親子戲水池」，1條件可免費玩 | 李宸緯 | 風生活",
-      "url": "https://www.storm.mg/lifestyle/11126689",
-      "canonical_url": "https://www.storm.mg/lifestyle/11126689",
-      "image_url": "https://images.storm.mg/cloud/5cbfe8e514dbe5f3a49c054bd99846360c0e00fd.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2146482%2FA1QZowLUdmZsPQqr4MAa80QdyxaA75URzPAqR88u.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
-      "images": [
-        "https://images.storm.mg/cloud/5cbfe8e514dbe5f3a49c054bd99846360c0e00fd.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2146482%2FA1QZowLUdmZsPQqr4MAa80QdyxaA75URzPAqR88u.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
-        "https://images.storm.mg/webSiteSetting/13/HiDCWacecnqhKNXuGKkKhXQBPz5nFF6dEczk9ZbU.png",
-        "https://images.storm.mg/cloud/5cbfe8e514dbe5f3a49c054bd99846360c0e00fd.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2146482%2FA1QZowLUdmZsPQqr4MAa80QdyxaA75URzPAqR88u.jpg&g=sm&h=675&resize=fill&w=1200&format=webp",
-        "https://images.storm.mg/cloud/2c5192fd62f5af1fa53386cc22e3af57789bc1ef.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2146518%2FhGImLezoNuZqjq7Pd0uW7S3pyzWHoHwrPdWXWiH8.jpg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/94adea5531e34f61163f1708b86922bc25f2791e.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2146517%2FMRU6MTbRxVJA3M71LcsmMuNTj4y4O0AUSB9qq3Q7.jpg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/d55fb4f34143c29722e58f8565c45884428277fb.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2146515%2FL8M2i01A8phDwO6pSgu7uoz5hP9RxqnHNr9zhv30.jpg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/553540d0ce5f34b8d3e01aa4b1c8c7832d749c91.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2146347%2FVVGeYvhKadflvryYmDXaxpKWR14fLGtNjpGrI1og.jpeg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/ff458d59a9d8faf086d17011112be338855c35ad.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2146516%2FyDZcQDNlkdTXuiyWWboPLxLTE1QaQ1eoXZNmwJjk.png&g=sm&h=400&resize=fill&w=400"
-      ],
-      "summary": "南台灣又有新樂園！5月登場「有氣墊滑水道、親子戲水池」，1條件可免費玩 | 李宸緯 | 風生活。隨著夏季即將來臨，高雄市政府觀光局於三至五月推出「六龜湯旅春遊季」，並結合花季、泡湯、生態秘境與音樂季等活動，吸引許多遊客前往。此外， 觀光局更於 5 月 2 日至 24 日假日在六龜寶來第二停車場推出「山城水樂園」，以大型氣墊滑水道與眾多親子戲水池設施，提供更多元的親子出遊選項 。高雄市政府觀光局長高閔琳表示，六龜區擁有眾多優質的溫泉，更是原生山茶的產地，因此來到六龜可從山林一路走進水域，再延伸到夜間體驗。他指出，遊客可參與生態導覽行程，在白天前往十八羅漢山，穿越六號隧道與景觀橋，近距離欣賞壯麗的礫岩地形與峽谷景觀。下午可前往寶來參加夏季限定的「山城水樂園」活動，晚上則可持續參與「寶來夜行秘境生態探索」，體驗在山林蟲鳴中的夜間探險，並探索山中的神秘夜行生物，享受深度的六龜一日遊。觀光局指出， 「山城水樂園」 5 月 2 日至 24 日週末期間的下午一時至五時舉行，地點於寶來第二停車場，並設置大型滑水道與多元的戲水設施 。活動期間， 只要在六龜合作店家消費滿500元，即可免費入場暢玩 ；現場另推出限量「50元市集雙倍券」，使民眾能以便宜的價格享受六龜在地山茶，眾多輕食與特色攤販，深度沈浸於山城中的悠閒時光。",
-      "analysis": {
-        "overview": "南台灣又有新樂園！5月登場「有氣墊滑水道、親子戲水池」，1條件可免費玩 | 李宸緯 | 風生活。隨著夏季即將來臨，高雄市政府觀光局於三至五月推出「六龜湯旅春遊季」，並結合花季、泡湯、生態秘境與音樂季等活動，吸引許多遊客前往。此外， 觀光局更於 5 月 2 日至 24 日假日在六龜寶來第二停車場推出「山城水樂園」，以大型氣墊滑水道與眾多親子戲水池設施，提供更多元的親子出遊選項 。高雄市政府觀光局長高閔琳表示，六龜區擁有眾多優質的溫泉，更是原生山茶的產地，因此來到六龜可從山林一路走進水域，再延伸到夜間體驗。他指出，遊客",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "storm.mg",
-      "tags": [
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
-      "published_at": "2026-05-01T03:30:00+00:00",
-      "collected_at": "2026-05-22T17:07:18.136629+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-money-udn-com-money-story-5612-9474069",
-      "title": "全台媽媽五月來麗寶 美樂地親子農場免費入園 | 產業熱點 | 產業 | 經濟日報",
-      "url": "https://money.udn.com/money/story/5612/9474069",
-      "canonical_url": "https://money.udn.com/money/story/5612/9474069",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34904319.jpg&M=1&x=0&y=0&sw=0&sh=0&sl=W&fw=1050&exp=3600",
-      "images": [
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34904319.jpg&M=1&x=0&y=0&sw=0&sh=0&sl=W&fw=1050&exp=3600",
-        "http://b.scorecardresearch.com/p?c1=2&c2=7390954&cv=2.0&cj=1",
-        "https://money.udn.com/SSI/fontello-edn/image/default_member_120.png",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34904319.jpg&M=1&x=0&y=0&sw=0&sh=0&sl=W&fw=1050&exp=3600&exp=3600",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34904320.jpg&M=1&x=0&y=0&sw=0&sh=0&sl=W&fw=1050&exp=3600&exp=3600",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34904321.jpg&M=1&x=0&y=0&sw=0&sh=0&sl=W&fw=1050&exp=3600&exp=3600",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34904322.jpg&M=1&x=0&y=0&sw=0&sh=0&sl=W&fw=1050&exp=3600&exp=3600",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34904323.jpg&M=1&x=0&y=0&sw=0&sh=0&sl=W&fw=1050&exp=3600&exp=3600"
-      ],
-      "summary": "全台媽媽五月來麗寶 美樂地親子農場免費入園 | 產業熱點 | 產業 | 經濟日報。打開 App 聯合報系著作權所有 © 2026 All Rights Reserved 太棒了！本文共701字 ', ' ', ' 00:00 2026/04/30 13:24:08 經濟日報 記者黃淑惠／台北即時報導 看萌寵最療癒，今年母親節就是要給媽媽最難忘的驚喜！麗寶美樂地親子農場5月9日起，全台媽媽免費入園，同行親友，每人也只要199元（至多３名），台中市民準備好身分證，探索世界推出「台中媽咪同樂月」，凡設籍台中市的母親或主要照顧者，最多帶三位市民親友同行，每人只要 399 元（至多３名）。麗寶OUTLET MALL母親節檔期消費滿額，還有機會將價值近五萬元的運動椅、 iPhone 17e帶回家！快帶媽媽來麗寶樂園渡假區，過個溫馨又難忘的母親節。探索世界在５月特別推出台中市民限定方案。凡設籍台中市的母親、主要照顧者（含父兼母職），憑身分證或駕照正本購票，本人及台中市民同行親友（至多３名），每人只要399 元即可入園暢玩(不適用日期與入園時間請詳見官網公告)。",
-      "analysis": {
-        "overview": "全台媽媽五月來麗寶 美樂地親子農場免費入園 | 產業熱點 | 產業 | 經濟日報。打開 App 聯合報系著作權所有 © 2026 All Rights Reserved 太棒了！本文共701字 ', ' ', ' 00:00 2026/04/30 13:24:08 經濟日報 記者黃淑惠／台北即時報導 看萌寵最療癒，今年母親節就是要給媽媽最難忘的驚喜！麗寶美樂地親子農場5月9日起，全台媽媽免費入園，同行親友，每人也只要199元（至多３名），台中市民準備好身分證，探索世界推出「台中媽咪同樂月」，凡設籍台中市的母親或主要",
-        "pros": "動物互動與自然觀察能提高孩子參與感。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "出發前確認餵食、互動體驗與休園時間。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "money.udn.com",
-      "tags": [
-        "看動物",
-        "放電",
-        "好玩"
-      ],
-      "reason": "有動物或自然觀察元素，孩子比較容易投入；出發前可先確認餵食、展區與洗手設施。",
-      "published_at": "2026-04-29T22:23:00+00:00",
-      "collected_at": "2026-05-22T17:07:18.849246+00:00",
-      "query": "台灣 動物農場 親子 景點"
-    },
-    {
-      "id": "https-www-chinatimes-com-realtimenews-20260430003565-260421",
-      "title": "麗寶美樂地親子農場超好康 全台媽媽五月來免費入園 台中媽媽玩探索只要399 - 寶島",
-      "url": "https://www.chinatimes.com/realtimenews/20260430003565-260421",
-      "canonical_url": "https://www.chinatimes.com/realtimenews/20260430003565-260421",
-      "image_url": "https://images.chinatimes.com/newsphoto/2026-04-30/656/20260430003581.jpg",
-      "images": [
-        "https://sb.scorecardresearch.com/p?c1=2&c2=9457284&cv=4.4.0&cj=1",
-        "https://images.chinatimes.com/newsphoto/2026-04-30/656/20260430003581.jpg",
-        "https://images.chinatimes.com/newsphoto/2026-04-30/656/20260430003585.jpg",
-        "https://images.chinatimes.com/newsphoto/2026-04-30/656/20260430003597.jpg",
-        "https://images.chinatimes.com/newsphoto/2026-04-30/656/20260430003601.jpg",
-        "https://images.chinatimes.com/newsphoto/2026-04-30/656/20260430003610.jpg",
-        "https://images.chinatimes.com/newsphoto/2026-04-30/656/20260430003605.jpg"
-      ],
-      "summary": "麗寶美樂地親子農場超好康 全台媽媽五月來免費入園 台中媽媽玩探索只要399 - 寶島。假日看萌寵最療癒，今年母親節就是要給媽媽最難忘的驚喜！麗寶美樂地親子農場5月9日起，推出全台媽媽免費入園，同行親友，每人也只要199元（至多３名）超好康方案，尤其台中市民準備好身分證，探索世界推出「台中媽咪同樂月」，凡設籍台中市的母親或主要照顧者，最多帶三位市民親友同行，每人只要 399 元（至多３名）。此外，麗寶OUTLET MALL母親節檔期消費滿額，還有機會將價值近五萬元的運動椅、 iPhone 17e帶回家！快帶媽媽來麗寶樂園渡假區，過個溫馨又難忘的母親節。探索世界在５月特別推出台中市民限定方案。凡設籍台中市的母親、主要照顧者（含父兼母職），憑身分證或駕照正本購票，本人及台中市民同行親友（至多３名），每人只要399 元即可入園暢玩(不適用日期與入園時間請詳見官網公告)。同時，美樂地親子農場於5月9日至31日推出「療癒媽咪月」，廣邀全台媽媽免費入園，活動期間只要是母親身分，不限居住地均享 0 元入園禮遇，同行親友，每人只要199元（至多３名），農場內不僅有大片草地與療癒人心的水豚、狐獴、迷你馬、跳跳羊等可愛小動物，讓媽媽近距離接觸自然、放牧壓力。",
-      "analysis": {
-        "overview": "麗寶美樂地親子農場超好康 全台媽媽五月來免費入園 台中媽媽玩探索只要399 - 寶島。假日看萌寵最療癒，今年母親節就是要給媽媽最難忘的驚喜！麗寶美樂地親子農場5月9日起，推出全台媽媽免費入園，同行親友，每人也只要199元（至多３名）超好康方案，尤其台中市民準備好身分證，探索世界推出「台中媽咪同樂月」，凡設籍台中市的母親或主要照顧者，最多帶三位市民親友同行，每人只要 399 元（至多３名）。此外，麗寶OUTLET MALL母親節檔期消費滿額，還有機會將價值近五萬元的運動椅、 iPhone 17e帶回家！快帶媽媽來麗寶",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "chinatimes.com",
-      "tags": [
-        "看動物",
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "農場擁有水豚、狐獴、迷你馬等萌寵互動區，搭配大片草地讓孩子盡情放電，適合全家戶外踏青。",
-      "published_at": "2026-04-29T17:00:00+00:00",
-      "collected_at": "2026-05-27T20:58:51.131469+00:00",
-      "query": "台灣 動物農場 親子 景點"
-    },
-    {
-      "id": "https-newtalk-tw-news-view-2026-04-24-1031578",
-      "title": "台南葫蘆埤自然公園重新開幕！新增地景遊憩區、水岸座階   適合親子同樂 | 旅遊 | Newtalk新聞",
-      "url": "https://newtalk.tw/news/view/2026-04-24/1031578",
-      "canonical_url": "https://newtalk.tw/news/view/2026-04-24/1031578",
-      "image_url": "https://s.newtalk.tw/album/news/1032/69eb17fb1051e.jpg",
-      "images": [
-        "https://s.newtalk.tw/album/news/1032/69eb17fb1051e.jpg",
-        "https://newtalk.tw/images/event/YaitaAkio/banners/置頂入口圖1080x200.jpg",
-        "https://newtalk.tw/images/anonymous_100.jpg",
-        "https://images.newtalk.tw/resize_action2/800/album/news/1032/69eb17f5cf98c.jpg",
-        "https://images.newtalk.tw/resize_action2/800/album/news/1032/69eb18537db4b.jpg",
-        "https://images.newtalk.tw/resize_action2/300/album/news/137/5b7a916233082.jpg",
-        "https://images.newtalk.tw/resize_action2/300/album/news/1037/6a10003e5010f.jpg",
-        "https://images.newtalk.tw/resize_action2/300/album/album/1/6205bdf4565be.jpg"
-      ],
-      "summary": "台南葫蘆埤自然公園重新開幕！新增地景遊憩區、水岸座階   適合親子同樂 | 旅遊 | Newtalk新聞。X .top-youtube { display: flex; justify-content: center; margin: auto; padding: 15px; position: relative; border-bottom: 1px solid #ccc; } .top-youtube .pic { min-width: 270px; max-width: 270px; } .top-youtube .pic a { display: block; } .horizontal-video { width: 100%; position: relative; } .horizontal-video iframe { position: absolute; top: 0; left: 50%; wi",
-      "analysis": {
-        "overview": "台南葫蘆埤自然公園重新開幕！新增地景遊憩區、水岸座階   適合親子同樂 | 旅遊 | Newtalk新聞。X .top-youtube { display: flex; justify-content: center; margin: auto; padding: 15px; position: relative; border-bottom: 1px solid #ccc; } .top-youtube .pic { min-width: 270px; max-width: 270px; } .top-youtu",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "newtalk.tw",
-      "tags": [
-        "大自然",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-04-24T08:37:00+00:00",
-      "collected_at": "2026-05-22T17:07:19.543215+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-www-storm-mg-lifestyle-11119860",
-      "title": "台灣又有新遊樂園！「全民免費入園」1.5公頃設施豐富、交通便利，今年這時間開幕 | 蔡惠芯 | 風生活",
-      "url": "https://www.storm.mg/lifestyle/11119860",
-      "canonical_url": "https://www.storm.mg/lifestyle/11119860",
-      "image_url": "https://images.storm.mg/cloud/e2b3d68bf3ee9bf325cc364e6cb68f300ed755ce.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1902128%2F20240418-041507_U28513_M947647_ada7.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
-      "images": [
-        "https://images.storm.mg/cloud/e2b3d68bf3ee9bf325cc364e6cb68f300ed755ce.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1902128%2F20240418-041507_U28513_M947647_ada7.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
-        "https://images.storm.mg/webSiteSetting/13/HiDCWacecnqhKNXuGKkKhXQBPz5nFF6dEczk9ZbU.png",
-        "https://images.storm.mg/cloud/e2b3d68bf3ee9bf325cc364e6cb68f300ed755ce.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1902128%2F20240418-041507_U28513_M947647_ada7.jpg&g=sm&h=675&resize=fill&w=1200&format=webp",
-        "https://images.storm.mg/cloud/71d72107494275eacfe0884c237f27fbdf7d8562.webp?url=https%3A%2F%2Fimage.cache.storm.mg%2Fstyles%2Fsmg-150x150-fp%2Fs3%2Fdefault_images%2Fdefault_author_1.png%3Fitok%3DwlNRUDRB&g=sm&h=144&resize=fill&w=144",
-        "https://images.storm.mg/cloud/169ecbd7c5ba7f3a057ff83dafc2b34cef7f7f97.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2136932%2FakLSs7NL7mQWKmE0P1qqr51vpdFaySKSAE1SBwiF.jpg&g=ce&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/ea75d2bc3be23b3837dab499667addeebff3f09c.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1786511%2F20240407-045205_U27068_M944820_44f0.jpg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/ceac4a3b7968992a4068843f6999c3ff9befe231.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F545078%2F20200509-035439_U12603_M610726_e8c4.jpeg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/6665a3e213b40607402d30f4c6544ee7e5e9712e.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2068508%2FlUG42eRuD9K6XAW7wB4itA6lJ506H3hauhsRLRoO.jpg&g=sm&h=400&resize=fill&w=400"
-      ],
-      "summary": "台灣又有新遊樂園！「全民免費入園」1.5公頃設施豐富、交通便利，今年這時間開幕 | 蔡惠芯 | 風生活。高雄家長們引頸期盼的休閒新指標即將誕生！根據《自由時報》報導，高市議員鄭光峰昨（10）日在質詢中特別關注「高雄親子遊樂園」的最新工程進度。對此，高雄市公園處長林燦銘給出正面回應，表示園區預計於今年 6 月正式完工，在完成相關驗收程序後， 最快可望於 7 月至 8 月間對外開放， 為南台灣的盛夏增添一處遮風避雨的親子活動首選。這座備受矚目的親子園區，選址於鳳山與苓雅交界處的「臺鐵高雄機廠」舊址。工務局巧妙運用舊廠房的高挑空間，打造出佔地約 1.5 公頃的半室內遊樂場域。這項設計不僅保留了工業遺址的歷史感，更解決了高雄夏季炎熱多雨的困擾，讓孩子們無論晴雨都能自在奔跑， 且未來將採取「免門票」形式開放民眾自由進入。為了滿足不同年齡層的成長需求，園區內規劃了極具挑戰性且多元的遊憩設施，包含： 透過多樣化的設施編排，該園區將不再只是幼兒的遊戲場，而是能讓大孩子也玩得盡興的全齡化運動基地。在交通機能方面，園區除原有的武慶二路大門外，更針對搭乘大眾運輸的市民，在武昌路及「輕軌武昌站」附近增設出入口。",
-      "analysis": {
-        "overview": "台灣又有新遊樂園！「全民免費入園」1.5公頃設施豐富、交通便利，今年這時間開幕 | 蔡惠芯 | 風生活。高雄家長們引頸期盼的休閒新指標即將誕生！根據《自由時報》報導，高市議員鄭光峰昨（10）日在質詢中特別關注「高雄親子遊樂園」的最新工程進度。對此，高雄市公園處長林燦銘給出正面回應，表示園區預計於今年 6 月正式完工，在完成相關驗收程序後， 最快可望於 7 月至 8 月間對外開放， 為南台灣的盛夏增添一處遮風避雨的親子活動首選。這座備受矚目的親子園區，選址於鳳山與苓雅交界處的「臺鐵高雄機廠」舊址。工務局巧妙運用舊廠房",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "storm.mg",
-      "tags": [
-        "室內",
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
-      "published_at": "2026-04-11T04:22:00+00:00",
-      "collected_at": "2026-05-22T17:07:19.900543+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-www-ettoday-net-news-20260402-3137187-htm",
-      "title": "兒童節玩遍台中美樂地公園　精選親子放電、特色遊戲場快收下 | ETtoday生活新聞 | ETtoday新聞雲",
-      "url": "https://www.ettoday.net/news/20260402/3137187.htm",
-      "canonical_url": "https://www.ettoday.net/news/20260402/3137187.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8681/e8681868.jpg",
-      "images": [
-        "https://cdn2.ettoday.net/images/8681/e8681868.jpg",
-        "https://cdn2.ettoday.net/images/8681/8681868.jpg",
-        "https://cdn2.ettoday.net/images/8670/8670972.jpg",
-        "https://cdn2.ettoday.net/images/8670/8670967.jpg",
-        "https://cdn2.ettoday.net/images/8670/8670973.jpg",
-        "https://cdn2.ettoday.net/images/8670/8670970.jpg",
-        "https://cdn2.ettoday.net/images/8670/8670974.jpg",
-        "https://www.ettoday.net/source/et_track.php7"
-      ],
-      "summary": "兒童節玩遍台中美樂地公園　精選親子放電、特色遊戲場快收下 | ETtoday生活新聞 | ETtoday新聞雲。台中特色公園一次玩，山海屯城親子放電全攻略。（圖／臺中市政府建設局提供，以下同） 生活中心／綜合報導 兒童節連假將至，還在煩惱帶孩子去哪放電？其實不必遠行，一座公園就能玩上半天。台中近年透過「美樂地計畫」翻轉城市公園樣貌，從森林探險、飛行滑索到航海主題遊戲場，各式主題遊戲場分布在不同區域，不只好玩，也很適合全家停留。以下就精選極具特色，深受孩子歡迎的人氣美樂地公園，今年不妨換個方式出遊，跟著這份親子攻略，從山線到海線，一路玩遍特色遊戲場。后里環保公園「孩籽世界遊戲場」 玩樂中收獲交通安全觀念 山線地區推薦的后里環保公園孩籽世界共融遊戲場，是一處結合「環保、生態、交通學習」三大主題的探索天地，最吸睛的莫過於兩座6公尺高且設有溜滑梯的「種籽遊戲塔」，好玩又刺激，再加上放電必備的跳跳床、鞦韆區，不知不覺就能玩一整個下午。特別的是，遊戲場中規劃了「交通公園」，把馬路情境縮小引入，例如迷你環狀道路、公車視野死角教學區及模擬加油站洗手區等設施，讓孩子一邊騎著滑步車，一邊學習交通安全觀念。",
-      "analysis": {
-        "overview": "兒童節玩遍台中美樂地公園　精選親子放電、特色遊戲場快收下 | ETtoday生活新聞 | ETtoday新聞雲。台中特色公園一次玩，山海屯城親子放電全攻略。（圖／臺中市政府建設局提供，以下同） 生活中心／綜合報導 兒童節連假將至，還在煩惱帶孩子去哪放電？其實不必遠行，一座公園就能玩上半天。台中近年透過「美樂地計畫」翻轉城市公園樣貌，從森林探險、飛行滑索到航海主題遊戲場，各式主題遊戲場分布在不同區域，不只好玩，也很適合全家停留。以下就精選極具特色，深受孩子歡迎的人氣美樂地公園，今年不妨換個方式出遊，跟著這份親子攻略，",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "ettoday.net",
-      "tags": [
-        "看動物",
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-04-02T03:30:00+00:00",
-      "collected_at": "2026-05-27T20:58:53.783104+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-ltn-com-tw-news-life-breakingnews-5389890",
-      "title": "兒童節連假來台中搭「台灣好行」 拍照打卡還可抽機票 - 生活 - 自由時報電子報",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5389890",
-      "canonical_url": "https://news.ltn.com.tw/news/life/breakingnews/5389890",
-      "image_url": "https://img.ltn.com.tw/Upload/news/600/2026/04/01/5389890_1_1.jpg",
-      "images": [
-        "https://img.ltn.com.tw/Upload/news/600/2026/04/01/5389890_1_1.jpg",
-        "https://news.ltn.com.tw/news/life/breakingnews/assets/images/x.png",
-        "https://ad.doubleclick.net/ddm/activity/src=9530821;type=invmedia;cat=ltn_w0;u1=news;u2=生活;u3=5389890;u4=;u5=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1",
-        "https://b.scorecardresearch.com/p?c1=2&c2=18368781&cv=2.0&cj=1",
-        "https://pv6.ltn.com.tw/impression?ano=",
-        "https://cache.ltn.com.tw/images/sexno.png",
-        "https://cache.ltn.com.tw/images/sexyes.png",
-        "https://news.ltn.com.tw/news/life/breakingnews/assets/images/default800.jpg"
-      ],
-      "summary": "兒童節連假來台中搭「台灣好行」 拍照打卡還可抽機票 - 生活 - 自由時報電子報。為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。即日起至4月20日與「台灣好行-555機場快捷線」公車或沿線任一站候車亭合照打卡，並於活動貼文標記好友及留言，即有機會抽中澳門航空「台中－澳門」來回機票。（觀旅局提供） 兒童節連假將至，正是親子出遊的最佳時機！台中市觀光旅遊局推出多項結合「台灣好行」的旅遊活動，即日起至4月20日止，不僅有拍照打卡抽機票活動，更推出海線短影音徵件競賽，最高獎金達新台幣2萬元，鼓勵民眾用影像記錄台中海線魅力，輕鬆規劃一趟兼具樂趣與永續的兒童節旅程。觀旅局表示，即日起至4月20日「大玩台中」Facebook粉絲專頁辦理線上抽獎活動，民眾只要至粉專按讚，並與「台灣好行-555機場快捷線」公車或沿線任一站候車亭合照打卡，並於活動貼文標記好友及留言，即可參加抽獎，4月底將抽出幸運得主，送出澳門航空「台中－澳門」來回機票。請繼續往下閱讀... 此外，還有「2026台灣好行 一路向海旅行趣」創意遊程影片徵件活動，邀請民眾搭乘「台灣好行－679台中活力海洋線」，以短影音形式記錄高美濕地、台中海洋館、梧棲漁港、大甲鎮瀾宮等海線景點風光與人文故事。",
-      "analysis": {
-        "overview": "兒童節連假來台中搭「台灣好行」 拍照打卡還可抽機票 - 生活 - 自由時報電子報。為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。即日起至4月20日與「台灣好行-555機場快捷線」公車或沿線任一站候車亭合照打卡，並於活動貼文標記好友及留言，即有機會抽中澳門航空「台中－澳門」來回機票。（觀旅局提供） 兒童節連假將至，正是親子出遊的最佳時機！台中市觀光旅遊局推出多項結合「台灣好行」的旅遊活動，即日起至4月20日止，不僅有拍照打卡抽機票活動，更推出海線短影音徵件競賽，",
-        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "news.ltn.com.tw",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-      "published_at": "2026-04-01T07:22:00+00:00",
-      "collected_at": "2026-05-22T17:07:20.097396+00:00",
-      "query": "台灣 特色景點 親子 打卡"
-    },
-    {
-      "id": "https-n-yam-com-article-20260321570157",
-      "title": "10米熱氣球現身新埤貓頭鷹共融公園! 屏縣府春分嘉年華打造戶外派對 吸引親子打卡 | 蕃新聞",
-      "url": "https://n.yam.com/Article/20260321570157",
-      "canonical_url": "https://n.yam.com/Article/20260321570157",
-      "image_url": "https://ni.yam.com/20260321/public-ee021344847dfab5.bin",
-      "images": [
-        "https://ni.yam.com/20260321/public-ee021344847dfab5.bin",
-        "https://focusnews.com.tw/wp-content/uploads/2026/03/1089526_0-800x534.jpg",
-        "https://focusnews.com.tw/wp-content/uploads/2026/03/1089525_0-800x534.jpg",
-        "https://ni.yam.com/20260321/public-d5f08a2fcb7df17d.bin",
-        "https://ni.yam.com/20260321/public-c5613156f2405126.bin",
-        "https://ni.yam.com/20260321/public-7ee524a27cf28785.bin",
-        "https://img.hoomedia.com.tw/2026/03/fd03f393c0b2f0069017a2f33aff7646.jpg",
-        "https://ni.yam.com/20260321/public-01432b8be48de160.bin"
-      ],
-      "summary": "10米熱氣球現身新埤貓頭鷹共融公園! 屏縣府春分嘉年華打造戶外派對 吸引親子打卡 | 蕃新聞。【今傳媒/記者李祖東報導】 今年屏東縣政府推出全新活動「春分新埤－熱氣球嘉年華」，於3月21至22日在新埤貓頭鷹共融公園熱鬧登場，現場高達10米的大型熱氣球，吸引不少大、小朋友前來拍照打卡，屏東縣政府邀請鄉親把握機會，走訪新埤賞熱氣球、感受春天的美好時光。活動首日一早就吸引許多家庭到場踏青、欣賞色彩繽紛的熱氣球，現場還可走進熱氣球近距離體驗、拍照打卡，現場除展示多款熱氣球裝置藝術外，還有市集活動，不少人坐在草地上休憩、聊天，享受悠閒的戶外時光，氣氛熱鬧且充滿活力。屏東縣政府表示，新埤貓頭鷹共融公園自今(115)年1月啟用至今，已成為親子旅遊、奔跑放電的新景點，園區內設有巨大貓頭鷹溜滑梯、大草原與生態埤塘，為讓這座兼具遊憩與教育意義的腹地有更多元體驗，今年特別舉辦熱氣球嘉年華，讓民眾在屏東也能感受熱氣球升空的魅力。「春分新埤－熱氣球嘉年華」共規劃了熱氣球展示、走進熱氣球體驗，以及迷你遙控熱氣球升空表演等多項活動，讓旅客能近距離接觸熱氣球，也盼藉由活動帶動地方觀光，讓更多人認識新埤的自然環境與特色景點。",
-      "analysis": {
-        "overview": "10米熱氣球現身新埤貓頭鷹共融公園! 屏縣府春分嘉年華打造戶外派對 吸引親子打卡 | 蕃新聞。【今傳媒/記者李祖東報導】 今年屏東縣政府推出全新活動「春分新埤－熱氣球嘉年華」，於3月21至22日在新埤貓頭鷹共融公園熱鬧登場，現場高達10米的大型熱氣球，吸引不少大、小朋友前來拍照打卡，屏東縣政府邀請鄉親把握機會，走訪新埤賞熱氣球、感受春天的美好時光。活動首日一早就吸引許多家庭到場踏青、欣賞色彩繽紛的熱氣球，現場還可走進熱氣球近距離體驗、拍照打卡，現場除展示多款熱氣球裝置藝術外，還有市集活動，不少人坐在草地上休憩、聊天",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 室內活動比較不受天氣影響，適合當雨天或高溫備案。 動物互動與自然觀察能提高孩子參與感。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 熱門時段可能人多，互動設施也可能需要排隊。 互動體驗可能有時段限制，也要留意清潔與洗手動線。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 可先預約或確認場次，並安排附近用餐點。 出發前確認餵食、互動體驗與休園時間。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "n.yam.com",
-      "tags": [
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-03-21T05:29:00+00:00",
-      "collected_at": "2026-05-22T17:07:20.331528+00:00",
-      "query": "台灣 特色景點 親子 打卡"
-    },
-    {
-      "id": "https-tw-news-yahoo-com-10-e7-b1-b3-e7-86-b1-e6-b0-a3-e7-90-83-e7-8f-be-e8-ba-ab",
-      "title": "10米熱氣球現身新埤貓頭鷹共融公園 吸引親子打卡",
-      "url": "https://tw.news.yahoo.com/10%E7%B1%B3%E7%86%B1%E6%B0%A3%E7%90%83%E7%8F%BE%E8%BA%AB%E6%96%B0%E5%9F%A4%E8%B2%93%E9%A0%AD%E9%B7%B9%E5%85%B1%E8%9E%8D%E5%85%AC%E5%9C%92-%E5%90%B8%E5%BC%95%E8%A6%AA%E5%AD%90%E6%89%93%E5%8D%A1-222200644.html",
-      "canonical_url": "https://tw.news.yahoo.com/10%E7%B1%B3%E7%86%B1%E6%B0%A3%E7%90%83%E7%8F%BE%E8%BA%AB%E6%96%B0%E5%9F%A4%E8%B2%93%E9%A0%AD%E9%B7%B9%E5%85%B1%E8%9E%8D%E5%85%AC%E5%9C%92-%E5%90%B8%E5%BC%95%E8%A6%AA%E5%AD%90%E6%89%93%E5%8D%A1-222200644.html",
-      "image_url": "https://s.yimg.com/os/ko/taiwanhot.net.tw/2ba4c49ff4b558c40f744c3b948d74c0",
-      "images": [
-        "https://s.yimg.com/os/ko/taiwanhot.net.tw/2ba4c49ff4b558c40f744c3b948d74c0",
-        "https://s.yimg.com/ny/api/res/1.2/6ZbtcNdttz6v9C5imSEreQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2018-11/67dd2210-ed42-11e8-aff3-9d3d95fbbef3",
-        "https://s.yimg.com/ny/api/res/1.2/sJu6U46eaZVPO6ZfO2Sv9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/ko/taiwanhot.net.tw/2ba4c49ff4b558c40f744c3b948d74c0",
-        "https://s.yimg.com/lo/mysterio/api/1102FA1BC345E3AB0E2F67A54885076B36DC5E7FE5BC1B3259A3BF12D1A53BDC/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fmirrormedia.mg%2Fabd1febcb82daa6f42f65d6aa598420d",
-        "https://s.yimg.com/lo/mysterio/api/755595EFFEC113164F8D3013263BC62E200BF041F856212A7A30A80E3B14376F/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F8197cfa6e3e978fb3d09ad37a0105533",
-        "https://s.yimg.com/lo/mysterio/api/5381D383C38DFF7CB7C4452454D2721A8A9B0EB64F404BCEE5A845A919D13F21/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2Fead32bd0098df2a8cf9ded24a798b9ca",
-        "https://s.yimg.com/lo/mysterio/api/A47CAF9B52DF2178640007AD43B6B13AA63C2EFA819F46675C1E2EAEEA2C787A/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2Ffbb5d4e5cea35b22906475af8c3f925e",
-        "https://s.yimg.com/lo/mysterio/api/76FFA555CAB5E9CE8BCF057DCE9C957614E0D3AA5D4ACC8B7588725BE4BEDC91/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F65939a15174bb685cb116a5158ba713b"
-      ],
-      "summary": "10米熱氣球現身新埤貓頭鷹共融公園 吸引親子打卡。首頁 新聞 股市 運動 TV 汽機車 購物中心 拍賣 氣象 App 下載 搜尋 登入 焦點 即時 娛樂影劇 國際 政治 社會地方 財經 運動 玩樂 品味 健康 遊戲3C 更多專輯 焦點 每日Yahoo焦點 Yahoo畫重點 Yahoo補助通 Yahoo獨家授權 熱門新聞 天氣 民調 專輯 Yahoo國際通 合作媒體 即時 娛樂即時 國際即時 政治即時 社會即時 財經即時 生活即時 運動即時 科技即時 健康即時 娛樂影劇 2026演唱會指南 Yahoo特派 日韓新聞 院線電影 追劇情報 啦啦隊女孩 星座運勢 國際 美國伊朗交火 中港澳 亞澳 美洲 歐非 德國之聲 BBC中文 Yahoo國際通 政治 2026九合一選舉 Yahoo論壇 立法院直播 社會地方 全民打詐 全台即時水情 全台即時用電 永續愛地球 大台北 ",
-      "analysis": {
-        "overview": "10米熱氣球現身新埤貓頭鷹共融公園 吸引親子打卡。首頁 新聞 股市 運動 TV 汽機車 購物中心 拍賣 氣象 App 下載 搜尋 登入 焦點 即時 娛樂影劇 國際 政治 社會地方 財經 運動 玩樂 品味 健康 遊戲3C 更多專輯 焦點 每日Yahoo焦點 Yahoo畫重點 Yahoo補助通 Yahoo獨家授權 熱門新聞 天氣 民調 專輯 Yahoo國際通 合作媒體 即時 娛樂即時 國際即時 政治即時 社會即時 財經即時 生活即時 運動即時 科技即時 健康即時 娛樂影劇 2026演唱會指南 Yahoo特派 日韓新聞 ",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "tw.news.yahoo.com",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "新埤貓頭鷹共融公園設有10米高熱氣球打卡點與共融遊具，讓孩子盡情放電玩樂，爸媽也能輕鬆陪小孩消耗體力。",
-      "published_at": "2026-03-20T17:00:00+00:00",
-      "collected_at": "2026-05-23T07:44:33.565681+00:00",
-      "query": "台灣 特色景點 親子 打卡"
-    },
-    {
-      "id": "https-www-nownews-com-news-6796093",
-      "title": "台灣最強景點出爐了！冠軍2025吸3881萬遊客 桃園3景點擠進前10 | 生活 | NOWnews今日新聞",
-      "url": "https://www.nownews.com/news/6796093",
-      "canonical_url": "https://www.nownews.com/news/6796093",
-      "image_url": "https://media.nownews.com/nn_media/thumbnail/2025/09/1757918710369-5d8488101ef04c13b53740ed0e9d26e1-741x520.webp?unShow=false",
-      "images": [
-        "https://www.nownews.com/NOWnews/images/app-promote.webp",
-        "https://media.nownews.com/nn_media/thumbnail/2025/09/1757918710369-5d8488101ef04c13b53740ed0e9d26e1-741x520.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/03/1773563957021-fa069c30d07546e9bf8f98a328c91d3a-500x896.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2022/04/1649123911428-826c783fd39f42bbb76f30acc4ad8a56-500x375.jpg?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/02/1771722735703-d96385bbe3f04dccb86c00a05e175dca-500x250.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2025/01/1737924909763-fa2f7501e2ee4058969405534a930bc2-500x375.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/05/1779434826256-3213a436767540bdb2c27bb44a974fee-500x333.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/04/1776003322603-26f0bd3f768e40df98fff977ec2bc526-500x352.webp?unShow=false"
-      ],
-      "summary": "台灣最強景點出爐了！冠軍2025吸3881萬遊客 桃園3景點擠進前10 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 潘毅 ／綜合報導 ▲在2025年台灣最強景點排行中，台北市最強景點西門町只能排在第四名。（圖/台北旅遊觀光網） ✕ 台灣最強景點榜單正式底定！據觀光署近期公布的2025年統計數據，遊客人次最多的景點由新北市「新北大都會公園」拿下冠軍，12個月累積3881萬遊客人次。到了2026年仍持續吸引人潮，甩開全台其他景點。而前10名當中，以桃園市擁有最多「千萬人次等級」景點，就連台北101也只排到第8名。《NOWNEWS》也整理出台灣最強景點前10名，並彙整出最強景點吸引人潮的原因！我是廣告 請繼續往下閱讀 --> 2025年台灣最強景點確定了！（圖／Gemin生成，記者潘毅監製） 綜觀上述榜單，排名靠前的多半不是需要收門票的景點，而是與大眾運輸結合、能運動、能逛街與品嚐美食的「複合式場域」。",
-      "analysis": {
-        "overview": "台灣最強景點出爐了！冠軍2025吸3881萬遊客 桃園3景點擠進前10 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 潘毅 ／綜合報導 ▲在2025年台灣最強景點排行中，台北市最強景點西門町只能排在第四名。（圖/台北旅遊觀光網） ✕ 台灣最強景點榜單正式底定！據觀光署近期公布的2025年統計數據，遊客人次最多的景點由新北市「新北大",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "nownews.com",
-      "tags": [
-        "放電",
-        "大自然"
-      ],
-      "reason": "新北大都會公園腹地超廣、超長草皮，孩子可以盡情奔跑放電，且捷運三重站直達、推車好推，適合帶小孩來野餐踏青消耗體力。",
-      "published_at": "2026-03-15T09:43:00+00:00",
-      "collected_at": "2026-05-24T08:04:19.073626+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-www-ettoday-net-news-20260313-3131832-htm",
-      "title": "占地1.5公頃！高雄首座半室內親子樂園拚6月完工　園內設施曝光 | ETtoday地方新聞 | ETtoday新聞雲",
-      "url": "https://www.ettoday.net/news/20260313/3131832.htm",
-      "canonical_url": "https://www.ettoday.net/news/20260313/3131832.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8657/e8657592.jpg",
-      "images": [
-        "https://cdn2.ettoday.net/images/8657/e8657592.jpg",
-        "https://cdn2.ettoday.net/images/8657/d8657592.jpg",
-        "https://cdn2.ettoday.net/images/8657/d8657586.jpg",
-        "https://cdn2.ettoday.net/images/8657/d8657587.jpg",
-        "https://cdn2.ettoday.net/images/8657/d8657588.jpg",
-        "https://cdn2.ettoday.net/images/8657/d8657589.jpg",
-        "https://cdn2.ettoday.net/images/8657/d8657584.jpg",
-        "https://cdn2.ettoday.net/images/8657/d8657585.jpg"
-      ],
-      "summary": "占地1.5公頃！高雄首座半室內親子樂園拚6月完工　園內設施曝光 | ETtoday地方新聞 | ETtoday新聞雲。（圖／記者賴文萱翻攝） 記者賴文萱／高雄報導 高雄親子新景點+1！高雄市工務局推動高雄機廠舊廠房改造，打造一處兼具規模與特色的半室內親子遊樂空間，目前工程實際進度達67.84%，超前4.27%。高雄市副市長林欽榮今（13）日率領工務團隊前往工地視察，指示工程務必於6月如期完工，屆時將全面免費開放使用，以供市民朋友能夠攜家帶眷在今年暑假有個全新體驗。▲▼高雄首座半室內親子樂園工程進度超前，拚6月完工。（圖／記者賴文萱翻攝） 高雄機廠舊廠房變身半室內遊樂園 完工後免費開放 台鐵高雄機廠位於苓雅、鳳山交界，曾是台灣經濟發展的重要運輸據點，但隨著機廠遷至潮州，原址閒置多年。市府為活化此區域，推動都市計畫變更及重劃作業，親子遊樂園區正是活化的第一步。園區保留貨車工場建築原貌，延續鐵道紋理的歷史記憶，同時活化再利用廠內設施，兼顧文化保存與現代休憩需求。副市長林欽榮今日率領工務團隊前往工地視察，目前工程實際進度達67.84%，超前4.27%。",
-      "analysis": {
-        "overview": "占地1.5公頃！高雄首座半室內親子樂園拚6月完工　園內設施曝光 | ETtoday地方新聞 | ETtoday新聞雲。（圖／記者賴文萱翻攝） 記者賴文萱／高雄報導 高雄親子新景點+1！高雄市工務局推動高雄機廠舊廠房改造，打造一處兼具規模與特色的半室內親子遊樂空間，目前工程實際進度達67.84%，超前4.27%。高雄市副市長林欽榮今（13）日率領工務團隊前往工地視察，指示工程務必於6月如期完工，屆時將全面免費開放使用，以供市民朋友能夠攜家帶眷在今年暑假有個全新體驗。▲▼高雄首座半室內親子樂園工程進度超前，拚6月完工。",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "ettoday.net",
-      "tags": [
-        "室內",
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
-      "published_at": "2026-03-13T10:59:00+00:00",
-      "collected_at": "2026-05-22T17:07:22.583329+00:00",
-      "query": "台灣 遊樂園 親子 最新"
     }
   ]
 }
