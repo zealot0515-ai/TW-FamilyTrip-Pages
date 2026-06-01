@@ -1,8 +1,37 @@
 {
-  "updated_at": "2026-06-01T19:17:35.794545+00:00",
+  "updated_at": "2026-06-01T22:27:04.055069+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-www-ctee-com-tw-news-20260602700353-439901",
+      "title": "綠舞觀光飯店 推親子暑期度假方案",
+      "url": "https://www.ctee.com.tw/news/20260602700353-439901",
+      "canonical_url": "https://www.ctee.com.tw/news/20260602700353-439901",
+      "image_url": "https://images.ctee.com.tw/newsphoto/2026-06-02/1024/A40AC4_PictureItem_Clipping_05_3.jpg",
+      "images": [
+        "https://sb.scorecardresearch.com/p?c1=2&c2=9457284&cv=4.4.0&cj=1",
+        "https://images.ctee.com.tw/newsphoto/2026-06-02/1024/A40AC4_PictureItem_Clipping_05_3.jpg",
+        "https://images.ctee.com.tw/newsphoto/2026-05-18/Miscellaneous/h20260518639146662272258416.jpg"
+      ],
+      "summary": "綠舞觀光飯店 推親子暑期度假方案。已將目前網頁的網址複製到您的剪貼簿！迎接暑假旅遊旺季，榮獲全台最美親子飯店大賞的宜蘭綠舞國際觀光飯店，自即日起至7月31日推出「暑於你的假期」住房專案，提供一泊三食及多項園區體驗，每人2,500元起，8月31日前入住享早鳥優惠，滿足親子家庭旅遊需求。該專案規劃雙人客房、四人客房、六人極景套房及Villa系列。其中，雙人房適合情侶與好友輕旅行；四人房則為親子家庭熱門選擇；「漓」六人套房可滿足多人需求；Villa系列則提供獨立空間與度假氛圍，平日入住還可享免費升等優惠。旅客入住期間可挑選四項經典體驗四選一，包含「卡比巴拉躍湖號」滑索體驗，並，可換穿日式浴衣漫步園區、體驗Sasa Play灑畫創作、平日及旺日入住再加贈黑RURU CAFE與笑笑羊互動並享午茶時光，或至擼LALA Sweets享受貓咪陪伴的療癒時光。客房房型提供雙人體驗，套房及Villa則依房型人數安排。另外旅客可選擇「日光璽舞」雙人日式擔擔風味鍋或關東風壽喜燒；套房與Villa房型則升級提供主廚御膳套餐，以海陸主餐搭配多道日式料理，呈現日式餐席儀式感。",
+      "analysis": {
+        "overview": "綠舞觀光飯店 推親子暑期度假方案。已將目前網頁的網址複製到您的剪貼簿！迎接暑假旅遊旺季，榮獲全台最美親子飯店大賞的宜蘭綠舞國際觀光飯店，自即日起至7月31日推出「暑於你的假期」住房專案，提供一泊三食及多項園區體驗，每人2,500元起，8月31日前入住享早鳥優惠，滿足親子家庭旅遊需求。該專案規劃雙人客房、四人客房、六人極景套房及Villa系列。其中，雙人房適合情侶與好友輕旅行；四人房則為親子家庭熱門選擇；「漓」六人套房可滿足多人需求；Villa系列則提供獨立空間與度假氛圍，平日入住還可享免費升等優惠。旅客入住期間可挑",
+        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "價格與房型差異大，親子設施也可能需預約。",
+        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "ctee.com.tw",
+      "tags": [
+        "放電",
+        "看動物",
+        "室內"
+      ],
+      "reason": "館內設有卡皮巴拉滑索、笑笑羊與貓咪互動等多項體驗，孩子能放電同時近距離接觸動物，雨天備案也無後顧之憂。",
+      "published_at": "2026-06-01T12:00:00+00:00",
+      "collected_at": "2026-06-01T22:26:37.683493+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte1xz0tltmdjdk1ntvjjwlpxvxbyvxy3y",
       "title": "免費景點大集合！ 新北257座共融公園陪孩子放電一整天",
@@ -450,6 +479,32 @@
       "query": "台灣 親子旅遊 最新"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmixefvx3lxte1bv2zmotldugz0cepysxhjelp4mfhvz",
+      "title": "端午連假出遊首選！ 親子慢遊嘉義大林「中藥文化+主題工廠」小旅行",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BV2ZmOTlDUGZ0cEpySXhjelp4MFhvZGQtblFHRDJsMTFkaS1OVnRQWjlOQ1BUVkVIVllJb0lHNERGVFZVZTgtcWIzMlZYMVN0MGFzaV9ycGRyanFn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BV2ZmOTlDUGZ0cEpySXhjelp4MFhvZGQtblFHRDJsMTFkaS1OVnRQWjlOQ1BUVkVIVllJb0lHNERGVFZVZTgtcWIzMlZYMVN0MGFzaV9ycGRyanFn?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "端午連假出遊首選！ 親子慢遊嘉義大林「中藥文化+主題工廠」小旅行。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "端午連假出遊首選！ 親子慢遊嘉義大林「中藥文化+主題工廠」小旅行。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "主題工廠提供DIY互動體驗，室內空間不受天氣影響，可做雨天備案，且通常設有洗手間與休息區，親子同樂輕鬆無負擔。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "UDN",
+      "tags": [
+        "好玩",
+        "室內"
+      ],
+      "reason": "主題工廠提供DIY互動體驗，室內空間不受天氣影響，可做雨天備案，且通常設有洗手間與休息區，親子同樂輕鬆無負擔。",
+      "published_at": "2026-05-31T00:00:47+00:00",
+      "collected_at": "2026-06-01T22:26:46.666169+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmixkfvx3lxte9hmdf3ymfonejfyjhheewwwwpqyl9en",
       "title": "爽吃23道澎湖海鮮吃到飽！2026新竹親子飯店推薦，煙波湖濱館生態房費用行程攻略。|美食",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hMDF3YmFONEJfYjhheEwwWWpQYl9EN01mOTY1QTZzX0NMOWZtYkJkc3NkcEx5dzZrbkVORHRCZzB1WVQ5TVpQZEo0U1ZpMnBYMldOQXF6MjRwS05jeHc?oc=5",
@@ -500,6 +555,40 @@
       "published_at": "2026-05-30T13:40:00+00:00",
       "collected_at": "2026-05-30T16:13:52.446031+00:00",
       "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-www-storm-mg-article-11136959",
+      "title": "台灣最新樂園今天開幕！景色絕美、2.9公頃超多設施免費玩，地點開放時間一次看 | 蔡惠芯 | 風生活",
+      "url": "https://www.storm.mg/article/11136959",
+      "canonical_url": "https://www.storm.mg/article/11136959",
+      "image_url": "https://images.storm.mg/cloud/55655b3d44c4cea1b797bb55c18ba481dae30868.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2088106%2FEsyFYVn07rvvDBVVR8tNAx0Bex7wUfvNHoEoAknw.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
+      "images": [
+        "https://images.storm.mg/cloud/55655b3d44c4cea1b797bb55c18ba481dae30868.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2088106%2FEsyFYVn07rvvDBVVR8tNAx0Bex7wUfvNHoEoAknw.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
+        "https://images.storm.mg/webSiteSetting/13/HiDCWacecnqhKNXuGKkKhXQBPz5nFF6dEczk9ZbU.png",
+        "https://images.storm.mg/cloud/55655b3d44c4cea1b797bb55c18ba481dae30868.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2088106%2FEsyFYVn07rvvDBVVR8tNAx0Bex7wUfvNHoEoAknw.jpg&g=sm&h=675&resize=fill&w=1200&format=webp",
+        "https://images.storm.mg/cloud/71d72107494275eacfe0884c237f27fbdf7d8562.webp?url=https%3A%2F%2Fimage.cache.storm.mg%2Fstyles%2Fsmg-150x150-fp%2Fs3%2Fdefault_images%2Fdefault_author_1.png%3Fitok%3DwlNRUDRB&g=sm&h=144&resize=fill&w=144",
+        "https://images.storm.mg/cloud/6229fdad540d34607d22c456b6b7489e320119f1.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2054357%2FZtKa6ShRvWyMcL6bJ59kLzEl1Jp8b12KEMPRvxTR.jpg&g=sm&h=400&resize=fill&w=400",
+        "https://images.storm.mg/cloud/7cafe93d55475fab0de4922d56d4a06c09519c5f.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2064718%2FR86GU09qctqaX3093RQiZeBgQEe5lUdMTyeCtrlm.jpg&g=sm&h=400&resize=fill&w=400",
+        "https://images.storm.mg/cloud/c364c49b5124e120127d9225578d4ac802e21958.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2129056%2FxnZTPSf0Ri9E2mGWEDUkR7s0g47Fmzzfqm4SwyOx.jpg&g=sm&h=400&resize=fill&w=400",
+        "https://images.storm.mg/cloud/be96c10dd19be85a130e378a598e8dcdf26d9b49.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2159875%2F1MZRWcNrbtxoQ9yzAIAJUzWdU48L0FAdSgCPrtnM.jpg&g=fp&h=400&resize=fill&w=400&x=0.45&y=0.5"
+      ],
+      "summary": "台灣最新樂園今天開幕！景色絕美、2.9公頃超多設施免費玩，地點開放時間一次看 | 蔡惠芯 | 風生活。南台灣的家長們準備好帶孩子衝一波放電了嗎？隨著夏季氣溫不斷飆升，高雄最矚目的免費消暑勝地正式登場！坐落於亞洲新灣區、高雄展覽館旁的「星光水岸公園戲水區」，經歷全面性的軟硬體升級改造，正式宣布於 5 月 30 日華麗回歸。這座占地廣闊的親水公園以「水陸雙主題」重新亮相，不僅擴大了戲水空間，更狂加碼全新滑水道、水上鞦韆等互動遊具，是大人小孩都能輕鬆玩樂的水上樂園。去年短暫試營運 3 天就創下狂吸 8 萬人次朝聖的驚人紀錄，本文特別為您整理最新亮點設施與輕軌交通指南，讓您搶先直擊這座坐擁無敵港灣夕陽的夏日天堂！配合高雄市「亞灣 2.0 計畫」與 5G IoT 創新園區的推動，市府精心優化長達 85 公尺的臨水岸綠帶空間。星光水岸公園總面積達 2.9 公頃，其中光是亮點焦點「戲水遊戲區」就占地廣達 1.3 公頃，完美串聯起水岸廊道與港都天際線。工務局表示，本次改造採取「新舊並存、亮點加碼」的設計思維，將趣味互動與絕美地景完美融合。造霧拱門： 營造如仙境般的清涼水霧。",
+      "analysis": {
+        "overview": "台灣最新樂園今天開幕！景色絕美、2.9公頃超多設施免費玩，地點開放時間一次看 | 蔡惠芯 | 風生活。南台灣的家長們準備好帶孩子衝一波放電了嗎？隨著夏季氣溫不斷飆升，高雄最矚目的免費消暑勝地正式登場！坐落於亞洲新灣區、高雄展覽館旁的「星光水岸公園戲水區」，經歷全面性的軟硬體升級改造，正式宣布於 5 月 30 日華麗回歸。這座占地廣闊的親水公園以「水陸雙主題」重新亮相，不僅擴大了戲水空間，更狂加碼全新滑水道、水上鞦韆等互動遊具，是大人小孩都能輕鬆玩樂的水上樂園。去年短暫試營運 3 天就創下狂吸 8 萬人次朝聖的驚人紀",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "storm.mg",
+      "tags": [
+        "放電",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "占地2.9公頃、1.3公頃戲水區含滑水道與水上鞦韆，適合孩童盡情放電，且免費開放、交通便利。",
+      "published_at": "2026-05-30T07:37:00+00:00",
+      "collected_at": "2026-06-01T22:26:59.327330+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmi7wnbvv95cuxqm1b6m3fwnnm4cllcdvhqdthac3ruv",
@@ -752,84 +841,6 @@
       "published_at": "2026-05-29T17:00:00+00:00",
       "collected_at": "2026-05-31T08:31:40.840105+00:00",
       "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiokfvx3lxte14awnrwvotr2pjmtfwotlkedlxrgpxv",
-      "title": "日本海外唯一授權歡慶鈴鹿賽道樂園來台10週年 SKM Park Outlets 高雄草衙串聯全館同慶迎暑假",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE14aWNRWVotR2pjMTFwOTlkeDlxRGpXVkVPNzVKQ2g1eGVGbDg5V3NQU3RIdXZ6bUhYc0E?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE14aWNRWVotR2pjMTFwOTlkeDlxRGpXVkVPNzVKQ2g1eGVGbDg5V3NQU3RIdXZ6bUhYc0E?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "日本海外唯一授權歡慶鈴鹿賽道樂園來台10週年 SKM Park Outlets 高雄草衙串聯全館同慶迎暑假。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "日本海外唯一授權歡慶鈴鹿賽道樂園來台10週年 SKM Park Outlets 高雄草衙串聯全館同慶迎暑假。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "ENN台灣電報",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "鈴鹿賽道樂園是日本海外唯一授權，有卡丁車與多項遊樂設施，空間開闊好放電，結合OUTLET購物與美食，適合全家待上一整天。",
-      "published_at": "2026-05-29T12:02:29+00:00",
-      "collected_at": "2026-05-29T20:43:10.202409+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5vumntuxu4eg9ftlrmqwhkaxfjqknaq",
-      "title": "歡慶鈴鹿賽道樂園來台10週年 SKM Park Outlets 高雄草衙串聯全館同慶迎暑假",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VUmNtUXU4eG9fTlRMQWhkaXFjQkNaQS01QTcyT002S1paeEs1T3R2djhGNl9Va0JlU1JCOGVfWWFDRWpRNnhoWDJaRU5MNHhhOGc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VUmNtUXU4eG9fTlRMQWhkaXFjQkNaQS01QTcyT002S1paeEs1T3R2djhGNl9Va0JlU1JCOGVfWWFDRWpRNnhoWDJaRU5MNHhhOGc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "歡慶鈴鹿賽道樂園來台10週年 SKM Park Outlets 高雄草衙串聯全館同慶迎暑假。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "歡慶鈴鹿賽道樂園來台10週年 SKM Park Outlets 高雄草衙串聯全館同慶迎暑假。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "鈴鹿賽道樂園有卡丁車賽道與多項遊樂設施，結合Outlets商場，適合帶小孩放電兼逛街，附設餐廳與廁所，暑假活動多元。",
-      "published_at": "2026-05-29T11:05:00+00:00",
-      "collected_at": "2026-05-30T16:14:26.460057+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiy0fvx3lxte5xttrlrxzlsfvgswjqt25ivli3mwpte",
-      "title": "日本海外唯一授權歡慶鈴鹿賽道樂園來台10週年 SKM Park Outlets 高雄草衙串聯全館同慶迎暑假",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xTTRlRXZlSFVGSWJQT25iVlI3MWpteko5akVMTEJXV2pzZ3UwTHZLdGtsSldOU0JmMmhScVk0MEhnREtYRXNOeXB4N2hIX0JpVW9OSWxuaUVsWlR4TFhVNEU1SQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xTTRlRXZlSFVGSWJQT25iVlI3MWpteko5akVMTEJXV2pzZ3UwTHZLdGtsSldOU0JmMmhScVk0MEhnREtYRXNOeXB4N2hIX0JpVW9OSWxuaUVsWlR4TFhVNEU1SQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "日本海外唯一授權歡慶鈴鹿賽道樂園來台10週年 SKM Park Outlets 高雄草衙串聯全館同慶迎暑假。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "日本海外唯一授權歡慶鈴鹿賽道樂園來台10週年 SKM Park Outlets 高雄草衙串聯全館同慶迎暑假。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "波新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "日本海外唯一授權鈴鹿賽道樂園10週年慶典，室內外遊樂設施完善，雨天也有遮蔽備案，Outlets停車方便且附設餐飲，爸媽小孩都能盡興。",
-      "published_at": "2026-05-29T11:05:00+00:00",
-      "collected_at": "2026-05-31T16:41:28.902520+00:00",
-      "query": "台灣 遊樂園 親子 最新"
     }
   ]
 }
