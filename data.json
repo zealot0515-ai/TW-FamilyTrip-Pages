@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-06-05T11:01:44.387887+00:00",
+  "updated_at": "2026-06-05T19:14:02.124855+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte1qakjhqtvmv3n0dnfwt01nrvlhethny",
+      "title": "打造親子共享幸福場域 平鎮廣達公園共融遊戲場啟用 | 台灣好新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qakJHQTVmV3N0dnFwT01NRVlHeThnYmFSVDJLUmQ3TUJnZlZGQ1d1NXhwbU92Vjk3U2hnQXh6N3Fxa19YdjRuMnlidWQzZjdidFlZU25B?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qakJHQTVmV3N0dnFwT01NRVlHeThnYmFSVDJLUmQ3TUJnZlZGQ1d1NXhwbU92Vjk3U2hnQXh6N3Fxa19YdjRuMnlidWQzZjdidFlZU25B?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "打造親子共享幸福場域 平鎮廣達公園共融遊戲場啟用 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "打造親子共享幸福場域 平鎮廣達公園共融遊戲場啟用 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "放電",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "共融遊戲場設計適合各年齡層孩童，爸媽可放心讓孩子盡情放電；公園腹地寬廣，設施新穎，親子可邊玩邊親近自然。",
+      "published_at": "2026-06-05T08:07:28+00:00",
+      "collected_at": "2026-06-05T19:13:38.408475+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiyefvx3lxte5qrffgrlvydhjfee9jwfo4qu9kvnfpq",
       "title": "暑假親子放電趣！嘉義中埔餵萌寵、玩手作、戶外探索一次玩遍",
@@ -747,6 +774,32 @@
       "query": "台灣 動物農場 親子 景點"
     },
     {
+      "id": "https-www-msn-com-zh-tw-news-other-e5-8f-b0-e4-b8-ad-e8-a6-aa-e5-ad-90-e6-94-be-",
+      "title": "台中親子放電首選! 豐原一日遊餵小羊、騎鐵馬，爆量海鮮粥必收藏。",
+      "url": "https://www.msn.com/zh-tw/news/other/%E5%8F%B0%E4%B8%AD%E8%A6%AA%E5%AD%90%E6%94%BE%E9%9B%BB%E9%A6%96%E9%81%B8-%E8%B1%90%E5%8E%9F%E4%B8%80%E6%97%A5%E9%81%8A%E9%A4%B5%E5%B0%8F%E7%BE%8A-%E9%A8%8E%E9%90%B5%E9%A6%AC-%E7%88%86%E9%87%8F%E6%B5%B7%E9%AE%AE%E7%B2%A5%E5%BF%85%E6%94%B6%E8%97%8F/ar-AA24MoSK",
+      "canonical_url": "https://www.msn.com/zh-tw/news/other/%E5%8F%B0%E4%B8%AD%E8%A6%AA%E5%AD%90%E6%94%BE%E9%9B%BB%E9%A6%96%E9%81%B8-%E8%B1%90%E5%8E%9F%E4%B8%80%E6%97%A5%E9%81%8A%E9%A4%B5%E5%B0%8F%E7%BE%8A-%E9%A8%8E%E9%90%B5%E9%A6%AC-%E7%88%86%E9%87%8F%E6%B5%B7%E9%AE%AE%E7%B2%A5%E5%BF%85%E6%94%B6%E8%97%8F/ar-AA24MoSK",
+      "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "台中親子放電首選! 豐原一日遊餵小羊、騎鐵馬，爆量海鮮粥必收藏。。週末帶孩子走向戶外，安排一趟豐原小旅行！從動物農場到鐵馬道風景，沿途還有懷舊景點與在地美食，吃喝玩樂都有亮點。週末想與孩子增進感情，來趟簡單的一日遊再適合不過！無論是孩子喜愛的近距離動物互動，或是能放鬆身心的騎鐵馬體驗，豐原這座城鎮都能滿足。不需排隊趕場，而是在廟東小吃、懷舊老街與舊鐵道風景間，尋覓一段好吃、好玩、好好休息的親子時光。開吃廟東排骨麵，人氣在地老字號 抵達豐原的第一站，當然得先從 ...",
+      "analysis": {
+        "overview": "台中親子放電首選! 豐原一日遊餵小羊、騎鐵馬，爆量海鮮粥必收藏。。週末帶孩子走向戶外，安排一趟豐原小旅行！從動物農場到鐵馬道風景，沿途還有懷舊景點與在地美食，吃喝玩樂都有亮點。週末想與孩子增進感情，來趟簡單的一日遊再適合不過！無論是孩子喜愛的近距離動物互動，或是能放鬆身心的騎鐵馬體驗，豐原這座城鎮都能滿足。不需排隊趕場，而是在廟東小吃、懷舊老街與舊鐵道風景間，尋覓一段好吃、好玩、好好休息的親子時光。開吃廟東排骨麵，人氣在地老字號 抵達豐原的第一站，當然得先從 ...",
+        "pros": "動物互動與自然觀察能提高孩子參與感。",
+        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
+        "tips": "出發前確認餵食、互動體驗與休園時間。"
+      },
+      "source_name": "msn.com",
+      "tags": [
+        "放電",
+        "看動物",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "近距離餵小羊滿足孩子好奇心，鐵馬道風景優美適合全家騎乘透氣，廟東美食匯集讓大人小孩都吃得盡興，是週末放電的好去處。",
+      "published_at": "2026-06-03T17:00:00+00:00",
+      "collected_at": "2026-06-05T19:13:52.013279+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte90tvlhczbvdhjurtfnnwkzlwvinwhqd",
       "title": "[理想大地陪親子走進花蓮慢旅行]",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90TVlhczBvdHJuRTFNNWkzLWViNWhQdnlqQ2xHbXI4SFpNZUdPdlJ0aFB3NEpxbjlYUlBmTU5raDRfSEtlVzNLZWpMT25ydU9DbXfSAVJBVV95cUxPdE1ZYXMwb3RybkUxTTVpMy1lYjVoUHZ5akNsR21yOEhaTWVHT3ZSdGhQdzRKcW45WFJQZk1Oa2g0X0hLZVczS2VqTE9ucnVPQ213?oc=5",
@@ -797,58 +850,6 @@
       "published_at": "2026-06-03T12:20:28+00:00",
       "collected_at": "2026-06-03T15:57:40.653713+00:00",
       "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte5vs1u2s3v2uuhit1d6wermlutsnwhvw",
-      "title": "台北又有新景點！「免費全新戲水區、沙坑攀爬架」小孩玩瘋，場地開放時間/ 交通一次看",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VS1U2S3V2UUhiT1d6WERmLUtsNWhVWTN4ZlJ1bVNsU0M3Tk13OUh5Q0lsTnNlVDI5NzBWc0JUR3dTV01xUEFTZjd0ZjA0SnRT?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VS1U2S3V2UUhiT1d6WERmLUtsNWhVWTN4ZlJ1bVNsU0M3Tk13OUh5Q0lsTnNlVDI5NzBWc0JUR3dTV01xUEFTZjd0ZjA0SnRT?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台北又有新景點！「免費全新戲水區、沙坑攀爬架」小孩玩瘋，場地開放時間/ 交通一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台北又有新景點！「免費全新戲水區、沙坑攀爬架」小孩玩瘋，場地開放時間/ 交通一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "新開放免費戲水區搭配沙坑與攀爬架，多元設施能滿足不同年齡層孩童盡情放電玩樂的需求。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "風傳媒",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "新開放免費戲水區搭配沙坑與攀爬架，多元設施能滿足不同年齡層孩童盡情放電玩樂的需求。",
-      "published_at": "2026-06-03T08:01:47+00:00",
-      "collected_at": "2026-06-03T15:57:53.336141+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte5qqzbvogfosnjpy05xslrvsexmqxzms",
-      "title": "城市滑板衝浪水公園嘉義登場 暑假買大送小搶攻親子市場 | 觀傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QQzBvOGFoSnJpY05XSlRvSExmQXZMSjU0TUR5QlhZYi00TXRSYTlBSFk1OWd6aE5ZSFMzSHdqWkJJYU90UEZ6RW54aFBzSmlqZEhsZTdB?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QQzBvOGFoSnJpY05XSlRvSExmQXZMSjU0TUR5QlhZYi00TXRSYTlBSFk1OWd6aE5ZSFMzSHdqWkJJYU90UEZ6RW54aFBzSmlqZEhsZTdB?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "城市滑板衝浪水公園嘉義登場 暑假買大送小搶攻親子市場 | 觀傳媒。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "城市滑板衝浪水公園嘉義登場 暑假買大送小搶攻親子市場 | 觀傳媒。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "結合滑板與衝浪的新型態室內水樂園，孩子可在安全環境中盡情玩水消暑，夏天放電首選。",
-      "published_at": "2026-06-03T05:50:20+00:00",
-      "collected_at": "2026-06-03T15:58:01.905563+00:00",
-      "query": "台灣 親子旅遊 最新"
     }
   ]
 }
