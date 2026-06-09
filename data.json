@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-06-09T10:48:04.720689+00:00",
+  "updated_at": "2026-06-09T19:38:08.599193+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte5mvkw1xzbietfbn29jzuk4behjqu1cq",
+      "title": "去嘉義別只會去阿里山！鄰近高鐵「2大新景點」來了：2000坪樂園玩整天、 小孩放電親子聖地",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MVkw1XzBieTFBN29JZUk4bEhJQU1CQzE3OUE4NFd2ZnJLN1VDNkw4WUo5SG01MjNVRmpDWDkxNk1wV2NPM3RiZUNSRmZyYXlE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MVkw1XzBieTFBN29JZUk4bEhJQU1CQzE3OUE4NFd2ZnJLN1VDNkw4WUo5SG01MjNVRmpDWDkxNk1wV2NPM3RiZUNSRmZyYXlE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "去嘉義別只會去阿里山！鄰近高鐵「2大新景點」來了：2000坪樂園玩整天、 小孩放電親子聖地。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "去嘉義別只會去阿里山！鄰近高鐵「2大新景點」來了：2000坪樂園玩整天、 小孩放電親子聖地。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "風傳媒",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "2000坪寬闊空間讓小孩盡情放電，緊鄰高鐵交通便利，室內樂園不受天候影響，親子出遊輕鬆又方便。",
+      "published_at": "2026-06-09T10:54:44+00:00",
+      "collected_at": "2026-06-09T19:37:48.051920+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmipanbvv95cuxqx2txym1bwvv3ac1xak9ndnfjegczu",
       "title": "兒童美人魚超可愛！台中5大「涼夏親子景點」解鎖最強消暑綠洲",
@@ -219,6 +246,33 @@
       "published_at": "2026-06-07T02:00:00+00:00",
       "collected_at": "2026-06-09T10:47:24.433217+00:00",
       "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmihafbvv95cuxpaulyaktscxftbgvhc3z4vxo3ukfmd",
+      "title": "台北喜來登親子住房升級回歸 全新「動物森林」主題房打造城市度假新體驗",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaUlyaktScXFTbGVhc3Z4VXo3UkFMdmR5d3J2Q3FQUVBwR2NscTEzY3ctdDFRN0U0SF9HdW5vdy1CWXdhZE1ZZER1d2NqOHE0N3ROQXZXVmJOQTFYeEROZFNEaFhUdTlIRjJMbF9SRzJ1Y1RDaUFuQXZDRmx1Ny00TWt3aDk?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaUlyaktScXFTbGVhc3Z4VXo3UkFMdmR5d3J2Q3FQUVBwR2NscTEzY3ctdDFRN0U0SF9HdW5vdy1CWXdhZE1ZZER1d2NqOHE0N3ROQXZXVmJOQTFYeEROZFNEaFhUdTlIRjJMbF9SRzJ1Y1RDaUFuQXZDRmx1Ny00TWt3aDk?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台北喜來登親子住房升級回歸 全新「動物森林」主題房打造城市度假新體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台北喜來登親子住房升級回歸 全新「動物森林」主題房打造城市度假新體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。 價格與房型差異大，親子設施也可能需預約。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "壹蘋新聞網",
+      "tags": [
+        "好玩",
+        "室內",
+        "看動物"
+      ],
+      "reason": "動物森林主題房以可愛動物布置吸引孩童，室內空間不受天氣影響，是雨天備案的城市度假選擇，適合家長帶小孩體驗主題式住房樂趣。",
+      "published_at": "2026-06-07T02:00:00+00:00",
+      "collected_at": "2026-06-09T19:38:02.375720+00:00",
+      "query": "台灣 遊樂園 親子 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmitgdbvv95cuxpwe9wskfvm2zovhpyzhrctw1oanown",
@@ -770,62 +824,6 @@
       "published_at": "2026-06-04T12:43:10+00:00",
       "collected_at": "2026-06-08T14:33:20.336278+00:00",
       "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte1gehm4ymrece1qbvrgbnz5x3rfmhc0n",
-      "title": "暑假親子放電趣 嘉義中埔餵萌寵、玩手作、戶外探索一次玩遍",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GeHM4YmREcE1QbVRGbnZ5X3RfMHc0NnNHdXFLU2xlc1A0MHFkTXk5OG5QQWtzWWljcGpFWG8zeExSN2t5M1FvdG5IaUxQRXQxcUE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GeHM4YmREcE1QbVRGbnZ5X3RfMHc0NnNHdXFLU2xlc1A0MHFkTXk5OG5QQWtzWWljcGpFWG8zeExSN2t5M1FvdG5IaUxQRXQxcUE?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "暑假親子放電趣 嘉義中埔餵萌寵、玩手作、戶外探索一次玩遍。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "暑假親子放電趣 嘉義中埔餵萌寵、玩手作、戶外探索一次玩遍。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "園區可近距離餵食萌寵互動，滿足小孩好奇心，結合手作與戶外探索，一次滿足多元玩樂需求，暑假放電首選。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "放電",
-        "看動物",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "園區可近距離餵食萌寵互動，滿足小孩好奇心，結合手作與戶外探索，一次滿足多元玩樂需求，暑假放電首選。",
-      "published_at": "2026-06-04T11:59:00+00:00",
-      "collected_at": "2026-06-05T11:00:45.004446+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmikwfbvv95cuxqzxpibmp6wjlwuxfpadjbrzjasju1w",
-      "title": "暑假親子放電趣 嘉義中埔餵萌寵、玩手作、戶外探索一次玩遍 - 旅遊新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZXpibmp6WjlwUXFpaDJBRzJaSjU1WmpfTGFwcUFmWjh1VVlUQkdHYmlhR0ZwWW1mcWRWbEhGcm93ZDEzVEp4bFdNZTJuZEZXS0R5UWlEeXNVbExZQWlfZzNnY1JxRlBxbUZQVkNITUxpVGg3MFZBanBtQUk4bk9zNDh6N0JITXNOMkxqdXVHRm9GOVU?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZXpibmp6WjlwUXFpaDJBRzJaSjU1WmpfTGFwcUFmWjh1VVlUQkdHYmlhR0ZwWW1mcWRWbEhGcm93ZDEzVEp4bFdNZTJuZEZXS0R5UWlEeXNVbExZQWlfZzNnY1JxRlBxbUZQVkNITUxpVGg3MFZBanBtQUk4bk9zNDh6N0JITXNOMkxqdXVHRm9GOVU?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "暑假親子放電趣 嘉義中埔餵萌寵、玩手作、戶外探索一次玩遍 - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "暑假親子放電趣 嘉義中埔餵萌寵、玩手作、戶外探索一次玩遍 - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "園區結合餵萌寵、手作與戶外探索，活動多元豐富，讓孩子在自然環境中盡情放電，暑假不無聊。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "PChome Online 新聞",
-      "tags": [
-        "放電",
-        "看動物",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "園區結合餵萌寵、手作與戶外探索，活動多元豐富，讓孩子在自然環境中盡情放電，暑假不無聊。",
-      "published_at": "2026-06-04T11:44:03+00:00",
-      "collected_at": "2026-06-04T19:50:28.285143+00:00",
-      "query": "台灣 親子景點 最新"
     }
   ]
 }
