@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T12:36:10.676142+00:00",
+  "updated_at": "2026-06-11T21:10:03.104124+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -82,6 +82,32 @@
       "published_at": "2026-06-11T08:05:22+00:00",
       "collected_at": "2026-06-11T12:34:30.248842+00:00",
       "query": "台北 新北 桃園 親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfblbxbhs2m4qnnpnef4uhzmanl0n2hjs",
+      "title": "端午輕旅行新北觀光工廠優惠「粽」動員 限定優惠、親子體驗等你來",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlbXBhS2M4QnNPNEF4UHZmanl0N2hJSHBiSlZ6RnJBdU55MGJ1MURCa2hvN0ZJZi1iSzFucnRDekhVdU96cDY0SzkwRDRhSUtPWkE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlbXBhS2M4QnNPNEF4UHZmanl0N2hJSHBiSlZ6RnJBdU55MGJ1MURCa2hvN0ZJZi1iSzFucnRDekhVdU96cDY0SzkwRDRhSUtPWkE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "端午輕旅行新北觀光工廠優惠「粽」動員 限定優惠、親子體驗等你來。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "端午輕旅行新北觀光工廠優惠「粽」動員 限定優惠、親子體驗等你來。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "觀光工廠多為室內空間，備有冷氣，夏天帶小孩不怕曬，廠內通常有DIY體驗與完善的洗手間與休憩區，親子同樂便利又舒適。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "室內",
+        "好玩"
+      ],
+      "reason": "觀光工廠多為室內空間，備有冷氣，夏天帶小孩不怕曬，廠內通常有DIY體驗與完善的洗手間與休憩區，親子同樂便利又舒適。",
+      "published_at": "2026-06-11T08:05:00+00:00",
+      "collected_at": "2026-06-11T21:10:03.086583+00:00",
+      "query": "台灣 親子旅遊 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte12bjn6xzhiczblml9wn213wnbonffzu",
@@ -820,33 +846,6 @@
       "published_at": "2026-06-07T02:00:00+00:00",
       "collected_at": "2026-06-09T10:47:24.433217+00:00",
       "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmihafbvv95cuxpaulyaktscxftbgvhc3z4vxo3ukfmd",
-      "title": "台北喜來登親子住房升級回歸 全新「動物森林」主題房打造城市度假新體驗",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaUlyaktScXFTbGVhc3Z4VXo3UkFMdmR5d3J2Q3FQUVBwR2NscTEzY3ctdDFRN0U0SF9HdW5vdy1CWXdhZE1ZZER1d2NqOHE0N3ROQXZXVmJOQTFYeEROZFNEaFhUdTlIRjJMbF9SRzJ1Y1RDaUFuQXZDRmx1Ny00TWt3aDk?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaUlyaktScXFTbGVhc3Z4VXo3UkFMdmR5d3J2Q3FQUVBwR2NscTEzY3ctdDFRN0U0SF9HdW5vdy1CWXdhZE1ZZER1d2NqOHE0N3ROQXZXVmJOQTFYeEROZFNEaFhUdTlIRjJMbF9SRzJ1Y1RDaUFuQXZDRmx1Ny00TWt3aDk?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台北喜來登親子住房升級回歸 全新「動物森林」主題房打造城市度假新體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台北喜來登親子住房升級回歸 全新「動物森林」主題房打造城市度假新體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。 價格與房型差異大，親子設施也可能需預約。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "壹蘋新聞網",
-      "tags": [
-        "好玩",
-        "室內",
-        "看動物"
-      ],
-      "reason": "動物森林主題房以可愛動物布置吸引孩童，室內空間不受天氣影響，是雨天備案的城市度假選擇，適合家長帶小孩體驗主題式住房樂趣。",
-      "published_at": "2026-06-07T02:00:00+00:00",
-      "collected_at": "2026-06-09T19:38:02.375720+00:00",
-      "query": "台灣 遊樂園 親子 最新"
     }
   ]
 }
