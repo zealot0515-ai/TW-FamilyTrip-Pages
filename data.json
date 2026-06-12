@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T11:59:11.113644+00:00",
+  "updated_at": "2026-06-12T19:33:26.721904+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -525,6 +525,33 @@
       "query": "台灣 親子放電 景點"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmixefvx3lxtfbzt2jws0tennhhwfppyug3whjbv1duu",
+      "title": "嘉義高鐵旁最新消暑景點！「芯浪」水樂園6月試營運 一票暢玩萌寵園、笑笑羊近距離互動",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZT2JWS0tENnhhWFpPYUg3WHJBV1duUTZSS0ZDeUtwaUtDcG1uMWhjUG9wamU0UjlQeUZXVDVWVmY1NkV6SElNMElFWGQ3ZEk3MGFYREhTOGtBUmRl?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZT2JWS0tENnhhWFpPYUg3WHJBV1duUTZSS0ZDeUtwaUtDcG1uMWhjUG9wamU0UjlQeUZXVDVWVmY1NkV6SElNMElFWGQ3ZEk3MGFYREhTOGtBUmRl?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "嘉義高鐵旁最新消暑景點！「芯浪」水樂園6月試營運 一票暢玩萌寵園、笑笑羊近距離互動。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "嘉義高鐵旁最新消暑景點！「芯浪」水樂園6月試營運 一票暢玩萌寵園、笑笑羊近距離互動。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "UDN",
+      "tags": [
+        "放電",
+        "看動物",
+        "好玩"
+      ],
+      "reason": "水樂園夏天消暑又能放電，萌寵園近距離接觸笑笑羊寓教於樂；緊鄰嘉義高鐵交通便利，適合親子安排一日遊。",
+      "published_at": "2026-06-11T05:01:22+00:00",
+      "collected_at": "2026-06-12T19:33:26.704863+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5tnw5qmw5trdhnr0i2vtn0qkfnrwj2z",
       "title": "人氣玩水景點齊聚新北 6/13全面開放迎暑假",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tNW5qMW5tRDhNR0I2VTN0QkFNRWJ2Zk9ycXFobldMWkxZT0pLTkc5aUVlZVdYZml1bkhSVktzUmVrTGZCU2EzbUZmVmNtazcyZGc?oc=5",
@@ -820,40 +847,6 @@
       "published_at": "2026-06-09T22:56:29+00:00",
       "collected_at": "2026-06-12T11:58:39.606410+00:00",
       "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-n-yam-com-article-20260610102631",
-      "title": "梅雨季雨勢攪局　義大世界雨天玩逛攻略 | 蕃新聞",
-      "url": "https://n.yam.com/Article/20260610102631",
-      "canonical_url": "https://n.yam.com/Article/20260610102631",
-      "image_url": "https://ni.yam.com/20260610/20260610101443-c1cab3dd99c0922e.jpg",
-      "images": [
-        "https://ni.yam.com/20260610/20260610101443-c1cab3dd99c0922e.jpg",
-        "https://www.bo6s.com.tw/images/newsimg/small/20260610101443.jpg",
-        "https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/7cd01aeb-6a44-486d-d2d7-3995bfa42e00/public",
-        "https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/58c13bd4-f610-4916-4b30-27e09cb7c900/public",
-        "https://ni.yam.com/20260610/9cd1625a-b10c-4237-94e0-325e34ef7875-e7a3eb6cd585c329.jpg",
-        "https://ni.yam.com/20260610/20260610100542-7ff724f0b593076f.jpg",
-        "https://ni.yam.com/20260610/8244830-8b01f2b781207673.jpg",
-        "https://ni.yam.com/20260610/d98c16a7-5c68-4c70-98a8-c5b907e8ccaa-5e839dbf36d1cb4d.png"
-      ],
-      "summary": "梅雨季雨勢攪局　義大世界雨天玩逛攻略 | 蕃新聞。波新聞高雄訊 雨下不停，打亂整個出遊行程，卻也讓「雨天備案」成為親子家庭與遊客最在意的安排。6月進入梅雨季，全台連日雨勢讓戶外行程多了變數，義大開發順勢整合義大遊樂世界與義大世界購物廣場，推出雨天出遊方案，前者以全台最大室內遊樂館「特洛伊城堡」、城堡列車、室內科技設施與劇院表演，打造不怕雨的親子遊園攻略；後者集結多家運動休閒品牌，推出防曬、防潑水、防水與輕量機能商品優惠，讓民眾遇到雨天不必取消行程，也能完成玩樂、用餐、採買一次到位。義大遊樂世界表示，梅雨季節天候變化快，園區會依現場風雨狀況與安全考量，機動調整戶外設施營運，透過現場公告，提醒遊客掌握設施開放資訊。若遇雨勢不穩，建議遊客可先將行程重心安排在園區雨天遊玩的主要場域的特洛伊城堡，整棟主題館以親子室內遊樂為核心，集結多項遊樂設施，從親子同樂、動態遊具到科技劇院皆有安排，讓遊客不必因雨勢打亂節奏，也能維持完整遊園體驗。雨天一日遊建議，可先從特洛伊城堡內的代表性設施開始，包含地心歷險、飛越台灣飛行劇院、旋轉飛車、旋轉流星、旋轉森巴、海狗歷險記、救火急先鋒等，再搭配餐飲、商店與休憩空間彈性調整停留時間。",
-      "analysis": {
-        "overview": "梅雨季雨勢攪局　義大世界雨天玩逛攻略 | 蕃新聞。波新聞高雄訊 雨下不停，打亂整個出遊行程，卻也讓「雨天備案」成為親子家庭與遊客最在意的安排。6月進入梅雨季，全台連日雨勢讓戶外行程多了變數，義大開發順勢整合義大遊樂世界與義大世界購物廣場，推出雨天出遊方案，前者以全台最大室內遊樂館「特洛伊城堡」、城堡列車、室內科技設施與劇院表演，打造不怕雨的親子遊園攻略；後者集結多家運動休閒品牌，推出防曬、防潑水、防水與輕量機能商品優惠，讓民眾遇到雨天不必取消行程，也能完成玩樂、用餐、採買一次到位。義大遊樂世界表示，梅雨季節天候變化",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "n.yam.com",
-      "tags": [
-        "室內",
-        "放電",
-        "好玩"
-      ],
-      "reason": "梅雨季雨天備案首選，全台最大室內遊樂館特洛伊城堡匯集地心歷險、飛行劇院等設施，室內空間不怕雨勢干擾，親子可盡情放電。",
-      "published_at": "2026-06-09T19:14:00+00:00",
-      "collected_at": "2026-06-10T11:50:33.963376+00:00",
-      "query": "台灣 雨天 親子 室內 景點"
     }
   ]
 }
