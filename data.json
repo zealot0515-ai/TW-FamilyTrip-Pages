@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-06-16T16:15:11.248076+00:00",
+  "updated_at": "2026-06-16T22:00:49.527102+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5iogh6refhmjdlawpmmvzzvny4m0g2d",
+      "title": "「職想玩透透」！新北觀光局暑假五大主題活動 串聯18家觀光工廠 邀大小朋友探索產業魅力",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iOGh6REFhMjdLaWpMMVZzVnY4M0g2d0JaNWlGR1hCaWJ6cTl2OEhoUXJUemh4V1NIRzFvOVIxYUs2LW9FYlZTZ3lOS1FmRkxBQVE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iOGh6REFhMjdLaWpMMVZzVnY4M0g2d0JaNWlGR1hCaWJ6cTl2OEhoUXJUemh4V1NIRzFvOVIxYUs2LW9FYlZTZ3lOS1FmRkxBQVE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "「職想玩透透」！新北觀光局暑假五大主題活動 串聯18家觀光工廠 邀大小朋友探索產業魅力。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "「職想玩透透」！新北觀光局暑假五大主題活動 串聯18家觀光工廠 邀大小朋友探索產業魅力。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "18家觀光工廠串聯，室內有空調，雨天也能玩，動手體驗的活動能讓孩子盡情放電，家長可輕鬆陪玩。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "室內",
+        "好玩",
+        "放電"
+      ],
+      "reason": "18家觀光工廠串聯，室內有空調，雨天也能玩，動手體驗的活動能讓孩子盡情放電，家長可輕鬆陪玩。",
+      "published_at": "2026-06-16T10:31:00+00:00",
+      "collected_at": "2026-06-16T22:00:05.503164+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte5uttdhnkt0oxrhzmrkcgewwgxusvpss",
       "title": "展覽、住宿、餐飲一次滿足，和逸飯店‧高雄中山館歡度繽紛暑假 | 中華日報",
@@ -54,6 +81,31 @@
       "published_at": "2026-06-16T09:06:21+00:00",
       "collected_at": "2026-06-16T16:12:10.482279+00:00",
       "query": "台灣 親子飯店 親子樂園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmixkfvx3lxtfbiwkvqlu1hsjdxmjrichpioujhog05t",
+      "title": "雲林斗六住宿推薦！三好國際酒店近棒球場，家庭房早餐公設一泊一食分享。|旅遊",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIWkVqLU1hSjdXMjRIcHpiOUJhOG05TEp3cmFQdkdOUzZEM2xPWDlSdVNTZEstTVVDZ19fNkZWY3oyaGtmVGtVTF9HSUNKMFRDMlltM0FBVDNUcGM0TFE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIWkVqLU1hSjdXMjRIcHpiOUJhOG05TEp3cmFQdkdOUzZEM2xPWDlSdVNTZEstTVVDZ19fNkZWY3oyaGtmVGtVTF9HSUNKMFRDMlltM0FBVDNUcGM0TFE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "雲林斗六住宿推薦！三好國際酒店近棒球場，家庭房早餐公設一泊一食分享。|旅遊。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "雲林斗六住宿推薦！三好國際酒店近棒球場，家庭房早餐公設一泊一食分享。|旅遊。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "價格與房型差異大，親子設施也可能需預約。",
+        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "WalkerLand 窩客島",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為飯店住宿分享文章，適合安排斗六棒球場周邊行程，但非踏青地點本身。",
+      "published_at": "2026-06-16T09:00:00+00:00",
+      "collected_at": "2026-06-16T22:00:15.316058+00:00",
+      "query": "台灣 親子景點 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmicefvx3lxtfbunfbwewlevhbnruzenxnir3bwszlsy",
@@ -560,6 +612,40 @@
       "query": "台灣 親子景點 最新"
     },
     {
+      "id": "https-news-ebc-net-tw-news-living-555887",
+      "title": "暑假親子旅遊首選！金門親子嘉年華7月熱鬧登場｜東森新聞",
+      "url": "https://news.ebc.net.tw/news/living/555887",
+      "canonical_url": "https://news.ebc.net.tw/news/living/555887",
+      "image_url": "https://img.news.ebc.net.tw/EbcNews/news/2026/06/10/1781105646_34444.jpg",
+      "images": [
+        "https://img-star.ebc.net.tw/ebcstar/topic/2026/06/14/1781456359_26240.jpg",
+        "https://img.news.ebc.net.tw/EbcNews/topic/2026/03/19/1773905909_67470.jpg",
+        "https://img.news.ebc.net.tw/EbcNews/topic/2026/06/15/1781527129_27394.jpg",
+        "https://img.news.ebc.net.tw/EbcNews/topic/2025/01/25/1737819693_93208.jpg",
+        "https://img-star.ebc.net.tw/ebcstar/topic/2026/04/29/1777492470_95444.jpg",
+        "https://img-star.ebc.net.tw/ebcstar/topic/2026/06/07/1780862993_80236.jpg",
+        "https://img.news.ebc.net.tw/EbcNews/news/2026/06/10/1781105646_34444.jpg",
+        "https://img.news.ebc.net.tw/EbcNews/news/2026/06/10/1781105753_17505.png"
+      ],
+      "summary": "暑假親子旅遊首選！金門親子嘉年華7月熱鬧登場｜東森新聞。快訊 下載東森App，隨時掌握天下大小事！首頁 生活 分享 分享 複製連結 暑假親子旅遊首選！金門親子嘉年華7月熱鬧登場 2026-06-15 09:00 東森新聞 聽新聞 親子嘉年華活動將在暑假開跑！這次在金沙地區特別打造了5處超萌的金門原創 IP 裝置。（圖／金門縣政府提供） 9大主題活動、80項體驗遊程熱鬧登場 暑假 去哪玩？金門 縣政府將於7月1日至8月31日舉辦為期二個月的「 金門親子嘉年華 」活動，包括9大主題活動，親子體驗遊、水獺阿特快閃、烈嶼親子童玩節、兒童游泳體驗營、後浦十六藝文特區音樂季、金湖海灘花蛤季、金門海上長泳暨金廈泳渡、金寧音浪玩水節及尋找風獅爺app等，是暑假帶孩子放電的首選。今年特別導入「深度研習、做中學」的概念，推出多元深入的精緻體驗旅遊，讓遊客感受金門獨有特色，感受不同的文化觀光體驗。持續號召金門地區業者推出「親子體驗遊」，今年有高達80項的體驗遊程，例如：鱟 生態之旅 、 高粱 掃帚 DIY、歐亞水獺扭扭棒DIY製作、小小工匠-自製小刀鑰匙圈體驗、水域體驗-立式划槳、叢林水彈槍生存遊戲體驗…等地區業者與公部門推出更具金門風情及文創能量的項目，漸而形塑成為常態可遊的觀光產業發展。",
+      "analysis": {
+        "overview": "暑假親子旅遊首選！金門親子嘉年華7月熱鬧登場｜東森新聞。快訊 下載東森App，隨時掌握天下大小事！首頁 生活 分享 分享 複製連結 暑假親子旅遊首選！金門親子嘉年華7月熱鬧登場 2026-06-15 09:00 東森新聞 聽新聞 親子嘉年華活動將在暑假開跑！這次在金沙地區特別打造了5處超萌的金門原創 IP 裝置。（圖／金門縣政府提供） 9大主題活動、80項體驗遊程熱鬧登場 暑假 去哪玩？金門 縣政府將於7月1日至8月31日舉辦為期二個月的「 金門親子嘉年華 」活動，包括9大主題活動，親子體驗遊、水獺阿特快閃、烈嶼親",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "news.ebc.net.tw",
+      "tags": [
+        "放電",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "暑假為期兩個月的嘉年華有9大主題、80項體驗遊程，從生態探索到水域活動多元選擇，孩子可以盡情放電，家長也能找到適合各年齡層的體驗項目。",
+      "published_at": "2026-06-14T18:00:00+00:00",
+      "collected_at": "2026-06-16T22:00:34.476869+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiakfvx3lxte5prg43yxczm3llmuzzevm3eg1bvhu4t",
       "title": "何欣純搶親子票！盤點台中特色公園綠地 做親子活動",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pRG43YXczM3llMUZzeVM3eG1BVHU4TDFVcmFrU3dvX2xTS0t4RTUzSnRDMjg3QWFPS1lPOEM0OTM4RW9wd21WckF6UzRmejhjY1JuSldSYjBJRTRWYnhwU1hVNHduem5HTXfSAW9BVV95cUxQMFQzclhMZmN5UUNSV0g5dnMxSHI1dVUxWk9LMjJ2enlydzhZa0E2U0xGNEZDOG5ac2ZPYlNvZE1wU3luTHNEaGg4ODZKTzZfV1hNOUlHMHV2eHZlaXBnT3l1MVdReGJhYlZHYko5VjA?oc=5",
@@ -743,84 +829,6 @@
       "published_at": "2026-06-13T08:52:07+00:00",
       "collected_at": "2026-06-13T17:03:41.112326+00:00",
       "query": "台灣 親子飯店 親子樂園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiv0fvx3lxte10vetxd0rtdwzvdjzmrhdqm2ncuentd",
-      "title": "暑假不想出國？宜蘭親子小旅行這樣玩：沉浸式浴衣體驗、免費開BMW超吸睛",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10VEtXd0RtdWZvdjZmRHdqM2NCUENTd0Q5MHNUR3RVemVuMklEeDJHd1E0YmtsbWxJdFFyLXlYLWhIa3lMX2FHeHdoNkg5SWRoYW5ZZk5jNA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10VEtXd0RtdWZvdjZmRHdqM2NCUENTd0Q5MHNUR3RVemVuMklEeDJHd1E0YmtsbWxJdFFyLXlYLWhIa3lMX2FHeHdoNkg5SWRoYW5ZZk5jNA?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "暑假不想出國？宜蘭親子小旅行這樣玩：沉浸式浴衣體驗、免費開BMW超吸睛。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "暑假不想出國？宜蘭親子小旅行這樣玩：沉浸式浴衣體驗、免費開BMW超吸睛。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "免費開BMW是小孩最愛的放電體驗，搭配浴衣體驗趣味十足，適合親子同樂。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "造咖",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "免費開BMW是小孩最愛的放電體驗，搭配浴衣體驗趣味十足，適合親子同樂。",
-      "published_at": "2026-06-13T08:41:00+00:00",
-      "collected_at": "2026-06-13T09:48:04.427642+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmisgnbvv95cuxqte83uthwwkdwzunpajd1sun2q2laa",
-      "title": "帶孩子親近大自然 苗栗5大親子農場！餵小羊、擠牛奶體驗田園生活",
-      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQTE83UThwWkdWZUNPajd1SUN2Q2laaWFEd0haSVhzS0ZpTkQ1dGYyUDdFcGNpMU9ON3NQSkV2d1Q3MlAyVC1meHRIUW9zOGxXX2hTYUFkRUM5eHN2d3d4NDRhd0picm5lRjdzc1czUDdjQ3hyVFJEN0w0b1MtRlVPeUVoem9KZnZuM3QwOGZJRzB0YjZEQ2ZBdzVJWkJaa0NlM1pVOTlyNGh4b1VxcDB6eEpjYlhyTVdYMDFkZks0NXhBeHhCUmhhME85Y0o0MXhVY1RBSmUzVHRZdjAtX2VudDN3MEFtajI2bkJVMWxMWmpWS3hnYTFYREVudHZXbk15dXNpdEVGZVBiYlpRY2N2a0pUMXVpT0pIbzcyVjU1ODlFYnJzekJYekNHRVhKRjNCM3VFTUgza0FwN2llSXp6SEhjYzg0cEtRRjF1SlQtYzZHU0hSQTdBbUVVYWRBRDFlWDJPY0xXVXRfbGctaW4wMmdMbG9xU3djNUZGMUxYT1VGak4xd2RERzYzVC1VU2lDemFfUDVwXzFxeVU1NGdIMkcyeVNCanBsMG5QRzNpWUNvZw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQTE83UThwWkdWZUNPajd1SUN2Q2laaWFEd0haSVhzS0ZpTkQ1dGYyUDdFcGNpMU9ON3NQSkV2d1Q3MlAyVC1meHRIUW9zOGxXX2hTYUFkRUM5eHN2d3d4NDRhd0picm5lRjdzc1czUDdjQ3hyVFJEN0w0b1MtRlVPeUVoem9KZnZuM3QwOGZJRzB0YjZEQ2ZBdzVJWkJaa0NlM1pVOTlyNGh4b1VxcDB6eEpjYlhyTVdYMDFkZks0NXhBeHhCUmhhME85Y0o0MXhVY1RBSmUzVHRZdjAtX2VudDN3MEFtajI2bkJVMWxMWmpWS3hnYTFYREVudHZXbk15dXNpdEVGZVBiYlpRY2N2a0pUMXVpT0pIbzcyVjU1ODlFYnJzekJYekNHRVhKRjNCM3VFTUgza0FwN2llSXp6SEhjYzg0cEtRRjF1SlQtYzZHU0hSQTdBbUVVYWRBRDFlWDJPY0xXVXRfbGctaW4wMmdMbG9xU3djNUZGMUxYT1VGak4xd2RERzYzVC1VU2lDemFfUDVwXzFxeVU1NGdIMkcyeVNCanBsMG5QRzNpWUNvZw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "帶孩子親近大自然 苗栗5大親子農場！餵小羊、擠牛奶體驗田園生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "帶孩子親近大自然 苗栗5大親子農場！餵小羊、擠牛奶體驗田園生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "動物互動與自然觀察能提高孩子參與感。",
-        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "放電",
-        "看動物",
-        "大自然"
-      ],
-      "reason": "農場提供餵小羊、擠牛奶等互動體驗，孩子能近距離接觸動物釋放精力，家長可一起體驗田園生活兼具教育意義。",
-      "published_at": "2026-06-13T07:48:17+00:00",
-      "collected_at": "2026-06-13T09:48:07.510250+00:00",
-      "query": "台灣 親子農場 景點"
-    },
-    {
-      "id": "https-www-msn-com-zh-tw-travel-e5-85-ac-e5-9c-92-e5-ae-9c-e8-98-ad-e5-86-ac-e5-b",
-      "title": "宜蘭冬山景點推薦7選! 超萌宜蘭水豚農場 免門票植物園，必玩宜蘭景點一次收。",
-      "url": "https://www.msn.com/zh-tw/travel/%E5%85%AC%E5%9C%92/%E5%AE%9C%E8%98%AD%E5%86%AC%E5%B1%B1%E6%99%AF%E9%BB%9E%E6%8E%A8%E8%96%A67%E9%81%B8-%E8%B6%85%E8%90%8C%E5%AE%9C%E8%98%AD%E6%B0%B4%E8%B1%9A%E8%BE%B2%E5%A0%B4-%E5%85%8D%E9%96%80%E7%A5%A8%E6%A4%8D%E7%89%A9%E5%9C%92-%E5%BF%85%E7%8E%A9%E5%AE%9C%E8%98%AD%E6%99%AF%E9%BB%9E%E4%B8%80%E6%AC%A1%E6%94%B6/ar-AA25xR4C",
-      "canonical_url": "https://www.msn.com/zh-tw/travel/%E5%85%AC%E5%9C%92/%E5%AE%9C%E8%98%AD%E5%86%AC%E5%B1%B1%E6%99%AF%E9%BB%9E%E6%8E%A8%E8%96%A67%E9%81%B8-%E8%B6%85%E8%90%8C%E5%AE%9C%E8%98%AD%E6%B0%B4%E8%B1%9A%E8%BE%B2%E5%A0%B4-%E5%85%8D%E9%96%80%E7%A5%A8%E6%A4%8D%E7%89%A9%E5%9C%92-%E5%BF%85%E7%8E%A9%E5%AE%9C%E8%98%AD%E6%99%AF%E9%BB%9E%E4%B8%80%E6%AC%A1%E6%94%B6/ar-AA25xR4C",
-      "image_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "宜蘭冬山景點推薦7選! 超萌宜蘭水豚農場 免門票植物園，必玩宜蘭景點一次收。。宜蘭冬山必衝動物農場、免門票植物園，編輯鄭亦庭表示：趁近期三奇美徑稻田、冬山風箏嘉年華等活動，來宜蘭冬山順路暢玩。宜蘭冬山近期推出冬山熱氣球嘉年華、絕美三奇美徑稻田、冬山紅茶季、冬山風箏嘉年華等一系列活動，讓大家一路嗨玩整個暑假，除了朝聖官方大型活動，窩客島這次幫你整理 7大宜蘭冬山景點推薦，包含超人氣宜蘭冬山農場，能近距離接觸水豚、羊駝、梅花鹿， ...",
-      "analysis": {
-        "overview": "宜蘭冬山景點推薦7選! 超萌宜蘭水豚農場 免門票植物園，必玩宜蘭景點一次收。。宜蘭冬山必衝動物農場、免門票植物園，編輯鄭亦庭表示：趁近期三奇美徑稻田、冬山風箏嘉年華等活動，來宜蘭冬山順路暢玩。宜蘭冬山近期推出冬山熱氣球嘉年華、絕美三奇美徑稻田、冬山紅茶季、冬山風箏嘉年華等一系列活動，讓大家一路嗨玩整個暑假，除了朝聖官方大型活動，窩客島這次幫你整理 7大宜蘭冬山景點推薦，包含超人氣宜蘭冬山農場，能近距離接觸水豚、羊駝、梅花鹿， ...",
-        "pros": "動物互動與自然觀察能提高孩子參與感。",
-        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "msn.com",
-      "tags": [
-        "看動物",
-        "大自然",
-        "放電"
-      ],
-      "reason": "近距離接觸水豚、羊駝、梅花鹿等萌寵，小孩可盡情放電；免門票植物園與戶外稻田風光，結合大型活動適合全家踏青踩點。",
-      "published_at": "2026-06-13T03:30:00+00:00",
-      "collected_at": "2026-06-13T17:03:49.851263+00:00",
-      "query": "台灣 動物農場 親子 景點"
     }
   ]
 }
