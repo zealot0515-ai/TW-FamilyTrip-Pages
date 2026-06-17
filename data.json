@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-06-17T13:00:26.033857+00:00",
+  "updated_at": "2026-06-17T19:53:52.196648+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmidefvx3lxte40uvazczrucke4dvvxam90bgg2wdloe",
+      "title": "２０２６親子出遊不踩雷！精選１１處台灣北中部「親子友善」景點推薦：全家踏青、室內放電、職人DIY一日遊全攻略",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40UVAzczRuckE4dVVxam90bGg2WDloeVJ5R0xodk5OdkRNREtWbkNZQlNiam1jMUJRMW9YZkwzQnBFLUY5blVEa3N4WEVoVHN5NnhOTWhJcXk0U2QwWTN3dVJ3aWFvZVBkbDFreXZGbXgyb2tW?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40UVAzczRuckE4dVVxam90bGg2WDloeVJ5R0xodk5OdkRNREtWbkNZQlNiam1jMUJRMW9YZkwzQnBFLUY5blVEa3N4WEVoVHN5NnhOTWhJcXk0U2QwWTN3dVJ3aWFvZVBkbDFreXZGbXgyb2tW?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "２０２６親子出遊不踩雷！精選１１處台灣北中部「親子友善」景點推薦：全家踏青、室內放電、職人DIY一日遊全攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "２０２６親子出遊不踩雷！精選１１處台灣北中部「親子友善」景點推薦：全家踏青、室內放電、職人DIY一日遊全攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "Cheers快樂工作人",
+      "tags": [
+        "放電",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "集結北中部11處親子友善景點，包含室內與戶外踏青選擇，滿足不同年齡層孩子的放电需求，並提供職人DIY體驗讓全家一起動手做，兼具趣味與教育意義。",
+      "published_at": "2026-06-17T17:20:59+00:00",
+      "collected_at": "2026-06-17T19:52:56.418373+00:00",
+      "query": "台灣 親子景點 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmijwfbvv95cuxqmvzrnllmnmywm3vlvja1mvvacvzjd",
       "title": "展覽、住宿、餐飲一次滿足！和逸飯店‧高雄中山館歡度繽紛暑假- 生活新聞- PChome Online 新聞",
@@ -143,6 +170,32 @@
       "published_at": "2026-06-16T15:14:00+00:00",
       "collected_at": "2026-06-17T12:59:23.111459+00:00",
       "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte0zbdvlvtjxvezznmjvv2njvgrtdjjjr",
+      "title": "暑假玩水首選！東台灣最大水上樂園開園 花蓮知卡宣清涼登場 | 觀傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zbDVLVTJXVEZzNmJVV2NJVGRtdjJjRy1lZDVKeVVSVlQ3RmlHOTVsTGY0bjd3TlR0SU1Gck5mbU1XUjZSLXFDcThGMFhDdHBKeWJBbDlR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zbDVLVTJXVEZzNmJVV2NJVGRtdjJjRy1lZDVKeVVSVlQ3RmlHOTVsTGY0bjd3TlR0SU1Gck5mbU1XUjZSLXFDcThGMFhDdHBKeWJBbDlR?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "暑假玩水首選！東台灣最大水上樂園開園 花蓮知卡宣清涼登場 | 觀傳媒。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "暑假玩水首選！東台灣最大水上樂園開園 花蓮知卡宣清涼登場 | 觀傳媒。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "知卡宣是花蓮著名的親水公園，夏季戲水設施齊全，讓孩子盡情玩水消暑放電，是暑假親子同樂的好去處。",
+      "published_at": "2026-06-16T14:42:16+00:00",
+      "collected_at": "2026-06-17T19:53:08.977002+00:00",
+      "query": "台灣 遊樂園 親子 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5iogh6refhmjdlawpmmvzzvny4m0g2d",
@@ -324,6 +377,32 @@
       "reason": "黃色小鴨樂園位於台南，有6大遊樂設施，讓小孩盡情放電，且名稱吸睛可愛，非常適合帶小孩前往玩樂。",
       "published_at": "2026-06-16T05:23:42+00:00",
       "collected_at": "2026-06-16T16:12:38.190759+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5bsudguefhbffos1ktn250rvlkskdom",
+      "title": "雲林親子景點 150元不限時暢玩「蛤蜊界LV」就在這 主題館一票玩到底攻略",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BSUdGUEFHbFFOS1ktN250RVlKSkdOMTVLRl81cGZMTHV1ZmpTRk1aR1YzYmRZVWMySWdZRDh3ZlRTam9mdUhteWtzOHVKdFlzeFE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BSUdGUEFHbFFOS1ktN250RVlKSkdOMTVLRl81cGZMTHV1ZmpTRk1aR1YzYmRZVWMySWdZRDh3ZlRTam9mdUhteWtzOHVKdFlzeFE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "雲林親子景點 150元不限時暢玩「蛤蜊界LV」就在這 主題館一票玩到底攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "雲林親子景點 150元不限時暢玩「蛤蜊界LV」就在這 主題館一票玩到底攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "150元不限時暢玩且一票玩到底，不限時間可盡情放電，主題館設施多元適合各年齡層孩童。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "150元不限時暢玩且一票玩到底，不限時間可盡情放電，主題館設施多元適合各年齡層孩童。",
+      "published_at": "2026-06-16T03:08:00+00:00",
+      "collected_at": "2026-06-17T19:53:18.474300+00:00",
       "query": "台灣 親子放電 景點"
     },
     {
@@ -522,6 +601,31 @@
       "query": "台灣 親子旅遊 最新"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmi2wjbvv95cuxqbgjzb1bcyux2rgttbzgyswj2vxfjw",
+      "title": "雲林親子景點 150元不限時暢玩「蛤蜊界LV」就在這 主題館一票玩到底攻略",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQbGJZb1BCYUx2RGttbzgySWJ2VXFJWnY5b3NaaFk4ZElBWkR2WVlGcnZROG5vcWotZS1rVkhDSkVOTFVEX2R2ZW9XNWc5VDltV0RvalFnaTNpeXhiSDlXN0RoMjdWem5neDFUbnJiaHVYTGtUV2hKVkNnSHg4OVh4dmxEVEVOOU5LVDVCZkR1bzdnT0tzbVA0UHFZbUE5SWh0cWpWbXZMM1pIMndjTk5wT0Uxd2ZadGtra01EeVhOTzFBXzBhVVRkU1A0Q2d2cXdlV3pqd0RFVFRyMWZPcEZnLUhhYkFETHkzRlVwUkc4Q3NDazdCMEI2ZkNrVFE5bjlLcWp4cXJrTUdxQ0dQRG1kNkxHWUNHai1uYl9XdkRRTWY0c2dkTmtJYzNGZ1B3QTFiRVJfQlJOdXhkUk1SSnBYbGJrbG9DTjdlNTdIQWJ3a0JPdW5QTlRrdDU2TQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQbGJZb1BCYUx2RGttbzgySWJ2VXFJWnY5b3NaaFk4ZElBWkR2WVlGcnZROG5vcWotZS1rVkhDSkVOTFVEX2R2ZW9XNWc5VDltV0RvalFnaTNpeXhiSDlXN0RoMjdWem5neDFUbnJiaHVYTGtUV2hKVkNnSHg4OVh4dmxEVEVOOU5LVDVCZkR1bzdnT0tzbVA0UHFZbUE5SWh0cWpWbXZMM1pIMndjTk5wT0Uxd2ZadGtra01EeVhOTzFBXzBhVVRkU1A0Q2d2cXdlV3pqd0RFVFRyMWZPcEZnLUhhYkFETHkzRlVwUkc4Q3NDazdCMEI2ZkNrVFE5bjlLcWp4cXJrTUdxQ0dQRG1kNkxHWUNHai1uYl9XdkRRTWY0c2dkTmtJYzNGZ1B3QTFiRVJfQlJOdXhkUk1SSnBYbGJrbG9DTjdlNTdIQWJ3a0JPdW5QTlRrdDU2TQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "雲林親子景點 150元不限時暢玩「蛤蜊界LV」就在這 主題館一票玩到底攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "雲林親子景點 150元不限時暢玩「蛤蜊界LV」就在這 主題館一票玩到底攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-06-15T07:00:00+00:00",
+      "collected_at": "2026-06-17T19:53:43.146064+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
       "id": "https-www-storm-mg-article-11141652",
       "title": "暑假親子出遊新選擇！新北18家觀光工廠聯手推五大活動　巴士遊程、抽獎好禮一次玩透透 | 鄧亦涵 | 地方新聞",
       "url": "https://www.storm.mg/article/11141652",
@@ -709,134 +813,6 @@
       "published_at": "2026-06-15T02:19:00+00:00",
       "collected_at": "2026-06-17T12:59:36.404123+00:00",
       "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-tw-news-yahoo-com-e5-b0-8f-e7-81-ab-e8-bb-8a-e3-80-81-e8-bf-b7-e4-bd-a0-e9",
-      "title": "小火車、迷你馬、梅花鹿！北區5大人氣農場爸媽快收藏",
-      "url": "https://tw.news.yahoo.com/%E5%B0%8F%E7%81%AB%E8%BB%8A%E3%80%81%E8%BF%B7%E4%BD%A0%E9%A6%AC%E3%80%81%E6%A2%85%E8%8A%B1%E9%B9%BF%EF%BC%81%E5%8C%97%E5%8D%805%E5%A4%A7%E4%BA%BA%E6%B0%A3%E8%BE%B2%E5%A0%B4%E7%88%B8%E5%AA%BD%E5%BF%AB%E6%94%B6%E8%97%8F-081725136.html",
-      "canonical_url": "https://tw.news.yahoo.com/%E5%B0%8F%E7%81%AB%E8%BB%8A%E3%80%81%E8%BF%B7%E4%BD%A0%E9%A6%AC%E3%80%81%E6%A2%85%E8%8A%B1%E9%B9%BF%EF%BC%81%E5%8C%97%E5%8D%805%E5%A4%A7%E4%BA%BA%E6%B0%A3%E8%BE%B2%E5%A0%B4%E7%88%B8%E5%AA%BD%E5%BF%AB%E6%94%B6%E8%97%8F-081725136.html",
-      "image_url": "https://s.yimg.com/uu/api/res/1.2/4e8d9i75.XWbIkkrvR3SNA--~B/aD03MDk7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/16-5_6008.jpg",
-      "images": [
-        "https://s.yimg.com/uu/api/res/1.2/4e8d9i75.XWbIkkrvR3SNA--~B/aD03MDk7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/16-5_6008.jpg",
-        "https://s.yimg.com/ny/api/res/1.2/SgUj9b3E8GRjAmKocAwOcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2025-02/93788020-e86a-11ef-9f87-a0268bb71461",
-        "https://s.yimg.com/ny/api/res/1.2/x65YVsmvLMQ_wsA0.gUAmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU2Nw--/https://s.yimg.com/uu/api/res/1.2/4e8d9i75.XWbIkkrvR3SNA--~B/aD03MDk7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/16-5_6008.jpg",
-        "https://s.yimg.com/lo/mysterio/api/7629497B2D141F657715256F0B58E80F228015FE096ADB9B2DCC0FC70798A3CC/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fchinatimes.com.tw%2Fba3c68822d5f6cc31c4ff1fa6ea0755a",
-        "https://s.yimg.com/lo/mysterio/api/DCD6BF931F63431DB688FB777974D92A0D9086D627BD192B62848C1559957E13/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fftvn.com.tw%2F74962b2a43968c914595da2527fd34ee",
-        "https://s.yimg.com/lo/mysterio/api/0107EC0F05261FEDE1312F968EB0F64CDD7F8AB9994C636563F750AE44AAB3E3/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F4cae4cef-83c0-4ab4-8a8d-e8b05038eb91",
-        "https://s.yimg.com/lo/mysterio/api/D46ADA2D7E26FC1D06CBE3E1972EE7F5647675C30F43D3735507DD9BB086BF20/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fgotv_ctitv_com_tw_678%2F5bbf2f0ec73227b544d81233c78938fd",
-        "https://s.yimg.com/lo/mysterio/api/239EE3CAA3FA372016D7F44AF198EC5B6CAF247D52FDDB3966D5921C3E2529A5/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2Fd774524df240380e8a59b53746eee02b"
-      ],
-      "summary": "小火車、迷你馬、梅花鹿！北區5大人氣農場爸媽快收藏。北區5大人氣農場爸媽快收藏\",\"position\":3}]} Yahoo新聞 玩樂 小火車、迷你馬、梅花鹿！",
-      "analysis": {
-        "overview": "小火車、迷你馬、梅花鹿！北區5大人氣農場爸媽快收藏。北區5大人氣農場爸媽快收藏\",\"position\":3}]} Yahoo新聞 玩樂 小火車、迷你馬、梅花鹿！",
-        "pros": "動物互動與自然觀察能提高孩子參與感。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "出發前確認餵食、互動體驗與休園時間。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "tw.news.yahoo.com",
-      "tags": [
-        "放電",
-        "看動物",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "農場寬廣空間提供小孩奔跑放電，加上小火車、迷你馬、梅花鹿等動物互動體驗讓孩子玩到不想走。",
-      "published_at": "2026-06-15T01:30:00+00:00",
-      "collected_at": "2026-06-16T16:14:30.609239+00:00",
-      "query": "台灣 動物農場 親子 景點"
-    },
-    {
-      "id": "https-tw-news-yahoo-com-e7-9c-8b-e8-9c-9c-e8-9c-82-e3-80-81-e9-80-9b-e6-9e-97-e5",
-      "title": "看蜜蜂、逛林場！宜蘭6大「免門票親子景點」串成一日遊超省錢",
-      "url": "https://tw.news.yahoo.com/%E7%9C%8B%E8%9C%9C%E8%9C%82%E3%80%81%E9%80%9B%E6%9E%97%E5%A0%B4%EF%BC%81%E5%AE%9C%E8%98%AD6%E5%A4%A7%E3%80%8C%E5%85%8D%E9%96%80%E7%A5%A8%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E3%80%8D%E4%B8%B2%E6%88%90%E4%B8%80%E6%97%A5%E9%81%8A%E8%B6%85%E7%9C%81%E9%8C%A2-022331054.html",
-      "canonical_url": "https://tw.news.yahoo.com/%E7%9C%8B%E8%9C%9C%E8%9C%82%E3%80%81%E9%80%9B%E6%9E%97%E5%A0%B4%EF%BC%81%E5%AE%9C%E8%98%AD6%E5%A4%A7%E3%80%8C%E5%85%8D%E9%96%80%E7%A5%A8%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E3%80%8D%E4%B8%B2%E6%88%90%E4%B8%80%E6%97%A5%E9%81%8A%E8%B6%85%E7%9C%81%E9%8C%A2-022331054.html",
-      "image_url": "https://s.yimg.com/uu/api/res/1.2/M1xjUqipxmqGWb6Na0ux2Q--~B/aD03MDk7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/17-6_4572.jpg",
-      "images": [
-        "https://s.yimg.com/uu/api/res/1.2/M1xjUqipxmqGWb6Na0ux2Q--~B/aD03MDk7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/17-6_4572.jpg",
-        "https://s.yimg.com/ny/api/res/1.2/SgUj9b3E8GRjAmKocAwOcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2025-02/93788020-e86a-11ef-9f87-a0268bb71461",
-        "https://s.yimg.com/ny/api/res/1.2/.YvjDiEd6Bg8LDdVjdm8Yw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU2Nw--/https://s.yimg.com/uu/api/res/1.2/M1xjUqipxmqGWb6Na0ux2Q--~B/aD03MDk7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/17-6_4572.jpg",
-        "https://s.yimg.com/lo/mysterio/api/C50D4B569BEAD3A73452B30DD655E9D3CC95A909354D67DED0AFF80D744F4C73/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fsetn.com.tw%2F66d0a1506ca11b2580faa2d27500e25e",
-        "https://s.yimg.com/lo/mysterio/api/982079F80A87B086D64A474621F51AB9A5EB15F18936F204FE376A5964CF3F78/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fstormmediagroup.com%2Fe29c091bf0ed682059e6a02b83f58d20",
-        "https://s.yimg.com/lo/mysterio/api/8433251E98EA0317A7C5A553DD6CB9F6324E79AC649DFA37338026F17A8C7E94/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F4831e31d94791701bfafb1cd1bc6b0ce",
-        "https://s.yimg.com/lo/mysterio/api/D252B075DEB5A05CFA67748B5A2966D46A1F80B2A12F9A7CB0058B2D6897D746/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fmerit_times_340%2F2cdb4a4934a46f2be191a246180b277b",
-        "https://s.yimg.com/lo/mysterio/api/26C27A99E91B7E4C316119492886E53AAD1B05AFF572A306E16A65D543656CD5/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fsetn.com.tw%2F295c62b966d90b012bc45114fc933cc0"
-      ],
-      "summary": "看蜜蜂、逛林場！宜蘭6大「免門票親子景點」串成一日遊超省錢。宜蘭6大「免門票親子景點」串成一日遊超省錢\",\"position\":3}]} Yahoo新聞 玩樂 看蜜蜂、逛林場！",
-      "analysis": {
-        "overview": "看蜜蜂、逛林場！宜蘭6大「免門票親子景點」串成一日遊超省錢。宜蘭6大「免門票親子景點」串成一日遊超省錢\",\"position\":3}]} Yahoo新聞 玩樂 看蜜蜂、逛林場！",
-        "pros": "免門票省錢無負擔，林場空間寬廣有草皮可讓孩子盡情跑跳放電，蜜蜂互動體驗寓教於樂。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "tw.news.yahoo.com",
-      "tags": [
-        "大自然",
-        "放電"
-      ],
-      "reason": "免門票省錢無負擔，林場空間寬廣有草皮可讓孩子盡情跑跳放電，蜜蜂互動體驗寓教於樂。",
-      "published_at": "2026-06-14T19:35:00+00:00",
-      "collected_at": "2026-06-15T17:40:26.457877+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-ebc-net-tw-news-living-555887",
-      "title": "暑假親子旅遊首選！金門親子嘉年華7月熱鬧登場｜東森新聞",
-      "url": "https://news.ebc.net.tw/news/living/555887",
-      "canonical_url": "https://news.ebc.net.tw/news/living/555887",
-      "image_url": "https://img.news.ebc.net.tw/EbcNews/news/2026/06/10/1781105646_34444.jpg",
-      "images": [
-        "https://img-star.ebc.net.tw/ebcstar/topic/2026/06/14/1781456359_26240.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/topic/2026/03/19/1773905909_67470.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/topic/2026/06/15/1781527129_27394.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/topic/2025/01/25/1737819693_93208.jpg",
-        "https://img-star.ebc.net.tw/ebcstar/topic/2026/04/29/1777492470_95444.jpg",
-        "https://img-star.ebc.net.tw/ebcstar/topic/2026/06/07/1780862993_80236.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/news/2026/06/10/1781105646_34444.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/news/2026/06/10/1781105753_17505.png"
-      ],
-      "summary": "暑假親子旅遊首選！金門親子嘉年華7月熱鬧登場｜東森新聞。快訊 下載東森App，隨時掌握天下大小事！首頁 生活 分享 分享 複製連結 暑假親子旅遊首選！金門親子嘉年華7月熱鬧登場 2026-06-15 09:00 東森新聞 聽新聞 親子嘉年華活動將在暑假開跑！這次在金沙地區特別打造了5處超萌的金門原創 IP 裝置。（圖／金門縣政府提供） 9大主題活動、80項體驗遊程熱鬧登場 暑假 去哪玩？金門 縣政府將於7月1日至8月31日舉辦為期二個月的「 金門親子嘉年華 」活動，包括9大主題活動，親子體驗遊、水獺阿特快閃、烈嶼親子童玩節、兒童游泳體驗營、後浦十六藝文特區音樂季、金湖海灘花蛤季、金門海上長泳暨金廈泳渡、金寧音浪玩水節及尋找風獅爺app等，是暑假帶孩子放電的首選。今年特別導入「深度研習、做中學」的概念，推出多元深入的精緻體驗旅遊，讓遊客感受金門獨有特色，感受不同的文化觀光體驗。持續號召金門地區業者推出「親子體驗遊」，今年有高達80項的體驗遊程，例如：鱟 生態之旅 、 高粱 掃帚 DIY、歐亞水獺扭扭棒DIY製作、小小工匠-自製小刀鑰匙圈體驗、水域體驗-立式划槳、叢林水彈槍生存遊戲體驗…等地區業者與公部門推出更具金門風情及文創能量的項目，漸而形塑成為常態可遊的觀光產業發展。",
-      "analysis": {
-        "overview": "暑假親子旅遊首選！金門親子嘉年華7月熱鬧登場｜東森新聞。快訊 下載東森App，隨時掌握天下大小事！首頁 生活 分享 分享 複製連結 暑假親子旅遊首選！金門親子嘉年華7月熱鬧登場 2026-06-15 09:00 東森新聞 聽新聞 親子嘉年華活動將在暑假開跑！這次在金沙地區特別打造了5處超萌的金門原創 IP 裝置。（圖／金門縣政府提供） 9大主題活動、80項體驗遊程熱鬧登場 暑假 去哪玩？金門 縣政府將於7月1日至8月31日舉辦為期二個月的「 金門親子嘉年華 」活動，包括9大主題活動，親子體驗遊、水獺阿特快閃、烈嶼親",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "news.ebc.net.tw",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "暑假為期兩個月的嘉年華有9大主題、80項體驗遊程，從生態探索到水域活動多元選擇，孩子可以盡情放電，家長也能找到適合各年齡層的體驗項目。",
-      "published_at": "2026-06-14T18:00:00+00:00",
-      "collected_at": "2026-06-16T22:00:34.476869+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiakfvx3lxte5prg43yxczm3llmuzzevm3eg1bvhu4t",
-      "title": "何欣純搶親子票！盤點台中特色公園綠地 做親子活動",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pRG43YXczM3llMUZzeVM3eG1BVHU4TDFVcmFrU3dvX2xTS0t4RTUzSnRDMjg3QWFPS1lPOEM0OTM4RW9wd21WckF6UzRmejhjY1JuSldSYjBJRTRWYnhwU1hVNHduem5HTXfSAW9BVV95cUxQMFQzclhMZmN5UUNSV0g5dnMxSHI1dVUxWk9LMjJ2enlydzhZa0E2U0xGNEZDOG5ac2ZPYlNvZE1wU3luTHNEaGg4ODZKTzZfV1hNOUlHMHV2eHZlaXBnT3l1MVdReGJhYlZHYko5VjA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pRG43YXczM3llMUZzeVM3eG1BVHU4TDFVcmFrU3dvX2xTS0t4RTUzSnRDMjg3QWFPS1lPOEM0OTM4RW9wd21WckF6UzRmejhjY1JuSldSYjBJRTRWYnhwU1hVNHduem5HTXfSAW9BVV95cUxQMFQzclhMZmN5UUNSV0g5dnMxSHI1dVUxWk9LMjJ2enlydzhZa0E2U0xGNEZDOG5ac2ZPYlNvZE1wU3luTHNEaGg4ODZKTzZfV1hNOUlHMHV2eHZlaXBnT3l1MVdReGJhYlZHYko5VjA?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "何欣純搶親子票！盤點台中特色公園綠地 做親子活動。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "何欣純搶親子票！盤點台中特色公園綠地 做親子活動。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "自由時報",
-      "tags": [
-        "放電",
-        "大自然"
-      ],
-      "reason": "台中特色公園綠地提供寬廣草皮與多樣遊戲設施，讓孩子盡情奔跑放電，家長可在旁輕鬆陪伴野餐。",
-      "published_at": "2026-06-14T10:36:51+00:00",
-      "collected_at": "2026-06-14T17:03:13.944198+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
     }
   ]
 }
