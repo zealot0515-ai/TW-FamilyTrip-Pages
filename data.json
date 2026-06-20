@@ -1,8 +1,36 @@
 {
-  "updated_at": "2026-06-20T14:31:57.520361+00:00",
+  "updated_at": "2026-06-20T23:37:54.362036+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-www-ctee-com-tw-news-20260621700091-439901",
+      "title": "日樂高樂園 夏季限定活動開跑",
+      "url": "https://www.ctee.com.tw/news/20260621700091-439901",
+      "canonical_url": "https://www.ctee.com.tw/news/20260621700091-439901",
+      "image_url": "https://images.ctee.com.tw/newsphoto/2026-06-21/1024/A08AA8_PictureItem_Clipping_03_2.jpg",
+      "images": [
+        "https://sb.scorecardresearch.com/p?c1=2&c2=9457284&cv=4.4.0&cj=1",
+        "https://images.ctee.com.tw/newsphoto/2026-06-21/1024/A08AA8_PictureItem_Clipping_03_2.jpg",
+        "https://images.ctee.com.tw/newsphoto/2026-06-15/Miscellaneous/h20260615639170875976977028.jpg"
+      ],
+      "summary": "日樂高樂園 夏季限定活動開跑。已將目前網頁的網址複製到您的剪貼簿！暑假即將到來，親子家庭紛紛規劃海外旅遊行程，位於日本名古屋、也是距離台灣最近的樂高主題樂園「日本樂高樂園（LEGOLANDR Japan Resort）」，將於7月10日至8月31日推出夏日限定活動，結合戲水設施、親子互動與創意體驗，打造今夏最受矚目的親子旅遊勝地。今年最大亮點之一，是深受大小朋友喜愛的「Water Maze II（水上迷宮Ⅱ）」全面升級回歸（採官網當日預約制，額滿為止）。園區特別打造六大戲水區，結合闖關與互動元素，讓孩童在炎炎夏日中盡情玩水放電，享受清涼又刺激的夏季樂趣。除了大型戲水設施外，日本樂高樂園也貼心規劃適合幼兒參與的親水體驗，其中「得寶樂遊Duplo Play」設有幼兒專屬滑水道及噴水設施，並搭配遮陽空間與大型風扇，提供舒適安全的遊玩環境，「DoReMi彈奏」則融合樂高樂器模型、燈光與噴水效果，透過音樂與水花互動，讓親子共享歡樂時光。作為亞洲第二座樂高積木主題樂園，日本樂高樂園度假村擁有超過40項遊樂設施、互動工作坊及主題遊戲區，不僅能讓孩子盡情發揮創造力與想像力，成為家庭安排日本自由行的景點。",
+      "analysis": {
+        "overview": "日樂高樂園 夏季限定活動開跑。已將目前網頁的網址複製到您的剪貼簿！暑假即將到來，親子家庭紛紛規劃海外旅遊行程，位於日本名古屋、也是距離台灣最近的樂高主題樂園「日本樂高樂園（LEGOLANDR Japan Resort）」，將於7月10日至8月31日推出夏日限定活動，結合戲水設施、親子互動與創意體驗，打造今夏最受矚目的親子旅遊勝地。今年最大亮點之一，是深受大小朋友喜愛的「Water Maze II（水上迷宮Ⅱ）」全面升級回歸（採官網當日預約制，額滿為止）。園區特別打造六大戲水區，結合闖關與互動元素，讓孩童在炎炎夏日中",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "ctee.com.tw",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "樂高樂園夏季戲水設施升級回歸，六大戲水區含幼兒專屬滑水道與遮陽空間，孩子玩水放電、家長有涼扇休息區，暑假帶小孩出國消暑首選。",
+      "published_at": "2026-06-20T12:00:00+00:00",
+      "collected_at": "2026-06-20T23:36:38.732658+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfa1y01fs3p1yxjmwjrvx29scuz3wgrac",
       "title": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客",
@@ -57,6 +85,59 @@
       "query": "台灣 親子景點 最新"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmiskfvx3lxtfa2befwvnz2mloyvejgq041wwj6r0zht",
+      "title": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2bEFWVnZ2MloyVEJGQ041WWJ6R0ZHTHhlb2diYVZoUGNFUzRMblk0TTQtY1dfRXVpY29yVV91UWNRS3V5bUY2U2ln0gFSQVVfeXFMUHZVY05wTmNJRHNsMmVmZmpMb1JmSFlNV19KLU5vYzRJUmlEVG5TVDRGa3ctMmtXVDk0WEJzTzNiR3I5QW5TVkl0aUtxZjZTQWE3UQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2bEFWVnZ2MloyVEJGQ041WWJ6R0ZHTHhlb2diYVZoUGNFUzRMblk0TTQtY1dfRXVpY29yVV91UWNRS3V5bUY2U2ln0gFSQVVfeXFMUHZVY05wTmNJRHNsMmVmZmpMb1JmSFlNV19KLU5vYzRJUmlEVG5TVDRGa3ctMmtXVDk0WEJzTzNiR3I5QW5TVkl0aUtxZjZTQWE3UQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "有長城階梯與古裝街道可拍照互動，蓮花季景色優美，環境適合帶小孩體驗出遊樂趣，但步道多階梯推車較不便。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "17news民生好報",
+      "tags": [
+        "好玩",
+        "大自然"
+      ],
+      "reason": "有長城階梯與古裝街道可拍照互動，蓮花季景色優美，環境適合帶小孩體驗出遊樂趣，但步道多階梯推車較不便。",
+      "published_at": "2026-06-20T05:19:39+00:00",
+      "collected_at": "2026-06-20T23:36:52.755184+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte5jbu5aumvud3nnvhg4rgxfwwlbuwfid",
+      "title": "黃偉哲邀親子家庭暢遊親子館與特色公園 共創珍貴成長回憶 | 台灣好新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JbU5aUmVUd3NnVHg4RGxFWWlBUWFidlU2Y2NFSUdpWDd4OFh4V0hGLUhXcmtoa2hGOWUxd21HUFNlUG1jcFFBak5XenBEX3BrWTIyUGt3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JbU5aUmVUd3NnVHg4RGxFWWlBUWFidlU2Y2NFSUdpWDd4OFh4V0hGLUhXcmtoa2hGOWUxd21HUFNlUG1jcFFBak5XenBEX3BrWTIyUGt3?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "黃偉哲邀親子家庭暢遊親子館與特色公園 共創珍貴成長回憶 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "黃偉哲邀親子家庭暢遊親子館與特色公園 共創珍貴成長回憶 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "台南親子館提供室內放電空間，雨天也能玩；特色公園讓孩子盡情跑跳消耗精力，適合全家同樂創造回憶。",
+      "published_at": "2026-06-20T04:34:22+00:00",
+      "collected_at": "2026-06-20T23:37:00.170874+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte1jrknxv1dfbjb2uvpyd2fwewzncvl0d",
       "title": "內灣老街、城隍廟輸了！新竹最強景點吸134萬人，遊客讚風景美到像國外、適合全家去玩| 王若桐 | 風生活",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JRkNxV1dfbjB2UVpYd2FWeWZNcVl0d3JvUEs0WXpRVnUwVjF3eUVOY3dERjJ5TzJYVmdVTVI3QngyS2RPTGE3WE5xM1BHR0Ni?oc=5",
@@ -80,6 +161,40 @@
       "reason": "新竹此景點以絕美自然風景著稱，幅員開闊適合孩童奔跑放電，且腹地大、動線友善，全家出遊走走逛逛不擁擠。",
       "published_at": "2026-06-20T02:15:00+00:00",
       "collected_at": "2026-06-20T14:30:38.894466+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-n-yam-com-article-20260620372173",
+      "title": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客 | 蕃新聞",
+      "url": "https://n.yam.com/Article/20260620372173",
+      "canonical_url": "https://n.yam.com/Article/20260620372173",
+      "image_url": "https://ni.yam.com/20260620/0eb46e0bdf7a2c3-5e6b90c58cc33634.webp",
+      "images": [
+        "https://ni.yam.com/20260620/0eb46e0bdf7a2c3-5e6b90c58cc33634.webp",
+        "https://17news.net/wp-content/uploads/2026/06/8a663653b08c4ad.webp",
+        "https://17news.net/wp-content/uploads/2026/06/e1497aa027f50f3.webp",
+        "https://17news.net/wp-content/uploads/2026/06/3974063d6e1d8a4.webp",
+        "https://17news.net/wp-content/uploads/2026/06/19c3b79e489c59d.webp",
+        "https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/7cd01aeb-6a44-486d-d2d7-3995bfa42e00/public",
+        "https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/58c13bd4-f610-4916-4b30-27e09cb7c900/public",
+        "https://ni.yam.com/20260620/3e0c443e1851488eb8bf7c19e7a89faa-880fb06f5065036c.png"
+      ],
+      "summary": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客 | 蕃新聞。【民生好報/記者廖宥婷/台南報導】 暑假即將到來，不少家長開始規劃親子旅遊與校外教學行程。位於台南市白河區的「台灣萬里長城」，結合歷史文化、自然生態、影視場景及戶外休閒體驗，提供寓教於樂的旅遊內容，成為暑假親子出遊熱門景點之一。園區占地廣闊，規劃長城城牆、烽火台、山海關、美人關、兵馬俑展示區，以及古裝影視街景等特色設施，讓遊客宛如穿越古今，感受濃厚的歷史文化氛圍。透過導覽解說與互動體驗，也讓孩子在遊玩過程中學習歷史知識，提升學習興趣。除了文化景觀外，園區周邊擁有豐富的山林生態資源，暑假期間正值白河蓮花盛開季節，遊客可順遊蓮田，欣賞夏日花海與田園風光，親近自然，培養生態保育觀念。此外，園區內的龍門客棧、電影老街、開封府及御膳房等特色場景，也是許多戲劇、電影及廣告拍攝取景地，兼具文化觀光與打卡拍照特色。台灣萬里長城董事長林務局表示，希望透過園區文化與生態資源，鼓勵孩子暑假走出戶外，遠離3C產品，在探索歷史、親近自然的過程中增廣見聞，與家人共度充實且難忘的假期。",
+      "analysis": {
+        "overview": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客 | 蕃新聞。【民生好報/記者廖宥婷/台南報導】 暑假即將到來，不少家長開始規劃親子旅遊與校外教學行程。位於台南市白河區的「台灣萬里長城」，結合歷史文化、自然生態、影視場景及戶外休閒體驗，提供寓教於樂的旅遊內容，成為暑假親子出遊熱門景點之一。園區占地廣闊，規劃長城城牆、烽火台、山海關、美人關、兵馬俑展示區，以及古裝影視街景等特色設施，讓遊客宛如穿越古今，感受濃厚的歷史文化氛圍。透過導覽解說與互動體驗，也讓孩子在遊玩過程中學習歷史知識，提升學習興趣。除了文",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "n.yam.com",
+      "tags": [
+        "放電",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "園區占地廣闊、有平緩步道可推車行走，搭配蓮花季自然生態體驗，讓孩子盡情探索、遠離3C；古裝街景與導覽互動兼具寓教於樂，是寓教於樂的暑期親子選擇。",
+      "published_at": "2026-06-19T22:32:00+00:00",
+      "collected_at": "2026-06-20T23:37:13.301423+00:00",
       "query": "台灣 親子景點 最新"
     },
     {
@@ -718,128 +833,6 @@
       "published_at": "2026-06-17T08:17:05+00:00",
       "collected_at": "2026-06-17T12:58:20.479145+00:00",
       "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-travel-ettoday-net-article-3182065-htm",
-      "title": "全國首座「獨角仙生態公園」在台中！打造撫育區能近看雞母蟲 | ETtoday旅遊雲 | ETtoday新聞雲",
-      "url": "https://travel.ettoday.net/article/3182065.htm",
-      "canonical_url": "https://travel.ettoday.net/article/3182065.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8783/e8783182.jpg",
-      "images": [
-        "https://cdn2.ettoday.net/images/8783/e8783182.jpg",
-        "https://cdn2.ettoday.net/pen_name/info_img/penName612_1.jpg",
-        "https://cdn2.ettoday.net/images/8783/d8783182.jpg",
-        "https://cdn2.ettoday.net/images/8783/d8783185.jpg",
-        "https://cdn2.ettoday.net/images/8783/d8783184.jpg",
-        "https://cdn2.ettoday.net/images/8783/d8783183.jpg",
-        "https://cdn2.ettoday.net/images/8783/d8783167.jpg",
-        "https://cdn2.ettoday.net/images/8783/d8783166.jpg"
-      ],
-      "summary": "全國首座「獨角仙生態公園」在台中！打造撫育區能近看雞母蟲 | ETtoday旅遊雲 | ETtoday新聞雲。妮妮布魯 撰文攝影／ Nini and Blue 玩樂食記 、整理／實習記者陳品勻 近幾年台中特色公園越來越厲害，台中東勢區打造全國首座「獨角仙生態公園」，公園設有獨角仙4.8米高溜滑梯、攀爬闖關遊戲場、多元闖關攀爬組、35種遊戲體驗、獨角仙撫育區及夏日限定戲水區。周末放假想帶家裡的小朋友去放電，那台中東勢這個最新的免門票景點你絕對不能錯過！►更多吃喝玩樂大小事，快追隨旅遊雲官方Instagram 活的生態公園 近幾年台中特色公園越來越厲害，但你聽過「活的生態公園」嗎？剛正式啟用的「東勢區獨角仙生態公園」，是全台首座以「獨角仙」為主題、斥資逾九千萬元打造的全新免門票親子景點！這裡不僅有超刺激的4.8米高溜滑梯、夏日限定戲水區，最厲害的是它還是一座「獨角仙撫育基地」，讓小朋友一邊玩耍一邊近距離觀察甲蟲的生命週期。這篇文章幫大家整理了最完整的設施亮點、停車交通以及順遊路線，周末趕快帶家裡的昆蟲迷出發吧！3大必訪亮點 這座公園佔地寬廣，整體設計巧妙結合了客家圍龍屋的空間意象，並將獨角仙的「卵、幼蟲（雞母蟲）、蛹、成蟲」四個生命週期融入遊戲空間。",
-      "analysis": {
-        "overview": "全國首座「獨角仙生態公園」在台中！打造撫育區能近看雞母蟲 | ETtoday旅遊雲 | ETtoday新聞雲。妮妮布魯 撰文攝影／ Nini and Blue 玩樂食記 、整理／實習記者陳品勻 近幾年台中特色公園越來越厲害，台中東勢區打造全國首座「獨角仙生態公園」，公園設有獨角仙4.8米高溜滑梯、攀爬闖關遊戲場、多元闖關攀爬組、35種遊戲體驗、獨角仙撫育區及夏日限定戲水區。周末放假想帶家裡的小朋友去放電，那台中東勢這個最新的免門票景點你絕對不能錯過！►更多吃喝玩樂大小事，快追隨旅遊雲官方Instagram 活的生態",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "travel.ettoday.net",
-      "tags": [
-        "放電",
-        "看動物",
-        "大自然"
-      ],
-      "reason": "4.8米高溜滑梯與戲水區讓小孩盡情放電，獨角仙撫育區能近距離觀察雞母蟲生命周期，兼具玩樂與生態教育，寓教於樂。",
-      "published_at": "2026-06-17T01:59:00+00:00",
-      "collected_at": "2026-06-17T12:58:37.414755+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-www-storm-mg-lifestyle-11142195",
-      "title": "暑假親子景點來了！「50元爽玩兒童戲水池、滿足條件免費送水槍」開幕時間曝光",
-      "url": "https://www.storm.mg/lifestyle/11142195",
-      "canonical_url": "https://www.storm.mg/lifestyle/11142195",
-      "image_url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "暑假親子景點來了！「50元爽玩兒童戲水池、滿足條件免費送水槍」開幕時間曝光。隨著盛夏腳步臨近，家長們開始規劃孩童的暑期休閒活動。在東台灣一向極具代表性的休閒亮點，花蓮縣政府主辦的「2026知卡宣玩水趣」暑期戲水活動，官方正式宣布將於7月4日隆重開幕，活動將一路延續至8月23日為止。今年園區不僅全面升級了原有的兒童戲水硬體設施，更因應不同月份規劃了4大主題日系列活動，為全台各地的家庭遊客提供高CP值的消暑遊憩選擇。",
-      "analysis": {
-        "overview": "暑假親子景點來了！「50元爽玩兒童戲水池、滿足條件免費送水槍」開幕時間曝光。隨著盛夏腳步臨近，家長們開始規劃孩童的暑期休閒活動。在東台灣一向極具代表性的休閒亮點，花蓮縣政府主辦的「2026知卡宣玩水趣」暑期戲水活動，官方正式宣布將於7月4日隆重開幕，活動將一路延續至8月23日為止。今年園區不僅全面升級了原有的兒童戲水硬體設施，更因應不同月份規劃了4大主題日系列活動，為全台各地的家庭遊客提供高CP值的消暑遊憩選擇。",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "storm.mg",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "50元就能玩兒童戲水池，CP值高且有主題日活動，適合讓孩子在暑假盡情放電消暑。",
-      "published_at": "2026-06-17T01:00:00+00:00",
-      "collected_at": "2026-06-17T12:58:52.868291+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-travel-ettoday-net-article-3183621-htm",
-      "title": "盤點全台12條輕量級親山步道！登山新手也能輕鬆攻略 | ETtoday旅遊雲 | ETtoday新聞雲",
-      "url": "https://travel.ettoday.net/article/3183621.htm",
-      "canonical_url": "https://travel.ettoday.net/article/3183621.htm",
-      "image_url": "https://cdn2.ettoday.net/images/8786/e8786824.jpg",
-      "images": [
-        "https://cdn2.ettoday.net/images/8786/e8786824.jpg",
-        "https://cdn2.ettoday.net/images/8786/d8786826.jpg",
-        "https://cdn2.ettoday.net/images/8786/d8786825.jpg",
-        "https://cdn2.ettoday.net/images/8786/d8786824.jpg",
-        "https://cdn2.ettoday.net/images/8786/d8786823.jpg",
-        "https://cdn2.ettoday.net/images/8786/d8786822.jpg",
-        "https://cdn2.ettoday.net/images/8786/d8786821.jpg",
-        "https://cdn2.ettoday.net/images/8786/d8786820.jpg"
-      ],
-      "summary": "盤點全台12條輕量級親山步道！登山新手也能輕鬆攻略 | ETtoday旅遊雲 | ETtoday新聞雲。首圖／IG @ littlefish528.tina 、@ chantelle78915 文／ ReadyGo 想親近大自然，不一定要挑戰高山百岳！這次整理了小編很推薦的「全台親山步道TOP12」，從台北市區就能看到101夜景的象山步道、適合親子散步的虎山步道，到充滿森林霧氣的宜蘭見晴懷古步道、南投杉林溪步道，每一條都有不同風景與魅力。這些步道大多難度不高，很適合假日想流汗、拍照、放鬆心情的人，也很適合安排親子健行、朋友出遊或一個人的山林小旅行。►更多吃喝玩樂大小事，快追隨旅遊雲官方Instagram 象山步道 說到台北親山步道，很多人第一個想到的就是象山步道。這條步道位在信義區，交通非常方便，從捷運象山站出發，步行約10到15分鐘就能抵達登山口。雖然象山海拔只有183公尺，但一路往上走還是會微微喘，尤其階梯路段很有運動感。圖／IG @ aaaaliccee 、@ chantelle78915 最迷人的地方，是爬到六巨石、超然亭一帶時，可以直接俯瞰台北101與信義商圈。",
-      "analysis": {
-        "overview": "盤點全台12條輕量級親山步道！登山新手也能輕鬆攻略 | ETtoday旅遊雲 | ETtoday新聞雲。首圖／IG @ littlefish528.tina 、@ chantelle78915 文／ ReadyGo 想親近大自然，不一定要挑戰高山百岳！這次整理了小編很推薦的「全台親山步道TOP12」，從台北市區就能看到101夜景的象山步道、適合親子散步的虎山步道，到充滿森林霧氣的宜蘭見晴懷古步道、南投杉林溪步道，每一條都有不同風景與魅力。這些步道大多難度不高，很適合假日想流汗、拍照、放鬆心情的人，也很適合安排親子健",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "travel.ettoday.net",
-      "tags": [
-        "大自然",
-        "放電"
-      ],
-      "reason": "輕量級步道難度低、風景多元，從市區親山步道到森林步道都有，很適合安排親子健行走走跳跳放電，部分如象山步道捷運直達交通便利。",
-      "published_at": "2026-06-17T00:00:00+00:00",
-      "collected_at": "2026-06-18T21:16:09.018351+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-www-ctee-com-tw-news-20260617700358-431401",
-      "title": "迎接暑假旺季 煙波集團旗下三館親子假期超搶手",
-      "url": "https://www.ctee.com.tw/news/20260617700358-431401",
-      "canonical_url": "https://www.ctee.com.tw/news/20260617700358-431401",
-      "image_url": "https://images.ctee.com.tw/newsphoto/2026-06-17/1024/20260617700361.jpg",
-      "images": [
-        "https://sb.scorecardresearch.com/p?c1=2&c2=9457284&cv=4.4.0&cj=1",
-        "https://images.ctee.com.tw/newsphoto/2026-06-17/1024/20260617700361.jpg",
-        "https://images.ctee.com.tw/newsphoto/2026-06-17/1024/20260617700359.jpg",
-        "https://images.ctee.com.tw/newsphoto/2026-06-17/1024/20260617700360.jpg",
-        "https://images.ctee.com.tw/newsphoto/2026-06-15/Miscellaneous/h20260615639170875976977028.jpg"
-      ],
-      "summary": "迎接暑假旺季 煙波集團旗下三館親子假期超搶手。已將目前網頁的網址複製到您的剪貼簿！煙波大飯店集團今年30周年，「煙波花蓮太魯閣館」六大主題體驗環繞著「煙波職人匠心」的精神深化旅宿體驗，第一項體驗行程位於飯店步行三分鐘可到的曼波海灘-《海息石語．調衡心旅 2.0》，透過海浪、礫石與茶席，引導旅人重新找回身心節奏。第二體驗行程則由台灣首位通過Isha哈達瑜伽認證師資帶領的《靜默之境．深度修習》，以三天兩夜的沉浸式課程，在山海環抱之中練習回歸內在平衡。三項體驗行程《野騎海灣踏浪》，結合了東海岸景觀與馬術的騎乘學習，將帶領旅人從馬背視角感受花蓮海岸的壯闊風景。第四項與第五項的體驗行程更深化於文化體驗方面，由樹皮工藝創作者徐婉玉老師開設《樹皮手作體驗》，透過傳統工藝認識阿美族文化智慧，以及親子旅客則可參與《礦物質豆花 鎂味魔法師》，從食育角度探索礦物與人體健康的關係，在動手製作中認識花蓮在地特色。除了白天的探索體驗，夜晚也準備了精彩的第六項體驗活動-《搖擺吧！草地夜祭．部落夏夜》，邀集原住民族表演團隊於星空下演出，以歌聲、舞蹈與故事分享土地文化與生活記憶，讓旅人在海風與樂聲中感受東岸夏夜獨有的熱情與生命力。",
-      "analysis": {
-        "overview": "迎接暑假旺季 煙波集團旗下三館親子假期超搶手。已將目前網頁的網址複製到您的剪貼簿！煙波大飯店集團今年30周年，「煙波花蓮太魯閣館」六大主題體驗環繞著「煙波職人匠心」的精神深化旅宿體驗，第一項體驗行程位於飯店步行三分鐘可到的曼波海灘-《海息石語．調衡心旅 2.0》，透過海浪、礫石與茶席，引導旅人重新找回身心節奏。第二體驗行程則由台灣首位通過Isha哈達瑜伽認證師資帶領的《靜默之境．深度修習》，以三天兩夜的沉浸式課程，在山海環抱之中練習回歸內在平衡。三項體驗行程《野騎海灣踏浪》，結合了東海岸景觀與馬術的騎乘學習，將帶領",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 價格與房型差異大，親子設施也可能需預約。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "ctee.com.tw",
-      "tags": [
-        "好玩",
-        "大自然"
-      ],
-      "reason": "飯店步行3分鐘就到海灘，搭配馬術、DIY手作與部落文化體驗，室內外活動兼具，雨天也有備案，爸媽小孩都能盡興放電。",
-      "published_at": "2026-06-16T15:14:00+00:00",
-      "collected_at": "2026-06-17T12:59:23.111459+00:00",
-      "query": "台灣 親子旅遊 最新"
     }
   ]
 }
