@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T14:32:18.553446+00:00",
+  "updated_at": "2026-06-21T23:45:25.152828+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -638,6 +638,32 @@
       "query": "台灣 親子景點 最新"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmidefvx3lxte5zcxpbrtr5evrtdkdjbuiwnmd3nvz4s",
+      "title": "２０２６南台灣、東台灣「親子友善」景點推薦！精選９大放電好去處，週末親子出遊全攻略",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZcXpBRTR5eVRTdkdjbUIwNmd3NVZ4SGs1SWd1cDdBbWFfSFltSUwwMy1UcXpwY2VLeVpGZFBxTDdRblM3SERGQUg3TUl1RFZQa2xzYW9CM0VxSTh3cXdHTXdUVEx4UU1fb3ZQZTV0N1BKTkZz?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZcXpBRTR5eVRTdkdjbUIwNmd3NVZ4SGs1SWd1cDdBbWFfSFltSUwwMy1UcXpwY2VLeVpGZFBxTDdRblM3SERGQUg3TUl1RFZQa2xzYW9CM0VxSTh3cXdHTXdUVEx4UU1fb3ZQZTV0N1BKTkZz?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "２０２６南台灣、東台灣「親子友善」景點推薦！精選９大放電好去處，週末親子出遊全攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "２０２６南台灣、東台灣「親子友善」景點推薦！精選９大放電好去處，週末親子出遊全攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "南台灣與東台灣幅員廣闊，適合帶孩童遠離都市親近大自然，且標榜親子友善的景點通常具備停車方便、設施完善等優勢，是週末放電的好去處。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "Cheers快樂工作人",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "南台灣與東台灣幅員廣闊，適合帶孩童遠離都市親近大自然，且標榜親子友善的景點通常具備停車方便、設施完善等優勢，是週末放電的好去處。",
+      "published_at": "2026-06-18T07:00:00+00:00",
+      "collected_at": "2026-06-21T23:44:58.197557+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
       "id": "https-news-ebc-net-tw-news-living-557086",
       "title": "彰化正實農場六月超精彩！端午活動、YOYO見面會登場｜東森新聞",
       "url": "https://news.ebc.net.tw/news/living/557086",
@@ -807,32 +833,6 @@
       "published_at": "2026-06-17T10:29:40+00:00",
       "collected_at": "2026-06-19T15:44:31.164179+00:00",
       "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmitkfvx3lxte9qsmzlb3dvngrsajvctf9ubknmbuzwt",
-      "title": "暑假最潮玩法來了！嘉義打造水陸雙樂園 衝浪、水槍大戰一次玩個夠 | 楊艾喬 | 地方新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QSmZlb3dvNGRSajVCTF9ubkNmbUZwT2poX0pLNHo4LVp1ZTRMcndHSHRkeDNkZm5lbmJobFhZeWpJM0ZVZkx5UDBpdWxFUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QSmZlb3dvNGRSajVCTF9ubkNmbUZwT2poX0pLNHo4LVp1ZTRMcndHSHRkeDNkZm5lbmJobFhZeWpJM0ZVZkx5UDBpdWxFUQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "暑假最潮玩法來了！嘉義打造水陸雙樂園 衝浪、水槍大戰一次玩個夠 | 楊艾喬 | 地方新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "暑假最潮玩法來了！嘉義打造水陸雙樂園 衝浪、水槍大戰一次玩個夠 | 楊艾喬 | 地方新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "風傳媒",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "暑假期間的水上遊戲與水槍大戰能讓孩子盡情玩水放電，結合陸地活動適合全家一起參與。",
-      "published_at": "2026-06-17T08:17:05+00:00",
-      "collected_at": "2026-06-17T12:58:20.479145+00:00",
-      "query": "台灣 遊樂園 親子 最新"
     }
   ]
 }
