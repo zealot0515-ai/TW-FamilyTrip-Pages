@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-06-23T15:25:42.693365+00:00",
+  "updated_at": "2026-06-23T23:31:40.361808+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmi4wnbvv95cuxpahvpmktfqkhmulvecvfxdgfxsei4c",
+      "title": "0元玩到CP值破表！台中北區親子館分齡遊戲區，雨天大太陽都不怕的救星景點",
+      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPaHVpMktfQkhmUlVEcVFXdGFXSEI4cVlyWTd4WEFKa09iVktuZ1ZOckY0ajQ1X0VvbWhZVkVZOTc3NGdrNkNFZDdNc1BUYTV4NWtZOWZqR2JQNVNBTUZFcHRYM0REUW1iQWVyWEZaVThLQXZkakNwN1p4TFgxZUdZS1JaVUd2ZVlTbkFuVnNUQ2tROG9Cd05QVkRsY2R1dTRuaWtzN2VEdnMxcjQ5dlZaSzVTRWFYU3lYS0VXQmtMV25NR3FHczZpYXBmM2ZCYVBQR2xIMHVsUXlFZlotZFlsa0RYQlRqa3NEUUJ2cUpHWmpyb1k4UEw4NmowakVmSjZXZWNFbmE5ZkdmRm54cGVLMUVTZWgxRzZYbUtOOTdlbzhsbkl6cVB0R05UMy1QWVBvQVpjaFZISlNFYmtwdzNjTzhnNUNyR0sxRllXenhWYWNOWjc1S2pSYk56NFRFLUNaU3kyRERXNWNmNzIyZ19MYjVjNktIZ3FPSE0tWGFvWUhzdGZ3aS1tUDBQRFNFeW1uZjZIckk2Z29mWXhTNDc5NkRkdi1lMk5veUxlQ2syZUJlcENRS3BTVEhOZ0F6MTZZUFZkV2EwdVZhMzhacGxFSldibTRUOC12bGZVSFlDdllGOTA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPaHVpMktfQkhmUlVEcVFXdGFXSEI4cVlyWTd4WEFKa09iVktuZ1ZOckY0ajQ1X0VvbWhZVkVZOTc3NGdrNkNFZDdNc1BUYTV4NWtZOWZqR2JQNVNBTUZFcHRYM0REUW1iQWVyWEZaVThLQXZkakNwN1p4TFgxZUdZS1JaVUd2ZVlTbkFuVnNUQ2tROG9Cd05QVkRsY2R1dTRuaWtzN2VEdnMxcjQ5dlZaSzVTRWFYU3lYS0VXQmtMV25NR3FHczZpYXBmM2ZCYVBQR2xIMHVsUXlFZlotZFlsa0RYQlRqa3NEUUJ2cUpHWmpyb1k4UEw4NmowakVmSjZXZWNFbmE5ZkdmRm54cGVLMUVTZWgxRzZYbUtOOTdlbzhsbkl6cVB0R05UMy1QWVBvQVpjaFZISlNFYmtwdzNjTzhnNUNyR0sxRllXenhWYWNOWjc1S2pSYk56NFRFLUNaU3kyRERXNWNmNzIyZ19MYjVjNktIZ3FPSE0tWGFvWUhzdGZ3aS1tUDBQRFNFeW1uZjZIckk2Z29mWXhTNDc5NkRkdi1lMk5veUxlQ2syZUJlcENRS3BTVEhOZ0F6MTZZUFZkV2EwdVZhMzhacGxFSldibTRUOC12bGZVSFlDdllGOTA?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "0元玩到CP值破表！台中北區親子館分齡遊戲區，雨天大太陽都不怕的救星景點。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "0元玩到CP值破表！台中北區親子館分齡遊戲區，雨天大太陽都不怕的救星景點。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "室內",
+        "放電"
+      ],
+      "reason": "免費室內景點，分齡遊戲區滿足各年齡層需求，不受雨天大太陽影響，是家長的最佳雨天備案與避暑去處。",
+      "published_at": "2026-06-23T16:38:54+00:00",
+      "collected_at": "2026-06-23T23:31:10.045419+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte10clbuv2pjajbfyzzsvlo0x0lbm2tma",
       "title": "台灣有新旅遊景點！遊客讚「豐富放鬆像國外、值得再來」，車站5分鐘就到： 全家玩整天捨不得走",
@@ -90,6 +116,38 @@
       "published_at": "2026-06-22T22:20:00+00:00",
       "collected_at": "2026-06-23T15:25:16.849004+00:00",
       "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-focusnews-com-tw-2026-06-707943",
+      "title": "告別梅雨台南逾百萬人次瘋端午！ | 今傳媒 JNEWS",
+      "url": "https://focusnews.com.tw/2026/06/707943/",
+      "canonical_url": "https://focusnews.com.tw/2026/06/707943",
+      "image_url": "https://focusnews.com.tw/wp-content/uploads/2024/05/512-512_1.jpg",
+      "images": [
+        "https://focusnews.com.tw/wp-content/uploads/2024/05/512-512_1.jpg",
+        "https://focusnews.com.tw/wp-content/uploads/2025/07/cropped-今傳媒-4-3.jpg",
+        "https://focusnews.com.tw/wp-content/uploads/2026/06/遊客在虎頭埤親子環教館聽導覽_0.jpg",
+        "https://focusnews.com.tw/wp-content/uploads/2026/06/遊客在虎頭埤親子環教館聽導覽_0-800x600.jpg",
+        "https://focusnews.com.tw/wp-content/uploads/2026/06/viewbannerimage-800x363.jpg",
+        "https://focusnews.com.tw/wp-content/uploads/2025/07/本網站為開放式新聞平台-800x600.jpg",
+        "https://focusnews.com.tw/wp-content/uploads/2024/10/今傳媒合作媒體PPT.jpg",
+        "https://focusnews.com.tw/wp-content/uploads/2024/12/admin-ajax-1.jpg"
+      ],
+      "summary": "告別梅雨台南逾百萬人次瘋端午！ | 今傳媒 JNEWS。放眼看世界 【今傳媒／記者陳貴堂 報導】 三天端午節連假精彩落幕，久違的陽光在梅雨洗禮後連假期間露臉，臺南結合端午傳統民俗、親子體驗與夏季限定旅遊，各景點吸引全台各地旅客湧入。臺南市長黃偉哲表示，端午節是台灣重要的傳統三大節日之一，市府團隊特別在初夏時節推出一系列「台南限定」的精彩活動，讓造訪的遊客深刻感受府城獨有的文化底蘊。不論是挑燈夜戰、激戰運河的「台南國際龍舟錦標賽」，還是正值盛開、清新脫俗的白河蓮花，以及熱賣國外令饕客垂涎三尺的台南芒果，都展現了台南夏季特有的熱情與活力。希望每位來到台南的國際與國內旅客，都能在熱鬧的龍舟鼓聲與夏日花香果香中，留下最深刻、最具人情味的端午回憶。臺南市政府觀光旅遊局長林國華表示，根據市府觀光旅遊局景點統計資料，端午三天連假期間，台南商圈、老街、戶外遊憩及博物館等各大景點迎來六月這波的旅遊高峰，累計吸引逾 119 萬人次走訪，整體造訪人數較去年同期成長約一成。商圈與古蹟周邊受遊客青睞，國華海安河樂商圈、小西門商圈、南紡購物中心、孔廟與赤崁樓古蹟園區周邊、水交社周邊、市立圖書館新總館及三井OUTLET等熱門區域人潮熱絡，累計逾 71 萬人次到訪。",
+      "analysis": {
+        "overview": "告別梅雨台南逾百萬人次瘋端午！ | 今傳媒 JNEWS。放眼看世界 【今傳媒／記者陳貴堂 報導】 三天端午節連假精彩落幕，久違的陽光在梅雨洗禮後連假期間露臉，臺南結合端午傳統民俗、親子體驗與夏季限定旅遊，各景點吸引全台各地旅客湧入。臺南市長黃偉哲表示，端午節是台灣重要的傳統三大節日之一，市府團隊特別在初夏時節推出一系列「台南限定」的精彩活動，讓造訪的遊客深刻感受府城獨有的文化底蘊。不論是挑燈夜戰、激戰運河的「台南國際龍舟錦標賽」，還是正值盛開、清新脫俗的白河蓮花，以及熱賣國外令饕客垂涎三尺的台南芒果，都展現了台南夏",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "focusnews.com.tw",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "端午連假台南活動多元，可带孩子體驗划龍舟等傳統文化，但建議事先查詢各景點的親子友善設施。",
+      "published_at": "2026-06-22T18:13:00+00:00",
+      "collected_at": "2026-06-23T23:31:29.421911+00:00",
+      "query": "台灣 親子放電 景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmijwnbvv95cuxpb2f1vwzjmgj2qzjrclaty1ffm2xue",
@@ -793,59 +851,6 @@
       "published_at": "2026-06-18T11:34:20+00:00",
       "collected_at": "2026-06-18T12:02:38.077680+00:00",
       "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmigwfbvv95cuxptmljr3vnx0etlwrqqjd3qvl0ufc4r",
-      "title": "【沐樂島親子樂園】桃園室內遊樂園推薦｜雨天親子景點首選 親子餐廳一次滿足",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTmljR3VnX0EtLWRQQjd3QVl0UFc4RXNmblhKQnJaRFd1TmJ4VDBOM0ZfMEdlUWlkLU5XWDdMd21rVnZxOXdDVC1VXzFPZGtlQi1Ld2pEX1l3bVR2SXdUelg5UEx4UTNtdGh3MUxoSTlnazlFZEpkVTNwR0JxX1NpWXdHMNIBYkFVX3lxTE1Pcjd4cGxkTjlfcUR5SlgwM3lBUzZfRGlQcmJaZzhhX3RVQWtCenVOWVJRUXQ3eFFyTGZqVXlnRThpd2I1a0s4c3VrVGdQcjQ4ang0bDN1OFBRaXFicVlraHln?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTmljR3VnX0EtLWRQQjd3QVl0UFc4RXNmblhKQnJaRFd1TmJ4VDBOM0ZfMEdlUWlkLU5XWDdMd21rVnZxOXdDVC1VXzFPZGtlQi1Ld2pEX1l3bVR2SXdUelg5UEx4UTNtdGh3MUxoSTlnazlFZEpkVTNwR0JxX1NpWXdHMNIBYkFVX3lxTE1Pcjd4cGxkTjlfcUR5SlgwM3lBUzZfRGlQcmJaZzhhX3RVQWtCenVOWVJRUXQ3eFFyTGZqVXlnRThpd2I1a0s4c3VrVGdQcjQ4ang0bDN1OFBRaXFicVlraHln?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "【沐樂島親子樂園】桃園室內遊樂園推薦｜雨天親子景點首選 親子餐廳一次滿足。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "【沐樂島親子樂園】桃園室內遊樂園推薦｜雨天親子景點首選 親子餐廳一次滿足。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "udn 女子漾",
-      "tags": [
-        "室內",
-        "放電",
-        "好玩"
-      ],
-      "reason": "桃園室內親子樂園，雨天備案好去處，結合親子餐廳讓家長不用趕場，可一站式滿足小孩放電與用餐需求。",
-      "published_at": "2026-06-18T11:34:20+00:00",
-      "collected_at": "2026-06-18T12:02:46.653715+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmixefvx3lxte1vs2lzakk2ndr3ck1gawdezw1tt09fn",
-      "title": "【沐樂島親子樂園】桃園室內遊樂園推薦｜雨天親子景點首選 親子餐廳一次滿足",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vS2lzakk2NDR3ck1GaWdEZW1tT09fNFRmRldPTnBDaWtVTmJWQTR1dUI4eDZjTlZSR1lsQlM5NTRuR3hKeFRXS3BTR0txLWR3OE9icFlHZ2RUR1pY0gFiQVVfeXFMTU9yN3hwbGROOV9xRHlKWDAzeUFTNl9EaVByYlpnOGFfdFVBa0J6dU5ZUlFRdDd4UXJMZmpVeWdFOGl3YjVrSzhzdWtUZ1ByNDhqeDRsM3U4UFFpcWJxWWtoeWc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vS2lzakk2NDR3ck1GaWdEZW1tT09fNFRmRldPTnBDaWtVTmJWQTR1dUI4eDZjTlZSR1lsQlM5NTRuR3hKeFRXS3BTR0txLWR3OE9icFlHZ2RUR1pY0gFiQVVfeXFMTU9yN3hwbGROOV9xRHlKWDAzeUFTNl9EaVByYlpnOGFfdFVBa0J6dU5ZUlFRdDd4UXJMZmpVeWdFOGl3YjVrSzhzdWtUZ1ByNDhqeDRsM3U4UFFpcWJxWWtoeWc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "【沐樂島親子樂園】桃園室內遊樂園推薦｜雨天親子景點首選 親子餐廳一次滿足。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "【沐樂島親子樂園】桃園室內遊樂園推薦｜雨天親子景點首選 親子餐廳一次滿足。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "udn 女子漾",
-      "tags": [
-        "室內",
-        "放電"
-      ],
-      "reason": "桃園室內親子樂園，下雨天也能盡情放電，結合親子餐廳，家長不必另外找地方吃飯，一次滿足溜小孩需求。",
-      "published_at": "2026-06-18T11:34:20+00:00",
-      "collected_at": "2026-06-18T21:15:41.088104+00:00",
-      "query": "台灣 雨天 親子 室內 景點"
     }
   ]
 }
