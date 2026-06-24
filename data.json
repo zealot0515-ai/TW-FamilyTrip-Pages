@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-06-24T15:08:45.193298+00:00",
+  "updated_at": "2026-06-24T23:35:16.120070+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiwkfvx3lxtfbrbwjksf9jmmu2ug9ettffdnjurmkzc",
+      "title": "-迎接旅遊旺季 金門親子嘉年華主題日7/4登場",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrbWJkSF9jMmU2UG9ETTFFdnJURmkzcWtPM0x0aTkyakxiVDRJbjd0bHlPUjNkdnNJNmFVaVBpbkNpV0lYOVJYVWpDNG5OU2RibXRQZGNNMXZRQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrbWJkSF9jMmU2UG9ETTFFdnJURmkzcWtPM0x0aTkyakxiVDRJbjd0bHlPUjNkdnNJNmFVaVBpbkNpV0lYOVJYVWpDNG5OU2RibXRQZGNNMXZRQQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "-迎接旅遊旺季 金門親子嘉年華主題日7/4登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "-迎接旅遊旺季 金門親子嘉年華主題日7/4登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "親子嘉年華活動通常設有遊戲攤位和表演舞台，讓孩子盡情玩耍釋放精力，大型活動通常有完善服務設施和餐飲，適合全家同樂。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "kmdn.gov.tw",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "親子嘉年華活動通常設有遊戲攤位和表演舞台，讓孩子盡情玩耍釋放精力，大型活動通常有完善服務設施和餐飲，適合全家同樂。",
+      "published_at": "2026-06-24T16:01:28+00:00",
+      "collected_at": "2026-06-24T23:34:46.115865+00:00",
+      "query": "台灣 免費親子景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmitkfvx3lxte0taedrvdrhnepdtw9damltzxhurkljv",
       "title": "台北萬豪暑假限定卡丁樂遊島！400坪室內親子樂園住房專案回歸",
@@ -200,6 +226,31 @@
       "published_at": "2026-06-23T01:36:33+00:00",
       "collected_at": "2026-06-23T15:24:58.744131+00:00",
       "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-www-msn-com-zh-tw-news-national-e6-9a-91-e5-81-87-e8-a6-aa-e5-ad-90-e9-81-",
+      "title": "暑假親子遊台中 海洋館幻術師特展揭幕",
+      "url": "https://www.msn.com/zh-tw/news/national/%E6%9A%91%E5%81%87%E8%A6%AA%E5%AD%90%E9%81%8A%E5%8F%B0%E4%B8%AD-%E6%B5%B7%E6%B4%8B%E9%A4%A8%E5%B9%BB%E8%A1%93%E5%B8%AB%E7%89%B9%E5%B1%95%E6%8F%AD%E5%B9%95/ar-AA26kjac",
+      "canonical_url": "https://www.msn.com/zh-tw/news/national/%E6%9A%91%E5%81%87%E8%A6%AA%E5%AD%90%E9%81%8A%E5%8F%B0%E4%B8%AD-%E6%B5%B7%E6%B4%8B%E9%A4%A8%E5%B9%BB%E8%A1%93%E5%B8%AB%E7%89%B9%E5%B1%95%E6%8F%AD%E5%B9%95/ar-AA26kjac",
+      "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "暑假親子遊台中 海洋館幻術師特展揭幕。[NOWNEWS今日新聞]暑假還不知道帶孩子去哪裡放電嗎？台中市政府觀光旅遊局攜手台中海洋館，即日起至10月11日推出全新特展「海洋幻術師：擬態與偽裝大師」。本次展覽透過活體生物展示、珍貴野外生態影像 ...",
+      "analysis": {
+        "overview": "暑假親子遊台中 海洋館幻術師特展揭幕。[NOWNEWS今日新聞]暑假還不知道帶孩子去哪裡放電嗎？台中市政府觀光旅遊局攜手台中海洋館，即日起至10月11日推出全新特展「海洋幻術師：擬態與偽裝大師」。本次展覽透過活體生物展示、珍貴野外生態影像 ...",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "msn.com",
+      "tags": [
+        "看動物",
+        "好玩",
+        "室內"
+      ],
+      "reason": "台中海洋館室內有冷氣，雨天備案無須擔心天候，活體海洋生物展示能讓孩子近距離觀察動物，寓教於樂。",
+      "published_at": "2026-06-23T00:57:17+00:00",
+      "collected_at": "2026-06-24T23:34:55.757066+00:00",
+      "query": "台灣 親子放電 景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte1fmm5awfhxddvptfrxqxlyq0lmzgjjs",
@@ -797,66 +848,6 @@
       "published_at": "2026-06-19T19:15:00+00:00",
       "collected_at": "2026-06-20T14:30:57.212165+00:00",
       "query": "新竹 苗栗 台中 親子景點"
-    },
-    {
-      "id": "https-n-yam-com-article-20260620724209",
-      "title": "暑假親子出遊新選擇 台南白河台灣萬里長城寓教於樂受青睞 | 蕃新聞",
-      "url": "https://n.yam.com/Article/20260620724209",
-      "canonical_url": "https://n.yam.com/Article/20260620724209",
-      "image_url": "https://ni.yam.com/20260620/20260620072559-cc7c30d4ba831dec.jpg",
-      "images": [
-        "https://ni.yam.com/20260620/20260620072559-cc7c30d4ba831dec.jpg",
-        "https://www.bo6s.com.tw/images/newsimg/small/20260620072559.jpg",
-        "https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/7cd01aeb-6a44-486d-d2d7-3995bfa42e00/public",
-        "https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/58c13bd4-f610-4916-4b30-27e09cb7c900/public",
-        "https://ni.yam.com/20260620/S__330711061-206be23df820c986.jpg",
-        "https://ni.yam.com/20260620/1904078-225x300-4403b352b616bb68.jpg",
-        "https://ni.yam.com/20260620/20260620071007-92747f0025fdea08.jpg",
-        "https://ni.yam.com/20260620/115------0f890abea6b36862.jpg"
-      ],
-      "summary": "暑假親子出遊新選擇 台南白河台灣萬里長城寓教於樂受青睞 | 蕃新聞。波新聞─翁順利／台南 暑假將至，不少家長開始規劃親子出遊與學習行程。位於台南市白河區的台灣萬里長城，結合歷史文化、自然生態及戶外休閒等多元特色，吸引許多家庭及學校團體前往體驗，成為暑期旅遊與校外教學的熱門景點之一。園區占地廣闊，規劃有仿古長城城牆、烽火台、山海關、美人關及兵馬俑展示區等特色景觀，並打造古裝影視街景，營造濃厚歷史氛圍。遊客漫步其中，彷彿穿越時空，能近距離感受傳統文化魅力，也讓孩子透過參觀與互動體驗認識歷史典故，在遊憩過程中增進知識。除了人文景觀外，園區周邊坐擁白河山區自然環境，擁有豐富生態資源與優美景致。適逢暑假期間正值白河蓮花季，遊客還可順遊當地蓮田，欣賞盛開蓮花景觀，感受自然之美，培養孩子觀察生態與愛護環境的觀念。園區內的龍門客棧、電影老街、開封府及御膳房等特色場景，也是不少遊客拍照留念的人氣景點。由於場景風格鮮明，近年來更吸引戲劇、電影及廣告團隊前來取景，成為南台灣頗具代表性的文化觀光園區。台灣萬里長城表示，希望透過園區豐富的文化與生態資源，鼓勵孩子在假期期間走出戶外、減少接觸3C產品，在親近大自然與認識歷史文化的過程中拓展視野，留下充實且難忘的暑假回憶。",
-      "analysis": {
-        "overview": "暑假親子出遊新選擇 台南白河台灣萬里長城寓教於樂受青睞 | 蕃新聞。波新聞─翁順利／台南 暑假將至，不少家長開始規劃親子出遊與學習行程。位於台南市白河區的台灣萬里長城，結合歷史文化、自然生態及戶外休閒等多元特色，吸引許多家庭及學校團體前往體驗，成為暑期旅遊與校外教學的熱門景點之一。園區占地廣闊，規劃有仿古長城城牆、烽火台、山海關、美人關及兵馬俑展示區等特色景觀，並打造古裝影視街景，營造濃厚歷史氛圍。遊客漫步其中，彷彿穿越時空，能近距離感受傳統文化魅力，也讓孩子透過參觀與互動體驗認識歷史典故，在遊憩過程中增進知識。除",
-        "pros": "園區占地寬廣且動線平整，孩童可盡情奔跑探索，結合長城歷史場景與蓮花季自然生態，寓教於樂又能放電。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "n.yam.com",
-      "tags": [
-        "放電",
-        "大自然",
-        "好玩"
-      ],
-      "reason": "園區占地寬廣且動線平整，孩童可盡情奔跑探索，結合長城歷史場景與蓮花季自然生態，寓教於樂又能放電。",
-      "published_at": "2026-06-19T16:25:00+00:00",
-      "collected_at": "2026-06-20T14:31:11.138368+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmi3wjbvv95cuxnlwv5df80unhpchzttehzav9ysdhrc",
-      "title": "端午連假飆高溫! 高雄\"星光水岸公園\"成親子放電首選",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNLWV5dF80UnhpcHZTTEhZaV9ySDhrcjhieXNOLVduN3ZRbzB0WVcxT0JoRWlVend6bUFVa0ViSUNEY1FRS1Z0aW1SQ1o5clY4cFBibGJpUUNlSnEyWldySmtVUERfRFpOeHJWUlpkTEY3cFpFLXp2dE5yT1l6OEQ4NjJXOG95aFZHaGxRbEd0SnEtQzlLT2hiOXhlTTlINzJxeWJGR1NQRjVoOWJzeVpZaFNnTk94QTBQRndBYkhxbTdQc0R1eW9QUDhxbmhpck53eE1TQ20yMV90LWNWSnVYTXp1RVNBZGlCTXJnMHQxdmtQeU92LXA1Qml4MDNfbXJlWDBEQy1fcWRuTEQwTm9YTWsybE5jYi1PZUo0MnRHT2pVYU5vRGljTnZmVWIzWWZOMG9YSTZoTHVHeGZZTVpPMzFqSGlLbVBFYjZ1YV9sR3drQUdwRHVIeEptVTNFNnc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNLWV5dF80UnhpcHZTTEhZaV9ySDhrcjhieXNOLVduN3ZRbzB0WVcxT0JoRWlVend6bUFVa0ViSUNEY1FRS1Z0aW1SQ1o5clY4cFBibGJpUUNlSnEyWldySmtVUERfRFpOeHJWUlpkTEY3cFpFLXp2dE5yT1l6OEQ4NjJXOG95aFZHaGxRbEd0SnEtQzlLT2hiOXhlTTlINzJxeWJGR1NQRjVoOWJzeVpZaFNnTk94QTBQRndBYkhxbTdQc0R1eW9QUDhxbmhpck53eE1TQ20yMV90LWNWSnVYTXp1RVNBZGlCTXJnMHQxdmtQeU92LXA1Qml4MDNfbXJlWDBEQy1fcWRuTEQwTm9YTWsybE5jYi1PZUo0MnRHT2pVYU5vRGljTnZmVWIzWWZOMG9YSTZoTHVHeGZZTVpPMzFqSGlLbVBFYjZ1YV9sR3drQUdwRHVIeEptVTNFNnc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "端午連假飆高溫! 高雄\"星光水岸公園\"成親子放電首選。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "端午連假飆高溫! 高雄\"星光水岸公園\"成親子放電首選。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "放電",
-        "大自然"
-      ],
-      "reason": "端午連假高溫，水岸公園有親水設施可消暑降溫，孩子盡情玩水放電，家長可在遮蔭處休息。",
-      "published_at": "2026-06-19T10:37:02+00:00",
-      "collected_at": "2026-06-19T23:15:30.465316+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
     }
   ]
 }
