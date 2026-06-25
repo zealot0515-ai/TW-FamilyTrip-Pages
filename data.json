@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-06-25T15:13:55.051408+00:00",
+  "updated_at": "2026-06-25T23:46:52.247701+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte1dejd1qtzpredhvheysjnnykhpumjmw",
+      "title": "台北喜來登「動物森林」親子房「森」級回歸：房內內建溜滑梯、出門即玩樂園",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Dejd1QTZpREdhVHEySjNnYkhPUmJmWEdNM0V5OXE5TE1idkVDVjdqQTJWbzd0ZjZsd2NRaWNQbUVEeEd3NDh1ZnBmcTJMSHl1bXc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Dejd1QTZpREdhVHEySjNnYkhPUmJmWEdNM0V5OXE5TE1idkVDVjdqQTJWbzd0ZjZsd2NRaWNQbUVEeEd3NDh1ZnBmcTJMSHl1bXc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台北喜來登「動物森林」親子房「森」級回歸：房內內建溜滑梯、出門即玩樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台北喜來登「動物森林」親子房「森」級回歸：房內內建溜滑梯、出門即玩樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "室內",
+        "好玩"
+      ],
+      "reason": "房內設有溜滑梯，小孩可盡情放電，家長輕鬆休息；飯店位於台北市區，交通便利，適合過夜小旅行。",
+      "published_at": "2026-06-25T16:00:00+00:00",
+      "collected_at": "2026-06-25T23:46:06.348216+00:00",
+      "query": "台灣 親子飯店 親子樂園"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiv0fvx3lxte5oekiyzgprcg8ynlbydwtcdwh5otzlc",
       "title": "和逸飯店‧台南西門館暑假親子玩法再升級 小火車雞蛋糕與放電專案吸客",
@@ -106,6 +133,39 @@
       "published_at": "2026-06-25T08:03:12+00:00",
       "collected_at": "2026-06-25T15:13:14.719001+00:00",
       "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-n-yam-com-article-20260625924368",
+      "title": "和逸飯店‧台南西門館暑假親子玩法再升級　小火車雞蛋糕與放電專案吸客 | 蕃新聞",
+      "url": "https://n.yam.com/Article/20260625924368",
+      "canonical_url": "https://n.yam.com/Article/20260625924368",
+      "image_url": "https://ni.yam.com/20260625/1-_0-ac013f5c6202693f.jpg",
+      "images": [
+        "https://ni.yam.com/20260625/1-_0-ac013f5c6202693f.jpg",
+        "https://focus.586.com.tw/wp-content/uploads/2026/06/【新聞照1】_0.jpg",
+        "https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/7cd01aeb-6a44-486d-d2d7-3995bfa42e00/public",
+        "https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/58c13bd4-f610-4916-4b30-27e09cb7c900/public",
+        "https://ni.yam.com/20260625/F_20260625112554-e333882749bb14f4.jpeg",
+        "https://ni.yam.com/20260625/6a3cadd0412f3-ebe40c3744812c11.jpg",
+        "https://ni.yam.com/20260625/_0-b285e0df37451b23.jpg",
+        "https://ni.yam.com/20260624/TBc6VZbDHLgDzfNoeUMY-3d1ab51c35b1d5ce.jpg"
+      ],
+      "summary": "和逸飯店‧台南西門館暑假親子玩法再升級　小火車雞蛋糕與放電專案吸客 | 蕃新聞。〔焦點時報/記者蔡宗憲報導〕和逸飯店‧台南西門館憑藉家庭友善住宿體驗與豐富親子設施，連續二年獲Trip.com Family Hotel獎項肯定。暑假即將到來，飯店從親子家庭需求出發，規劃一系列親子體驗，包含入住可享小火車雞蛋糕等迎賓小點，Cozzi KITCHÉN餐廳結合足球運動賽事推出「GOAL！進球放電餐」，並搭配戶外奇趣操場暢玩，將美味及玩樂一起打包。另外暑假限定「1+1 放電趣」票券專案，讓非住客家庭也能暢玩飯店親子遊樂設施，無論是入住度假，或是不住宿的半日遊放電行程，皆可依照家庭需求彈性規劃，輕鬆打造更輕鬆省心的台南親子旅行。訂房及餐廳訂位請洽 06-702-6699。此外，Cozzi KITCHÉN即日起同步推出外帶限定「GOAL！進球放電餐」，以足球運動賽事熱潮為靈感，打造適合看球應援、野餐與玩樂後補充能量的外帶組合，餐點內容包含小總匯三明治、海陸炸物拚盤、特調飲品，優惠價499元，暑假期間購買再加碼贈送價值399元的飯店戶外奇趣操場暢遊券，讓餐飲美味延伸成暑假玩樂行程，孩子吃飽也能繼續放電。",
+      "analysis": {
+        "overview": "和逸飯店‧台南西門館暑假親子玩法再升級　小火車雞蛋糕與放電專案吸客 | 蕃新聞。〔焦點時報/記者蔡宗憲報導〕和逸飯店‧台南西門館憑藉家庭友善住宿體驗與豐富親子設施，連續二年獲Trip.com Family Hotel獎項肯定。暑假即將到來，飯店從親子家庭需求出發，規劃一系列親子體驗，包含入住可享小火車雞蛋糕等迎賓小點，Cozzi KITCHÉN餐廳結合足球運動賽事推出「GOAL！進球放電餐」，並搭配戶外奇趣操場暢玩，將美味及玩樂一起打包。另外暑假限定「1+1 放電趣」票券專案，讓非住客家庭也能暢玩飯店親子遊樂設施，",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "n.yam.com",
+      "tags": [
+        "放電",
+        "室內"
+      ],
+      "reason": "飯店提供小火車、奇趣操場等專為孩童設計的放電設施，搭配餐點與迎賓小點，讓家長輕鬆陪玩的同時孩子也能盡情消耗體力，暑假還有非住客適用的放電票券專案，可做半日遊行程。",
+      "published_at": "2026-06-25T05:00:00+00:00",
+      "collected_at": "2026-06-25T23:46:16.928822+00:00",
+      "query": "台灣 親子放電 景點"
     },
     {
       "id": "https-n-yam-com-article-20260625877997",
@@ -299,6 +359,33 @@
       "published_at": "2026-06-24T08:51:34+00:00",
       "collected_at": "2026-06-24T15:07:51.009654+00:00",
       "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmia0fvx3lxtfbgre9jng9jqmzsyknenee2egjrtutdb",
+      "title": "俯瞰高雄中央公園！歷史最久空中樂園再進化",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGRE9jNG9JQmZsYkNENEE2eGJrTUtDbXpGZnkwRUpObUZ2ZXdPVFdaMWtZcFNlLUZ4WWJMVk1UM0NneVpmSFF3VTcwNXRpUHhqWFhHSnN4RjU0TmpTaDZrWk5RenUwZkk4X3d30gFwQVVfeXFMT0dERDZzVFUyZnd5b2d3YnpjcmNJVDZsSVZzZTh0bmdGb0g3Ui0temRoUlFQWnJKUUI4NkRsb2RtV0pSU3R1Wi1UY056WGI0dUswVG9kdjJvSEdXdUhEWTV6NEppTWhHNnlTR09LcDM5Sg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGRE9jNG9JQmZsYkNENEE2eGJrTUtDbXpGZnkwRUpObUZ2ZXdPVFdaMWtZcFNlLUZ4WWJMVk1UM0NneVpmSFF3VTcwNXRpUHhqWFhHSnN4RjU0TmpTaDZrWk5RenUwZkk4X3d30gFwQVVfeXFMT0dERDZzVFUyZnd5b2d3YnpjcmNJVDZsSVZzZTh0bmdGb0g3Ui0temRoUlFQWnJKUUI4NkRsb2RtV0pSU3R1Wi1UY056WGI0dUswVG9kdjJvSEdXdUhEWTV6NEppTWhHNnlTR09LcDM5Sg?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "俯瞰高雄中央公園！歷史最久空中樂園再進化。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "俯瞰高雄中央公園！歷史最久空中樂園再進化。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "好房網News",
+      "tags": [
+        "放電",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "高雄中央公園腹地廣闊綠意盎然，空中樂園設施新穎有趣，孩子可以盡情玩耍放電，爸媽也能俯瞰公園景色放鬆身心。",
+      "published_at": "2026-06-24T01:58:00+00:00",
+      "collected_at": "2026-06-25T23:46:28.393682+00:00",
+      "query": "台灣 遊樂園 親子 最新"
     },
     {
       "id": "https-www-nownews-com-news-6849782",
@@ -616,6 +703,40 @@
       "query": "台灣 親子景點 最新"
     },
     {
+      "id": "https-supertaste-tvbs-com-tw-kids-360187",
+      "title": "全台首座獨角仙生態公園！4.8米高塔溜滑梯、爬72公尺網繩闖關、夏日限定戲水區 | 食尚玩家",
+      "url": "https://supertaste.tvbs.com.tw/kids/360187",
+      "canonical_url": "https://supertaste.tvbs.com.tw/kids/360187",
+      "image_url": "https://cc.tvbs.com.tw/img/program/upload/2026/06/22/20260622144343-ca36eec8.jpg",
+      "images": [
+        "https://cc.tvbs.com.tw/img/program/upload/2026/06/22/20260622144343-ca36eec8.jpg",
+        "https://sb.scorecardresearch.com/p?c1=2&c2=18400300&cv=3.6&cj=1",
+        "https://supertaste-images.tvbs.com.tw/?url=https%3A%2F%2Fcc.tvbs.com.tw%2F2022supertaste%2Fuploads%2Fplayer%2F1779160329_c1ad59fffe952e5e2c59f580739fbdb2.jpg&w=1440&q=75",
+        "https://supertaste-images.tvbs.com.tw/?url=https%3A%2F%2Fcc.tvbs.com.tw%2Fimg%2Fprogram%2Fupload%2F2026%2F06%2F22%2F20260622144337-da6e2ecf.jpg&w=1440&q=75",
+        "https://supertaste-images.tvbs.com.tw/?url=https%3A%2F%2Fcc.tvbs.com.tw%2Fimg%2Fprogram%2Fupload%2F2026%2F06%2F22%2F20260622161840-716e4d6b.jpg&w=1440&q=75",
+        "https://supertaste-images.tvbs.com.tw/?url=https%3A%2F%2Fcc.tvbs.com.tw%2Fimg%2Fprogram%2Fupload%2F2026%2F06%2F22%2F20260622144440-eb5c5bb2.jpg&w=1440&q=75",
+        "https://supertaste-images.tvbs.com.tw/?url=https%3A%2F%2Fcc.tvbs.com.tw%2Fimg%2Fprogram%2Fupload%2F2026%2F06%2F22%2F20260622164743-0ad5cf33.jpg&w=1440&q=75",
+        "https://supertaste-images.tvbs.com.tw/?url=https%3A%2F%2Fcc.tvbs.com.tw%2Fimg%2Fprogram%2Fupload%2F2026%2F06%2F22%2F20260622144353-27903b9e.jpg&w=1440&q=75"
+      ],
+      "summary": "全台首座獨角仙生態公園！4.8米高塔溜滑梯、爬72公尺網繩闖關、夏日限定戲水區 | 食尚玩家。東勢獨角仙生態公園全台首創獨角仙撫育基地，4.8米羽化之塔滑梯、72公尺闖關攀爬組、夏季戲水區與35種遊具一次玩，暑假親子放電必訪！4.8米高塔溜滑梯、爬72公尺網繩闖關、夏日限定戲水區\",\"item\":\"https://supertaste.tvbs.com.tw/kids/360187\"}]} 首頁 / 親子 全台首座獨角仙生態公園！4.8米高塔溜滑梯、爬72公尺網繩闖關、夏日限定戲水區 獨家優惠搶先用 ｜撰文 李采穎｜圖片來源 台中市府 TVBS《食尚玩家》記者 李采穎 分享： 暑假親子放電又有新選擇啦！送380羊肉燒餅 苗栗・通霄鎮 通霄兒時記憶休閒農場｜九羊廚-通霄羊肉專賣店 去領取 紙包雞買一送二 連鎖門市 肯德基 去領取 更多優惠 走進東勢獨角仙生態公園，彷彿踏進一座「獨角仙祕密森林」！整座公園以獨角仙生命週期為設計主軸，從幼蟲、蛹到成蟲，都融入園區細節裡，處處可以看到可愛的小小獨角仙造景，最特別的是園內打造「獨角仙撫育區」，未來將有上百隻獨角仙入住，透過觀察箱讓孩子近距離觀察雞母蟲與蛹的成長過程，把自然課直接搬到戶外，玩樂同時也能學習昆蟲知識。",
+      "analysis": {
+        "overview": "全台首座獨角仙生態公園！4.8米高塔溜滑梯、爬72公尺網繩闖關、夏日限定戲水區 | 食尚玩家。東勢獨角仙生態公園全台首創獨角仙撫育基地，4.8米羽化之塔滑梯、72公尺闖關攀爬組、夏季戲水區與35種遊具一次玩，暑假親子放電必訪！4.8米高塔溜滑梯、爬72公尺網繩闖關、夏日限定戲水區\",\"item\":\"https://supertaste.tvbs.com.tw/kids/360187\"}]} 首頁 / 親子 全台首座獨角仙生態公園！4.8米高塔溜滑梯、爬72公尺網繩闖關、夏日限定戲水區 獨家優惠搶先用 ｜撰文 李采穎",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "supertaste.tvbs.com.tw",
+      "tags": [
+        "放電",
+        "看動物",
+        "大自然"
+      ],
+      "reason": "4.8米高塔溜滑梯、72公尺網繩闖關加上35種遊具讓孩子盡情放電，還有獨角仙撫育區近距離觀察昆蟲 Lifecycle，把自然課搬到戶外，結合玩樂與學習。",
+      "published_at": "2026-06-22T05:05:00+00:00",
+      "collected_at": "2026-06-25T23:46:42.275614+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmikafbvv95cuxnehborvn1ru9zr1vrdut1bk9ly216b",
       "title": "最狂的暑期遊樂園！2026屏東夏日狂歡祭7月4日正式登場",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeHBoRVN1RU9zR1VrdUt1bk9LY216bWZRcXA5NjRPOXhTODhLT3NlNjk1UkJWLTRMeS1LTDNFdC1sQ2Uwbnp4VlZBa3lRNVFlRFJRbkJjMTRhYS13cTRfV0JDMVRpdFdKd09jRHZJYnJoY2ZuYVUtQW90cEsxUG5ZWHJ2cjNYM0lxR3FNbDlaeTM?oc=5",
@@ -727,113 +848,6 @@
       "published_at": "2026-06-21T19:53:18+00:00",
       "collected_at": "2026-06-22T23:43:30.503236+00:00",
       "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-www-ctee-com-tw-news-20260621700091-439901",
-      "title": "日樂高樂園 夏季限定活動開跑",
-      "url": "https://www.ctee.com.tw/news/20260621700091-439901",
-      "canonical_url": "https://www.ctee.com.tw/news/20260621700091-439901",
-      "image_url": "https://images.ctee.com.tw/newsphoto/2026-06-21/1024/A08AA8_PictureItem_Clipping_03_2.jpg",
-      "images": [
-        "https://sb.scorecardresearch.com/p?c1=2&c2=9457284&cv=4.4.0&cj=1",
-        "https://images.ctee.com.tw/newsphoto/2026-06-21/1024/A08AA8_PictureItem_Clipping_03_2.jpg",
-        "https://images.ctee.com.tw/newsphoto/2026-06-15/Miscellaneous/h20260615639170875976977028.jpg"
-      ],
-      "summary": "日樂高樂園 夏季限定活動開跑。已將目前網頁的網址複製到您的剪貼簿！暑假即將到來，親子家庭紛紛規劃海外旅遊行程，位於日本名古屋、也是距離台灣最近的樂高主題樂園「日本樂高樂園（LEGOLANDR Japan Resort）」，將於7月10日至8月31日推出夏日限定活動，結合戲水設施、親子互動與創意體驗，打造今夏最受矚目的親子旅遊勝地。今年最大亮點之一，是深受大小朋友喜愛的「Water Maze II（水上迷宮Ⅱ）」全面升級回歸（採官網當日預約制，額滿為止）。園區特別打造六大戲水區，結合闖關與互動元素，讓孩童在炎炎夏日中盡情玩水放電，享受清涼又刺激的夏季樂趣。除了大型戲水設施外，日本樂高樂園也貼心規劃適合幼兒參與的親水體驗，其中「得寶樂遊Duplo Play」設有幼兒專屬滑水道及噴水設施，並搭配遮陽空間與大型風扇，提供舒適安全的遊玩環境，「DoReMi彈奏」則融合樂高樂器模型、燈光與噴水效果，透過音樂與水花互動，讓親子共享歡樂時光。作為亞洲第二座樂高積木主題樂園，日本樂高樂園度假村擁有超過40項遊樂設施、互動工作坊及主題遊戲區，不僅能讓孩子盡情發揮創造力與想像力，成為家庭安排日本自由行的景點。",
-      "analysis": {
-        "overview": "日樂高樂園 夏季限定活動開跑。已將目前網頁的網址複製到您的剪貼簿！暑假即將到來，親子家庭紛紛規劃海外旅遊行程，位於日本名古屋、也是距離台灣最近的樂高主題樂園「日本樂高樂園（LEGOLANDR Japan Resort）」，將於7月10日至8月31日推出夏日限定活動，結合戲水設施、親子互動與創意體驗，打造今夏最受矚目的親子旅遊勝地。今年最大亮點之一，是深受大小朋友喜愛的「Water Maze II（水上迷宮Ⅱ）」全面升級回歸（採官網當日預約制，額滿為止）。園區特別打造六大戲水區，結合闖關與互動元素，讓孩童在炎炎夏日中",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "ctee.com.tw",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "樂高樂園夏季戲水設施升級回歸，六大戲水區含幼兒專屬滑水道與遮陽空間，孩子玩水放電、家長有涼扇休息區，暑假帶小孩出國消暑首選。",
-      "published_at": "2026-06-20T12:00:00+00:00",
-      "collected_at": "2026-06-20T23:36:38.732658+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfa1y01fs3p1yxjmwjrvx29scuz3wgrac",
-      "title": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1Y01FS3p1YXJmWjRVX29ScUZ3WGRacFdvZmxvakxaR3UwTnRyVV91MVB1ZEp0MXVQU29EYlE0RWdZdjFrMHZpalYyS2ZSSllvTlE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1Y01FS3p1YXJmWjRVX29ScUZ3WGRacFdvZmxvakxaR3UwTnRyVV91MVB1ZEp0MXVQU29EYlE0RWdZdjFrMHZpalYyS2ZSSllvTlE?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "園區腹地遼闊可讓小孩盡情奔跑放電，同時古裝街景與長城場景提供寓教於樂的體驗，加上蓮花季自然景觀豐富，非常適合親子出遊。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "放電",
-        "大自然",
-        "好玩"
-      ],
-      "reason": "園區腹地遼闊可讓小孩盡情奔跑放電，同時古裝街景與長城場景提供寓教於樂的體驗，加上蓮花季自然景觀豐富，非常適合親子出遊。",
-      "published_at": "2026-06-20T05:32:00+00:00",
-      "collected_at": "2026-06-20T14:30:15.762125+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfb2vwnoce5jsurzbdjlzmzqtg9szkhzt",
-      "title": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2VWNOcE5jSURzbDJlZmZqTG9SZkhZTVdfSi1Ob2M0SVJpRFRuU1Q0Rmt3LTJrV1Q5NFhCc08zYkdyOUFuU1ZJdGlLcWY2U0FhN1HSAVJBVV95cUxQdlVjTnBOY0lEc2wyZWZmakxvUmZIWU1XX0otTm9jNElSaURUblNUNEZrdy0ya1dUOTRYQnNPM2JHcjlBblNWSXRpS3FmNlNBYTdR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2VWNOcE5jSURzbDJlZmZqTG9SZkhZTVdfSi1Ob2M0SVJpRFRuU1Q0Rmt3LTJrV1Q5NFhCc08zYkdyOUFuU1ZJdGlLcWY2U0FhN1HSAVJBVV95cUxQdlVjTnBOY0lEc2wyZWZmakxvUmZIWU1XX0otTm9jNElSaURUblNUNEZrdy0ya1dUOTRYQnNPM2JHcjlBblNWSXRpS3FmNlNBYTdR?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "有古裝體驗可讓小孩變裝拍照玩樂，加上蓮花季自然景色，室內外兼具適合全家出遊。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "17news民生好報",
-      "tags": [
-        "好玩",
-        "大自然"
-      ],
-      "reason": "有古裝體驗可讓小孩變裝拍照玩樂，加上蓮花季自然景色，室內外兼具適合全家出遊。",
-      "published_at": "2026-06-20T05:19:39+00:00",
-      "collected_at": "2026-06-20T14:30:25.471713+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiskfvx3lxtfa2befwvnz2mloyvejgq041wwj6r0zht",
-      "title": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2bEFWVnZ2MloyVEJGQ041WWJ6R0ZHTHhlb2diYVZoUGNFUzRMblk0TTQtY1dfRXVpY29yVV91UWNRS3V5bUY2U2ln0gFSQVVfeXFMUHZVY05wTmNJRHNsMmVmZmpMb1JmSFlNV19KLU5vYzRJUmlEVG5TVDRGa3ctMmtXVDk0WEJzTzNiR3I5QW5TVkl0aUtxZjZTQWE3UQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2bEFWVnZ2MloyVEJGQ041WWJ6R0ZHTHhlb2diYVZoUGNFUzRMblk0TTQtY1dfRXVpY29yVV91UWNRS3V5bUY2U2ln0gFSQVVfeXFMUHZVY05wTmNJRHNsMmVmZmpMb1JmSFlNV19KLU5vYzRJUmlEVG5TVDRGa3ctMmtXVDk0WEJzTzNiR3I5QW5TVkl0aUtxZjZTQWE3UQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "暑假人氣景點！台灣萬里長城結合長城、古裝街景與蓮花季吸引親子客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "有長城階梯與古裝街道可拍照互動，蓮花季景色優美，環境適合帶小孩體驗出遊樂趣，但步道多階梯推車較不便。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "17news民生好報",
-      "tags": [
-        "好玩",
-        "大自然"
-      ],
-      "reason": "有長城階梯與古裝街道可拍照互動，蓮花季景色優美，環境適合帶小孩體驗出遊樂趣，但步道多階梯推車較不便。",
-      "published_at": "2026-06-20T05:19:39+00:00",
-      "collected_at": "2026-06-20T23:36:52.755184+00:00",
-      "query": "台灣 親子旅遊 最新"
     }
   ]
 }
