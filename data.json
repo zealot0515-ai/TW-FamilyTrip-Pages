@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T14:49:05.421315+00:00",
+  "updated_at": "2026-06-26T23:35:05.491423+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -345,6 +345,33 @@
       "published_at": "2026-06-25T04:20:00+00:00",
       "collected_at": "2026-06-25T15:13:25.153421+00:00",
       "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiiwfbvv95cuxnyllwbs11d0f6t2vyrdq4wevsauhyc",
+      "title": "和逸飯店‧台南西門館暑假親子玩法再升級 小火車雞蛋糕與放電專案吸客",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYllwbS11d0F6T2VyRDQ4WEVsaUhycUFHOGdJSlRqTVQxYmFKZGxlaTRrY0dkQi1vZlA5eC1mZ1Z1Z18xejVjbHg2UGxUaUtIRnFYTE1QQlF2Uzh3bnpLMHRaLU9FVjJEcW5aNmF1OEVLaUNKQmE5YUVLc3ZLdExIOEcyTVpBQ05hdTJz?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYllwbS11d0F6T2VyRDQ4WEVsaUhycUFHOGdJSlRqTVQxYmFKZGxlaTRrY0dkQi1vZlA5eC1mZ1Z1Z18xejVjbHg2UGxUaUtIRnFYTE1QQlF2Uzh3bnpLMHRaLU9FVjJEcW5aNmF1OEVLaUNKQmE5YUVLc3ZLdExIOEcyTVpBQ05hdTJz?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "和逸飯店‧台南西門館暑假親子玩法再升級 小火車雞蛋糕與放電專案吸客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "和逸飯店‧台南西門館暑假親子玩法再升級 小火車雞蛋糕與放電專案吸客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "館內設有小火車與放電專案，孩子能盡情玩樂消耗體力，且全室內空間雨天備案無須擔心天候，爸媽輕鬆帶小孩放風。",
+      "published_at": "2026-06-25T04:19:46+00:00",
+      "collected_at": "2026-06-26T23:34:58.203777+00:00",
+      "query": "台灣 親子景點 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmixkfvx3lxte5vdtlvemdndwdzwun0s3p4odbrbze2v",
@@ -820,32 +847,6 @@
       "published_at": "2026-06-22T07:02:51+00:00",
       "collected_at": "2026-06-22T17:13:57.226885+00:00",
       "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiqafbvv95cuxnwkn1wuo3mgrun1jhnwrdzhbyudlrm",
-      "title": "高雄親子遊樂園區最快6月完工且免費入場，你會如何安排孩子的暑期行程？",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWkN1WUo3MGRUN1JhNWRDZHByUDlrMDl4NGllclVqSGt2aXdnM19SSllMdm82a2ZYZFBSMXlTWFpmZ1dxRWhTRzdVU2dUQ0FEaFpGaExsT2xzV3hkNVNmdHhQNVpINm1NT2dIdlptTnphVFVpU1BNSnIyTzdjQjBCUHBJLXhSREdvaHdzMlluUnFNeTQtTjdMZExxS0FXT1QzbUhyZ3NkNzY?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWkN1WUo3MGRUN1JhNWRDZHByUDlrMDl4NGllclVqSGt2aXdnM19SSllMdm82a2ZYZFBSMXlTWFpmZ1dxRWhTRzdVU2dUQ0FEaFpGaExsT2xzV3hkNVNmdHhQNVpINm1NT2dIdlptTnphVFVpU1BNSnIyTzdjQjBCUHBJLXhSREdvaHdzMlluUnFNeTQtTjdMZExxS0FXT1QzbUhyZ3NkNzY?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區最快6月完工且免費入場，你會如何安排孩子的暑期行程？。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區最快6月完工且免費入場，你會如何安排孩子的暑期行程？。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Bella.tw儂儂",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄全新親子遊樂園區預計6月完工且免費入場，暑期帶小孩放風放電新選擇。",
-      "published_at": "2026-06-22T06:32:15+00:00",
-      "collected_at": "2026-06-26T14:48:51.123840+00:00",
-      "query": "台灣 免費親子景點"
     }
   ]
 }
