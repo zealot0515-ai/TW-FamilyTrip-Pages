@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T14:18:41.933803+00:00",
+  "updated_at": "2026-06-28T23:19:33.643982+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -85,6 +85,30 @@
       "published_at": "2026-06-28T00:00:00+00:00",
       "collected_at": "2026-06-28T14:16:39.722049+00:00",
       "query": "宜蘭 花蓮 台東 親子景點"
+    },
+    {
+      "id": "https-www-msn-com-zh-tw-travel-e5-85-ac-e5-9c-92-e5-ae-9c-e8-98-ad-e5-ae-a4-e5-8",
+      "title": "宜蘭室內景點推薦! 蘭陽動植物王國 看鵜鶘飛行秀、餵超萌水豚，宜蘭一日遊必去。",
+      "url": "https://www.msn.com/zh-tw/travel/%E5%85%AC%E5%9C%92/%E5%AE%9C%E8%98%AD%E5%AE%A4%E5%85%A7%E6%99%AF%E9%BB%9E%E6%8E%A8%E8%96%A6-%E8%98%AD%E9%99%BD%E5%8B%95%E6%A4%8D%E7%89%A9%E7%8E%8B%E5%9C%8B-%E7%9C%8B%E9%B5%9C%E9%B6%98%E9%A3%9B%E8%A1%8C%E7%A7%80-%E9%A4%B5%E8%B6%85%E8%90%8C%E6%B0%B4%E8%B1%9A-%E5%AE%9C%E8%98%AD%E4%B8%80%E6%97%A5%E9%81%8A%E5%BF%85%E5%8E%BB/ar-AA26Ifv6",
+      "canonical_url": "https://www.msn.com/zh-tw/travel/%E5%85%AC%E5%9C%92/%E5%AE%9C%E8%98%AD%E5%AE%A4%E5%85%A7%E6%99%AF%E9%BB%9E%E6%8E%A8%E8%96%A6-%E8%98%AD%E9%99%BD%E5%8B%95%E6%A4%8D%E7%89%A9%E7%8E%8B%E5%9C%8B-%E7%9C%8B%E9%B5%9C%E9%B6%98%E9%A3%9B%E8%A1%8C%E7%A7%80-%E9%A4%B5%E8%B6%85%E8%90%8C%E6%B0%B4%E8%B1%9A-%E5%AE%9C%E8%98%AD%E4%B8%80%E6%97%A5%E9%81%8A%E5%BF%85%E5%8E%BB/ar-AA26Ifv6",
+      "image_url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "宜蘭室內景點推薦! 蘭陽動植物王國 看鵜鶘飛行秀、餵超萌水豚，宜蘭一日遊必去。。宜蘭最新親子景點「蘭陽動植物王國」打造3000坪全開放式生態溫室。不僅能零距離餵食超萌水豚、袋鼠與草泥馬，絕對是宜蘭一日遊的療癒首選。坐落於宜蘭壯圍的「蘭陽動植物王國」園區佔地超過3000坪，將生態溫室與戶外空間完美結合，即使在氣候多變的宜蘭下雨天，室內挑高寬敞的雨遮動線，也能讓遊客安心漫遊。園區打破過往的冰冷柵欄，採取全開放式的非籠養設計，週末就來這邊看鵜鶘飛行秀 ...",
+      "analysis": {
+        "overview": "宜蘭室內景點推薦! 蘭陽動植物王國 看鵜鶘飛行秀、餵超萌水豚，宜蘭一日遊必去。。宜蘭最新親子景點「蘭陽動植物王國」打造3000坪全開放式生態溫室。不僅能零距離餵食超萌水豚、袋鼠與草泥馬，絕對是宜蘭一日遊的療癒首選。坐落於宜蘭壯圍的「蘭陽動植物王國」園區佔地超過3000坪，將生態溫室與戶外空間完美結合，即使在氣候多變的宜蘭下雨天，室內挑高寬敞的雨遮動線，也能讓遊客安心漫遊。園區打破過往的冰冷柵欄，採取全開放式的非籠養設計，週末就來這邊看鵜鶘飛行秀 ...",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "msn.com",
+      "tags": [
+        "看動物",
+        "室內"
+      ],
+      "reason": "3000坪室內雨遮動線，下雨天也能帶小孩近距離餵水豚、鵜鶘，全開放非籠養設計讓孩子與動物零距離接觸。",
+      "published_at": "2026-06-28T00:00:00+00:00",
+      "collected_at": "2026-06-28T23:19:11.206437+00:00",
+      "query": "台灣 雨天 親子 室內 景點"
     },
     {
       "id": "https-n-yam-com-article-20260628148823",
@@ -233,6 +257,32 @@
       "published_at": "2026-06-26T18:41:00+00:00",
       "collected_at": "2026-06-27T14:07:02.759035+00:00",
       "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiv0fvx3lxte9nclzfcervb1nzrkdhrurkr2z4v1fhd",
+      "title": "2026看澎湖花火節住這家！馬公市區６間住宿推薦：最新飯店、好玩親子房民宿",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nclZFcERVb1NZRkdHRURKR2Z4V1FhdXZoRmlUQjlXZG4tNnhIekdtelEtU3hVZEU0RmRWVUdKVzliYngwdjIxUHFzREU0c3c3QmFGaHJBb9IBXEFVX3lxTFBSQzZWYldXUUluaDBJUzhfNmg3UzRBd2pUbXVyTkg1U1JiT2ROTTlrZm8zUG1RUDlDcnhPdnBUZUlvbWwtWW9CVUJ1dzM0MG9DZ2tMWHp1a0tudkpS?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nclZFcERVb1NZRkdHRURKR2Z4V1FhdXZoRmlUQjlXZG4tNnhIekdtelEtU3hVZEU0RmRWVUdKVzliYngwdjIxUHFzREU0c3c3QmFGaHJBb9IBXEFVX3lxTFBSQzZWYldXUUluaDBJUzhfNmg3UzRBd2pUbXVyTkg1U1JiT2ROTTlrZm8zUG1RUDlDcnhPdnBUZUlvbWwtWW9CVUJ1dzM0MG9DZ2tMWHp1a0tudkpS?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "2026看澎湖花火節住這家！馬公市區６間住宿推薦：最新飯店、好玩親子房民宿。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "2026看澎湖花火節住這家！馬公市區６間住宿推薦：最新飯店、好玩親子房民宿。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "價格與房型差異大，親子設施也可能需預約。",
+        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "食尚玩家",
+      "tags": [
+        "好玩",
+        "室內"
+      ],
+      "reason": "花火節期間住宿周邊常有活動，孩子可在民宿親子房盡情玩樂，且市區住宿機能完善，是雨天或晚間的優質備案選擇。",
+      "published_at": "2026-06-26T12:00:00+00:00",
+      "collected_at": "2026-06-28T23:19:26.342692+00:00",
+      "query": "台灣 特色飯店 親子 房型"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfb1bm94u2rpcdhqvl8tb04wqjdermzwr",
@@ -786,60 +836,6 @@
       "published_at": "2026-06-24T16:00:00+00:00",
       "collected_at": "2026-06-25T15:13:55.029817+00:00",
       "query": "台北 新北 桃園 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmitkfvx3lxte0taedrvdrhnepdtw9damltzxhurkljv",
-      "title": "台北萬豪暑假限定卡丁樂遊島！400坪室內親子樂園住房專案回歸",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0taEdrVDRHNEpDTW9DamltZXhURkljVjE3ZzZ0VlR5T1p4N1FxY1RHcklvRW5jOXEzaHdCVFpnbjNUbmt2UEhNNG51WmZCZw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0taEdrVDRHNEpDTW9DamltZXhURkljVjE3ZzZ0VlR5T1p4N1FxY1RHcklvRW5jOXEzaHdCVFpnbjNUbmt2UEhNNG51WmZCZw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台北萬豪暑假限定卡丁樂遊島！400坪室內親子樂園住房專案回歸。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台北萬豪暑假限定卡丁樂遊島！400坪室內親子樂園住房專案回歸。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "輕旅行",
-      "tags": [
-        "放電",
-        "室內",
-        "好玩"
-      ],
-      "reason": "400坪室內空間有卡丁車設施，下雨天也能讓小孩盡情放電，且結合飯店住房專案免煩惱餐飲與如廁需求。",
-      "published_at": "2026-06-24T09:04:31+00:00",
-      "collected_at": "2026-06-24T15:07:40.963207+00:00",
-      "query": "台灣 室內親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte4tctzidtzqos05uhbmvxzuv0pqrnv4z",
-      "title": "31座吊床全台居冠！ 后里森林公園「搖籃遊戲場」啟用 | 台灣好新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tcTZidTZQOS05UHBmVXZUV0pQRnV4Zng5SUtsZERtNUVoNlozY0lnYUJ4ZVVoTEl2YlI5X2RQMUxRcHFGSno2RklxSHlSRVBDSS1lNUln?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tcTZidTZQOS05UHBmVXZUV0pQRnV4Zng5SUtsZERtNUVoNlozY0lnYUJ4ZVVoTEl2YlI5X2RQMUxRcHFGSno2RklxSHlSRVBDSS1lNUln?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "31座吊床全台居冠！ 后里森林公園「搖籃遊戲場」啟用 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "31座吊床全台居冠！ 后里森林公園「搖籃遊戲場」啟用 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "后里森林公園擁有全台最多的31座吊床，搭配寬闊草皮與森林環境，小孩可盡情奔跑玩耍放電。",
-      "published_at": "2026-06-24T08:51:34+00:00",
-      "collected_at": "2026-06-24T15:07:51.009654+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
     }
   ]
 }
