@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-07-10T14:52:51.040247+00:00",
+  "updated_at": "2026-07-10T23:12:48.725652+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmir0fvx3lxtfbfsdzhvv9nc1q5s2d5rjnpmezutkzvv",
+      "title": "日本5大暑假熱門親子旅遊地第一名離台灣超近| 旅遊",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfSDZHVV9nc1Q5S2d5RjNPMEZuTkZVVXdyQW1xUlZST3pTOEZ6S0VJU0o1TXAzbjZkdS1nT1BkSGpUd1FlS3ZV?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfSDZHVV9nc1Q5S2d5RjNPMEZuTkZVVXdyQW1xUlZST3pTOEZ6S0VJU0o1TXAzbjZkdS1nT1BkSGpUd1FlS3ZV?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "日本5大暑假熱門親子旅遊地第一名離台灣超近| 旅遊。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "日本5大暑假熱門親子旅遊地第一名離台灣超近| 旅遊。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "三立新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-07-10T10:04:56+00:00",
+      "collected_at": "2026-07-10T23:12:47.590433+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmixkfvx3lxte1hotrktkt2rujmblq4yvjeqwdkowzlq",
       "title": "躺在床上看日出！花蓮「遠雄悅來大飯店」坐擁270度無敵海景美到起飛，暑假親子渡假首選。|旅遊",
@@ -53,6 +78,32 @@
       "reason": "親子樂園佔地寬敞、設施多元，孩子能盡情奔跑玩樂放電，是週末全家出遊消耗體力的好去處。",
       "published_at": "2026-07-10T08:26:58+00:00",
       "collected_at": "2026-07-10T14:51:11.222629+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmi3wnbvv95cuxqq1nlyzhwdetrtxvwc1vnwkfka1niv",
+      "title": "【台灣親子遊】全台7大特色親子樂園推介 台北／台中／花蓮／高雄必玩經典主題樂園",
+      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQQ1NlYzhwdEtrTXVWc1VNWkFka1NIVXN4cEd1VUNaUGJlblJXMlFxZE5uMFVITVpCbVMzSGxqc1hieUpreFZYNmFCMDFMclhRQ1VjVGNLOW1WZ1VDYkI2YlV3dUgzRW9yc2VFa05wQUZaM2VHd2hjWEhwQWoxVVFFZGVsQVhxQS05ZHFoODFhUkFYVTkwU0pXSnBDUjJvZHc1LVVBYnhtSVFacUFGc3Z0WllMcWpIYmVNbzlUVWRva3VxNkFXMk1UNzh0YWlfcWN4UU1pbTFQQ1hnOGdjYkF3Ty1FRjcxVHhUVkI1UDZaNy1KZDFIcFlkM3VMblVERmpkd0I2OFhZS2hWbkVvSG9RZ01NalI1dWVNNi02WWFWRko0ejRUYy1vbnA4OTZXUTJJbE5hRDA5YkpMXzVRWFhyeUhQN2JYeW9UX25MX2hFV1Z6WjJLRnJRenlhVHBJYmdjN0JUYUdleTRtX24yeU05Z0thQk5FT2ZRUWdnVlBRSlNlQkdxaEZ5b0VtT0hPY0ZoNEdMWlRhdG5kemxTYk9WVVh1TnlHT3lUYUpmVE1FRV9zcWVQN3YwZnRWenozNUtBdWFURWg5VWsyRUk1WjZWMGNrUDZHaUJQRE4xY1JHaw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQQ1NlYzhwdEtrTXVWc1VNWkFka1NIVXN4cEd1VUNaUGJlblJXMlFxZE5uMFVITVpCbVMzSGxqc1hieUpreFZYNmFCMDFMclhRQ1VjVGNLOW1WZ1VDYkI2YlV3dUgzRW9yc2VFa05wQUZaM2VHd2hjWEhwQWoxVVFFZGVsQVhxQS05ZHFoODFhUkFYVTkwU0pXSnBDUjJvZHc1LVVBYnhtSVFacUFGc3Z0WllMcWpIYmVNbzlUVWRva3VxNkFXMk1UNzh0YWlfcWN4UU1pbTFQQ1hnOGdjYkF3Ty1FRjcxVHhUVkI1UDZaNy1KZDFIcFlkM3VMblVERmpkd0I2OFhZS2hWbkVvSG9RZ01NalI1dWVNNi02WWFWRko0ejRUYy1vbnA4OTZXUTJJbE5hRDA5YkpMXzVRWFhyeUhQN2JYeW9UX25MX2hFV1Z6WjJLRnJRenlhVHBJYmdjN0JUYUdleTRtX24yeU05Z0thQk5FT2ZRUWdnVlBRSlNlQkdxaEZ5b0VtT0hPY0ZoNEdMWlRhdG5kemxTYk9WVVh1TnlHT3lUYUpmVE1FRV9zcWVQN3YwZnRWenozNUtBdWFURWg5VWsyRUk1WjZWMGNrUDZHaUJQRE4xY1JHaw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "【台灣親子遊】全台7大特色親子樂園推介 台北／台中／花蓮／高雄必玩經典主題樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "【台灣親子遊】全台7大特色親子樂園推介 台北／台中／花蓮／高雄必玩經典主題樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "utravel.com.hk",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-07-10T08:26:58+00:00",
+      "collected_at": "2026-07-10T23:12:47.984374+00:00",
       "query": "台灣 親子景點 最新"
     },
     {
@@ -756,67 +807,6 @@
       "published_at": "2026-07-07T21:31:00+00:00",
       "collected_at": "2026-07-08T14:42:16.845067+00:00",
       "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-news-ltn-com-tw-news-life-breakingnews-5497974",
-      "title": "兒童遊戲場夏季炎熱恐燙傷 新北明年推10座星光遊戲場 - 生活 - 自由時報電子報",
-      "url": "https://news.ltn.com.tw/news/life/breakingnews/5497974",
-      "canonical_url": "https://news.ltn.com.tw/news/life/breakingnews/5497974",
-      "image_url": "https://img.ltn.com.tw/Upload/news/600/2026/07/08/5497974_1_1.jpg",
-      "images": [
-        "https://img.ltn.com.tw/Upload/news/600/2026/07/08/5497974_1_1.jpg",
-        "https://news.ltn.com.tw/news/life/breakingnews/assets/images/x.png",
-        "https://ad.doubleclick.net/ddm/activity/src=9530821;type=invmedia;cat=ltn_w0;u1=news;u2=生活;u3=5497974;u4=;u5=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1",
-        "https://b.scorecardresearch.com/p?c1=2&c2=18368781&cv=2.0&cj=1",
-        "https://pv6.ltn.com.tw/impression?ano=",
-        "https://cache.ltn.com.tw/images/sexno.png",
-        "https://cache.ltn.com.tw/images/sexyes.png",
-        "https://news.ltn.com.tw/news/life/breakingnews/assets/images/default800.jpg"
-      ],
-      "summary": "兒童遊戲場夏季炎熱恐燙傷 新北明年推10座星光遊戲場 - 生活 - 自由時報電子報。為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。圖為五股體健公園綠竹筍造型的兒童遊戲場。（圖由景觀處提供） 暑假期間，公園是孩子「放電」最佳去處，但是白天高溫炎熱，遊具可能燙傷孩童。新北市已建置216座特色共融遊戲場及全齡化公園，明年將選定10處試辦「星光遊戲場」，針對遊具及活動區域進行光影規劃，提升遊戲安全，延長公園使用時段，打造夜間休憩亮點。新北市農業局長諶錫輝今天在市政會議報告指出，為落實友善城市、永續發展理念，新北市已完成216座特色共融遊戲場及全齡化公園，其中林口區吉祥公園獲得2024年公園綠地景觀類建築園冶獎；府中雙城站前廣場呈現新美學意象，提供人本友善步行空間；中和區嘉穗公園以「國家級美樹館」為核心，營造生態多元共榮的環境。請繼續往下閱讀... 新北市長侯友宜宣布，因應夏季高溫及市民夜間休憩需求，明年將推行「夜裡繁星─星光遊戲場點亮計畫」，預計投入經費1500萬元，選定全市10處作為示範場域，該計畫不只是提供通行照明，更透過整體光環境設計，針對遊具與活動區域進行完整光影規劃，打造兼顧安全與環境品質的夜間休憩亮點。",
-      "analysis": {
-        "overview": "兒童遊戲場夏季炎熱恐燙傷 新北明年推10座星光遊戲場 - 生活 - 自由時報電子報。為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。圖為五股體健公園綠竹筍造型的兒童遊戲場。（圖由景觀處提供） 暑假期間，公園是孩子「放電」最佳去處，但是白天高溫炎熱，遊具可能燙傷孩童。新北市已建置216座特色共融遊戲場及全齡化公園，明年將選定10處試辦「星光遊戲場」，針對遊具及活動區域進行光影規劃，提升遊戲安全，延長公園使用時段，打造夜間休憩亮點。新北市農業局長諶錫輝今天在市政會議",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "news.ltn.com.tw",
-      "tags": [
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-07-07T21:31:00+00:00",
-      "collected_at": "2026-07-08T23:30:25.255430+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmisefvx3lxte1nzekzlvnfbvhray03tgvrd19knm1az",
-      "title": "彰化最新親子景點\"偽出國\" 　中部也有南洋熱帶島嶼樂園",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NZEkzLVNfbVhRay03TGVRd19KNm1aZ2tTclpFdnBfWUdJY211Vk53S0hFSVdpS2hIVFI5a09kMTZMdzlkYlJ6MdIBTEFVX3lxTE1mSnRKWGtXMEdkQlZPRHZ0X3RMaDFqTnk3YzAycVpTcTdFdVF1RVU4dmpuTTlxclpFcXdldVNCM1kwMkRnZklubnRab2Q?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NZEkzLVNfbVhRay03TGVRd19KNm1aZ2tTclpFdnBfWUdJY211Vk53S0hFSVdpS2hIVFI5a09kMTZMdzlkYlJ6MdIBTEFVX3lxTE1mSnRKWGtXMEdkQlZPRHZ0X3RMaDFqTnk3YzAycVpTcTdFdVF1RVU4dmpuTTlxclpFcXdldVNCM1kwMkRnZklubnRab2Q?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "彰化最新親子景點\"偽出國\" 　中部也有南洋熱帶島嶼樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "彰化最新親子景點\"偽出國\" 　中部也有南洋熱帶島嶼樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "三立新聞",
-      "tags": [
-        "放電",
-        "大自然",
-        "好玩"
-      ],
-      "reason": "南洋熱帶島嶼主題樂園佔地寬闊，孩子可盡情奔跑放電，家長能輕鬆拍照打卡享受偽出國渡假氛圍。",
-      "published_at": "2026-07-07T17:19:55+00:00",
-      "collected_at": "2026-07-07T23:14:57.969702+00:00",
-      "query": "台灣 親子景點 最新"
     }
   ]
 }
