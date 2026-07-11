@@ -1,8 +1,60 @@
 {
-  "updated_at": "2026-07-11T13:56:36.832221+00:00",
+  "updated_at": "2026-07-11T23:10:37.596463+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte5ic003vgvszjnhb0dvu0e0wfpymddcn",
+      "title": "父親節出遊新亮點！台鐵高雄舊機廠 變身親子樂園",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Ic003VGVsZjNHb0dVU0E0WFpyMDdCNHdUVzJyTUF0RDBPRTlKWHNobm9Id1pDZVNCM3BEVEtJQmNLbFNwZWwzMTFDbzFwa0x30gFWQVVfeXFMUEFZOG53ZXJRSkhSWXpuUGJzdmxVVUZrY3dmenc1N3l3M3l5bVNZWGdZQzBuS0R0emlWUU5zdGxPNmt1b3I2RHVjUVFMM2Q4eTNVU3BwNmc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Ic003VGVsZjNHb0dVU0E0WFpyMDdCNHdUVzJyTUF0RDBPRTlKWHNobm9Id1pDZVNCM3BEVEtJQmNLbFNwZWwzMTFDbzFwa0x30gFWQVVfeXFMUEFZOG53ZXJRSkhSWXpuUGJzdmxVVUZrY3dmenc1N3l3M3l5bVNZWGdZQzBuS0R0emlWUU5zdGxPNmt1b3I2RHVjUVFMM2Q4eTNVU3BwNmc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "父親節出遊新亮點！台鐵高雄舊機廠 變身親子樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "父親節出遊新亮點！台鐵高雄舊機廠 變身親子樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "聯合新聞網",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-07-11T16:00:00+00:00",
+      "collected_at": "2026-07-11T23:10:34.231170+00:00",
+      "query": "台灣 親子飯店 親子樂園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmipanbvv95cuxqeg84dxbaamhsbwl0cmrxnmo3quxps",
+      "title": "中度颱風巴威來襲 林欽榮副市長視察高雄親子遊樂園區防颱整備",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQeG84dXBaamhSbWl0cmRXNmo3QUxPSUhzWU1Hanh5blM1QWRVNzBRT1FVTXQ0R0lWYlhsaS1yVTZhd0ZvWndGVWlLdXJNSGV0SmR3cVU4UmN3b05ZTnRDMEJCMVV1Z0tCMGNxOW1yR1BzQzQxQ0ZKRy1wQnkyYm51QjJmOFpQVjlTamEzcFc0WkxJMl9HdHpnRll3a1JBblZzRDI2TDR2S01XUzN0NmM5Z19xOUhMNmZJbmdGY1JKNXFpbjMwaWJDSjRMRWhNc2YzbmFKVS1xYzNFMVJ2YlFqbmdhZFhndG8taUV5a0dwd1Z5S1J5OVhRbUZ0WW1ZRkpmRlB6blExSUR0NWVKdWpEa1lyeFFWR29UVExZTDAtOElPUF9BZWo3dGpONFVsXzFhNDJJc0phemVCM1J5MDBQeXZlLXk5V0xiRTRWVktHUlRsa2Z4Y1B1WnJrNEc1S20wMVJNZFpYWE5XSlBuX0Y5YkxaclpwY1F6TzB3dlZqQ1loWG40VlphNEU0eE1ReF9EaGF6MFRONzJXUGVyRlFLRWcxdzA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQeG84dXBaamhSbWl0cmRXNmo3QUxPSUhzWU1Hanh5blM1QWRVNzBRT1FVTXQ0R0lWYlhsaS1yVTZhd0ZvWndGVWlLdXJNSGV0SmR3cVU4UmN3b05ZTnRDMEJCMVV1Z0tCMGNxOW1yR1BzQzQxQ0ZKRy1wQnkyYm51QjJmOFpQVjlTamEzcFc0WkxJMl9HdHpnRll3a1JBblZzRDI2TDR2S01XUzN0NmM5Z19xOUhMNmZJbmdGY1JKNXFpbjMwaWJDSjRMRWhNc2YzbmFKVS1xYzNFMVJ2YlFqbmdhZFhndG8taUV5a0dwd1Z5S1J5OVhRbUZ0WW1ZRkpmRlB6blExSUR0NWVKdWpEa1lyeFFWR29UVExZTDAtOElPUF9BZWo3dGpONFVsXzFhNDJJc0phemVCM1J5MDBQeXZlLXk5V0xiRTRWVktHUlRsa2Z4Y1B1WnJrNEc1S20wMVJNZFpYWE5XSlBuX0Y5YkxaclpwY1F6TzB3dlZqQ1loWG40VlphNEU0eE1ReF9EaGF6MFRONzJXUGVyRlFLRWcxdzA?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "中度颱風巴威來襲 林欽榮副市長視察高雄親子遊樂園區防颱整備。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "中度颱風巴威來襲 林欽榮副市長視察高雄親子遊樂園區防颱整備。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-07-11T15:37:07+00:00",
+      "collected_at": "2026-07-11T23:10:35.034850+00:00",
+      "query": "台灣 親子景點 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmivkfvx3lxtfatcktqvzllcdruoho3rwzeqvyzv0s2w",
       "title": "林欽榮視察高雄親子遊樂園防颱整備 | 中華日報",
@@ -155,6 +207,40 @@
       "reason": "此為防颱整備政務新聞，非親子遊樂園區遊玩推薦，無足夠資訊可供判斷。",
       "published_at": "2026-07-11T09:41:53+00:00",
       "collected_at": "2026-07-11T13:55:14.355539+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-udn-com-news-story-7266-9622058",
+      "title": "父親節出遊新亮點…台鐵高雄舊機廠 變身親子樂園 | 聯合新聞網",
+      "url": "https://udn.com/news/story/7266/9622058",
+      "canonical_url": "https://udn.com/news/story/7266/9622058",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35126951.jpg&M=1&s=Y&x=0&y=0&sw=1190&sh=793&exp=3600",
+      "images": [
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35126951.jpg&M=1&s=Y&x=0&y=0&sw=1190&sh=793&exp=3600",
+        "https://sb.scorecardresearch.com/p?c1=2&c2=7390954&comscorekw=&cv=4.0.0&cj=1",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35126951.jpg&M=1&s=Y&x=0&y=0&sw=1190&sh=797&sl=W&fw=930&exp=3600&w=930",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/10/35124819.jpg&M=1&s=Y&x=1&y=108&sw=1279&sh=852&exp=3600&w=300&w=300",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/08/35117987.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300&w=300",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/10/35124124.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300&w=300",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6641_9.jpg&w=300",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35126856.jpg&M=1&s=Y&x=0&y=0&sw=1174&sh=783&exp=3600&w=300"
+      ],
+      "summary": "父親節出遊新亮點…台鐵高雄舊機廠 變身親子樂園 | 聯合新聞網。0:00 / 0:00 Your browser does not support HTML5 Audio!😢 父親節出遊新亮點…台鐵高雄舊機廠 變身親子樂園 2026-07-12 00:00 聯合報／ 記者 郭韋綺 、 王昭月 ／高雄報導 台鐵 親子 鐵道 颱風 關閉 昔日肩負南台灣鐵路客貨車廂維修重任的台鐵高雄機廠，經高雄市政府多年規畫整備，將變身為全台面積最大、室內全齡共用的親子樂園，預計父親節開園。圖／高市都發局提供 --> 贊助本文 --> 昔日肩負南台灣鐵路客貨車廂維修重任的 台鐵 高雄 機廠，歷經十年規畫整備，將變身為全台面積最大的室內全齡共用 親子 樂園，預計今年父親節開園，園區逾卅種遊樂設施，打破過去只有小小孩能玩的刻板印象。適逢 颱風 巴威來襲，副市長林欽榮昨前往視察工程進度及防颱整備情形，要求確保工程安全及如期開幕。林欽榮說，高雄親子 遊樂園 區工程進度已逾百分之九十五，進入最後施工及查驗階段。室內正進行消防、機電及遊具設備檢測，戶外區域持續辦理景觀圍籬、植栽綠化、瀝青鋪設及管線工程，全力朝本月底完工目標邁進。",
+      "analysis": {
+        "overview": "父親節出遊新亮點…台鐵高雄舊機廠 變身親子樂園 | 聯合新聞網。0:00 / 0:00 Your browser does not support HTML5 Audio!😢 父親節出遊新亮點…台鐵高雄舊機廠 變身親子樂園 2026-07-12 00:00 聯合報／ 記者 郭韋綺 、 王昭月 ／高雄報導 台鐵 親子 鐵道 颱風 關閉 昔日肩負南台灣鐵路客貨車廂維修重任的台鐵高雄機廠，經高雄市政府多年規畫整備，將變身為全台面積最大、室內全齡共用的親子樂園，預計父親節開園。圖／高市都發局提供 --> 贊助本文 --> ",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "udn.com",
+      "tags": [
+        "室內",
+        "放電",
+        "好玩"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-07-11T09:00:00+00:00",
+      "collected_at": "2026-07-11T23:10:36.181751+00:00",
       "query": "台灣 遊樂園 親子 最新"
     },
     {
@@ -706,100 +792,6 @@
       "published_at": "2026-07-09T00:45:00+00:00",
       "collected_at": "2026-07-09T15:34:31.650363+00:00",
       "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiw0fvx3lxte14zdluqxrrufq0dtnhx0riog4wnhc2n",
-      "title": "夏日遊具發燙 新北明年推「星光遊戲場」",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14ZDluQXRrUFQ0dTNhX0RIOG4wNHc2NkhzZzFlUjcxekN5M0RBWkU2WHdIcVRZd242SE10cXpYc3hxSjZUVHlFR3k4RFRmcjdSWjQ4ZTFBZTktenPSAWBBVV95cUxNWWRLNGJ5a09aQm10bWRBVVNOUmJQNlBwRWFFWmpMNkxrM0VKWmhHWHI5a1FyeEU0LXBDMlRtU1VRZzZkbHpzWXZvMEJfQ19SNktTRVRBMGZXbGxrTVJMcVc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14ZDluQXRrUFQ0dTNhX0RIOG4wNHc2NkhzZzFlUjcxekN5M0RBWkU2WHdIcVRZd242SE10cXpYc3hxSjZUVHlFR3k4RFRmcjdSWjQ4ZTFBZTktenPSAWBBVV95cUxNWWRLNGJ5a09aQm10bWRBVVNOUmJQNlBwRWFFWmpMNkxrM0VKWmhHWHI5a1FyeEU0LXBDMlRtU1VRZzZkbHpzWXZvMEJfQ19SNktTRVRBMGZXbGxrTVJMcVc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "夏日遊具發燙 新北明年推「星光遊戲場」。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "夏日遊具發燙 新北明年推「星光遊戲場」。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "自由時報",
-      "tags": [
-        "放電"
-      ],
-      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
-      "published_at": "2026-07-08T21:30:00+00:00",
-      "collected_at": "2026-07-08T23:30:23.767343+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-n-yam-com-article-20260709586908",
-      "title": "全台最大室內童車樂園BABY嘟嘟房進駐高雄大立　 打造500坪親子體驗空間 | 蕃新聞",
-      "url": "https://n.yam.com/Article/20260709586908",
-      "canonical_url": "https://n.yam.com/Article/20260709586908",
-      "image_url": "https://ni.yam.com/20260709/91406d8116573db9e8ae21031844b34a-scaled-fa391f2df5212c1d.jpg",
-      "images": [
-        "https://ni.yam.com/20260709/91406d8116573db9e8ae21031844b34a-scaled-fa391f2df5212c1d.jpg",
-        "https://img.newstaiwan.net/2026/07/91406d8116573db9e8ae21031844b34a-scaled.jpg",
-        "https://ni.yam.com/20260708/20260708173970798bc40-4845ccdcf6fd734c.jpg",
-        "https://ni.yam.com/20260701/0630-d15-0f874e6b289a81cd.png",
-        "https://ni.yam.com/20260630/8c8dc78a2e9bd3785f68185e17c32e9b-18de7a9b863c9a2e.jpg",
-        "https://ni.yam.com/20260701/GO-WILD20260701-001-1024x683-901aa2b62f4f1c90.webp",
-        "https://ni.yam.com/20260708/bcbe8a03-7a66-11f1-ab7d-005056859d36-163121bc5e812bc1.jpg",
-        "https://ni.yam.com/20260706/S__126664736-fc99d5a839c2d2b5.jpg"
-      ],
-      "summary": "全台最大室內童車樂園BABY嘟嘟房進駐高雄大立　 打造500坪親子體驗空間 | 蕃新聞。【記者 王雯玲／高雄 報導】全台最大室內童車體驗樂園BABY嘟嘟房【X CITY】即將於7月11日正式進駐高雄大立B館9F，打造南台灣全新親子遊樂地標。占地高達500坪，橫跨整層樓的超大體驗空間，讓孩童能夠自在穿梭、盡情享受電動車駕駛樂趣。作為全球首創、台灣原創的兒童電動車體驗領導品牌，BABY嘟嘟房深耕親子產業11年，持續推動「共享」理念，希望透過更多元、便利的遊樂方式，讓不同家庭都能輕鬆享受親子共遊的美好時光。曾於高雄設櫃，卻因疫情影響遺憾撤出市場的BABY嘟嘟房，今年強勢重返高雄，並選擇高雄大立打造全新【X CITY】主題體驗空間。館內集結超過300款車型，不僅有經典電動車，更包含各式授權超跑、警車、消防車到工程車款以及最受喜愛的卡通等系列，滿足孩子對駕駛夢想與城市中各類職業車車體驗的想像。同時，高雄大立館更特別規劃多元夢想職業體驗區、圓夢主題場景及親子野餐空間，營造兼具互動與儀式感的親子時光。在6月30日前更推出品牌早鳥募集活動，邀請更多高雄家庭搶先加入體驗。",
-      "analysis": {
-        "overview": "全台最大室內童車樂園BABY嘟嘟房進駐高雄大立　 打造500坪親子體驗空間 | 蕃新聞。【記者 王雯玲／高雄 報導】全台最大室內童車體驗樂園BABY嘟嘟房【X CITY】即將於7月11日正式進駐高雄大立B館9F，打造南台灣全新親子遊樂地標。占地高達500坪，橫跨整層樓的超大體驗空間，讓孩童能夠自在穿梭、盡情享受電動車駕駛樂趣。作為全球首創、台灣原創的兒童電動車體驗領導品牌，BABY嘟嘟房深耕親子產業11年，持續推動「共享」理念，希望透過更多元、便利的遊樂方式，讓不同家庭都能輕鬆享受親子共遊的美好時光。曾於高雄設櫃，",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "n.yam.com",
-      "tags": [
-        "室內",
-        "放電",
-        "好玩"
-      ],
-      "reason": "500坪室內空間孩子可盡情體驗300款電動車，讓大人放電、爸媽休息；位於大立購物中心，交通便利且有冷氣舒適，雨天備案也沒問題。",
-      "published_at": "2026-07-08T21:23:00+00:00",
-      "collected_at": "2026-07-09T15:34:40.260269+00:00",
-      "query": "台灣 室內親子景點"
-    },
-    {
-      "id": "https-tw-news-yahoo-com-e9-ab-98-e9-9b-84-e8-a6-aa-e5-ad-90-e9-81-bf-e6-9a-91-e6",
-      "title": "高雄親子避暑攻略！6大室內景點一次收錄 看海洋生物、玩科學、觀光工廠玩翻天",
-      "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E8%A6%AA%E5%AD%90%E9%81%BF%E6%9A%91%E6%94%BB%E7%95%A5%EF%BC%816%E5%A4%A7%E5%AE%A4%E5%85%A7%E6%99%AF%E9%BB%9E%E4%B8%80%E6%AC%A1%E6%94%B6%E9%8C%84-%E7%9C%8B%E6%B5%B7%E6%B4%8B%E7%94%9F%E7%89%A9%E3%80%81%E7%8E%A9%E7%A7%91%E5%AD%B8%E3%80%81%E8%A7%80%E5%85%89%E5%B7%A5%E5%BB%A0%E7%8E%A9%E7%BF%BB%E5%A4%A9-011150664.html",
-      "canonical_url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E8%A6%AA%E5%AD%90%E9%81%BF%E6%9A%91%E6%94%BB%E7%95%A5%EF%BC%816%E5%A4%A7%E5%AE%A4%E5%85%A7%E6%99%AF%E9%BB%9E%E4%B8%80%E6%AC%A1%E6%94%B6%E9%8C%84-%E7%9C%8B%E6%B5%B7%E6%B4%8B%E7%94%9F%E7%89%A9%E3%80%81%E7%8E%A9%E7%A7%91%E5%AD%B8%E3%80%81%E8%A7%80%E5%85%89%E5%B7%A5%E5%BB%A0%E7%8E%A9%E7%BF%BB%E5%A4%A9-011150664.html",
-      "image_url": "https://s.yimg.com/uu/api/res/1.2/VXE6Ce1s2u1KNCDS1SGSVw--~B/aD01OTA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/29-6_9977.jpg",
-      "images": [
-        "https://s.yimg.com/uu/api/res/1.2/VXE6Ce1s2u1KNCDS1SGSVw--~B/aD01OTA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/29-6_9977.jpg",
-        "https://s.yimg.com/ny/api/res/1.2/SgUj9b3E8GRjAmKocAwOcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2025-02/93788020-e86a-11ef-9f87-a0268bb71461",
-        "https://s.yimg.com/ny/api/res/1.2/kaFFedCxO3W3uV9qtAky3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ3Mg--/https://s.yimg.com/uu/api/res/1.2/VXE6Ce1s2u1KNCDS1SGSVw--~B/aD01OTA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/29-6_9977.jpg",
-        "https://s.yimg.com/lo/mysterio/api/C588B40B53D5B301FBB380156CA3DDC525ED90F44AEFE15AC9F5F7299CBB1875/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F20260708dcpho1ii0g34-0002l_2563.jpg",
-        "https://s.yimg.com/lo/mysterio/api/BAC908116419B9B08086C33652468B725911FE3B3CDF7591CE039A973E161D2D/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_trad_chinese_tw_489%2Ff76df8838bf37c32100741130de7569f",
-        "https://s.yimg.com/lo/mysterio/api/0AC3534AAE275B9D05AEA337CDD3699D047920EC2909B37A6632FECB5DB6DAE7/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F20260711dcpho0tl0g2v-0002l_1093.jpg",
-        "https://s.yimg.com/lo/mysterio/api/CBBC59E6EC6365007A0376E78F130C367E501B5646F892A4760F64B33CAD1F05/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fca%2Fsetn.com.tw%2F92f5b3efdc992ccb97c87f30a02686b9",
-        "https://s.yimg.com/lo/mysterio/api/6D5A2E1B608101C39B9C85B43BC48D69919F3405A0027447D6E04B0C6CCD5B54/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F91e59616cf7170b4863ec305877a8805"
-      ],
-      "summary": "高雄親子避暑攻略！6大室內景點一次收錄 看海洋生物、玩科學、觀光工廠玩翻天。問題油清單一鍵搜 退貨方式一次看 吃到怎麼辦？問題油清單一鍵搜 退貨方式一次看 吃到怎麼辦？6大室內景點一次收錄 看海洋生物、玩科學、觀光工廠玩翻天\",\"position\":3}]} Yahoo新聞 即時 高雄親子避暑攻略！6大室內景點一次收錄 看海洋生物、玩科學、觀光工廠玩翻天 {\"@context\":\"http://schem",
-      "analysis": {
-        "overview": "高雄親子避暑攻略！6大室內景點一次收錄 看海洋生物、玩科學、觀光工廠玩翻天。問題油清單一鍵搜 退貨方式一次看 吃到怎麼辦？問題油清單一鍵搜 退貨方式一次看 吃到怎麼辦？6大室內景點一次收錄 看海洋生物、玩科學、觀光工廠玩翻天\",\"position\":3}]} Yahoo新聞 即時 高雄親子避暑攻略！6大室內景點一次收錄 看海洋生物、玩科學、觀光工廠玩翻天 {\"@context\":\"http://schem",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。"
-      },
-      "source_name": "tw.news.yahoo.com",
-      "tags": [
-        "室內",
-        "看動物",
-        "放電",
-        "好玩"
-      ],
-      "reason": "室內景點有冷氣，解決夏天戶外炎熱的痛點，結合海洋生物與科學互動體驗，小孩能邊玩邊學，家長也能輕鬆陪玩。",
-      "published_at": "2026-07-08T17:00:00+00:00",
-      "collected_at": "2026-07-11T13:56:06.973975+00:00",
-      "query": "台灣 雨天 親子 室內 景點"
     }
   ]
 }
