@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-07-13T23:13:53.697147+00:00",
+  "updated_at": "2026-07-14T14:13:58.610638+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmib0fvx3lxte5uzwfjmexyvnnuata0ttitumzotxrun",
+      "title": "騎車闖關、學交通安全一次滿足 新北華江單車教育園區變身冒險樂園",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uZWFjMExYVnNUaTA0TTItUmZoTXRuN0JIOGNMelAwc0szN1IyaTFWeHQ1bHlMYUFJUnhSdGNPZGVkNFJnS193aFhLVXdxLVZCLWZRRWlEby1Ba2wzbXpmU0lCWHR6NWMxeW1JblJvaw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uZWFjMExYVnNUaTA0TTItUmZoTXRuN0JIOGNMelAwc0szN1IyaTFWeHQ1bHlMYUFJUnhSdGNPZGVkNFJnS193aFhLVXdxLVZCLWZRRWlEby1Ba2wzbXpmU0lCWHR6NWMxeW1JblJvaw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "騎車闖關、學交通安全一次滿足 新北華江單車教育園區變身冒險樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "騎車闖關、學交通安全一次滿足 新北華江單車教育園區變身冒險樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "花花日報",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "騎車闖關設計讓孩子盡情放電，戶外園區結合交通安全教育，邊玩邊學兼具趣味與教育意義。",
+      "published_at": "2026-07-14T02:28:00+00:00",
+      "collected_at": "2026-07-14T14:13:27.831682+00:00",
+      "query": "台灣 免費親子景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmikwfbvv95cuxpqtkywmrkqllfa0zia3nuedy3wjf2y",
       "title": "暑假親子遊金門 「金門找金喜－夏日童遊趣」集金幣活動登場 - 旅遊新聞 - PChome Online 新聞",
@@ -800,32 +826,6 @@
       "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
       "published_at": "2026-07-10T08:26:58+00:00",
       "collected_at": "2026-07-10T23:12:47.984374+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte5izlp6ogrnq0lgnklra0pczwtyq0nrq",
-      "title": "桃園特色遊戲場再添一座！廣達公園打造全齡共融空間",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IZlp6OGRNQ0lGNklra0pCZWtyQ0NrQ2Q5TnZpXzlsNlZzYVJiV0hUM1F4cGtUTnJ0V0pPbUkzN3VZYXhSYm5pQkhIQlRtSVNLOU5SU20wNXY5ek1wLUF3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IZlp6OGRNQ0lGNklra0pCZWtyQ0NrQ2Q5TnZpXzlsNlZzYVJiV0hUM1F4cGtUTnJ0V0pPbUkzN3VZYXhSYm5pQkhIQlRtSVNLOU5SU20wNXY5ek1wLUF3?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "桃園特色遊戲場再添一座！廣達公園打造全齡共融空間。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "桃園特色遊戲場再添一座！廣達公園打造全齡共融空間。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "ShareLife 台灣旅行趣",
-      "tags": [
-        "放電",
-        "大自然"
-      ],
-      "reason": "廣達公園為特色遊戲場，提供多樣遊具讓孩子盡情放電，且全齡共融設計適合全家同樂，戶外空間寬敞好跑跳。",
-      "published_at": "2026-07-10T05:37:33+00:00",
-      "collected_at": "2026-07-11T13:55:49.465528+00:00",
       "query": "台灣 親子景點 最新"
     }
   ]
