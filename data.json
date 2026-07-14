@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-07-14T14:13:58.610638+00:00",
+  "updated_at": "2026-07-14T23:11:27.597291+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmifkfvx3lxte85c1nuzuvud1zxznnfm3bxvuljb2vpn",
+      "title": "【2026金門暑假必去景點】烈嶼親子童玩節718-719盛大登場！習山湖公園全攻略，草屯囝仔熱力開唱",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85c1NuZUVud1ZxZnNfM3BxVUljb2VPNWJ1UGpYWHdITGFBc0dMR2lMbUNNLWEtaU03NXJSbE9ybGFkREEzbGlDc1NqM0RfeVV6eTNkbmRxOC1nTFFIcUpnUGpHR2ZxaTdLZHc1ZnhvcUtxRlpTX0FqaTZIa0lsQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85c1NuZUVud1ZxZnNfM3BxVUljb2VPNWJ1UGpYWHdITGFBc0dMR2lMbUNNLWEtaU03NXJSbE9ybGFkREEzbGlDc1NqM0RfeVV6eTNkbmRxOC1nTFFIcUpnUGpHR2ZxaTdLZHc1ZnhvcUtxRlpTX0FqaTZIa0lsQQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "【2026金門暑假必去景點】烈嶼親子童玩節718-719盛大登場！習山湖公園全攻略，草屯囝仔熱力開唱。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "【2026金門暑假必去景點】烈嶼親子童玩節718-719盛大登場！習山湖公園全攻略，草屯囝仔熱力開唱。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "金門GO資訊網",
+      "tags": [
+        "放電",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "金門烈嶼首屆親子童玩節在習山湖公園盛大登場，邀請草屯囝仔等團體熱力開唱，豐富表演與設施讓孩子盡情放電，享受戶外草皮的寬廣空間。",
+      "published_at": "2026-07-14T23:00:28+00:00",
+      "collected_at": "2026-07-14T23:11:11.558200+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmib0fvx3lxte5uzwfjmexyvnnuata0ttitumzotxrun",
       "title": "騎車闖關、學交通安全一次滿足 新北華江單車教育園區變身冒險樂園",
@@ -800,32 +827,6 @@
       "reason": "親子樂園佔地寬敞、設施多元，孩子能盡情奔跑玩樂放電，是週末全家出遊消耗體力的好去處。",
       "published_at": "2026-07-10T08:26:58+00:00",
       "collected_at": "2026-07-10T14:51:11.222629+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmi3wnbvv95cuxqq1nlyzhwdetrtxvwc1vnwkfka1niv",
-      "title": "【台灣親子遊】全台7大特色親子樂園推介 台北／台中／花蓮／高雄必玩經典主題樂園",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQQ1NlYzhwdEtrTXVWc1VNWkFka1NIVXN4cEd1VUNaUGJlblJXMlFxZE5uMFVITVpCbVMzSGxqc1hieUpreFZYNmFCMDFMclhRQ1VjVGNLOW1WZ1VDYkI2YlV3dUgzRW9yc2VFa05wQUZaM2VHd2hjWEhwQWoxVVFFZGVsQVhxQS05ZHFoODFhUkFYVTkwU0pXSnBDUjJvZHc1LVVBYnhtSVFacUFGc3Z0WllMcWpIYmVNbzlUVWRva3VxNkFXMk1UNzh0YWlfcWN4UU1pbTFQQ1hnOGdjYkF3Ty1FRjcxVHhUVkI1UDZaNy1KZDFIcFlkM3VMblVERmpkd0I2OFhZS2hWbkVvSG9RZ01NalI1dWVNNi02WWFWRko0ejRUYy1vbnA4OTZXUTJJbE5hRDA5YkpMXzVRWFhyeUhQN2JYeW9UX25MX2hFV1Z6WjJLRnJRenlhVHBJYmdjN0JUYUdleTRtX24yeU05Z0thQk5FT2ZRUWdnVlBRSlNlQkdxaEZ5b0VtT0hPY0ZoNEdMWlRhdG5kemxTYk9WVVh1TnlHT3lUYUpmVE1FRV9zcWVQN3YwZnRWenozNUtBdWFURWg5VWsyRUk1WjZWMGNrUDZHaUJQRE4xY1JHaw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQQ1NlYzhwdEtrTXVWc1VNWkFka1NIVXN4cEd1VUNaUGJlblJXMlFxZE5uMFVITVpCbVMzSGxqc1hieUpreFZYNmFCMDFMclhRQ1VjVGNLOW1WZ1VDYkI2YlV3dUgzRW9yc2VFa05wQUZaM2VHd2hjWEhwQWoxVVFFZGVsQVhxQS05ZHFoODFhUkFYVTkwU0pXSnBDUjJvZHc1LVVBYnhtSVFacUFGc3Z0WllMcWpIYmVNbzlUVWRva3VxNkFXMk1UNzh0YWlfcWN4UU1pbTFQQ1hnOGdjYkF3Ty1FRjcxVHhUVkI1UDZaNy1KZDFIcFlkM3VMblVERmpkd0I2OFhZS2hWbkVvSG9RZ01NalI1dWVNNi02WWFWRko0ejRUYy1vbnA4OTZXUTJJbE5hRDA5YkpMXzVRWFhyeUhQN2JYeW9UX25MX2hFV1Z6WjJLRnJRenlhVHBJYmdjN0JUYUdleTRtX24yeU05Z0thQk5FT2ZRUWdnVlBRSlNlQkdxaEZ5b0VtT0hPY0ZoNEdMWlRhdG5kemxTYk9WVVh1TnlHT3lUYUpmVE1FRV9zcWVQN3YwZnRWenozNUtBdWFURWg5VWsyRUk1WjZWMGNrUDZHaUJQRE4xY1JHaw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "【台灣親子遊】全台7大特色親子樂園推介 台北／台中／花蓮／高雄必玩經典主題樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "【台灣親子遊】全台7大特色親子樂園推介 台北／台中／花蓮／高雄必玩經典主題樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "utravel.com.hk",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
-      "published_at": "2026-07-10T08:26:58+00:00",
-      "collected_at": "2026-07-10T23:12:47.984374+00:00",
       "query": "台灣 親子景點 最新"
     }
   ]
