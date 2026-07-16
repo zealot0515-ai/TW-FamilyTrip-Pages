@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T14:23:43.406752+00:00",
+  "updated_at": "2026-07-16T23:11:35.663790+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -88,6 +88,33 @@
       "published_at": "2026-07-16T00:11:00+00:00",
       "collected_at": "2026-07-16T14:22:44.778211+00:00",
       "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiykfvx3lxtfa5qtm3mtvmt1nzbdnxtu8zzmhvtlrqz",
+      "title": "暑假親子共遊特色公園！精選屏東12座共融遊戲場，爬上大洋蔥、百步蛇巨塔放電玩耍",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5QTM3MTVmT1NzbDNXTU8zZmhvTlRqZV9FeFFaV1NWZWE5MDM3b2wzR1FuRmY1Vm0yRzJaenlKbUktWmlhR2I3M3RFT0l1cFpaTUlQc3hfRndxZW5qUDBnSWdR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5QTM3MTVmT1NzbDNXTU8zZmhvTlRqZV9FeFFaV1NWZWE5MDM3b2wzR1FuRmY1Vm0yRzJaenlKbUktWmlhR2I3M3RFT0l1cFpaTUlQc3hfRndxZW5qUDBnSWdR?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "暑假親子共遊特色公園！精選屏東12座共融遊戲場，爬上大洋蔥、百步蛇巨塔放電玩耍。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "暑假親子共遊特色公園！精選屏東12座共融遊戲場，爬上大洋蔥、百步蛇巨塔放電玩耍。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "微笑台灣",
+      "tags": [
+        "放電",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "屏東12座共融遊戲場特色遊具多元，大洋蔥、百步蛇巨塔等創意設施能讓孩子盡情放電，共融設計通常具備推車友善與寬闊草皮，適合全家出遊。",
+      "published_at": "2026-07-15T16:00:00+00:00",
+      "collected_at": "2026-07-16T23:11:06.017758+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmivefvx3lxte9jd2tduhrftkjzywg1mk5pumplrjitt",
@@ -638,6 +665,31 @@
       "query": "台灣 免費親子景點"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmiwkfvx3lxtfatuu9szjfsv0xmrez1mkh3ytg4tzrec",
+      "title": "林欽榮副市長視察高雄親子遊樂園區 防颱整備全面到位 | 熱門亮點 | 商情",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtUU9sZjFSV0xMREZ1Mkh3YTg4TzREcEFsWWc1RFVIZTFKbHgxMnVodHVLaXN5V2Z2dnNZdTJ3blFaMDVQaGJ0Z2lGRG5GQllqUmhWMnc3QVdXQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtUU9sZjFSV0xMREZ1Mkh3YTg4TzREcEFsWWc1RFVIZTFKbHgxMnVodHVLaXN5V2Z2dnNZdTJ3blFaMDVQaGJ0Z2lGRG5GQllqUmhWMnc3QVdXQQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "林欽榮副市長視察高雄親子遊樂園區 防颱整備全面到位 | 熱門亮點 | 商情。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "林欽榮副市長視察高雄親子遊樂園區 防颱整備全面到位 | 熱門亮點 | 商情。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "經濟日報",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為防颱整備政治視察新聞，非親子旅遊推薦文章，無法提供合適的分類與推薦理由。",
+      "published_at": "2026-07-13T08:03:49+00:00",
+      "collected_at": "2026-07-16T23:11:14.135472+00:00",
+      "query": "台灣 親子飯店 親子樂園"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmitkfvx3lxte04z3g0uudxvfy4tkfrmjb2bkvzadbja",
       "title": "長輩家庭出國首選！服務好、行程優，台灣最夯旅行社TOP 10冠軍是它",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04Z3g0UUdXVFY4TkFrMjB2bkVZaDBjaTl3NVAzYS15aTU2NFdaQ1hRR2U2Q2NPTGZveXJzSURMWVRCOUo0Z1gzX21WbDYwZw?oc=5",
@@ -820,58 +872,6 @@
       "reason": "大型氣墊樂園讓孩子盡情放電奔跑，街頭藝人表演增添歡樂氛圍，親子同樂超有吸引力。",
       "published_at": "2026-07-12T07:28:25+00:00",
       "collected_at": "2026-07-12T13:55:42.674186+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmir0fvx3lxtfb4dgtyvm1lbfhaym5tdxzucxrnnxprw",
-      "title": "連假去哪裡？高雄駁二原木親子常態展覽　小孩放電好去處",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB4dGtYVm1LbFhaYm5TdXZUcXRnNXpRWGpjOEtXM1ZrLTcyeElVMWZYekpfcURUVDF3TlpwV3h0QUxiTDhGUFZB0gFLQVVfeXFMTUJBdWN6WnRkQ3BhUGk0Z0tjS0RRUjEzTHNQQktNM19XWW1MSnZzdEdCcHcwR1JxSE1QeW54ZU5aRnVSSWJORzVza3A0?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB4dGtYVm1LbFhaYm5TdXZUcXRnNXpRWGpjOEtXM1ZrLTcyeElVMWZYekpfcURUVDF3TlpwV3h0QUxiTDhGUFZB0gFLQVVfeXFMTUJBdWN6WnRkQ3BhUGk0Z0tjS0RRUjEzTHNQQktNM19XWW1MSnZzdEdCcHcwR1JxSE1QeW54ZU5aRnVSSWJORzVza3A0?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "連假去哪裡？高雄駁二原木親子常態展覽　小孩放電好去處。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "連假去哪裡？高雄駁二原木親子常態展覽　小孩放電好去處。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。"
-      },
-      "source_name": "三立新聞",
-      "tags": [
-        "室內",
-        "放電",
-        "好玩"
-      ],
-      "reason": "室內展覽不受天氣影響，雨天備案最佳選擇；原木互動展品安全無毒，小孩盡情觸摸探索釋放精力，家長輕鬆陪同。",
-      "published_at": "2026-07-12T03:34:14+00:00",
-      "collected_at": "2026-07-12T23:09:26.090720+00:00",
-      "query": "台灣 週末親子 去哪裡"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5oexfxqldzttgymhlbsulin21yve1wn",
-      "title": "中度颱風巴威來襲 林欽榮副市長視察高雄親子遊樂園區防颱整備",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oeXFxQldzTTgyMHlBSUliN21YVE1wNm9EOW45U1dDRnQ2aWh5TlFBaDVNTndnOTVEU2VFLTJFTDZ0VWFac0NrSFYySFkwbzNGcEE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oeXFxQldzTTgyMHlBSUliN21YVE1wNm9EOW45U1dDRnQ2aWh5TlFBaDVNTndnOTVEU2VFLTJFTDZ0VWFac0NrSFYySFkwbzNGcEE?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "中度颱風巴威來襲 林欽榮副市長視察高雄親子遊樂園區防颱整備。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "中度颱風巴威來襲 林欽榮副市長視察高雄親子遊樂園區防颱整備。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "此為颱風防颱整備之新聞報導，非親子旅遊推薦文章，不適用旅遊分類與推薦理由。",
-      "published_at": "2026-07-12T02:54:23+00:00",
-      "collected_at": "2026-07-12T13:55:50.863045+00:00",
       "query": "台灣 親子旅遊 景點 公園"
     }
   ]
