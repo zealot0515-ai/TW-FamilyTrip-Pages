@@ -1,8 +1,41 @@
 {
-  "updated_at": "2026-07-17T14:04:22.853313+00:00",
+  "updated_at": "2026-07-17T23:08:50.689405+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-www-ettoday-net-news-20260717-3202902-htm",
+      "title": "暑假吹冷氣不花錢！台灣家長激推「3大免費神殿」出門前先買這防曬省破千 | ETtoday生活新聞 | ETtoday新聞雲",
+      "url": "https://www.ettoday.net/news/20260717/3202902.htm",
+      "canonical_url": "https://www.ettoday.net/news/20260717/3202902.htm",
+      "image_url": "https://cdn2.ettoday.net/images/2637/e2637828.jpg",
+      "images": [
+        "https://cdn2.ettoday.net/images/2637/e2637828.jpg",
+        "https://cdn2.ettoday.net/images/2637/2637828.jpg",
+        "https://www.ettoday.net/source/et_track.php7",
+        "https://cdn2.ettoday.net/film/images/506/d506258.jpg?cdnid=1409326",
+        "https://cdn2.ettoday.net/images/3306/c3306674.jpg",
+        "https://cdn2.ettoday.net/images/6807/c6807481.jpg",
+        "https://cdn2.ettoday.net/images/8832/c8832959.jpg",
+        "https://cdn2.ettoday.net/images/7414/c7414850.jpg"
+      ],
+      "summary": "暑假吹冷氣不花錢！台灣家長激推「3大免費神殿」出門前先買這防曬省破千 | ETtoday生活新聞 | ETtoday新聞雲。與其頂著烈日曝曬，聰明的家長不妨選擇帶孩子躲進完全免費的公共場館，一邊吹冷氣一邊寓教於樂。（示意圖／記者季相儒攝） 記者張芳瑜／綜合報導 面對台灣動輒飆破36度、體感溫度逼近40度的濕熱盛夏，每到週末或暑假，家長們最頭痛的莫過於「冷氣房出遊」的隱形成本；不論是帶孩子進室內遊樂園，還是臨時起意來趟避暑小旅行，交通、門票加上消暑裝備，累積下來的開銷往往驚人。想要玩得盡興同時守住荷包，根據日本網站 《Trill》 文章表示，善用「低成本娛樂提案」與「高CP值避暑小道具」，就能在不犧牲生活品質的前提下，優雅度過漫長夏日。關鍵一：探索免門票冷氣秘境，寓教於樂不流汗 台灣夏季午後常有強烈雷陣雨，加上悶熱難耐，室內避暑行程絕對是首選。與其每次都往高消費的百貨公司或收費親子館擠，不妨將目光轉向「國家級免費場館」。這些地方不僅空調舒適，還可以讓孩子在玩樂中吸取新知，例如各縣市的市立圖書館分館（許多設有特色兒童閱覽區）、防災科學教育館，或是免費開放的政府機關與歷史古蹟展演空間。",
+      "analysis": {
+        "overview": "暑假吹冷氣不花錢！台灣家長激推「3大免費神殿」出門前先買這防曬省破千 | ETtoday生活新聞 | ETtoday新聞雲。與其頂著烈日曝曬，聰明的家長不妨選擇帶孩子躲進完全免費的公共場館，一邊吹冷氣一邊寓教於樂。（示意圖／記者季相儒攝） 記者張芳瑜／綜合報導 面對台灣動輒飆破36度、體感溫度逼近40度的濕熱盛夏，每到週末或暑假，家長們最頭痛的莫過於「冷氣房出遊」的隱形成本；不論是帶孩子進室內遊樂園，還是臨時起意來趟避暑小旅行，交通、門票加上消暑裝備，累積下來的開銷往往驚人。想要玩得盡興同時守住荷包，根據日本網站 ",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "ettoday.net",
+      "tags": [
+        "室內",
+        "好玩"
+      ],
+      "reason": "免費冷氣吹到飽，大熱天不用花門票錢也能涼爽過暑假，圖書館和科教館等場所還能寓教於樂，是省荷包又舒適的高溫備案。",
+      "published_at": "2026-07-17T09:31:00+00:00",
+      "collected_at": "2026-07-17T23:08:26.969796+00:00",
+      "query": "台灣 免費親子景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmipanbvv95cuxosgvix1vvvg1zbfzdshdyevz1slvnd",
       "title": "麗寶樂園渡假區遊樂版圖再升級 兩大全新娛樂場域及日本生活品牌進駐",
@@ -726,6 +759,41 @@
       "query": "台灣 免費親子景點"
     },
     {
+      "id": "https-focusnews-com-tw-2026-07-711312",
+      "title": "義大遊樂世界「恐龍穿越特洛伊」18隻恐龍打造暑假親子樂園 | 今傳媒 JNEWS",
+      "url": "https://focusnews.com.tw/2026/07/711312/",
+      "canonical_url": "https://focusnews.com.tw/2026/07/711312",
+      "image_url": "https://focusnews.com.tw/wp-content/uploads/2024/05/512-512_1.jpg",
+      "images": [
+        "https://focusnews.com.tw/wp-content/uploads/2024/05/512-512_1.jpg",
+        "https://focusnews.com.tw/wp-content/uploads/2025/07/cropped-今傳媒-4-3.jpg",
+        "https://focusnews.com.tw/wp-content/uploads/2026/07/IMG_20260715_111729.jpg",
+        "https://focusnews.com.tw/wp-content/uploads/2026/07/IMG_20260715_112315-800x465.jpg",
+        "https://focusnews.com.tw/wp-content/uploads/2026/07/IMG_20260715_122657-800x450.jpg",
+        "https://focusnews.com.tw/wp-content/uploads/2026/07/IMG_20260715_103919-800x450.jpg",
+        "https://focusnews.com.tw/wp-content/uploads/2026/07/IMG_20260715_111506-800x579.jpg",
+        "https://focusnews.com.tw/wp-content/uploads/2026/06/viewbannerimage-800x363.jpg"
+      ],
+      "summary": "義大遊樂世界「恐龍穿越特洛伊」18隻恐龍打造暑假親子樂園 | 今傳媒 JNEWS。#未經同意請勿任意轉載 〔今傳媒／記者張忠義報導〕暑假親子旅遊再添新亮點！義大遊樂世界今天正式推出年度暑假主題活動「恐龍穿越特洛伊」，以18隻全動態巨型恐龍結合希臘神話場景，打造沉浸式冒險體驗。活動集結水戰派對、恐龍互動秀、飛行劇院、考古體驗、主題餐飲與限定商品，並一路延續至2027年2月16日，成為今年南台灣最具話題性的親子遊樂活動。義大遊樂世界今日於皇家劇院舉辦媒體發布會，高雄市政府觀光局副局長鍾致遠、社會局副局長葉玉如、捷運工程局副局長王正一及新聞局主任秘書曾珮瑛等人出席，共同為暑假觀光揭開序幕。園方也結合企業社會責任，攜手金融機構合作夥伴，邀請家扶基金會、世界展望會服務家庭及身障團體等近350人免費入園，共享暑假歡樂時光。義大開發總經理王香完表示，「恐龍穿越特洛伊」是今年最重要的主題活動，結合義大世界樂園、購物廣場、飯店與餐飲資源，打造一站式旅遊體驗，讓遊客從遊樂設施、互動展演、水戰、住宿到購物一次滿足，帶動暑假旅遊與消費商機。",
+      "analysis": {
+        "overview": "義大遊樂世界「恐龍穿越特洛伊」18隻恐龍打造暑假親子樂園 | 今傳媒 JNEWS。#未經同意請勿任意轉載 〔今傳媒／記者張忠義報導〕暑假親子旅遊再添新亮點！義大遊樂世界今天正式推出年度暑假主題活動「恐龍穿越特洛伊」，以18隻全動態巨型恐龍結合希臘神話場景，打造沉浸式冒險體驗。活動集結水戰派對、恐龍互動秀、飛行劇院、考古體驗、主題餐飲與限定商品，並一路延續至2027年2月16日，成為今年南台灣最具話題性的親子遊樂活動。義大遊樂世界今日於皇家劇院舉辦媒體發布會，高雄市政府觀光局副局長鍾致遠、社會局副局長葉玉如、捷運工程",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "focusnews.com.tw",
+      "tags": [
+        "放電",
+        "看動物",
+        "好玩",
+        "室內"
+      ],
+      "reason": "義大遊樂世界室內空間廣大，雨天備案無虞，18隻全動態恐龍近距離接觸能滿足孩子好奇心，搭配水戰派對、考古體驗等多種設施讓小孩盡情放電，家長一站式滿足遊樂與餐飲需求。",
+      "published_at": "2026-07-14T17:00:00+00:00",
+      "collected_at": "2026-07-17T23:08:36.666799+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
       "id": "https-news-ltn-com-tw-news-taoyuan-breakingnews-5505361",
       "title": "桃園暑假親子活動登場 藝術、生態、航空探索一次滿足 - 桃園市 - 自由時報電子報",
       "url": "https://news.ltn.com.tw/news/Taoyuan/breakingnews/5505361",
@@ -810,59 +878,6 @@
       "published_at": "2026-07-14T02:28:00+00:00",
       "collected_at": "2026-07-14T14:13:27.831682+00:00",
       "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmikwfbvv95cuxpqtkywmrkqllfa0zia3nuedy3wjf2y",
-      "title": "暑假親子遊金門 「金門找金喜－夏日童遊趣」集金幣活動登場 - 旅遊新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTkyWmRKQllFa0ZIa3NUeDY3WjF2YmFyai1RLThkZ1NJT0NyRkNDdFJlaWlBcl9iTlRSSmlDZG80VFRieDFDcDkyMHFmUmc3ZVBXcVlyTERNX3FlR3k4NlhXdGJlQ1d4ajlZUktCMXh0ajJBdlMtY1NyS0NEdXZnTVdLaWJEVzRwVWc0S3RaRWR6Tmc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTkyWmRKQllFa0ZIa3NUeDY3WjF2YmFyai1RLThkZ1NJT0NyRkNDdFJlaWlBcl9iTlRSSmlDZG80VFRieDFDcDkyMHFmUmc3ZVBXcVlyTERNX3FlR3k4NlhXdGJlQ1d4ajlZUktCMXh0ajJBdlMtY1NyS0NEdXZnTVdLaWJEVzRwVWc0S3RaRWR6Tmc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "暑假親子遊金門 「金門找金喜－夏日童遊趣」集金幣活動登場 - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "暑假親子遊金門 「金門找金喜－夏日童遊趣」集金幣活動登場 - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "金門夏日童遊趣集金幣活動內容豐富，能讓孩子在遊戲中盡情放電消耗精力；金門擁有寬廣自然景觀與軍事遺址，適合親子共同探索體驗。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "PChome Online 新聞",
-      "tags": [
-        "放電",
-        "大自然",
-        "好玩"
-      ],
-      "reason": "金門夏日童遊趣集金幣活動內容豐富，能讓孩子在遊戲中盡情放電消耗精力；金門擁有寬廣自然景觀與軍事遺址，適合親子共同探索體驗。",
-      "published_at": "2026-07-13T11:52:21+00:00",
-      "collected_at": "2026-07-13T15:11:11.796301+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmixefvx3lxte54bfzwnufxujv6evbbbglzzu9fwjiys",
-      "title": "彰化人「新夜市+1」！升級版「親子夜市」集結「大型氣墊樂園、街頭藝人表演」 最後2天「免費送消費券」要把握",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54bFZWNUFXUjV6eVBBbGlzZU9FWjIySHB3T2Q5TDNOYkFLTUFLZ1dBUVJ1RkxRTE1BdkVncldmb0ZhVFpFQ2k2Z1MwSUhCQ2dkTElqLWNKRGM5OHdU?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54bFZWNUFXUjV6eVBBbGlzZU9FWjIySHB3T2Q5TDNOYkFLTUFLZ1dBUVJ1RkxRTE1BdkVncldmb0ZhVFpFQ2k2Z1MwSUhCQ2dkTElqLWNKRGM5OHdU?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "彰化人「新夜市+1」！升級版「親子夜市」集結「大型氣墊樂園、街頭藝人表演」 最後2天「免費送消費券」要把握。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "彰化人「新夜市+1」！升級版「親子夜市」集結「大型氣墊樂園、街頭藝人表演」 最後2天「免費送消費券」要把握。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "聯合新聞網",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "氣墊樂園可讓孩子盡情放電消耗體力，結合夜市小吃與街頭藝人表演，大人小孩都能玩得開心。",
-      "published_at": "2026-07-13T10:36:22+00:00",
-      "collected_at": "2026-07-13T15:11:22.754966+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
     }
   ]
 }
