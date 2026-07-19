@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T13:54:05.836869+00:00",
+  "updated_at": "2026-07-19T23:11:52.668460+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -161,6 +161,32 @@
       "query": "台灣 親子飯店 親子樂園"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmihafbvv95cuxnvhu2v1vjz01dre1pnfdwqvzsm0ewb",
+      "title": "和逸台南西門獲親子飯店肯定 暑假不住房也能玩翻天",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVHU2V1VjZ01DRE1pNFdwQVZSM0EwbUlYaXZyWmxST1F6SnlxZ0NGYkpWaDFCWG1NcHFQeENtdzJzMzZIb3k2Ni1OQkNjM3c5ejRjMzJSRjhRTjFhcW1ZN0FTVDBHd1p3NFRJeUlpVkhfWkJ6ekl1YTVTcTcyb0pQbmNtRno?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVHU2V1VjZ01DRE1pNFdwQVZSM0EwbUlYaXZyWmxST1F6SnlxZ0NGYkpWaDFCWG1NcHFQeENtdzJzMzZIb3k2Ni1OQkNjM3c5ejRjMzJSRjhRTjFhcW1ZN0FTVDBHd1p3NFRJeUlpVkhfWkJ6ekl1YTVTcTcyb0pQbmNtRno?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "和逸台南西門獲親子飯店肯定 暑假不住房也能玩翻天。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "和逸台南西門獲親子飯店肯定 暑假不住房也能玩翻天。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "價格與房型差異大，親子設施也可能需預約。",
+        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "壹蘋新聞網",
+      "tags": [
+        "室內",
+        "放電"
+      ],
+      "reason": "五星級親子飯店認證，公共設施完善、室內遊戲區可讓孩童盡情放電，暑假不住宿也能購票入園玩，屬優質室內雨天備案。",
+      "published_at": "2026-07-19T00:00:00+00:00",
+      "collected_at": "2026-07-19T23:11:29.448560+00:00",
+      "query": "台灣 親子飯店 親子樂園"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmib0fvx3lxte5bbtnpzwhpatkzbtz2b3oyv3nyb3myz",
       "title": "遊金門限定優惠正夯！金門館主推親子嘉年華×7大觀光亮點",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BbTNPZWhPaTkzbTZ2b3oyV3Nyb3MyZVo3X1N3N1AyWVI0QnE3ZnlNYXRVczZhbnY0Rjl2eXowa0ZDeVV2QlNtVWVSRTVYempiMmxGQThKNFhGMFhCZUY1dzdUY3dicnZMb3ZpN1BUaw?oc=5",
@@ -271,6 +297,32 @@
       "published_at": "2026-07-17T09:31:00+00:00",
       "collected_at": "2026-07-17T23:08:26.969796+00:00",
       "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte5ld3jfdc00zethykxavvbtuf95cm1da",
+      "title": "麗寶樂園渡假區遊樂版圖再升級 兩大全新娛樂場域及日本生活品牌進駐 | 中廣新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ld3JfdC00ZEthYkxaVVBTUF95cm1Da1hhYzA4ODBqLVVvclJrYXR3ZVdLR2FpaTR1bTBGc3FNZzJ1bU8xa281d1p6QjlDeF9XY3dpU0xn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ld3JfdC00ZEthYkxaVVBTUF95cm1Da1hhYzA4ODBqLVVvclJrYXR3ZVdLR2FpaTR1bTBGc3FNZzJ1bU8xa281d1p6QjlDeF9XY3dpU0xn?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "麗寶樂園渡假區遊樂版圖再升級 兩大全新娛樂場域及日本生活品牌進駐 | 中廣新聞網。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "麗寶樂園渡假區遊樂版圖再升級 兩大全新娛樂場域及日本生活品牌進駐 | 中廣新聞網。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "佔地寬廣設施多元，過山車、摩天輪、水上設施能讓孩子盡情放電，家長可在outlet涼爽逛街喘息。",
+      "published_at": "2026-07-17T05:40:21+00:00",
+      "collected_at": "2026-07-19T23:11:38.157355+00:00",
+      "query": "台灣 遊樂園 親子 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmipanbvv95cuxosgvix1vvvg1zbfzdshdyevz1slvnd",
@@ -781,60 +833,6 @@
       "published_at": "2026-07-15T10:04:16+00:00",
       "collected_at": "2026-07-15T14:09:10.812626+00:00",
       "query": "台灣 室內親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxtfblmuhgqk5hyjrwlv9isgxndkxwnehvy",
-      "title": "7月親子免費玩景點一次看！從鶯歌到高雄都有好康，陶博館、新北市美術館免門票，壽山動物園12歲以下免費入園",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLMUhGQk5hYjRwLV9ISGxNdkxwNEhvY0M4bkJnREFnSTZ2YThGTV9qMWt3RWJ0MkZRYmhxeDFCWjVNSFRXcVVraHhWd3ZEM2xkWmwxMnNn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLMUhGQk5hYjRwLV9ISGxNdkxwNEhvY0M4bkJnREFnSTZ2YThGTV9qMWt3RWJ0MkZRYmhxeDFCWjVNSFRXcVVraHhWd3ZEM2xkWmwxMnNn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "7月親子免費玩景點一次看！從鶯歌到高雄都有好康，陶博館、新北市美術館免門票，壽山動物園12歲以下免費入園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "7月親子免費玩景點一次看！從鶯歌到高雄都有好康，陶博館、新北市美術館免門票，壽山動物園12歲以下免費入園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "動物互動與自然觀察能提高孩子參與感。",
-        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "Mombaby 媽媽寶寶懷孕生活網",
-      "tags": [
-        "看動物",
-        "室內",
-        "放電"
-      ],
-      "reason": "7月多處景點免門票，陶博館、美術館室內有冷氣雨天備案，壽山動物園讓小孩近距離看動物盡情放電，從北到南一次滿足不同需求。",
-      "published_at": "2026-07-15T08:30:17+00:00",
-      "collected_at": "2026-07-15T14:09:22.779991+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmikwfbvv95cuxnx0tirgc2qk14nklhrk44cfu3yzlxd",
-      "title": "18隻巨型恐龍空降義大！全台最大恐龍樂園在高雄 18隻動態巨獸現身 暑假玩水X看秀一次滿足",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX0tiRGc2Qk14NklhRk44cFU3YzlxdURMU1dCeklyV0dsNkZHNlJsV2RUNTl4b2pwTlU2M21lMktmZzJYTlJBMFpLSGhvWFdlX0xWeTZBczdUZ1QzcG53UWJTeEZnRU91a0puODFsU011aHVsYktSU19qXzVaMFJjaklWMWhaWklKS1M0Qm80MDZpM00?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX0tiRGc2Qk14NklhRk44cFU3YzlxdURMU1dCeklyV0dsNkZHNlJsV2RUNTl4b2pwTlU2M21lMktmZzJYTlJBMFpLSGhvWFdlX0xWeTZBczdUZ1QzcG53UWJTeEZnRU91a0puODFsU011aHVsYktSU19qXzVaMFJjaklWMWhaWklKS1M0Qm80MDZpM00?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "18隻巨型恐龍空降義大！全台最大恐龍樂園在高雄 18隻動態巨獸現身 暑假玩水X看秀一次滿足。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "18隻巨型恐龍空降義大！全台最大恐龍樂園在高雄 18隻動態巨獸現身 暑假玩水X看秀一次滿足。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "PChome Online 新聞",
-      "tags": [
-        "放電",
-        "好玩",
-        "看動物"
-      ],
-      "reason": "義大樂園有大型恐龍模型和暑期玩水活動，小孩可以近距離看恐龍又盡情玩水放電，室內園區雨天也能玩，是暑假親子出遊的好去處。",
-      "published_at": "2026-07-15T07:49:50+00:00",
-      "collected_at": "2026-07-15T14:09:34.943101+00:00",
-      "query": "台灣 親子旅遊 最新"
     }
   ]
 }
