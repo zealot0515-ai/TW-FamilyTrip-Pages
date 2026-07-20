@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T14:33:58.587499+00:00",
+  "updated_at": "2026-07-20T23:15:06.840965+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -110,6 +110,38 @@
       "query": "台灣 免費親子景點"
     },
     {
+      "id": "https-tw-news-yahoo-com-e5-85-a8-e5-8f-b0-e5-9c-8b-e6-97-85-e8-a3-9c-e5-8a-a9-e7",
+      "title": "全台國旅補助總整理一次看！新北國旅補助1000元、台南平日連住3晚第3晚免費、台東連續住5晚享2500元優惠",
+      "url": "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E5%9C%8B%E6%97%85%E8%A3%9C%E5%8A%A9%E7%B8%BD%E6%95%B4%E7%90%86%E4%B8%80%E6%AC%A1%E7%9C%8B%EF%BC%81%E6%96%B0%E5%8C%97%E5%9C%8B%E6%97%85%E8%A3%9C%E5%8A%A91000%E5%85%83%E3%80%81%E5%8F%B0%E5%8D%97%E5%B9%B3%E6%97%A5%E9%80%A3%E4%BD%8F3%E6%99%9A%E7%AC%AC3%E6%99%9A%E5%85%8D%E8%B2%BB%E3%80%81%E5%8F%B0%E6%9D%B1%E9%80%A3%E7%BA%8C%E4%BD%8F5%E6%99%9A%E4%BA%AB2500%E5%85%83%E5%84%AA%E6%83%A0-072550981.html",
+      "canonical_url": "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E5%9C%8B%E6%97%85%E8%A3%9C%E5%8A%A9%E7%B8%BD%E6%95%B4%E7%90%86%E4%B8%80%E6%AC%A1%E7%9C%8B%EF%BC%81%E6%96%B0%E5%8C%97%E5%9C%8B%E6%97%85%E8%A3%9C%E5%8A%A91000%E5%85%83%E3%80%81%E5%8F%B0%E5%8D%97%E5%B9%B3%E6%97%A5%E9%80%A3%E4%BD%8F3%E6%99%9A%E7%AC%AC3%E6%99%9A%E5%85%8D%E8%B2%BB%E3%80%81%E5%8F%B0%E6%9D%B1%E9%80%A3%E7%BA%8C%E4%BD%8F5%E6%99%9A%E4%BA%AB2500%E5%85%83%E5%84%AA%E6%83%A0-072550981.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/c38180905baf21878f2dade7f71ca23fc4e6462279977bc2d2f8c8888e288ab3/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2Fa6d17800-922b-11f0-b557-bcd9f9243003",
+      "images": [
+        "https://s.yimg.com/lo/mysterio/api/c38180905baf21878f2dade7f71ca23fc4e6462279977bc2d2f8c8888e288ab3/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2Fa6d17800-922b-11f0-b557-bcd9f9243003",
+        "https://s.yimg.com/lo/mysterio/api/d0f9da07857d3fee064a43e85a3df121d0b387727c2dd82fd9ea2ac950e9981d/lightyear_networkapi/resizefill_h48;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-02%2F93788020-e86a-11ef-9f87-a0268bb71461",
+        "https://s.yimg.com/lo/mysterio/api/5f33172beee2d45b096f279119eb7849675b3d44b826c8182ee72a3e1942ea1c/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2Fa6d17800-922b-11f0-b557-bcd9f9243003",
+        "https://s.yimg.com/lo/mysterio/api/6f2ba02bf37b181deffc8d151ed9e81f0bc76888356a450b73d09490a778913e/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fupload_2335.jpg",
+        "https://s.yimg.com/lo/mysterio/api/cd63636f331e854c28ce54190c902898934f8b91bd9e3d5ab91558b85817e2f9/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fupload_3545.jpg",
+        "https://s.yimg.com/lo/mysterio/api/dc88a5b904f8001dc13be589d067e3da155f1a7fcee9892dd6e2e44deaf3ffdf/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fupload_2959.png",
+        "https://s.yimg.com/lo/mysterio/api/36bc2b07e8aac39827e12524d15bcec7a7b16e0c914fb90abdaae393a36df681/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F1_7143.jpeg",
+        "https://s.yimg.com/lo/mysterio/api/f978dac60031ac9191dd096b4c2774208595e7b90d28cc2a61867a83faea91bc/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F2_5034.jpeg"
+      ],
+      "summary": "全台國旅補助總整理一次看！新北國旅補助1000元、台南平日連住3晚第3晚免費、台東連續住5晚享2500元優惠。問題油清單一次看 退費方式總整理 吃到怎麼辦？問題油清單一次看 退費方式總整理 吃到怎麼辦？新北國旅補助1000元、台南平日連住3晚第3晚免費、台東連續住5晚享2500元優惠\",\"position\":3}",
+      "analysis": {
+        "overview": "全台國旅補助總整理一次看！新北國旅補助1000元、台南平日連住3晚第3晚免費、台東連續住5晚享2500元優惠。問題油清單一次看 退費方式總整理 吃到怎麼辦？問題油清單一次看 退費方式總整理 吃到怎麼辦？新北國旅補助1000元、台南平日連住3晚第3晚免費、台東連續住5晚享2500元優惠\",\"position\":3}",
+        "pros": "國旅補助可省下不少住宿費，多晚連住的優惠設計適合全家安排長時間旅遊，省錢又能讓孩子盡情放電。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "tw.news.yahoo.com",
+      "tags": [
+        "放電"
+      ],
+      "reason": "國旅補助可省下不少住宿費，多晚連住的優惠設計適合全家安排長時間旅遊，省錢又能讓孩子盡情放電。",
+      "published_at": "2026-07-20T03:07:00+00:00",
+      "collected_at": "2026-07-20T23:14:28.239036+00:00",
+      "query": "台南 高雄 屏東 親子景點"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmigwfbvv95cuxosffodutuz0fwulzzsez4qlrnemdrm",
       "title": "遊金門限定優惠正夯！金門館主推親子嘉年華×7大觀光亮點 | 勁報",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSFFOdUtuZ0FwUlZzSEZ4QlRnemdRMGVGMVhCQjNGd3JhV1ZrODduX3RQZG1DN1VJdERBeHktZG9YVGVxVkJoSlRIYzJ4T3EtVHduelhCdnFsZ2FlbGVCUUY1NEE5TjVPeUpmMi1Lb2hXajhxdGV6b3paQ3RMdzN1Tmx1OA?oc=5",
@@ -133,6 +165,40 @@
       "published_at": "2026-07-19T22:34:51+00:00",
       "collected_at": "2026-07-20T14:33:28.917451+00:00",
       "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-health-businessweekly-com-tw-article-artl003018906",
+      "title": "夏天台東去哪玩？10大必去活動曝光：吉伊卡哇熱氣球、最美星空，還有3秘境很多人不知道 - 良醫健康網",
+      "url": "https://health.businessweekly.com.tw/article/ARTL003018906",
+      "canonical_url": "https://health.businessweekly.com.tw/article/ARTL003018906",
+      "image_url": "https://ihealth.bwnet.com.tw/AC_Gallery/2026/07/b76a7615-8cac-212d-6c86-d536abaf14f3.jpg",
+      "images": [
+        "https://ihealth.bwnet.com.tw/AC_Gallery/2026/07/b76a7615-8cac-212d-6c86-d536abaf14f3.jpg",
+        "https://ihealth.bwnet.com.tw/MD_Channel/2025/11/e02ff55b-3a4a-3c40-cc1e-96b9fa889f94_620.jpg",
+        "https://ihealth.bwnet.com.tw/MD_Channel/2025/03/245cc349-b352-d10e-dd58-72c7677116c4_620.jpg",
+        "https://ihealth.bwnet.com.tw/MD_Channel/2025/11/21bf815c-d6b3-55c5-994d-f882b513acb7_620.jpg",
+        "https://ihealth.bwnet.com.tw/MD_Channel/2025/09/1f11f6ad-462e-ad05-d40f-048bc35e4b48_620.jpg",
+        "https://ihealth.bwnet.com.tw/MD_Channel/2025/06/c88a7299-6931-c64b-fbd6-38f59f692d3f_620.jpg",
+        "https://ihealth.bwnet.com.tw/MD_Channel/2025/03/30d53d15-bd09-9e8e-62fc-9299a261b209_620.jpg",
+        "https://ihealth.bwnet.com.tw/MD_Channel/2024/09/28b94162-b712-d3fb-fdc4-a80a98dd010a_620.jpg"
+      ],
+      "summary": "夏天台東去哪玩？10大必去活動曝光：吉伊卡哇熱氣球、最美星空，還有3秘境很多人不知道 - 良醫健康網。臺灣國際熱氣球嘉年華（image source: 台東縣政府提供） DailyView觀察網路新聞頻道、FB、PTT、各大部落格及討論區.....等近萬個國內網站。透過網路爬文技術取得巨量資料，並利用語意情緒分析，分析最熱門網路議題，一天一時事，產出專業網路大數據。有正經事、不正經事，就是要讓你長知識！編按： 「暑假想去台東，到底除了熱氣球還能玩什麼？」每到夏天，許多人都把台東列入旅行清單，但除了鹿野高台，還有不少結合星空、藝術、音樂、市集與自然景觀的限定活動值得安排。《網路溫度計DailyView》整理7月至9月討論度最高的台東十大夏季活動，從吉伊卡哇熱氣球、月光海音樂會，到太麻里金針花、最美星空，一次掌握今夏最值得收藏的台東玩法。想遠離城市喧囂，許多人會選擇到台東旅行，不管是清晨升空的熱氣球體驗、在夜晚展開的星空活動，或者是結合地方文化、自然景觀與夜間體驗的夏季行程，台東都能讓你體驗慢活的生活。《網路溫度計DailyView》透過輿情分析軟體《KEYPO大數據關鍵引擎》，蒐集7月至9月由台東縣政府主辦或協辦、討論度最高的「台東熱門活動TOP 10」，無論是親子同遊還是想暫時脫離工作節奏放鬆身心，都能從中找到適合的去處，也從中看見台東如何以山海、文化與生活節奏，打造一場真正慢下來的夏日旅行。",
+      "analysis": {
+        "overview": "夏天台東去哪玩？10大必去活動曝光：吉伊卡哇熱氣球、最美星空，還有3秘境很多人不知道 - 良醫健康網。臺灣國際熱氣球嘉年華（image source: 台東縣政府提供） DailyView觀察網路新聞頻道、FB、PTT、各大部落格及討論區.....等近萬個國內網站。透過網路爬文技術取得巨量資料，並利用語意情緒分析，分析最熱門網路議題，一天一時事，產出專業網路大數據。有正經事、不正經事，就是要讓你長知識！編按： 「暑假想去台東，到底除了熱氣球還能玩什麼？」每到夏天，許多人都把台東列入旅行清單，但除了鹿野高台，還有不少",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "health.businessweekly.com.tw",
+      "tags": [
+        "大自然",
+        "放電",
+        "好玩"
+      ],
+      "reason": "台東戶外活動空間寬闊、距離城市遠，空氣好且活動多元，熱氣球與金針花等自然景觀讓孩子能近距離接觸大自然，非常適合全家一同出遊放鬆。",
+      "published_at": "2026-07-19T16:59:00+00:00",
+      "collected_at": "2026-07-20T23:14:37.020670+00:00",
+      "query": "台灣 週末親子 去哪裡"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmivefvx3lxte9ummzkd0npt0x3ujhkcfv3dhjkeghhs",
@@ -758,60 +824,6 @@
       "reason": "新北河濱公園設置免費戲水設施，寬廣親水空間讓孩子盡情玩水消暑，大自然環境空氣流通不悶熱，是夏季親子放電好去處。",
       "published_at": "2026-07-16T16:00:00+00:00",
       "collected_at": "2026-07-18T13:49:51.357528+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiykfvx3lxte9mu3j4dm1bzwkxnxdtcgxvunz6rhf6o",
-      "title": "高雄暑假景點｜2026旗津風箏節7/25登場！巨型鯨魚飛上天、氣墊水樂園與火舞秀",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MU3J4dm1BZWkxNXdTcGxvUnZ6RHF6OHJpd202c05vMzB4VEJDUW1NRVRrak9tbzc4TlBKLWVOaW9hU0VRYzdNNm5oN0p4RHZTU05GOVR2b0F4SnpyOE5mV0d3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MU3J4dm1BZWkxNXdTcGxvUnZ6RHF6OHJpd202c05vMzB4VEJDUW1NRVRrak9tbzc4TlBKLWVOaW9hU0VRYzdNNm5oN0p4RHZTU05GOVR2b0F4SnpyOE5mV0d3?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄暑假景點｜2026旗津風箏節7/25登場！巨型鯨魚飛上天、氣墊水樂園與火舞秀。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄暑假景點｜2026旗津風箏節7/25登場！巨型鯨魚飛上天、氣墊水樂園與火舞秀。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "微笑台灣",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "氣墊水樂園提供安全戲水環境，讓小孩盡情放電；旗津海邊腹地寬闊，大人可放鬆觀賞巨型風箏與火舞秀，大人小孩都能盡興。",
-      "published_at": "2026-07-16T16:00:00+00:00",
-      "collected_at": "2026-07-18T13:50:04.381773+00:00",
-      "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte9ouhb0buzwsf9ozkczn3e1sdfsac00d",
-      "title": "高雄暑假景點｜2026旗津風箏節7/25登場！巨型鯨魚飛上天、氣墊水樂園與火舞秀",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OUHB0bUZWSF9OZkczN3E1SDFSaC00dzNfVXd6YlBJSkZXNnF2Rl9pbFJnQkFucU1ISW5zUEVUZ3lwc1hUMUlvbVdBdzc3VW51ODEyVA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OUHB0bUZWSF9OZkczN3E1SDFSaC00dzNfVXd6YlBJSkZXNnF2Rl9pbFJnQkFucU1ISW5zUEVUZ3lwc1hUMUlvbVdBdzc3VW51ODEyVA?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄暑假景點｜2026旗津風箏節7/25登場！巨型鯨魚飛上天、氣墊水樂園與火舞秀。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄暑假景點｜2026旗津風箏節7/25登場！巨型鯨魚飛上天、氣墊水樂園與火舞秀。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "微笑台灣",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "旗津沙灘腹地廣闊且有氣墊水樂園，孩子可盡情奔跑玩水放電消暑，巨型風箏視覺效果吸睛兼具教育意義。",
-      "published_at": "2026-07-16T16:00:00+00:00",
-      "collected_at": "2026-07-20T14:33:58.468631+00:00",
       "query": "台灣 親子景點 最新"
     }
   ]
