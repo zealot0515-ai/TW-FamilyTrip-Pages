@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T14:23:17.649078+00:00",
+  "updated_at": "2026-07-22T23:15:18.084404+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -317,6 +317,59 @@
       "query": "台灣 兒童遊戲場 新景點"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxpt1fwu2puufreqwfqakfsy21zwupfd",
+      "title": "雲林西螺景點推薦！蝴蝶公園免費入園 親子放電首選！ - 旅遊新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1FWU2pUUFREQWFQakFsY21ZWUpFdGFaMThTVHY5aXhubEJLbHpVZjBYTTVFd1JmZkh2bXdjZVBXTWNXQTc0YVpSNnhuX2FxdTFXX0RSNWdsMW43NVk4ZzhRVFRBdFF2VkF2TDNDTEVyMlNRbmNOdTJET3JDZDBzVUt5RmtZT0M5d2txUg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1FWU2pUUFREQWFQakFsY21ZWUpFdGFaMThTVHY5aXhubEJLbHpVZjBYTTVFd1JmZkh2bXdjZVBXTWNXQTc0YVpSNnhuX2FxdTFXX0RSNWdsMW43NVk4ZzhRVFRBdFF2VkF2TDNDTEVyMlNRbmNOdTJET3JDZDBzVUt5RmtZT0M5d2txUg?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "雲林西螺景點推薦！蝴蝶公園免費入園 親子放電首選！ - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "雲林西螺景點推薦！蝴蝶公園免費入園 親子放電首選！ - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "大自然",
+        "放電",
+        "好玩"
+      ],
+      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
+      "published_at": "2026-07-22T00:00:00+00:00",
+      "collected_at": "2026-07-22T23:15:17.023234+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiygjbvv95cuxonziyafbrx09cvdb1d3fkqvhxry1uz",
+      "title": "親子放電首選! 雲林三大免費戲水景點迎暑假",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxONzIyaFBRX09CVDB1d3FKQVhxRy1uZ0RJOUtWT2NLUkIxMDVKYVltenNicWtselkzVzdzWUgwd05oeWVCNXhkYjJza0ZiZ3VzWk14WmN6YnlRZlhUQTZSWVhHQjZEdmFzRDVTa3lOc2ROZ01aQlR1UXFXS1BQRVdtWXQwUzFwaHVYQndHOHdwenNZN204M1JBWGN5QTBDQ3ZjUDJLcWZUYlVYWnRmQmRDRW8zT2tSR2xNSnp5N3NEZnYybV9Gb0RhdUFFbjU1ZFFSTkdhVGpacTlVZ2RGS1pqNmtlbG9Udl9WYW1rQnR1akFiX0YtZmZLcXl1LUZBQkgyaWNWSGppckF2ME1qY0Z3SlVBZG5tX3R6cEJCeGpOM2NNSmdwaEpqVlZzbGJVbENFSUhyaEhRejlMYTRnblo0c1g0UEEybnc5X0E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxONzIyaFBRX09CVDB1d3FKQVhxRy1uZ0RJOUtWT2NLUkIxMDVKYVltenNicWtselkzVzdzWUgwd05oeWVCNXhkYjJza0ZiZ3VzWk14WmN6YnlRZlhUQTZSWVhHQjZEdmFzRDVTa3lOc2ROZ01aQlR1UXFXS1BQRVdtWXQwUzFwaHVYQndHOHdwenNZN204M1JBWGN5QTBDQ3ZjUDJLcWZUYlVYWnRmQmRDRW8zT2tSR2xNSnp5N3NEZnYybV9Gb0RhdUFFbjU1ZFFSTkdhVGpacTlVZ2RGS1pqNmtlbG9Udl9WYW1rQnR1akFiX0YtZmZLcXl1LUZBQkgyaWNWSGppckF2ME1qY0Z3SlVBZG5tX3R6cEJCeGpOM2NNSmdwaEpqVlZzbGJVbENFSUhyaEhRejlMYTRnblo0c1g0UEEybnc5X0E?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "親子放電首選! 雲林三大免費戲水景點迎暑假。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "親子放電首選! 雲林三大免費戲水景點迎暑假。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "msn.com",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-07-21T18:19:51+00:00",
+      "collected_at": "2026-07-22T23:15:17.415789+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte1eognlnvotzwhfb1drsfgtq1vyzho4t",
       "title": "暑假親子旅遊推薦花蓮！入住太魯閣晶英酒店，體驗清水斷崖SUP立槳、獨木舟、出海賞鯨及五星級住宿，還能透過海洋友善防曬實踐永續旅行，打造最難忘的花蓮親子假期。",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EOGNlNVotZWhFb1drSFgtQ1VyZHo4TzBxcldIbGhFVzN3VDB0d2ZmeHlpUzRNMTk0MHkta0E3ZXpMdmJyOWpVUm1rR2s3cV9oYmtlMll3?oc=5",
@@ -553,6 +606,32 @@
       "query": "台灣 親子旅遊 景點 公園"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmiu0fvx3lxtfb0v3fptknucudieudnbdc4c1ffrgw0r",
+      "title": "壽星２人同行１人免費！全台最大「兒童電動車室內樂園」在高雄，百款車種任選",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0V3FPTkNUcUdieUdnbDc4c1FfRGw0R0E0V2NOYTgxNnVzTTlpZmdjZm5VWnVNVlQ4SVNqZHowUC1lRHBGRnIteEFLUTllSS16bURF0gFYQVVfeXFMTW93akh1cmlLYWpsUzByVUtXeURmamhQbmtMdno5VEhpdndITmVHUGJKanFWUjdjMk5sLVM2RGV6bi00anBPRER6UV9XLWQxamF1eXRnTHJSMw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0V3FPTkNUcUdieUdnbDc4c1FfRGw0R0E0V2NOYTgxNnVzTTlpZmdjZm5VWnVNVlQ4SVNqZHowUC1lRHBGRnIteEFLUTllSS16bURF0gFYQVVfeXFMTW93akh1cmlLYWpsUzByVUtXeURmamhQbmtMdno5VEhpdndITmVHUGJKanFWUjdjMk5sLVM2RGV6bi00anBPRER6UV9XLWQxamF1eXRnTHJSMw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "壽星２人同行１人免費！全台最大「兒童電動車室內樂園」在高雄，百款車種任選。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "壽星２人同行１人免費！全台最大「兒童電動車室內樂園」在高雄，百款車種任選。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "食尚玩家",
+      "tags": [
+        "室內",
+        "放電"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-07-20T11:03:32+00:00",
+      "collected_at": "2026-07-22T23:15:17.716035+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiwkfvx3lxte9ur1ngzkptrgfqtdfmmupuq3bnaug3a",
       "title": "壽星２人同行１人免費！全台最大「兒童電動車室內樂園」在高雄，百款車種任選",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UR1NGZkptRGFQTDFMMUpUQ3BnaUg3a3ZaN3Z2Ti1vVE9Sd1dJMHBxWXlLREtJQUNwQkFHa2YtVDNFQmZGSjI0clVkVjY2NnM2QjZhcS10ekwwZ9IBWkFVX3lxTE9UR1NGZkptRGFQTDFMMUpUQ3BnaUg3a3ZaN3Z2Ti1vVE9Sd1dJMHBxWXlLREtJQUNwQkFHa2YtVDNFQmZGSjI0clVkVjY2NnM2QjZhcS10ekwwZw?oc=5",
@@ -740,93 +819,6 @@
       "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
       "published_at": "2026-07-19T22:34:51+00:00",
       "collected_at": "2026-07-20T14:33:28.917451+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-health-businessweekly-com-tw-article-artl003018906",
-      "title": "夏天台東去哪玩？10大必去活動曝光：吉伊卡哇熱氣球、最美星空，還有3秘境很多人不知道 - 良醫健康網",
-      "url": "https://health.businessweekly.com.tw/article/ARTL003018906",
-      "canonical_url": "https://health.businessweekly.com.tw/article/ARTL003018906",
-      "image_url": "https://ihealth.bwnet.com.tw/AC_Gallery/2026/07/b76a7615-8cac-212d-6c86-d536abaf14f3.jpg",
-      "images": [
-        "https://ihealth.bwnet.com.tw/AC_Gallery/2026/07/b76a7615-8cac-212d-6c86-d536abaf14f3.jpg",
-        "https://ihealth.bwnet.com.tw/MD_Channel/2025/11/e02ff55b-3a4a-3c40-cc1e-96b9fa889f94_620.jpg",
-        "https://ihealth.bwnet.com.tw/MD_Channel/2025/03/245cc349-b352-d10e-dd58-72c7677116c4_620.jpg",
-        "https://ihealth.bwnet.com.tw/MD_Channel/2025/11/21bf815c-d6b3-55c5-994d-f882b513acb7_620.jpg",
-        "https://ihealth.bwnet.com.tw/MD_Channel/2025/09/1f11f6ad-462e-ad05-d40f-048bc35e4b48_620.jpg",
-        "https://ihealth.bwnet.com.tw/MD_Channel/2025/06/c88a7299-6931-c64b-fbd6-38f59f692d3f_620.jpg",
-        "https://ihealth.bwnet.com.tw/MD_Channel/2025/03/30d53d15-bd09-9e8e-62fc-9299a261b209_620.jpg",
-        "https://ihealth.bwnet.com.tw/MD_Channel/2024/09/28b94162-b712-d3fb-fdc4-a80a98dd010a_620.jpg"
-      ],
-      "summary": "夏天台東去哪玩？10大必去活動曝光：吉伊卡哇熱氣球、最美星空，還有3秘境很多人不知道 - 良醫健康網。臺灣國際熱氣球嘉年華（image source: 台東縣政府提供） DailyView觀察網路新聞頻道、FB、PTT、各大部落格及討論區.....等近萬個國內網站。透過網路爬文技術取得巨量資料，並利用語意情緒分析，分析最熱門網路議題，一天一時事，產出專業網路大數據。有正經事、不正經事，就是要讓你長知識！編按： 「暑假想去台東，到底除了熱氣球還能玩什麼？」每到夏天，許多人都把台東列入旅行清單，但除了鹿野高台，還有不少結合星空、藝術、音樂、市集與自然景觀的限定活動值得安排。《網路溫度計DailyView》整理7月至9月討論度最高的台東十大夏季活動，從吉伊卡哇熱氣球、月光海音樂會，到太麻里金針花、最美星空，一次掌握今夏最值得收藏的台東玩法。想遠離城市喧囂，許多人會選擇到台東旅行，不管是清晨升空的熱氣球體驗、在夜晚展開的星空活動，或者是結合地方文化、自然景觀與夜間體驗的夏季行程，台東都能讓你體驗慢活的生活。《網路溫度計DailyView》透過輿情分析軟體《KEYPO大數據關鍵引擎》，蒐集7月至9月由台東縣政府主辦或協辦、討論度最高的「台東熱門活動TOP 10」，無論是親子同遊還是想暫時脫離工作節奏放鬆身心，都能從中找到適合的去處，也從中看見台東如何以山海、文化與生活節奏，打造一場真正慢下來的夏日旅行。",
-      "analysis": {
-        "overview": "夏天台東去哪玩？10大必去活動曝光：吉伊卡哇熱氣球、最美星空，還有3秘境很多人不知道 - 良醫健康網。臺灣國際熱氣球嘉年華（image source: 台東縣政府提供） DailyView觀察網路新聞頻道、FB、PTT、各大部落格及討論區.....等近萬個國內網站。透過網路爬文技術取得巨量資料，並利用語意情緒分析，分析最熱門網路議題，一天一時事，產出專業網路大數據。有正經事、不正經事，就是要讓你長知識！編按： 「暑假想去台東，到底除了熱氣球還能玩什麼？」每到夏天，許多人都把台東列入旅行清單，但除了鹿野高台，還有不少",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。"
-      },
-      "source_name": "health.businessweekly.com.tw",
-      "tags": [
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "台東戶外活動空間寬闊、距離城市遠，空氣好且活動多元，熱氣球與金針花等自然景觀讓孩子能近距離接觸大自然，非常適合全家一同出遊放鬆。",
-      "published_at": "2026-07-19T16:59:00+00:00",
-      "collected_at": "2026-07-20T23:14:37.020670+00:00",
-      "query": "台灣 週末親子 去哪裡"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiggfbvv95cuxnoddzwe0xwepsslner2xqvfvfnm12c",
-      "title": "遊金門限定優惠正夯！金門館主推親子嘉年華×7大觀光亮點 | 勁報",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODdzWE0xWEpSSlNER2xQVFVFNm12cnZMaGxwNHZjZFhxNE04NnMwVEktRnFZdFBvbVFWc0dkQ3k4aUlXZjhiREJKNmxsRTZGekR4S2RGM1Q3Z01xN1JkZXMyTXd1TDBPbDdqVkQ3elVwRW4xWUpEVjdPRG5qRExERDRn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODdzWE0xWEpSSlNER2xQVFVFNm12cnZMaGxwNHZjZFhxNE04NnMwVEktRnFZdFBvbVFWc0dkQ3k4aUlXZjhiREJKNmxsRTZGekR4S2RGM1Q3Z01xN1JkZXMyTXd1TDBPbDdqVkQ3elVwRW4xWUpEVjdPRG5qRExERDRn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "遊金門限定優惠正夯！金門館主推親子嘉年華×7大觀光亮點 | 勁報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "遊金門限定優惠正夯！金門館主推親子嘉年華×7大觀光亮點 | 勁報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "金門親子嘉年華提供多元親子活動，孩子能盡情放電；金門擁有豐富自然景觀與歷史人文，適合全家探索體驗。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "放電",
-        "大自然",
-        "好玩"
-      ],
-      "reason": "金門親子嘉年華提供多元親子活動，孩子能盡情放電；金門擁有豐富自然景觀與歷史人文，適合全家探索體驗。",
-      "published_at": "2026-07-19T15:26:07+00:00",
-      "collected_at": "2026-07-21T23:11:56.559755+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxprm91qzf0wufjbmnoafctmwjnowixm",
-      "title": "遊金門限定優惠正夯！金門館主推親子嘉年華×7大觀光亮點 | 勁報",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRm91QzF0WUFjbmNoaFctMWJnOWIxMlR1ZFhUdlpNejZnVmlDMEp1bWJvdjBSQkVYczJaTVlELUtRcFJvcUl0cnVmVGFRVTNab29sLVFTTzNXMUpkVEQ3dlNUOXFMeURtd0ZxWHpaNWk0VEdkeUpQT3R4NTEtWS1GN2pZZzI0cHJyYTAxYg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRm91QzF0WUFjbmNoaFctMWJnOWIxMlR1ZFhUdlpNejZnVmlDMEp1bWJvdjBSQkVYczJaTVlELUtRcFJvcUl0cnVmVGFRVTNab29sLVFTTzNXMUpkVEQ3dlNUOXFMeURtd0ZxWHpaNWk0VEdkeUpQT3R4NTEtWS1GN2pZZzI0cHJyYTAxYg?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "遊金門限定優惠正夯！金門館主推親子嘉年華×7大觀光亮點 | 勁報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "遊金門限定優惠正夯！金門館主推親子嘉年華×7大觀光亮點 | 勁報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "金門親子嘉年華提供多元活動能讓孩子盡情放電，搭配7大觀光亮點結合自然生態，是寓教於樂的親子假期選擇。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "放電",
-        "大自然"
-      ],
-      "reason": "金門親子嘉年華提供多元活動能讓孩子盡情放電，搭配7大觀光亮點結合自然生態，是寓教於樂的親子假期選擇。",
-      "published_at": "2026-07-19T14:43:51+00:00",
-      "collected_at": "2026-07-21T14:21:58.636343+00:00",
       "query": "台灣 親子旅遊 最新"
     }
   ]
