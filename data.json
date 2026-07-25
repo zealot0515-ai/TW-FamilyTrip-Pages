@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-07-25T14:02:35.204964+00:00",
+  "updated_at": "2026-07-25T23:13:18.965770+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfa4n040wfzjmljpd1vqmfz4dvu0djz3z",
+      "title": "南投旅遊百K熱鬧開騎 親子滑步車、美食古蹟遊同步登場",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4N040WFZJMlJpd1VqMFZ4dVU0djZ3ZDgxMW40ellBTUtXN1VwbVpvUFQ0RE5KWEFWeE5YeVB2MlhLdkNyaDVicWl4SVpYamxMV0E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4N040WFZJMlJpd1VqMFZ4dVU0djZ3ZDgxMW40ellBTUtXN1VwbVpvUFQ0RE5KWEFWeE5YeVB2MlhLdkNyaDVicWl4SVpYamxMV0E?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "南投旅遊百K熱鬧開騎 親子滑步車、美食古蹟遊同步登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "南投旅遊百K熱鬧開騎 親子滑步車、美食古蹟遊同步登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "南投百K自行車活動包含親子滑步車項目，讓孩子盡情放電，戶外騎行也能接觸大自然，適合全家一同參與。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "南投百K自行車活動包含親子滑步車項目，讓孩子盡情放電，戶外騎行也能接觸大自然，適合全家一同參與。",
+      "published_at": "2026-07-25T12:50:00+00:00",
+      "collected_at": "2026-07-25T23:12:45.324133+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmirkfvx3lxte85um9odjlnaud2mu14sjvkaguxq3fzq",
       "title": "高雄客家米食節系首推美濃食農小旅行 邀親子循著米香走進客庄",
@@ -28,6 +54,39 @@
       "published_at": "2026-07-25T10:37:23+00:00",
       "collected_at": "2026-07-25T14:01:25.894327+00:00",
       "query": "台南 高雄 屏東 親子景點"
+    },
+    {
+      "id": "https-www-storm-mg-lifestyle-11151541",
+      "title": "台灣旅遊行程懶人包》國旅補助最高領3200元！旅行社該選哪一家？最新景點排行出爐 | 風傳媒新聞焦點 | 風生活",
+      "url": "https://www.storm.mg/lifestyle/11151541",
+      "canonical_url": "https://www.storm.mg/lifestyle/11151541",
+      "image_url": "https://images.storm.mg/cloud/ce23fa05b69adb09fa9fe65bef5629788b8c2106.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2187604%2FIPN4lQRRdWTrf2Kh6Mbe1B0uFnNOzZKxoCaExah2.png&g=sm&h=675&resize=fill&w=1200&format=jpg",
+      "images": [
+        "https://images.storm.mg/cloud/ce23fa05b69adb09fa9fe65bef5629788b8c2106.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2187604%2FIPN4lQRRdWTrf2Kh6Mbe1B0uFnNOzZKxoCaExah2.png&g=sm&h=675&resize=fill&w=1200&format=jpg",
+        "https://images.storm.mg/webSiteSetting/13/HiDCWacecnqhKNXuGKkKhXQBPz5nFF6dEczk9ZbU.png",
+        "https://images.storm.mg/cloud/585ea91f5ddf3e851c08853dc8ffbc38e28c4ee5.webp?url=https%3A%2F%2Fimage.cache.storm.mg%2Fstyles%2Fsmg-150x150-fp%2Fs3%2Fauthor%2Fimage%2F412743%2F20240522-053306_T412743_7f20.png%3FPYq4cgn6lX_X0eWcBVjjVFADrBDFtpMu%26itok%3DQyNqkULo&g=sm&h=144&resize=fill&w=144",
+        "https://images.storm.mg/cloud/0f67e854247022475cf8210c0c785f51824343cd.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2188943%2FeNHP1GgS49fBqy9aiieQqfMFT1sMFP8UiZNjibLl.jpg&g=fp&h=400&resize=fill&w=400&x=0.37&y=0.5",
+        "https://images.storm.mg/cloud/fb75e0eaaae8773b6c68ce1073024d5446f8227c.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1612279%2F20240103-022031_U25889_M921783_2779.jpg&g=sm&h=400&resize=fill&w=400",
+        "https://images.storm.mg/cloud/9dcc1ee5e8b52d223623c0b343cb327d0e3fbeec.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1616412%2F20240113-104925_U29087_M925327_1ad6.jpeg&g=sm&h=400&resize=fill&w=400",
+        "https://images.storm.mg/cloud/472d0cee9ea722e3799968746e6e64441c72b6f4.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2179738%2FHpqJNsgoioejfk6zuejUK3opfMCzlt7105TnCpWM.jpeg&g=sm&h=400&resize=fill&w=400",
+        "https://images.storm.mg/cloud/ab29a17cec959e3eb8b509b51885ca1f4929886b.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2188985%2F20260724-045746_U29175_M1062819_d0a4.JPG&g=sm&h=400&resize=fill&w=400"
+      ],
+      "summary": "台灣旅遊行程懶人包》國旅補助最高領3200元！旅行社該選哪一家？最新景點排行出爐 | 風傳媒新聞焦點 | 風生活。暑假是台灣旅遊市場的旺季，旅行社今年第一季營收排名正式底定，龍頭位置出乎許多人意料，東南、鳳凰、雄獅等老牌業者全數落後，家庭客群與熟齡旅客的品牌偏好更呈現另一番排序，出發前不可不知。2026年觀光署旅遊補助9月正式上路，中央砸下34.6億元預算推出5大方案，壽星最多可疊加省下3200元，這次改採事前登錄抽籤制，嘉義、台東、台南、屏東、高雄等縣市還同步加碼地方補助，錯過上一輪的民眾這次人人有機會。台中國際機場今年暑假迎來最密集航線擴充潮，7月21日至28日4大航空分批起飛，成都直飛增至兩家航空、青島開設定期航班、日本沖繩也有大型航空加入，中部旅客不必再北上桃園或南下高雄，完整時刻表藏著不少適合親子與銀髮族的班次選擇。原台鐵高雄機廠活化後將於8月8日開放，近30項分齡設施全面免門票，雲朵彈跳床、攀岩場、Pump Track一字排開，太陽能光電屋頂設計讓午後雷陣雨不再是隱憂，園區實景照已在社群流出，堪稱全台規模最大半室內親子遊戲場。新竹最新榜單則讓北埔老街、城隍廟雙雙出局，聲量冠軍景點意外傳出可辦婚禮、喝完喜酒直接入場同樂，話題性十足。",
+      "analysis": {
+        "overview": "台灣旅遊行程懶人包》國旅補助最高領3200元！旅行社該選哪一家？最新景點排行出爐 | 風傳媒新聞焦點 | 風生活。暑假是台灣旅遊市場的旺季，旅行社今年第一季營收排名正式底定，龍頭位置出乎許多人意料，東南、鳳凰、雄獅等老牌業者全數落後，家庭客群與熟齡旅客的品牌偏好更呈現另一番排序，出發前不可不知。2026年觀光署旅遊補助9月正式上路，中央砸下34.6億元預算推出5大方案，壽星最多可疊加省下3200元，這次改採事前登錄抽籤制，嘉義、台東、台南、屏東、高雄等縣市還同步加碼地方補助，錯過上一輪的民眾這次人人有機會。台中國際",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "storm.mg",
+      "tags": [
+        "放電",
+        "室內"
+      ],
+      "reason": "原台鐵高雄機廠活化後近30項分齡設施免門票，攀岩場與彈跳床能讓孩子盡情放電，太陽能光電屋頂設計讓午後雷陣雨不再是阻礙。",
+      "published_at": "2026-07-25T08:59:00+00:00",
+      "collected_at": "2026-07-25T23:12:51.792718+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
     },
     {
       "id": "https-www-storm-mg-lifestyle-11150829",
@@ -142,6 +201,40 @@
       "published_at": "2026-07-24T09:26:00+00:00",
       "collected_at": "2026-07-24T14:12:18.184110+00:00",
       "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-www-storm-mg-lifestyle-11150863",
+      "title": "義大、六福村輸了！台灣人最愛遊樂園「冠軍是它」：票價划算CP值高、設施很多一天玩不完 | 李伊晴 | 風生活",
+      "url": "https://www.storm.mg/lifestyle/11150863",
+      "canonical_url": "https://www.storm.mg/lifestyle/11150863",
+      "image_url": "https://images.storm.mg/cloud/e2b3d68bf3ee9bf325cc364e6cb68f300ed755ce.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1902128%2F20240418-041507_U28513_M947647_ada7.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
+      "images": [
+        "https://images.storm.mg/cloud/e2b3d68bf3ee9bf325cc364e6cb68f300ed755ce.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1902128%2F20240418-041507_U28513_M947647_ada7.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
+        "https://images.storm.mg/webSiteSetting/13/HiDCWacecnqhKNXuGKkKhXQBPz5nFF6dEczk9ZbU.png",
+        "https://images.storm.mg/cloud/e2b3d68bf3ee9bf325cc364e6cb68f300ed755ce.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1902128%2F20240418-041507_U28513_M947647_ada7.jpg&g=sm&h=675&resize=fill&w=1200&format=webp",
+        "https://images.storm.mg/cloud/7207adf92d8b230f9f8990654adbbd95141ed9cf.webp?url=https%3A%2F%2Fimage.cache.storm.mg%2Fstyles%2Fsmg-150x150-fp%2Fs3%2Fauthor%2Fimage%2F495835%2F20250324-010502_T495835_7285.jpg%3FMP91JH3d9AEtuKykFxxfJ4TOrWpQBwzu%26itok%3DZG-UUlja&g=sm&h=144&resize=fill&w=144",
+        "https://images.storm.mg/cloud/232e2e72b53767f66748101ca55deac02c4d1231.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2187973%2Ft7SoTVbIqsop3s1A9HdsPyyw7jjlbBvrFdKVQTPj.png&g=sm&h=400&resize=fill&w=400",
+        "https://images.storm.mg/cloud/9ebf5d2ef99de1c018aca80ac68d0fe4645ed442.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2188479%2FCxNfiBYTObAdHuTzrYEbkuV2lY6DMC530J9xZrGT.jpg&g=sm&h=400&resize=fill&w=400",
+        "https://images.storm.mg/cloud/d18bcc1141305e7ebf8a32dbb823e8e2eb325e83.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2188358%2Ftyn95b005CZoFFLlQvHEFB33RRXXcGJsbSsAAS84.jpg&g=sm&h=400&resize=fill&w=400",
+        "https://images.storm.mg/cloud/e3fe8ea08e54ab3074955303b700b774ff070f42.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2188329%2Fk83vFi8mdukgJLFw7ULpD7Nxkq9eSSYqLP4DAcfF.jpg&g=sm&h=400&resize=fill&w=400"
+      ],
+      "summary": "義大、六福村輸了！台灣人最愛遊樂園「冠軍是它」：票價划算CP值高、設施很多一天玩不完 | 李伊晴 | 風生活。暑假來臨，全台主題樂園迎來一年一度的旅遊旺季。從刺激的雲霄飛車到親子同樂的水上設施，各大樂園無不使出渾身解數搶攻遊客荷包。根據《網路溫度計DailyView》口碑聲量排行「主題樂園」近一個月榜單（分析期間：2026.06.22～2026.07.21），九族文化村以唯一破萬筆聲量的驚人討論度強勢奪冠。位於高雄的義大遊樂世界是南台灣規模最大的主題樂園，結合購物商城、飯店與遊樂設施的複合式園區，讓遊客可以一站式完成吃喝玩樂住的需求。本次調查中，義大遊樂世界累積5,931筆聲量，更以60%的正面情緒比例在前三名中表現最佳。義大遊樂世界最大的差異化優勢在於其「全天候」的遊玩體驗。園區內設有全台最大的室內遊樂館「特洛伊城堡」，即使遇到高雄夏季午後的雷陣雨，遊客仍能在室內暢玩各項設施。此外， 園區緊鄰義大世界購物廣場與義大皇家酒店，對於外縣市遊客來說，安排兩天一夜的行程相當便利。不過，也有部分網友反映園區內餐飲選擇有限且價格偏高，加上南部夏季高溫炎熱，戶外設施排隊時缺乏足夠遮蔽，體驗感受打折扣。",
+      "analysis": {
+        "overview": "義大、六福村輸了！台灣人最愛遊樂園「冠軍是它」：票價划算CP值高、設施很多一天玩不完 | 李伊晴 | 風生活。暑假來臨，全台主題樂園迎來一年一度的旅遊旺季。從刺激的雲霄飛車到親子同樂的水上設施，各大樂園無不使出渾身解數搶攻遊客荷包。根據《網路溫度計DailyView》口碑聲量排行「主題樂園」近一個月榜單（分析期間：2026.06.22～2026.07.21），九族文化村以唯一破萬筆聲量的驚人討論度強勢奪冠。位於高雄的義大遊樂世界是南台灣規模最大的主題樂園，結合購物商城、飯店與遊樂設施的複合式園區，讓遊客可以一站式完",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "storm.mg",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "義大擁有全台最大室內遊樂館特洛伊城堡，高雄夏季午後雷陣雨也能暢玩不怕掃興，結合購物廣場與飯店方便安排兩天一夜行程；但戶外設施排隊遮蔽不足，暑假前往建議做好防曬並多利用室內場域。",
+      "published_at": "2026-07-24T08:30:00+00:00",
+      "collected_at": "2026-07-25T23:12:58.140734+00:00",
+      "query": "台灣 遊樂園 親子 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte5ase4tm1rbzddra1hzd2rru1zrewm5z",
@@ -755,90 +848,6 @@
       "published_at": "2026-07-22T16:59:00+00:00",
       "collected_at": "2026-07-23T14:32:56.997776+00:00",
       "query": "台灣 室內親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte12bgvjwtdwegputxp1ruflohz1lxuts",
-      "title": "衝嘉義2026東石海之夏！遊樂園放電、看巨型煙火，煙火時間與觀賞地點、交通接駁全攻略",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12bGVJWTdweGpUTXp1RUFLOHZ1LXUtS0RoRzZsOWtoTngxMllLa2U0NUtEekdyTkxOMklKMmJILWx1V3ZoYU1CUzl1QXU5SEEteERhYg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12bGVJWTdweGpUTXp1RUFLOHZ1LXUtS0RoRzZsOWtoTngxMllLa2U0NUtEekdyTkxOMklKMmJILWx1V3ZoYU1CUzl1QXU5SEEteERhYg?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "衝嘉義2026東石海之夏！遊樂園放電、看巨型煙火，煙火時間與觀賞地點、交通接駁全攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "衝嘉義2026東石海之夏！遊樂園放電、看巨型煙火，煙火時間與觀賞地點、交通接駁全攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "微笑台灣",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "專屬海邊夏季嘉年華有遊樂設施可以讓小孩盡情放電，還有巨型煙火秀可全家一起觀賞，留下難忘夏夜回憶。",
-      "published_at": "2026-07-22T16:00:00+00:00",
-      "collected_at": "2026-07-24T14:13:00.432058+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-www-scooptw-com-local-news-503329-e7-8e-a9-e6-b0-b4-e4-b8-8d-e7-94-a8-e8-b",
-      "title": "玩水不用跑遠！彰濱海FUN一夏登場　親子放電首選景點 - 獨家報導",
-      "url": "https://www.scooptw.com/local_news/503329/%e7%8e%a9%e6%b0%b4%e4%b8%8d%e7%94%a8%e8%b7%91%e9%81%a0%ef%bc%81%e5%bd%b0%e6%bf%b1%e6%b5%b7fun%e4%b8%80%e5%a4%8f%e7%99%bb%e5%a0%b4%e3%80%80%e8%a6%aa%e5%ad%90%e6%94%be%e9%9b%bb%e9%a6%96%e9%81%b8/",
-      "canonical_url": "https://www.scooptw.com/local_news/503329/%e7%8e%a9%e6%b0%b4%e4%b8%8d%e7%94%a8%e8%b7%91%e9%81%a0%ef%bc%81%e5%bd%b0%e6%bf%b1%e6%b5%b7fun%e4%b8%80%e5%a4%8f%e7%99%bb%e5%a0%b4%e3%80%80%e8%a6%aa%e5%ad%90%e6%94%be%e9%9b%bb%e9%a6%96%e9%81%b8",
-      "image_url": "https://www.scooptw.com/wp-content/uploads/2026/07/40years.png",
-      "images": [
-        "https://www.scooptw.com/wp-content/uploads/2026/07/40years.png",
-        "https://www.scooptw.com/wp-content/uploads/2026/07/20260722192424_0_efc02c.jpg",
-        "https://www.watchmedia01.com/wp-content/uploads/2026/07/20260722192430_0_a9ae83.jpg",
-        "https://www.watchmedia01.com/wp-content/uploads/2026/07/20260722192427_0_4fea40.jpg",
-        "https://www.scooptw.com/wp-content/uploads/2026/07/40year-square.png"
-      ],
-      "summary": "玩水不用跑遠！彰濱海FUN一夏登場　親子放電首選景點 - 獨家報導。（觀傳媒彰化新聞）【記者陳雅芳／彰化報導】暑假親子出遊有新選擇！彰化縣政府舉辦的2026「彰濱～海FUN一夏」慶安水樂園，即日起至8月2日每逢週六、日於彰化縣自然生態教育中心戶外廣場登場，集結SUP、獨木舟、氣墊水樂園、海洋市集及親子闖關等豐富活動，邀請大小朋友一起到彰濱戲水消暑、暢玩整個夏天。由彰化縣政府主辦的2026「彰濱～海FUN一夏」慶安水樂園，即日起至8月2日每逢週六、日，在彰化縣自然生態教育中心戶外廣場熱鬧登場，規劃一系列親水活動，讓民眾不用跑到外縣市，也能享受清涼又充滿樂趣的夏日假期。今年活動以「水上體驗」、「氣墊水樂園」、「海洋市集」、「親子闖關」及「主題系列活動」五大主軸規劃，推出SUP立式划槳、獨木舟、水上自行車、龍舟板SUP、腳踏船等多元水域體驗，還設置大型氣墊水池，讓大小朋友都能盡情戲水、清涼消暑。每個週末還安排不同主題活動，包括水上瑜珈SUP、夢幻泡泡派對及歡樂氣球秀等精彩節目，搭配海洋市集、美食攤位及親子闖關，讓民眾不僅能玩水，還能吃美食、逛市集、享受親子同樂時光。",
-      "analysis": {
-        "overview": "玩水不用跑遠！彰濱海FUN一夏登場　親子放電首選景點 - 獨家報導。（觀傳媒彰化新聞）【記者陳雅芳／彰化報導】暑假親子出遊有新選擇！彰化縣政府舉辦的2026「彰濱～海FUN一夏」慶安水樂園，即日起至8月2日每逢週六、日於彰化縣自然生態教育中心戶外廣場登場，集結SUP、獨木舟、氣墊水樂園、海洋市集及親子闖關等豐富活動，邀請大小朋友一起到彰濱戲水消暑、暢玩整個夏天。由彰化縣政府主辦的2026「彰濱～海FUN一夏」慶安水樂園，即日起至8月2日每逢週六、日，在彰化縣自然生態教育中心戶外廣場熱鬧登場，規劃一系列親水活動，讓民",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "scooptw.com",
-      "tags": [
-        "放電",
-        "大自然",
-        "好玩"
-      ],
-      "reason": "免跑外縣市就有氣墊水樂園與SUP、獨木舟等多元親水設施，週末限定主題活動輪番上陣，讓小孩盡情放電、家長能逛市集休息。",
-      "published_at": "2026-07-22T13:15:00+00:00",
-      "collected_at": "2026-07-23T14:33:07.979671+00:00",
-      "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte9fcex2evffvlzoblm1sxziwgq5sefym",
-      "title": "台北暑假玩水景點｜2026台北親水節在公館登場！兩大親水場域、限定活動一次看",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FcEx2eVFfVlZOblM1SXZIWGQ5SEFyMC1ONThEb2h6RF9YREU0YWxrYTVxdDR2OXRHZmVVOHAxVnJxLXdudE9qandVekxPM1hrWGxTWA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FcEx2eVFfVlZOblM1SXZIWGQ5SEFyMC1ONThEb2h6RF9YREU0YWxrYTVxdDR2OXRHZmVVOHAxVnJxLXdudE9qandVekxPM1hrWGxTWA?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台北暑假玩水景點｜2026台北親水節在公館登場！兩大親水場域、限定活動一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台北暑假玩水景點｜2026台北親水節在公館登場！兩大親水場域、限定活動一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "微笑台灣",
-      "tags": [
-        "放電",
-        "大自然",
-        "好玩"
-      ],
-      "reason": "夏日定點親水消暑，孩子盡情玩水釋放精力，戶外空間寬敞，家長可輕鬆陪同觀看。",
-      "published_at": "2026-07-22T09:52:46+00:00",
-      "collected_at": "2026-07-22T14:21:45.881408+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
     }
   ]
 }
