@@ -1,8 +1,143 @@
 {
-  "updated_at": "2026-07-25T23:13:18.965770+00:00",
+  "updated_at": "2026-07-26T13:56:37.726377+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte8tcxvvbfzfs2hwy0dfmhvgqlzgszvws",
+      "title": "鶯歌老街、陶瓷博物館輸了！新北三鶯線最好玩景點TOP10「冠軍是它」：捷運出站就到、 便宜美食多全家大小玩整天",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tcXVVbFZfS2hWY0dFMHVGQlZGSzVwSmY4ZldaTHFUbGI2c3FuRDVXdTBSWVdqZm9UWV9KanpEdXBubjJCd0JIZHVxc2h4bmN1?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tcXVVbFZfS2hWY0dFMHVGQlZGSzVwSmY4ZldaTHFUbGI2c3FuRDVXdTBSWVdqZm9UWV9KanpEdXBubjJCd0JIZHVxc2h4bmN1?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "鶯歌老街、陶瓷博物館輸了！新北三鶯線最好玩景點TOP10「冠軍是它」：捷運出站就到、 便宜美食多全家大小玩整天。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "鶯歌老街、陶瓷博物館輸了！新北三鶯線最好玩景點TOP10「冠軍是它」：捷運出站就到、 便宜美食多全家大小玩整天。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "風傳媒",
+      "tags": [
+        "好玩",
+        "大自然"
+      ],
+      "reason": "三峽老街腹地寬敞無階梯、捷運出口直達交通便利，攤贩美食平價選擇多，適合帶小孩邊走邊逛玩半天到一整天。",
+      "published_at": "2026-07-26T01:19:00+00:00",
+      "collected_at": "2026-07-26T13:55:44.214499+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmib0fvx3lxte5mthjiu3dqeexrmwz1dnhbwxfxbhk3d",
+      "title": "暑假不用跑山區！ 新北2大森林景點打造城市避暑新選擇",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mTHJiU3dQeExrMWZ1dnhBWXFxbHk3dERmR0p0OGROZ0RuTUFEblhwSUZhOXlXNVhKNUJodmVQa01yQkUzQ25na1NTTVVSZjJVcGRSS1FNUVE0cGtaYTZYSDlRakZBRTRkamdnNjR2SQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mTHJiU3dQeExrMWZ1dnhBWXFxbHk3dERmR0p0OGROZ0RuTUFEblhwSUZhOXlXNVhKNUJodmVQa01yQkUzQ25na1NTTVVSZjJVcGRSS1FNUVE0cGtaYTZYSDlRakZBRTRkamdnNjR2SQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "暑假不用跑山區！ 新北2大森林景點打造城市避暑新選擇。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "暑假不用跑山區！ 新北2大森林景點打造城市避暑新選擇。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "花花日報",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "新北市區就能享受森林浴，不用長途跋涉山上，孩子有寬廣林間空間可以跑跳放電，是城市裡的天然避暑勝地。",
+      "published_at": "2026-07-26T00:36:00+00:00",
+      "collected_at": "2026-07-26T13:55:55.634580+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-www-msn-com-zh-tw-news-other-e9-80-b1-e4-b8-80-e6-b2-92-e6-8b-9b-e4-ba-86-",
+      "title": "週一沒招了? 6個「週一也有開」的北部親子景點爸媽快存，IKEA寬敞北歐風遊戲室CP值超高。",
+      "url": "https://www.msn.com/zh-tw/news/other/%E9%80%B1%E4%B8%80%E6%B2%92%E6%8B%9B%E4%BA%86-6%E5%80%8B-%E9%80%B1%E4%B8%80%E4%B9%9F%E6%9C%89%E9%96%8B-%E7%9A%84%E5%8C%97%E9%83%A8%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E7%88%B8%E5%AA%BD%E5%BF%AB%E5%AD%98-ikea%E5%AF%AC%E6%95%9E%E5%8C%97%E6%AD%90%E9%A2%A8%E9%81%8A%E6%88%B2%E5%AE%A4cp%E5%80%BC%E8%B6%85%E9%AB%98/ar-AA28HuZC",
+      "canonical_url": "https://www.msn.com/zh-tw/news/other/%E9%80%B1%E4%B8%80%E6%B2%92%E6%8B%9B%E4%BA%86-6%E5%80%8B-%E9%80%B1%E4%B8%80%E4%B9%9F%E6%9C%89%E9%96%8B-%E7%9A%84%E5%8C%97%E9%83%A8%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E7%88%B8%E5%AA%BD%E5%BF%AB%E5%AD%98-ikea%E5%AF%AC%E6%95%9E%E5%8C%97%E6%AD%90%E9%A2%A8%E9%81%8A%E6%88%B2%E5%AE%A4cp%E5%80%BC%E8%B6%85%E9%AB%98/ar-AA28HuZC",
+      "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "週一沒招了? 6個「週一也有開」的北部親子景點爸媽快存，IKEA寬敞北歐風遊戲室CP值超高。。編輯王瀅瀅表示，IKEA的遊戲室真的是神發明啊～ 每到週一，許多爸媽最頭痛的就是全台大多數的博物館、美術館與公共圖書館都逢週一休館。面對精力旺盛的「家中小怪獸」，究竟該去哪裡尋找台北親子景點與室內景點才不會逼死自己？其實北部有不少高CP值的免費親子樂園與雨天備案在週一照常營業。從結合體能放電的運動中心遊戲室，到設有貼心遊戲區的東區百貨公司，都能讓家 ...",
+      "analysis": {
+        "overview": "週一沒招了? 6個「週一也有開」的北部親子景點爸媽快存，IKEA寬敞北歐風遊戲室CP值超高。。編輯王瀅瀅表示，IKEA的遊戲室真的是神發明啊～ 每到週一，許多爸媽最頭痛的就是全台大多數的博物館、美術館與公共圖書館都逢週一休館。面對精力旺盛的「家中小怪獸」，究竟該去哪裡尋找台北親子景點與室內景點才不會逼死自己？其實北部有不少高CP值的免費親子樂園與雨天備案在週一照常營業。從結合體能放電的運動中心遊戲室，到設有貼心遊戲區的東區百貨公司，都能讓家 ...",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "msn.com",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "盤點週一也正常營業的北部室內親子景點，不論雨天備案或臨時找不到地方放電，IKEA北歐風遊戲室與結合體能設施的運動中心都是高CP值好去處，家中小怪獸電力輕鬆耗盡。",
+      "published_at": "2026-07-25T23:30:00+00:00",
+      "collected_at": "2026-07-26T13:56:05.577991+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-www-msn-com-zh-tw-lifestyle-other-e9-80-b1-e4-b8-80-e6-b2-92-e6-8b-9b-e4-b",
+      "title": "週一沒招了? 6個「週一也有開」的北部親子景點爸媽快存，IKEA寬敞北歐風遊戲室CP值超高。",
+      "url": "https://www.msn.com/zh-tw/lifestyle/other/%E9%80%B1%E4%B8%80%E6%B2%92%E6%8B%9B%E4%BA%86-6%E5%80%8B-%E9%80%B1%E4%B8%80%E4%B9%9F%E6%9C%89%E9%96%8B-%E7%9A%84%E5%8C%97%E9%83%A8%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E7%88%B8%E5%AA%BD%E5%BF%AB%E5%AD%98-ikea%E5%AF%AC%E6%95%9E%E5%8C%97%E6%AD%90%E9%A2%A8%E9%81%8A%E6%88%B2%E5%AE%A4cp%E5%80%BC%E8%B6%85%E9%AB%98/ar-AA28HuZC",
+      "canonical_url": "https://www.msn.com/zh-tw/lifestyle/other/%E9%80%B1%E4%B8%80%E6%B2%92%E6%8B%9B%E4%BA%86-6%E5%80%8B-%E9%80%B1%E4%B8%80%E4%B9%9F%E6%9C%89%E9%96%8B-%E7%9A%84%E5%8C%97%E9%83%A8%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E7%88%B8%E5%AA%BD%E5%BF%AB%E5%AD%98-ikea%E5%AF%AC%E6%95%9E%E5%8C%97%E6%AD%90%E9%A2%A8%E9%81%8A%E6%88%B2%E5%AE%A4cp%E5%80%BC%E8%B6%85%E9%AB%98/ar-AA28HuZC",
+      "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "週一沒招了? 6個「週一也有開」的北部親子景點爸媽快存，IKEA寬敞北歐風遊戲室CP值超高。。編輯王瀅瀅表示，IKEA的遊戲室真的是神發明啊～ 每到週一，許多爸媽最頭痛的就是全台大多數的博物館、美術館與公共圖書館都逢週一休館。面對精力旺盛的「家中小怪獸」，究竟該去哪裡尋找台北親子景點與室內景點才不會逼死自己？其實北部有不少高CP值的免費親子樂園與雨天備案在週一照常營業。從結合體能放電的運動中心遊戲室，到設有貼心遊戲區的東區百貨公司，都能讓家 ...",
+      "analysis": {
+        "overview": "週一沒招了? 6個「週一也有開」的北部親子景點爸媽快存，IKEA寬敞北歐風遊戲室CP值超高。。編輯王瀅瀅表示，IKEA的遊戲室真的是神發明啊～ 每到週一，許多爸媽最頭痛的就是全台大多數的博物館、美術館與公共圖書館都逢週一休館。面對精力旺盛的「家中小怪獸」，究竟該去哪裡尋找台北親子景點與室內景點才不會逼死自己？其實北部有不少高CP值的免費親子樂園與雨天備案在週一照常營業。從結合體能放電的運動中心遊戲室，到設有貼心遊戲區的東區百貨公司，都能讓家 ...",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "msn.com",
+      "tags": [
+        "室內",
+        "放電",
+        "好玩"
+      ],
+      "reason": "週一多數景點休館，此精選6處北部週一正常營業的室內親子樂園，包含IKEA免費遊戲室與運動中心，提供雨天備案且多為免費入場，讓家中小怪獸盡情放電爸媽不傷荷包。",
+      "published_at": "2026-07-25T23:30:00+00:00",
+      "collected_at": "2026-07-26T13:56:16.511783+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-travel-ettoday-net-article-3205492-htm",
+      "title": "0~6歲寶寶專屬遊戲場！台中免費室內親子館　提前線上預約免排隊 | ETtoday旅遊雲 | ETtoday新聞雲",
+      "url": "https://travel.ettoday.net/article/3205492.htm",
+      "canonical_url": "https://travel.ettoday.net/article/3205492.htm",
+      "image_url": "https://cdn2.ettoday.net/images/8841/e8841618.jpg",
+      "images": [
+        "https://cdn2.ettoday.net/images/8841/e8841618.jpg",
+        "https://cdn2.ettoday.net/images/8841/d8841618.jpg",
+        "https://cdn2.ettoday.net/images/8841/d8841617.jpg",
+        "https://cdn2.ettoday.net/images/8841/d8841616.jpg",
+        "https://cdn2.ettoday.net/images/8841/d8841615.jpg",
+        "https://cdn2.ettoday.net/images/8841/d8841614.jpg",
+        "https://cdn2.ettoday.net/images/8841/d8841613.jpg",
+        "https://cdn2.ettoday.net/images/8841/d8841612.jpg"
+      ],
+      "summary": "0~6歲寶寶專屬遊戲場！台中免費室內親子館　提前線上預約免排隊 | ETtoday旅遊雲 | ETtoday新聞雲。撰文攝影／ NINI AND BLUE 玩樂食記 、整理／實習記者陳莉玟 「台中中區親子館」是台中舊城區首座親子館，也是台中市第21座親子館，於2026年2月正式啟用。專為0到6歲學齡前幼兒打造的免費公共育兒空間，每場次可容納約22組親子。針對不同年齡層與探索需求，妥善規劃了三大區域，有小寶爬行區、大寶肌肉活動區，教玩具免費借閱服務、親子教育與共融課程。旁邊就是立體停車場、多格機車格，停車相當方便。►更多吃喝玩樂大小事，快追隨旅遊雲官方Instagram 親子館位置 周邊有多個景點，適合安排半日遊：先到親子館放電，再順遊第二市場、柳川水岸、台中火車站等中區景點，玩樂與文化體驗一次滿足。▲台中中區親子館融入在地元素，將中區最著名的「太陽餅一條街」及在地舊城文化在遊戲中體現。交通方式 台中中區親子館可說是在第二市場停車場範圍內，擁有超過1,000個汽、機車停車位，停車相當方便。搭乘大眾交通工具者，可以搭公車到台灣大道上的仁愛醫院站下車。",
+      "analysis": {
+        "overview": "0~6歲寶寶專屬遊戲場！台中免費室內親子館　提前線上預約免排隊 | ETtoday旅遊雲 | ETtoday新聞雲。撰文攝影／ NINI AND BLUE 玩樂食記 、整理／實習記者陳莉玟 「台中中區親子館」是台中舊城區首座親子館，也是台中市第21座親子館，於2026年2月正式啟用。專為0到6歲學齡前幼兒打造的免費公共育兒空間，每場次可容納約22組親子。針對不同年齡層與探索需求，妥善規劃了三大區域，有小寶爬行區、大寶肌肉活動區，教玩具免費借閱服務、親子教育與共融課程。旁邊就是立體停車場、多格機車格，停車相當方便。►",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "travel.ettoday.net",
+      "tags": [
+        "放電",
+        "室內"
+      ],
+      "reason": "專為0-6歲設計的分齡遊戲區，小寶爬行區與大寶肌肉活動區各適其所；附設超過1,000個汽機車停車位，停車方便且結合第二市場周邊景點可安排半日遊，放電兼文化體驗一次滿足。",
+      "published_at": "2026-07-25T20:00:00+00:00",
+      "collected_at": "2026-07-26T13:56:28.145750+00:00",
+      "query": "台灣 免費親子景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfa4n040wfzjmljpd1vqmfz4dvu0djz3z",
       "title": "南投旅遊百K熱鬧開騎 親子滑步車、美食古蹟遊同步登場",
@@ -382,6 +517,40 @@
       "query": "台灣 免費親子景點"
     },
     {
+      "id": "https-tw-news-yahoo-com-e5-85-a8-e5-8f-b0-e6-9c-80-e5-a4-a7-e5-ae-a4-e5-85-a7-e9",
+      "title": "全台最大「室內遊樂園」開幕倒數！免門票玩30項設施　資訊一覽",
+      "url": "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E6%9C%80%E5%A4%A7-%E5%AE%A4%E5%85%A7%E9%81%8A%E6%A8%82%E5%9C%92-%E9%96%8B%E5%B9%95%E5%80%92%E6%95%B8-%E5%85%8D%E9%96%80%E7%A5%A8%E7%8E%A930%E9%A0%85%E8%A8%AD%E6%96%BD-%E8%B3%87%E8%A8%8A-040300708.html",
+      "canonical_url": "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E6%9C%80%E5%A4%A7-%E5%AE%A4%E5%85%A7%E9%81%8A%E6%A8%82%E5%9C%92-%E9%96%8B%E5%B9%95%E5%80%92%E6%95%B8-%E5%85%8D%E9%96%80%E7%A5%A8%E7%8E%A930%E9%A0%85%E8%A8%AD%E6%96%BD-%E8%B3%87%E8%A8%8A-040300708.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/e5e78ec7de7044fd795aaf87a323c2d2d02179f8c6b499f72f529ec013a8fc9f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2F__647%2Fc2d05635f4fb2f0bdc9268cf04495eb5",
+      "images": [
+        "https://s.yimg.com/lo/mysterio/api/e5e78ec7de7044fd795aaf87a323c2d2d02179f8c6b499f72f529ec013a8fc9f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2F__647%2Fc2d05635f4fb2f0bdc9268cf04495eb5",
+        "https://s.yimg.com/lo/mysterio/api/7c262cf02aebb428402fdcd91b004ae4d5a4639e8e2dc0ad489d4404db158db6/lightyear_networkapi/resizefill_h48;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-02%2F40610250-d6b8-11ee-bf8b-59a598dcd994",
+        "https://s.yimg.com/lo/mysterio/api/e6a4d65ea5341e94f011ae60337dc71885a29bd2d298969be3701eb5d17ff557/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2F__647%2Fc2d05635f4fb2f0bdc9268cf04495eb5",
+        "https://s.yimg.com/lo/mysterio/api/3b461129163ac7f9ed2b61fa6948d8ee4cc528fd593aac8bf5257b772e315306/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2F__647%2F2c6b77d97fef3395a6ede936f5bb8728",
+        "https://s.yimg.com/lo/mysterio/api/8C5CF6A4D47E448B9D00E434B3214934DC2C4BC72F1AFCAEC1C4F1E63446B60F/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fmirrordaily_390%2Fb926589363c389e9f820959f9a2c2d18",
+        "https://s.yimg.com/lo/mysterio/api/EC80F40BC59B74AE4146D4B159BC880E3BE3C57D56BC2AB07F9746AFBBCDFA72/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fftvn.com.tw%2F3bbd3d0161702b5732c83cc2bbc2b651",
+        "https://s.yimg.com/lo/mysterio/api/F741295238043364B1570FE11A3D559EE913BA20274F1D6E617C15C731DD9562/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Ftwtech.kisplay.blog%2Fd4c8376d20b7bcf1c2a188b9d5a194d0",
+        "https://s.yimg.com/lo/mysterio/api/9D6583CE7BC6D7E29B413AC3D5910BC97C55C3E383210C4E8B3539833DB37D16/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fgotv_ctitv_com_tw_678%2Fd4ff214b2be3cbb4e5efcce8b8d05f13"
+      ],
+      "summary": "全台最大「室內遊樂園」開幕倒數！免門票玩30項設施　資訊一覽。問題油清單一次看 退費方式總整理 吃到怎麼辦？問題油清單一次看 退費方式總整理 吃到怎麼辦？免門票玩30項設施 資訊一覽\",\"position\":3}]} Yahoo新聞 即時 全台最大「室內遊樂園」開幕倒數！",
+      "analysis": {
+        "overview": "全台最大「室內遊樂園」開幕倒數！免門票玩30項設施　資訊一覽。問題油清單一次看 退費方式總整理 吃到怎麼辦？問題油清單一次看 退費方式總整理 吃到怎麼辦？免門票玩30項設施 資訊一覽\",\"position\":3}]} Yahoo新聞 即時 全台最大「室內遊樂園」開幕倒數！",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "tw.news.yahoo.com",
+      "tags": [
+        "室內",
+        "放電",
+        "好玩"
+      ],
+      "reason": "全台最大室內遊樂園擁有30項設施，雨天也能盡情放電，且免門票即可遊玩超高CP值。",
+      "published_at": "2026-07-23T17:00:00+00:00",
+      "collected_at": "2026-07-26T13:56:37.686733+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiv0fvx3lxte1ftuoysnbbqu9gb0dnuek0x1lrn3vub",
       "title": "夏日藝文盛會x城市遊樂園 「2026樂活桃園」多元展演與互動體驗登場",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FTUoySnBBQU9Gb0dnUEk0X1lrN3VUbTZmdWdyMWdXeTZub21YMWtRUVc4bFZGVWVLd0Rwc0tXRFIxaWJaeDRHM2hTRkVyM3QwZk5sOGFvNA?oc=5",
@@ -675,179 +844,6 @@
       "published_at": "2026-07-23T04:07:00+00:00",
       "collected_at": "2026-07-23T14:31:46.407812+00:00",
       "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmib0fvx3lxte1zd2ntwmfjbwtov08zyktvbkrirtboy",
-      "title": "和逸飯店台南西門館推全新「囡仔埕」 打造最有台南味親子遊戲場",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zd2NTWmFJbWtoV08zYktvbkRiRTBOYnJPSkZreGtMZkpDdVVmdWpBdVo3eE1fcGRVLXY3b0xTcndvY25VVElobDdwZW8wSHFnRnJPcU5ObUZmRncwSHMzWXdKSmdFY3VGTGhHeEdfaw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zd2NTWmFJbWtoV08zYktvbkRiRTBOYnJPSkZreGtMZkpDdVVmdWpBdVo3eE1fcGRVLXY3b0xTcndvY25VVElobDdwZW8wSHFnRnJPcU5ObUZmRncwSHMzWXdKSmdFY3VGTGhHeEdfaw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "和逸飯店台南西門館推全新「囡仔埕」 打造最有台南味親子遊戲場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "和逸飯店台南西門館推全新「囡仔埕」 打造最有台南味親子遊戲場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "勁報",
-      "tags": [
-        "室內",
-        "放電",
-        "好玩"
-      ],
-      "reason": "飯店室內遊戲區有冷氣舒適，雨天也能放電，且設施完善、廁所乾淨，爸媽能輕鬆陪玩。",
-      "published_at": "2026-07-23T02:22:58+00:00",
-      "collected_at": "2026-07-23T14:31:54.617713+00:00",
-      "query": "台灣 室內親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte9wuxptwwlyrjhkmmpyahrklumwes1un",
-      "title": "和逸飯店台南西門館推全新「囡仔埕」 打造最有台南味親子遊戲場",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WUXptWWlyRjhkMmpYaHRKLUMweS1uNU1oZ2NiSXd5ejYzVEpTRElmSHJYb0xZU01TZVRPT3BrSUpXUm1fdWhmYmljVUowT3Z2VlE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WUXptWWlyRjhkMmpYaHRKLUMweS1uNU1oZ2NiSXd5ejYzVEpTRElmSHJYb0xZU01TZVRPT3BrSUpXUm1fdWhmYmljVUowT3Z2VlE?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "和逸飯店台南西門館推全新「囡仔埕」 打造最有台南味親子遊戲場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "和逸飯店台南西門館推全新「囡仔埕」 打造最有台南味親子遊戲場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "室內",
-        "放電"
-      ],
-      "reason": "飯店室內遊戲場有冷氣舒適，家長可順便休息，孩童盡情放電不受天候影響。",
-      "published_at": "2026-07-23T02:15:00+00:00",
-      "collected_at": "2026-07-23T14:32:00.862061+00:00",
-      "query": "台灣 雨天 親子 室內 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte12ohd2azfqqzrusla2sk5kyldznuh6a",
-      "title": "和逸飯店台南西門館室內遊戲室全新登場住房送票暢玩雙樂園- 生活",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OHd2azFQQzRUSlA2Sk5kYldZNUh6ajJqM1VhVVRJdERhOHMzd1N3Qzh3d01iUGdDNUtPVm5qMWdjaC1Hb1ZiYXJnSmdxR2lIc29KQ2dTUkhfdHFjaklR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OHd2azFQQzRUSlA2Sk5kYldZNUh6ajJqM1VhVVRJdERhOHMzd1N3Qzh3d01iUGdDNUtPVm5qMWdjaC1Hb1ZiYXJnSmdxR2lIc29KQ2dTUkhfdHFjaklR?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "和逸飯店台南西門館室內遊戲室全新登場住房送票暢玩雙樂園- 生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "和逸飯店台南西門館室內遊戲室全新登場住房送票暢玩雙樂園- 生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "工商時報",
-      "tags": [
-        "室內",
-        "放電",
-        "好玩"
-      ],
-      "reason": "飯店室內遊戲室雨天備案無壓力，住房送雙樂園門票CP值高，小孩盡情放電家長好輕鬆。",
-      "published_at": "2026-07-23T02:03:00+00:00",
-      "collected_at": "2026-07-23T14:32:10.049809+00:00",
-      "query": "台灣 室內親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxtfbgcdbkefotrwngr0vedkvztkhgwlm3u",
-      "title": "北埔老街、城隍廟輸了！新竹最強景點TOP10冠軍是它：設施豐富百去不膩、 全家玩到不想走",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGcDBkeFotRWNGR0VEdkVZTkhGWlM3U3pZbW1VVUJwX3h3ekI5N3Z3dHdDa1NnVXBrNWpkZ05odm5ta0xVOTNvb0g3dTh4ZlZM?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGcDBkeFotRWNGR0VEdkVZTkhGWlM3U3pZbW1VVUJwX3h3ekI5N3Z3dHdDa1NnVXBrNWpkZ05odm5ta0xVOTNvb0g3dTh4ZlZM?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "北埔老街、城隍廟輸了！新竹最強景點TOP10冠軍是它：設施豐富百去不膩、 全家玩到不想走。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "北埔老街、城隍廟輸了！新竹最強景點TOP10冠軍是它：設施豐富百去不膩、 全家玩到不想走。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "新竹最強景點TOP10冠軍以豐富設施著稱，孩子能盡情放電玩樂，百去不膩適合全家同樂。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "風傳媒",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "新竹最強景點TOP10冠軍以豐富設施著稱，孩子能盡情放電玩樂，百去不膩適合全家同樂。",
-      "published_at": "2026-07-23T01:15:00+00:00",
-      "collected_at": "2026-07-23T14:32:23.713460+00:00",
-      "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-n-yam-com-article-20260723654779",
-      "title": "和逸飯店·台南西門館奪育兒友善獎　全新遊戲室開放再送雙樂園票 | 蕃新聞",
-      "url": "https://n.yam.com/Article/20260723654779",
-      "canonical_url": "https://n.yam.com/Article/20260723654779",
-      "image_url": "https://ni.yam.com/20260723/4--455a419c1fc880de.jpg",
-      "images": [
-        "https://ni.yam.com/20260723/4--455a419c1fc880de.jpg",
-        "https://focusnews.com.tw/wp-content/uploads/2026/07/【新聞照4】-800x534.jpg",
-        "https://focusnews.com.tw/wp-content/uploads/2026/07/【新聞照3-1】-1-800x560.jpg",
-        "https://focusnews.com.tw/wp-content/uploads/2026/07/【新聞照5】-800x534.jpg",
-        "https://ni.yam.com/20260715/dq-260716-001.png",
-        "https://ni.yam.com/20260709/1-1--ead8b8c01be0a39b.jpg",
-        "https://ni.yam.com/20260710/429439b5a428c59257c111cd3755a30c-c99ec2837e7a5260.jpg",
-        "https://ni.yam.com/20260709/582566a4f7edb43af5-aef3564a54cb236a.jpg"
-      ],
-      "summary": "和逸飯店·台南西門館奪育兒友善獎　全新遊戲室開放再送雙樂園票 | 蕃新聞。【今傳媒／記者張淑慧 報導】和逸飯店·台南西門館深耕親子旅遊市場多年，憑藉完善的親子設施、多元遊憩空間及貼近家庭需求的貼心服務，再度榮獲雄獅旅遊「最懂你的親子友善飯店」評選中的「育兒友善獎」，展現深受親子家庭肯定的品牌實力。迎接暑假親子旅遊旺季，飯店全新打造以府城生活文化為發想的室內遊戲室「和逸囡仔埕」，結合在地特色與互動遊戲體驗，提供孩子寓教於樂的活動空間。同時推出「FUN暑假 1+1放電趣」套票，不僅住宿旅客可享優惠，非住宿家庭也能購票使用飯店室內外遊樂設施，讓親子家庭輕鬆規劃半日放電行程，享受歡樂假期。此外，廣受親子旅客喜愛的「雙樂園放電大冒險」住房專案也同步熱賣中，凡入住即可獲贈鄰近大型室內主題樂園暢玩票，滿足不同年齡層孩子的遊樂需求，家長只需一次完成訂房，即可輕鬆安排完整的親子假期，省去規劃行程的繁瑣。和逸飯店·台南西門館表示，未來將持續優化親子住宿服務與遊憩設施，打造更安全、舒適且充滿樂趣的旅宿體驗，陪伴每個家庭創造珍貴的暑假回憶。",
-      "analysis": {
-        "overview": "和逸飯店·台南西門館奪育兒友善獎　全新遊戲室開放再送雙樂園票 | 蕃新聞。【今傳媒／記者張淑慧 報導】和逸飯店·台南西門館深耕親子旅遊市場多年，憑藉完善的親子設施、多元遊憩空間及貼近家庭需求的貼心服務，再度榮獲雄獅旅遊「最懂你的親子友善飯店」評選中的「育兒友善獎」，展現深受親子家庭肯定的品牌實力。迎接暑假親子旅遊旺季，飯店全新打造以府城生活文化為發想的室內遊戲室「和逸囡仔埕」，結合在地特色與互動遊戲體驗，提供孩子寓教於樂的活動空間。同時推出「FUN暑假 1+1放電趣」套票，不僅住宿旅客可享優惠，非住宿家庭也能購票使",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "n.yam.com",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "飯店室內外遊樂設施齊備，全新室內遊戲室結合府城文化體驗，且提供鄰近大型室內主題樂園暢玩票，不分晴雨天都能盡情放電，家長輕鬆安排行程無負擔。",
-      "published_at": "2026-07-22T23:47:00+00:00",
-      "collected_at": "2026-07-23T14:32:42.456860+00:00",
-      "query": "台灣 親子飯店 親子樂園"
-    },
-    {
-      "id": "https-www-ctee-com-tw-news-20260723700667-431401",
-      "title": "和逸飯店台南西門館室內遊戲室全新登場 住房送票暢玩雙樂園",
-      "url": "https://www.ctee.com.tw/news/20260723700667-431401",
-      "canonical_url": "https://www.ctee.com.tw/news/20260723700667-431401",
-      "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-23/1024/20260723700670.jpg",
-      "images": [
-        "https://sb.scorecardresearch.com/p?c1=2&c2=9457284&cv=4.4.0&cj=1",
-        "https://images.ctee.com.tw/newsphoto/2026-07-23/1024/20260723700670.jpg",
-        "https://images.ctee.com.tw/newsphoto/2026-07-23/1024/20260723700671.jpg",
-        "https://images.ctee.com.tw/newsphoto/2026-07-23/1024/20260723700669.jpg",
-        "https://images.ctee.com.tw/newsphoto/2026-07-23/1024/20260723700672.jpg",
-        "https://images.ctee.com.tw/newsphoto/2026-07-23/1024/20260723700668.jpg",
-        "https://images.ctee.com.tw/newsphoto/2026-07-14/Miscellaneous/h20260714639195910797055197.jpg"
-      ],
-      "summary": "和逸飯店台南西門館室內遊戲室全新登場 住房送票暢玩雙樂園。已將目前網頁的網址複製到您的剪貼簿！迎接暑假親子旅遊旺季，和逸飯店台南西門館全新打造以府城生活文化為靈感的室內遊戲室「和逸囡仔埕」，並同步推出「FUN暑假 1+1放電趣」套票，開放非住宿家庭也能購票體驗飯店室內外遊樂設施，輕鬆安排半日親子放電行程。另針對親子家庭設計的「雙樂園放電大冒險」住房專案，入住即贈鄰近的大型室內主題樂園暢玩票，滿足不同年齡層孩子的玩樂需求，家長只要完成住宿預訂，即可一次安排好孩童的放電行程。和逸飯店台南西門館於5樓室內遊憩樓層全新規劃室內遊戲空間「和逸囡仔埕」即日起正式開放，「囡仔」在台語中意指孩子，「埕」則是傳統家屋前供鄰里交流、孩童玩耍的空間，象徵一處專屬孩子自在探索與交流的遊戲天地。「和逸囡仔埕」 空間以廟埕文化為設計靈感，融入赤崁樓等府城知名古蹟意象，其中「COZZI STORE」備有各式蔬果模型、購物車與商品陳列，讓孩子化身小小店員與顧客，親身體驗採買與結帳的樂趣，另外設有充滿街頭風情的小吃攤烤台、創意工匠等職人體驗場景，以及可以自由組合、發揮想像力的大型積木區。",
-      "analysis": {
-        "overview": "和逸飯店台南西門館室內遊戲室全新登場 住房送票暢玩雙樂園。已將目前網頁的網址複製到您的剪貼簿！迎接暑假親子旅遊旺季，和逸飯店台南西門館全新打造以府城生活文化為靈感的室內遊戲室「和逸囡仔埕」，並同步推出「FUN暑假 1+1放電趣」套票，開放非住宿家庭也能購票體驗飯店室內外遊樂設施，輕鬆安排半日親子放電行程。另針對親子家庭設計的「雙樂園放電大冒險」住房專案，入住即贈鄰近的大型室內主題樂園暢玩票，滿足不同年齡層孩子的玩樂需求，家長只要完成住宿預訂，即可一次安排好孩童的放電行程。和逸飯店台南西門館於5樓室內遊憩樓層全新規劃",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "ctee.com.tw",
-      "tags": [
-        "室內",
-        "放電",
-        "好玩"
-      ],
-      "reason": "室內遊戲室結合飯店設施與主題樂園套票，晴天雨天都有地方放電，家長只需預訂一次就能搞定孩子整天行程超輕鬆。",
-      "published_at": "2026-07-22T16:59:00+00:00",
-      "collected_at": "2026-07-23T14:32:56.997776+00:00",
-      "query": "台灣 室內親子景點"
     }
   ]
 }
