@@ -1,8 +1,87 @@
 {
-  "updated_at": "2026-07-29T14:33:58.622974+00:00",
+  "updated_at": "2026-07-29T23:14:21.968486+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5iuxy1v3bzmkljnvdcnkjvymq1s2pbs",
+      "title": "「最強放電基地」台鐵高雄機廠親子遊樂園區8月8日開幕",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IUXY1V3BZMkljNVdCNkJVYmQ1S2pBSTcwOU1XaFpCMWR0QkthUHpPUy1walM0c2haUjNNbDJndzFRMElIWmwzZk5PU0c4NEU1NlE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IUXY1V3BZMkljNVdCNkJVYmQ1S2pBSTcwOU1XaFpCMWR0QkthUHpPUy1walM0c2haUjNNbDJndzFRMElIWmwzZk5PU0c4NEU1NlE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "「最強放電基地」台鐵高雄機廠親子遊樂園區8月8日開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "「最強放電基地」台鐵高雄機廠親子遊樂園區8月8日開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "台鐵高雄機廠打造的親子遊樂園區空間寬敞、遊具多元，是專為親子設計的放電場所，室內空間雨天也能盡情玩樂。",
+      "published_at": "2026-07-29T14:20:00+00:00",
+      "collected_at": "2026-07-29T23:13:48.521994+00:00",
+      "query": "台灣 親子飯店 親子樂園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiigfbvv95cuxnzkr0nxc0c2t1zlvrlurhng82c1q4v",
+      "title": "「最強放電基地」台鐵高雄機廠親子遊樂園區8月8日開幕 - 旅遊新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZkR0NXc0c2t1ZlVrLURHNG82c1Q4VDJpdGpCT3N6b0JER1JNS3dPNWhmV1gzbTNUVkU2V1MxTFdTejN0cDhRdklVOUlwdXRsc3ItdEV5TG1qc3FfcDNqalE3WEtlamRXYTZxYmRHLTVpdkVfQVdPTFYwVDVRblFiSV9pdGlnYVBUZ3c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZkR0NXc0c2t1ZlVrLURHNG82c1Q4VDJpdGpCT3N6b0JER1JNS3dPNWhmV1gzbTNUVkU2V1MxTFdTejN0cDhRdklVOUlwdXRsc3ItdEV5TG1qc3FfcDNqalE3WEtlamRXYTZxYmRHLTVpdkVfQVdPTFYwVDVRblFiSV9pdGlnYVBUZ3c?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "「最強放電基地」台鐵高雄機廠親子遊樂園區8月8日開幕 - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "「最強放電基地」台鐵高雄機廠親子遊樂園區8月8日開幕 - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "PChome Online新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "號稱「最強放電基地」的親子遊樂園區，讓小孩盡情玩耍消耗體力，家長可輕鬆陪同休息。",
+      "published_at": "2026-07-29T13:52:19+00:00",
+      "collected_at": "2026-07-29T23:13:55.201840+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmis0fvx3lxtfbutghsd1y4owdtwnhvskkyakxgcja3z",
+      "title": "高雄機廠親子遊樂園區8/8開幕 陳其邁：加強檢視|發展臺灣",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUTGhsd1Y4OWdtWnhvSkkyakxGcjA3Z3pRaDZBNDI0YnFTcnYySEFCZmdPSVliQkc5WGdhbWVrUkh5d1FSeC03WmxSVQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUTGhsd1Y4OWdtWnhvSkkyakxGcjA3Z3pRaDZBNDI0YnFTcnYySEFCZmdPSVliQkc5WGdhbWVrUkh5d1FSeC03WmxSVQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄機廠親子遊樂園區8/8開幕 陳其邁：加強檢視|發展臺灣。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄機廠親子遊樂園區8/8開幕 陳其邁：加強檢視|發展臺灣。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "僑新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "高雄新建親子遊樂園區，提供專為孩童設計的遊樂設施，是釋放孩子精力、增進親子互動的好去處。",
+      "published_at": "2026-07-29T12:00:00+00:00",
+      "collected_at": "2026-07-29T23:14:03.255366+00:00",
+      "query": "台灣 親子景點 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmivefvx3lxte9kcdlcddzhtu1wvgtnvxfxr1fqotrvw",
       "title": "高雄機廠親子遊樂園區8/8開幕 陳其邁嚴格把關",
@@ -28,6 +107,67 @@
       "published_at": "2026-07-29T11:39:35+00:00",
       "collected_at": "2026-07-29T14:30:50.958687+00:00",
       "query": "台南 高雄 屏東 親子景點"
+    },
+    {
+      "id": "https-n-yam-com-article-20260729785854",
+      "title": "「最強放電基地」台鐵高雄機廠親子遊樂園區8月8日開幕 | 蕃新聞",
+      "url": "https://n.yam.com/Article/20260729785854",
+      "canonical_url": "https://n.yam.com/Article/20260729785854",
+      "image_url": "https://ni.yam.com/20260729/757969627_1505203694957106_7873595428921215662_n-c75f5e965f3150cb.jpg",
+      "images": [
+        "https://ni.yam.com/20260729/757969627_1505203694957106_7873595428921215662_n-c75f5e965f3150cb.jpg",
+        "https://image.pronews.tw/2026/07/757969627_1505203694957106_7873595428921215662_n.jpg",
+        "https://image.pronews.tw/2026/07/757563471_1505203828290426_7298033058032604435_n.jpg",
+        "https://image.pronews.tw/2026/07/758808136_1505203868290422_3629809924498858656_n.jpg",
+        "https://ni.yam.com/20260715/dq-260716-001.png",
+        "https://ni.yam.com/20260729/medias-20260728-6a686bb48fd69-b10429a41996b33a.jpeg",
+        "https://ni.yam.com/20260728/20260728191024uZKO-57675f1f5c86ca6e.jpg",
+        "https://ni.yam.com/20260728/20260728135145-0028e53e98f4b4e5.jpg"
+      ],
+      "summary": "「最強放電基地」台鐵高雄機廠親子遊樂園區8月8日開幕 | 蕃新聞。【創新聞記者黃采蓮／台北報導】高雄親子家庭暑假又多一處全新去處。由台鐵高雄機廠舊廠區活化改造而成的「高雄親子遊樂園區」，將於8月8日父親節正式開幕，園區占地約1.5公頃，規劃30多項遊戲與體驗設施，結合鐵道工業記憶、半室內遊憩空間與全齡共融設計，將成為高雄最新大型親子休憩場域。台鐵高雄機廠過去承載高雄重要產業與鐵道維修歷史，這次透過舊場域再利用，將原有工業空間轉化為親子遊樂園區，不只保留廠區既有的鐵道文化與工業風貌，也導入休閒、遊戲、體能挑戰與教育體驗功能，讓老機廠從城市記憶場域，轉身成為親子同樂的新據點。園區規劃多項遊樂設施，包含溜滑梯、多元鞦韆、戲水區、感官遊戲空間、攀爬設施、體能挑戰場域，以及全台首創的「泡泡雲朵彈跳床」等設計，並納入Pump Track破浪騎乘場、高空纜繩等較具挑戰性的設施，讓幼童、青少年、家長甚至長者，都能依照不同年齡與體能需求找到適合的活動內容。高雄市長陳其邁日前在市政會議中聽取「台鐵高雄機廠轉型親子遊樂園區」開園專案報告，要求各局處在正式開園前完成相關整備，包含接駁車配置、停車管理、飲水補給、醫療站設置及廁所量能等，並嚴格把關工程品質與設施安全，讓民眾在開園初期面對可能湧入的人潮時，也能維持安全、舒適的遊園品質。",
+      "analysis": {
+        "overview": "「最強放電基地」台鐵高雄機廠親子遊樂園區8月8日開幕 | 蕃新聞。【創新聞記者黃采蓮／台北報導】高雄親子家庭暑假又多一處全新去處。由台鐵高雄機廠舊廠區活化改造而成的「高雄親子遊樂園區」，將於8月8日父親節正式開幕，園區占地約1.5公頃，規劃30多項遊戲與體驗設施，結合鐵道工業記憶、半室內遊憩空間與全齡共融設計，將成為高雄最新大型親子休憩場域。台鐵高雄機廠過去承載高雄重要產業與鐵道維修歷史，這次透過舊場域再利用，將原有工業空間轉化為親子遊樂園區，不只保留廠區既有的鐵道文化與工業風貌，也導入休閒、遊戲、體能挑戰與教育體",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "n.yam.com",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "半室內遊憩空間適合雨天備案，30多項設施從溜滑梯、戲水到泡泡彈跳床多元選擇，大幅降低帶小孩出遊的天氣焦慮；占地1.5公頃腹地寬闊，且市府要求開園前完成停車與廁所量能整備，適合全家耗上一整個下午盡情放電。",
+      "published_at": "2026-07-29T07:20:00+00:00",
+      "collected_at": "2026-07-29T23:14:10.741814+00:00",
+      "query": "台灣 親子農場 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmixkfvx3lxtfbqaxf0amk3sduwsk5qenb0oui5zxhfa",
+      "title": "高雄親子飯店新地標！漢來小船長探險島開幕，打造上百坪室內海洋樂園設施一次看。|旅遊",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqaXF0amk3SDUwSk5QenB0OUI5ZXhfa1lWa0E2V0oyMTRRckUwZTRKNTNOYlBIa3czUG9tRVl2OG84Y0xmd0JTNXMtak1PbV92RDVRODRUYy13RjNnOXc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqaXF0amk3SDUwSk5QenB0OUI5ZXhfa1lWa0E2V0oyMTRRckUwZTRKNTNOYlBIa3czUG9tRVl2OG84Y0xmd0JTNXMtak1PbV92RDVRODRUYy13RjNnOXc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子飯店新地標！漢來小船長探險島開幕，打造上百坪室內海洋樂園設施一次看。|旅遊。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子飯店新地標！漢來小船長探險島開幕，打造上百坪室內海洋樂園設施一次看。|旅遊。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "WalkerLand 窩客島",
+      "tags": [
+        "室內",
+        "放電",
+        "好玩"
+      ],
+      "reason": "上百坪室內海洋樂園不受天候影響，雨天備案最佳選擇，大空間設施能讓孩子盡情放電玩耍。",
+      "published_at": "2026-07-29T06:47:00+00:00",
+      "collected_at": "2026-07-29T23:14:16.897944+00:00",
+      "query": "台灣 親子旅遊 最新"
     },
     {
       "id": "https-news-cts-com-tw-dailyview-life-202607-202607293061081-html",
@@ -310,6 +450,33 @@
       "published_at": "2026-07-28T19:44:24+00:00",
       "collected_at": "2026-07-29T14:32:50.490888+00:00",
       "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte1rde42cvh4zexeyue0rxpnmgzroxlom",
+      "title": "高雄機廠華麗轉身！陳其邁要求完善親子遊樂園區開園整備 8/8迎接市民新樂園",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rdE42cVh4ZExEYUE0RXpnMGZrOXloMmRNWWxMRlZld2hwY0duZ1NJa0FaRk1odDQtVUt2bElaTWJzOGJpdFBRd3Nyb3pnekc0ZWc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rdE42cVh4ZExEYUE0RXpnMGZrOXloMmRNWWxMRlZld2hwY0duZ1NJa0FaRk1odDQtVUt2bElaTWJzOGJpdFBRd3Nyb3pnekc0ZWc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄機廠華麗轉身！陳其邁要求完善親子遊樂園區開園整備 8/8迎接市民新樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄機廠華麗轉身！陳其邁要求完善親子遊樂園區開園整備 8/8迎接市民新樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "高雄機廠翻新為親子遊樂園區，提供寬廣戶外空間讓孩子盡情放電，適合作為全家踏青休閒的新選擇。",
+      "published_at": "2026-07-28T19:44:00+00:00",
+      "collected_at": "2026-07-29T23:14:21.927507+00:00",
+      "query": "台灣 親子景點 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte9sbkxkewfcnhnpzgm3bs1bblvvqmdms",
@@ -663,174 +830,6 @@
       "published_at": "2026-07-28T07:47:21+00:00",
       "collected_at": "2026-07-28T14:37:22.151795+00:00",
       "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-cts-com-tw-cna-local-202607-202607283060605-html",
-      "title": "高雄機廠親子遊樂園區8/8開幕　陳其邁：加強檢視 - 地方 - 華視新聞網",
-      "url": "https://news.cts.com.tw/cna/local/202607/202607283060605.html",
-      "canonical_url": "https://news.cts.com.tw/cna/local/202607/202607283060605.html",
-      "image_url": "https://www.cts.com.tw/data/images/news/photo/cna/202607/202607283060605.jpg",
-      "images": [
-        "https://www.cts.com.tw/data/images/news/photo/cna/202607/202607283060605.jpg",
-        "https://i.ytimg.com/vi/WWb6qlQfJS4/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/W2vOhmc2lZA/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/IpFlDvlcRJ4/maxresdefault.jpg",
-        "https://i.ytimg.com/vi/o7TZh6C_bQQ/maxresdefault.jpg",
-        "https://www.cts.com.tw/data/images/c8/dd/3e/c1/c8dd3ec133408d9ceb0d73e4f4a6b5b3.webp",
-        "https://www.cts.com.tw/data/news/photo/cts/202607/202607283060611.jpg",
-        "https://www.cts.com.tw/data/news/photo/cts/202607/202607283060609.jpg"
-      ],
-      "summary": "高雄機廠親子遊樂園區8/8開幕　陳其邁：加強檢視 - 地方 - 華視新聞網。（中央社記者蔡孟妤高雄28日電）台鐵高雄機廠轉型親子遊樂園區，預計8月8日開幕，將成為高雄最新的大型親子遊憩場域。高雄市長陳其邁表示，園區營運後，市府將加強各項設施的預防性檢視，並維持長期維護量能。陳其邁今天主持市政會議，聽取「台鐵高雄機廠轉型親子遊樂園區」開園專案報告，關心接駁車配置、停車管理、飲水補給、醫療站設置及廁所量能等整備情形，並指示各局處落實園區整備及開園活動規劃，嚴格把關工程品質及設施安全。陳其邁表示，園區正式營運後，市府將加強各項設施的預防性檢視，並維持長期維護量能；若場域內出現設施損壞或環境髒亂情形，將迅速排除、即時復原。此外，開園期間預計吸引大量遊客，陳其邁表示，市府將提前完成交通疏導及人流管理規劃，完善導引標示，強化大眾運輸與多元運具接駁動線，及周邊環境清潔維護。針對食品安全衛生管理法修法，市府建議設置食品安全委員會，由行政院下設二級專責機關，負責風險評估、訂定管理標準，並採固定任期制度，確保專業判斷不受政治、外貿或產業因素干擾。",
-      "analysis": {
-        "overview": "高雄機廠親子遊樂園區8/8開幕　陳其邁：加強檢視 - 地方 - 華視新聞網。（中央社記者蔡孟妤高雄28日電）台鐵高雄機廠轉型親子遊樂園區，預計8月8日開幕，將成為高雄最新的大型親子遊憩場域。高雄市長陳其邁表示，園區營運後，市府將加強各項設施的預防性檢視，並維持長期維護量能。陳其邁今天主持市政會議，聽取「台鐵高雄機廠轉型親子遊樂園區」開園專案報告，關心接駁車配置、停車管理、飲水補給、醫療站設置及廁所量能等整備情形，並指示各局處落實園區整備及開園活動規劃，嚴格把關工程品質及設施安全。陳其邁表示，園區正式營運後，市府將加",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "news.cts.com.tw",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄最新大型親子遊憩園區，提供充足停車與廁所量能，並設置醫療站，為親子出遊提供完善的安全保障。",
-      "published_at": "2026-07-28T06:55:00+00:00",
-      "collected_at": "2026-07-28T23:15:49.357743+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-udn-com-news-story-7327-9655624",
-      "title": "高雄機廠親子遊樂園區8/8開幕 陳其邁：加強檢視 | 聯合新聞網",
-      "url": "https://udn.com/news/story/7327/9655624",
-      "canonical_url": "https://udn.com/news/story/7327/9655624",
-      "image_url": "https://udn.com/static/img/UDN_BABY.png",
-      "images": [
-        "https://udn.com/static/img/UDN_BABY.png",
-        "https://sb.scorecardresearch.com/p?c1=2&c2=7390954&comscorekw=&cv=4.0.0&cj=1",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/28/35176188.jpg&M=1&s=Y&x=0&y=0&sw=960&sh=640&exp=3600&w=300&w=300",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/27/35175248.jpg&M=1&s=Y&x=0&y=0&sw=1140&sh=760&exp=3600&w=300&w=300",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/27/35175488.jpg&M=1&s=Y&x=0&y=0&sw=1142&sh=761&exp=3600&w=300&w=300",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6641_3.jpg&w=300",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/28/35178424.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/28/35178408.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300"
-      ],
-      "summary": "高雄機廠親子遊樂園區8/8開幕 陳其邁：加強檢視 | 聯合新聞網。0:00 / 0:00 Your browser does not support HTML5 Audio!😢 高雄機廠親子遊樂園區8/8開幕 陳其邁：加強檢視 2026-07-28 13:51 中央社／ 高雄28日電 陳其邁 親子 關閉 --> 贊助本文 --> 台鐵 高雄 機廠轉型 親子 遊樂園區，預計8月8日開幕，將成為高雄最新的大型親子遊憩場域。高雄市長 陳其邁 表示，園區營運後，市府將加強各項設施的預防性檢視，並維持長期維護量能。陳其邁今天主持市政會議，聽取「台鐵高雄機廠轉型親子遊樂園區」開園專案報告，關心接駁車配置、停車管理、飲水補給、醫療站設置及廁所量能等整備情形，並指示各局處落實園區整備及開園活動規劃，嚴格把關工程品質及設施安全。陳其邁表示，園區正式營運後，市府將加強各項設施的預防性檢視，並維持長期維護量能；若場域內出現設施損壞或環境髒亂情形，將迅速排除、即時復原。此外，開園期間預計吸引大量遊客，陳其邁表示，市府將提前完成交通疏導及人流管理規劃，完善導引標示，強化大眾運輸與多元運具接駁動線，及周邊環境清潔維護。",
-      "analysis": {
-        "overview": "高雄機廠親子遊樂園區8/8開幕 陳其邁：加強檢視 | 聯合新聞網。0:00 / 0:00 Your browser does not support HTML5 Audio!😢 高雄機廠親子遊樂園區8/8開幕 陳其邁：加強檢視 2026-07-28 13:51 中央社／ 高雄28日電 陳其邁 親子 關閉 --> 贊助本文 --> 台鐵 高雄 機廠轉型 親子 遊樂園區，預計8月8日開幕，將成為高雄最新的大型親子遊憩場域。高雄市長 陳其邁 表示，園區營運後，市府將加強各項設施的預防性檢視，並維持長期維護量能。陳其邁今天",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "udn.com",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "市府嚴格把關設施安全並設置醫療站，加上完善停車管理與廁所量能，家長可放心帶小孩盡情放電玩耍。",
-      "published_at": "2026-07-28T06:50:00+00:00",
-      "collected_at": "2026-07-28T14:37:32.352405+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte5imc01szr5c196afz1nv9medg2rv8zz",
-      "title": "台灣最新遊樂園來了！規模全台最大8/8開幕「免門票玩30項設施、交通很方便」， 地址亮點一次看",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iMC01SzR5c196aFZ1NV9MeDg2RV8zZWFwM3VlRlBNOFJKLVBLT2N6UEF1elNwX3RkUjNvU2NjbGpqWlNKTGZGR0pyd3FGejN3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iMC01SzR5c196aFZ1NV9MeDg2RV8zZWFwM3VlRlBNOFJKLVBLT2N6UEF1elNwX3RkUjNvU2NjbGpqWlNKTGZGR0pyd3FGejN3?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台灣最新遊樂園來了！規模全台最大8/8開幕「免門票玩30項設施、交通很方便」， 地址亮點一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台灣最新遊樂園來了！規模全台最大8/8開幕「免門票玩30項設施、交通很方便」， 地址亮點一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "風傳媒",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "新開幕全台最大規模遊樂園，30項設施免門票，交通便利，是带孩子放電的好去處。",
-      "published_at": "2026-07-28T06:46:00+00:00",
-      "collected_at": "2026-07-28T14:37:38.064629+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-www-msn-com-zh-tw-news-national-e9-ab-98-e9-9b-84-e6-a9-9f-e5-bb-a0-e8-a6-",
-      "title": "高雄機廠親子遊樂園區將開幕 陳其邁要求完善交通、人流及安全整備",
-      "url": "https://www.msn.com/zh-tw/news/national/%E9%AB%98%E9%9B%84%E6%A9%9F%E5%BB%A0%E8%A6%AA%E5%AD%90%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%80%E5%B0%87%E9%96%8B%E5%B9%95-%E9%99%B3%E5%85%B6%E9%82%81%E8%A6%81%E6%B1%82%E5%AE%8C%E5%96%84%E4%BA%A4%E9%80%9A-%E4%BA%BA%E6%B5%81%E5%8F%8A%E5%AE%89%E5%85%A8%E6%95%B4%E5%82%99/ar-AA28Ppon",
-      "canonical_url": "https://www.msn.com/zh-tw/news/national/%E9%AB%98%E9%9B%84%E6%A9%9F%E5%BB%A0%E8%A6%AA%E5%AD%90%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%80%E5%B0%87%E9%96%8B%E5%B9%95-%E9%99%B3%E5%85%B6%E9%82%81%E8%A6%81%E6%B1%82%E5%AE%8C%E5%96%84%E4%BA%A4%E9%80%9A-%E4%BA%BA%E6%B5%81%E5%8F%8A%E5%AE%89%E5%85%A8%E6%95%B4%E5%82%99/ar-AA28Ppon",
-      "image_url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "高雄機廠親子遊樂園區將開幕 陳其邁要求完善交通、人流及安全整備。Newtalk新聞 「台鐵高雄機廠轉型親子遊樂園區」預計8月8日正式開幕，將成為高雄最新的大型親子遊憩場域。高雄市長陳其邁今(28)日主持市政會議，聽取開園專案報告，關心接駁車配置、停車管理、飲水補給、醫療站設置及廁所量能等整備情形，並指示各局處落實園區整備及開園活動規劃，嚴格把關工程品質及設施安全，打造兼具安全、舒適與高品質的休憩環境。台鐵高雄機廠承載著高雄重要產業發展歷史，透過改建計畫完成轉 ...",
-      "analysis": {
-        "overview": "高雄機廠親子遊樂園區將開幕 陳其邁要求完善交通、人流及安全整備。Newtalk新聞 「台鐵高雄機廠轉型親子遊樂園區」預計8月8日正式開幕，將成為高雄最新的大型親子遊憩場域。高雄市長陳其邁今(28)日主持市政會議，聽取開園專案報告，關心接駁車配置、停車管理、飲水補給、醫療站設置及廁所量能等整備情形，並指示各局處落實園區整備及開園活動規劃，嚴格把關工程品質及設施安全，打造兼具安全、舒適與高品質的休憩環境。台鐵高雄機廠承載著高雄重要產業發展歷史，透過改建計畫完成轉 ...",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "msn.com",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄最新大型親子遊憩場域，配备完善接駁車、停車場、充足廁所及醫療站，設施安全性高，適合帶孩子放電玩樂。",
-      "published_at": "2026-07-28T06:41:00+00:00",
-      "collected_at": "2026-07-28T14:37:47.575587+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte1fafgwwjdwrm5kt1nfuvrtx0h2wvlzn",
-      "title": "高雄機廠親子遊樂園區將開幕 陳其邁要求完善交通、人流及安全整備 | Newtalk",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1faFgwWjdwRm5kT1NfUVRtX0h2WVlZN19mMXgzeDNGdy1ReklaUWpGSm9rVVVuX2dSZWtTcDh4eGx2Mm95SHhtLXJfNk1Ua0hSX3M5Y1l3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1faFgwWjdwRm5kT1NfUVRtX0h2WVlZN19mMXgzeDNGdy1ReklaUWpGSm9rVVVuX2dSZWtTcDh4eGx2Mm95SHhtLXJfNk1Ua0hSX3M5Y1l3?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄機廠親子遊樂園區將開幕 陳其邁要求完善交通、人流及安全整備 | Newtalk。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄機廠親子遊樂園區將開幕 陳其邁要求完善交通、人流及安全整備 | Newtalk。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "此為高雄機廠親子遊樂園區即將開幕的新聞預告，屬於大型親子遊樂設施，但園區尚未正式開放，建議待正式開幕後再前往體驗。",
-      "published_at": "2026-07-28T06:33:21+00:00",
-      "collected_at": "2026-07-28T14:37:56.731476+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiiwfbvv95cuxonzdqsjh3ov9ja3fut184owpwz2zpe",
-      "title": "高雄機廠親子遊樂園區8月8日開幕 陳其邁要求完善交通、人流及安全整備",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzdQSjh3OV9ja3FuT184OWpWZ2ZpeTlibXdnUko0Q3BZcmJKZWhOUmhxUjE5cXRCZTlselRKNDRTSUdfSDVGaklrcmNGVkNJQXVHN1loYU9mbUE1dkt0QUdzM2lVdDU3NWZxODZkNU52SjltYVhvMzFpWGxrQkdOcExQLUhfS2lzZTNR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzdQSjh3OV9ja3FuT184OWpWZ2ZpeTlibXdnUko0Q3BZcmJKZWhOUmhxUjE5cXRCZTlselRKNDRTSUdfSDVGaklrcmNGVkNJQXVHN1loYU9mbUE1dkt0QUdzM2lVdDU3NWZxODZkNU52SjltYVhvMzFpWGxrQkdOcExQLUhfS2lzZTNR?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄機廠親子遊樂園區8月8日開幕 陳其邁要求完善交通、人流及安全整備。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄機廠親子遊樂園區8月8日開幕 陳其邁要求完善交通、人流及安全整備。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "kcg.gov.tw",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄機廠親子遊樂園區為專為親子設計的遊樂空間，讓孩子盡情跑跳放電，適合家長帶小孩消耗體力盡情玩樂。",
-      "published_at": "2026-07-28T06:22:49+00:00",
-      "collected_at": "2026-07-28T14:38:01.697138+00:00",
-      "query": "台灣 遊樂園 親子 最新"
     }
   ]
 }
