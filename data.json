@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T15:17:55.866624+00:00",
+  "updated_at": "2026-08-03T23:19:16.191454+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -474,6 +474,31 @@
       "query": "台灣 室內親子景點"
     },
     {
+      "id": "https-www-msn-com-zh-tw-travel-e6-88-b6-e5-a4-96-e6-b4-bb-e5-8b-95-e6-9c-80-e5-a",
+      "title": "最大室內兒童樂園8/8開幕! 30項設施免費玩 富野祭3000元親子住房專案",
+      "url": "https://www.msn.com/zh-tw/travel/%E6%88%B6%E5%A4%96%E6%B4%BB%E5%8B%95/%E6%9C%80%E5%A4%A7%E5%AE%A4%E5%85%A7%E5%85%92%E7%AB%A5%E6%A8%82%E5%9C%928-8%E9%96%8B%E5%B9%95-30%E9%A0%85%E8%A8%AD%E6%96%BD%E5%85%8D%E8%B2%BB%E7%8E%A9-%E5%AF%8C%E9%87%8E%E7%A5%AD3000%E5%85%83%E8%A6%AA%E5%AD%90%E4%BD%8F%E6%88%BF%E5%B0%88%E6%A1%88/ar-AA29eaWH",
+      "canonical_url": "https://www.msn.com/zh-tw/travel/%E6%88%B6%E5%A4%96%E6%B4%BB%E5%8B%95/%E6%9C%80%E5%A4%A7%E5%AE%A4%E5%85%A7%E5%85%92%E7%AB%A5%E6%A8%82%E5%9C%928-8%E9%96%8B%E5%B9%95-30%E9%A0%85%E8%A8%AD%E6%96%BD%E5%85%8D%E8%B2%BB%E7%8E%A9-%E5%AF%8C%E9%87%8E%E7%A5%AD3000%E5%85%83%E8%A6%AA%E5%AD%90%E4%BD%8F%E6%88%BF%E5%B0%88%E6%A1%88/ar-AA29eaWH",
+      "image_url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "最大室內兒童樂園8/8開幕! 30項設施免費玩 富野祭3000元親子住房專案。全台最大、由台鐵高雄機廠舊工廠改建的室內兒童樂園將於8月8日父親節當天開幕。這座占地達1.5公頃的全新景點，主打「全面免費開放」，有攀岩場、泡泡彈跳床、戲水空間與感官遊戲等逾30項設施，勢必成為南台灣暑假觀光新亮點。鄰近的高雄富野渡假飯店也特別推出「放電 親子住房專案」，即日起至8月31日，平日兩大兩小住宿只要3000元(原價4600元)，讓大小朋友瘋狂一夏。",
+      "analysis": {
+        "overview": "最大室內兒童樂園8/8開幕! 30項設施免費玩 富野祭3000元親子住房專案。全台最大、由台鐵高雄機廠舊工廠改建的室內兒童樂園將於8月8日父親節當天開幕。這座占地達1.5公頃的全新景點，主打「全面免費開放」，有攀岩場、泡泡彈跳床、戲水空間與感官遊戲等逾30項設施，勢必成為南台灣暑假觀光新亮點。鄰近的高雄富野渡假飯店也特別推出「放電 親子住房專案」，即日起至8月31日，平日兩大兩小住宿只要3000元(原價4600元)，讓大小朋友瘋狂一夏。",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "msn.com",
+      "tags": [
+        "放電",
+        "室內",
+        "好玩"
+      ],
+      "reason": "室內空間雨天備案佳；占地1.5公頃、30項設施多元，小孩可盡情放電。",
+      "published_at": "2026-08-01T19:06:00+00:00",
+      "collected_at": "2026-08-03T23:19:16.143426+00:00",
+      "query": "台灣 室內親子景點"
+    },
+    {
       "id": "https-www-ettoday-net-news-news-list-2026-08-02-11-htm",
       "title": "新聞總覽 | ETtoday新聞雲",
       "url": "https://www.ettoday.net/news/news-list-2026-08-02-11.htm",
@@ -790,32 +815,6 @@
       "published_at": "2026-08-01T02:35:00+00:00",
       "collected_at": "2026-08-01T13:55:03.880538+00:00",
       "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmitkfvx3lxte9oathwmezsy0rxbxv0zwfdx1byvu9ey",
-      "title": "親子放電新景點8/8登場 交通攻略大公開 搭輕軌、公車、接駁車輕鬆玩高雄親子遊樂園區",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OaThWMEZsY0RXbXV0ZWFDX1BYVU9EY1Qxc1Nyb3M3ZERaV1dLTjhjM2lhek5ydWliRl95Tm1HUWRHMXhHbllEdjNveWU5dw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OaThWMEZsY0RXbXV0ZWFDX1BYVU9EY1Qxc1Nyb3M3ZERaV1dLTjhjM2lhek5ydWliRl95Tm1HUWRHMXhHbllEdjNveWU5dw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "親子放電新景點8/8登場 交通攻略大公開 搭輕軌、公車、接駁車輕鬆玩高雄親子遊樂園區。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "親子放電新景點8/8登場 交通攻略大公開 搭輕軌、公車、接駁車輕鬆玩高雄親子遊樂園區。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "天天上新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
-      "published_at": "2026-08-01T02:09:52+00:00",
-      "collected_at": "2026-08-01T23:11:09.240186+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
     }
   ]
 }
