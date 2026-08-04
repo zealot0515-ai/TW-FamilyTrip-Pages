@@ -1,46 +1,20 @@
 {
-  "updated_at": "2026-08-03T23:19:16.191454+00:00",
+  "updated_at": "2026-08-04T14:42:24.985060+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
     {
-      "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte5qynfrwdfnmur4sgvrz1pkc2dvrm9na",
-      "title": "高雄親子遊樂園8/8開幕！30項設施免費玩 交通攻略、亮點一次看",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qYnFRWDFnMUR4SGVRZ1pKc2dvRm9NaTZsMEZjZVY4ekpnZi1VSWE5UGx2S3FSMGNhRzNON0J3WmRqdkF1WEUwOGpELVVCQXQ1MjZ0YU52N1NTTjU3TzNB?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qYnFRWDFnMUR4SGVRZ1pKc2dvRm9NaTZsMEZjZVY4ekpnZi1VSWE5UGx2S3FSMGNhRzNON0J3WmRqdkF1WEUwOGpELVVCQXQ1MjZ0YU52N1NTTjU3TzNB?oc=5",
+      "id": "https-news-google-com-rss-articles-cbmixgrbvv95cuxnou1mu3mxednlmjnrrwxkafa5qzi0q",
+      "title": "全台最大親子遊樂園8/8高雄登場30多項遊樂設施免費玩、暑假加碼戶外水樂園、交通攻略大公開！",
+      "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxNOU1MU3MxeDNlMjNRRWxkaFA5QzI0QUFXUEZsaUV4WDFaVXpobzVSNjNFakl3OW1NRk5jcGFmSUctUFVILWU1TkdiUUJGRTJ2djZvYzNOUFFibW9Nbk9Bb1p1djkwSEtaTEM0SXpqU0J1cUVPQWNrc1RFeVBKc2oyNDRYUTZnU3lRRjY4S2k2aUhoaUtpZVFEQkR3Y01sUTJlaUU0akE1OVA3TWNqVnA1ckxfQUtLUjFnTU5oT0FIMGtGcUVLNVpTa3ExQ0N0bDVpdXRSTUI5YTJGb2xHR2FkTTU2SFRWd2tUYWpoVno4c2ZpNVlMSEVVbERtM3BpOEFnd1V6di1MelNsZTN4SWY0cVNCVnV4V1pscVczam5Vam45SEhPRGZSdEs0X0lzcHRaQ1N3dHh2WVdUdDFIRDd4ai1XZ3Nfak0yYVZacHowT3AxVVZXWmFnR0lneGV4akdNYmYxeF9pUjNrQ1FPbnI4MnNxMl9OcS1ncDNzUkRELWg1WE00YmFDNFpmOGNMTmNma3lpZWtYekRWb012NmhxbmxWRmgyQ010Ujl5LWxoNFBZeFFXdlpLTlRXdE4wTENiVWdRcmItbGlPd2drNXd4OUlpSGZmNy1hSmxUSXd4Y2d3RjFJa1RnWkQyRmcyOUI4UlpTcXB3MXlaVEtTbDV5YTh6MzMtaDZOejBCOUJiQ0p0NXFNd2tBZXpDRG5LaHVBUW9jeERibzR1OGVkTHdmVzI4TFhkVlgyYldRUjZPek5XWFBQYkE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxNOU1MU3MxeDNlMjNRRWxkaFA5QzI0QUFXUEZsaUV4WDFaVXpobzVSNjNFakl3OW1NRk5jcGFmSUctUFVILWU1TkdiUUJGRTJ2djZvYzNOUFFibW9Nbk9Bb1p1djkwSEtaTEM0SXpqU0J1cUVPQWNrc1RFeVBKc2oyNDRYUTZnU3lRRjY4S2k2aUhoaUtpZVFEQkR3Y01sUTJlaUU0akE1OVA3TWNqVnA1ckxfQUtLUjFnTU5oT0FIMGtGcUVLNVpTa3ExQ0N0bDVpdXRSTUI5YTJGb2xHR2FkTTU2SFRWd2tUYWpoVno4c2ZpNVlMSEVVbERtM3BpOEFnd1V6di1MelNsZTN4SWY0cVNCVnV4V1pscVczam5Vam45SEhPRGZSdEs0X0lzcHRaQ1N3dHh2WVdUdDFIRDd4ai1XZ3Nfak0yYVZacHowT3AxVVZXWmFnR0lneGV4akdNYmYxeF9pUjNrQ1FPbnI4MnNxMl9OcS1ncDNzUkRELWg1WE00YmFDNFpmOGNMTmNma3lpZWtYekRWb012NmhxbmxWRmgyQ010Ujl5LWxoNFBZeFFXdlpLTlRXdE4wTENiVWdRcmItbGlPd2drNXd4OUlpSGZmNy1hSmxUSXd4Y2d3RjFJa1RnWkQyRmcyOUI4UlpTcXB3MXlaVEtTbDV5YTh6MzMtaDZOejBCOUJiQ0p0NXFNd2tBZXpDRG5LaHVBUW9jeERibzR1OGVkTHdmVzI4TFhkVlgyYldRUjZPek5XWFBQYkE?oc=5",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "images": [
         "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
       ],
-      "summary": "高雄親子遊樂園8/8開幕！30項設施免費玩 交通攻略、亮點一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "全台最大親子遊樂園8/8高雄登場30多項遊樂設施免費玩、暑假加碼戶外水樂園、交通攻略大公開！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "analysis": {
-        "overview": "高雄親子遊樂園8/8開幕！30項設施免費玩 交通攻略、亮點一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "民報",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "30項設施免費玩，遊樂園室內空間充足雨天可遊憩，孩子能盡情放電，家長荷包無負擔。",
-      "published_at": "2026-08-03T09:15:10+00:00",
-      "collected_at": "2026-08-03T15:15:46.749271+00:00",
-      "query": "台灣 雨天 親子 室內 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmi2gjbvv95cuxpmffjofbwbhnbtwpcv2oyrzz0uufjv",
-      "title": "高雄親子遊樂園8/8開幕！30項設施免費玩 交通攻略、亮點一次看",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPMFFjOFBWbHNBTWpCV2oyRzZ0UUFJVTNpWm5HTmo4anpMbF9KVjVPV1VlWGlBZ003TE00N09BZDQ5ZzFVUVpkajhlUHUxX1ZBTW5PWnBJbTJlVkpuWGF0RU0teGtxRnptRWh3bk9MXy1teFhvdVI3aEVSbFZPVXhCS1Vjd2xGVDRSekdYd0V1ZWVnZzJib0dnVGFvYUJRVFBxXzNWMDM3R0FYUmlvLTNwSFB2SGVXUDljMVpmZFJCbjF3OFBHSHduMU1LWmFRWWdiZUFSekFJWkNBWE5ZY19EMmZuckQ2dWpmYVR5ZE55VjNNZmRYODB2VWNUdHA5bHhRR0dacm9VaUxqa1kxeUw4cTM2cjFZZkMwMS1kQnB5RV9JdTdZY2lXcFRSdWZWTTNtaXFYWlE4cXhmcjFScndEZ2RST0Z6ODg2UXFSOG5zLWQwbTU3WWpGYVNn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPMFFjOFBWbHNBTWpCV2oyRzZ0UUFJVTNpWm5HTmo4anpMbF9KVjVPV1VlWGlBZ003TE00N09BZDQ5ZzFVUVpkajhlUHUxX1ZBTW5PWnBJbTJlVkpuWGF0RU0teGtxRnptRWh3bk9MXy1teFhvdVI3aEVSbFZPVXhCS1Vjd2xGVDRSekdYd0V1ZWVnZzJib0dnVGFvYUJRVFBxXzNWMDM3R0FYUmlvLTNwSFB2SGVXUDljMVpmZFJCbjF3OFBHSHduMU1LWmFRWWdiZUFSekFJWkNBWE5ZY19EMmZuckQ2dWpmYVR5ZE55VjNNZmRYODB2VWNUdHA5bHhRR0dacm9VaUxqa1kxeUw4cTM2cjFZZkMwMS1kQnB5RV9JdTdZY2lXcFRSdWZWTTNtaXFYWlE4cXhmcjFScndEZ2RST0Z6ODg2UXFSOG5zLWQwbTU3WWpGYVNn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園8/8開幕！30項設施免費玩 交通攻略、亮點一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園8/8開幕！30項設施免費玩 交通攻略、亮點一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "overview": "全台最大親子遊樂園8/8高雄登場30多項遊樂設施免費玩、暑假加碼戶外水樂園、交通攻略大公開！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
         "pros": "遊具與體驗性強，適合安排半日到一日放電。",
         "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
         "tips": "建議備替換衣物、毛巾與簡單點心。"
@@ -50,603 +24,23 @@
         "放電",
         "好玩"
       ],
-      "reason": "30項設施免費暢玩，小孩可以盡情放電，且有交通攻略指引，交通便利好抵達。",
-      "published_at": "2026-08-03T09:13:20+00:00",
-      "collected_at": "2026-08-03T15:15:53.063944+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmigafbvv95cuxnvhrsmzvganrouhg0ykm1uwxpeki4b",
-      "title": "高雄親子遊樂園在哪裡？8/8父親節開幕…台鐵機廠變身遊樂園，30項設施要門票嗎？營業時間、交通一文看",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHRSMzVGanRoUHg0YkM1UWxpekI4bmhQa3FCbmVzd0xFS3BuSG1wXzBvSF9KYjVyUTVIeUhmZnc2NDVVR01DRUs0a0pTdTROdDRRR2o5UEtRMWdxbXhvR3ZQNzFoUXVfSl91UlFNazNOc1c1R2dXUXRhRWhialdhYQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHRSMzVGanRoUHg0YkM1UWxpekI4bmhQa3FCbmVzd0xFS3BuSG1wXzBvSF9KYjVyUTVIeUhmZnc2NDVVR01DRUs0a0pTdTROdDRRR2o5UEtRMWdxbXhvR3ZQNzFoUXVfSl91UlFNazNOc1c1R2dXUXRhRWhialdhYQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園在哪裡？8/8父親節開幕…台鐵機廠變身遊樂園，30項設施要門票嗎？營業時間、交通一文看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園在哪裡？8/8父親節開幕…台鐵機廠變身遊樂園，30項設施要門票嗎？營業時間、交通一文看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "今周刊",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄新開幕親子遊樂園，由台鐵機廠改造有30項設施，小孩可以盡情放電玩整天。",
-      "published_at": "2026-08-03T09:12:00+00:00",
-      "collected_at": "2026-08-03T15:16:04.426201+00:00",
+      "reason": "30多項遊樂設施免費玩加上暑假限定戶外水樂園，讓孩子盡情放電，交通攻略完整不管是開車或大眾運輸都方便。",
+      "published_at": "2026-08-04T13:51:52+00:00",
+      "collected_at": "2026-08-04T14:38:57.950813+00:00",
       "query": "台灣 免費親子景點"
     },
     {
-      "id": "https-news-tvbs-com-tw-travel-4001495",
-      "title": "全台樂園人氣大洗牌！西湖渡假村成「最強黑馬」　冠軍換它當",
-      "url": "https://news.tvbs.com.tw/travel/4001495",
-      "canonical_url": "https://news.tvbs.com.tw/travel/4001495",
-      "image_url": "https://news-images.tvbs.com.tw/api/v1/image/019fc648-7282-7350-9a3d-eea9f2c2eaea.jpg?w=1067&h=600&t=16x9&c=0,0,1200,675",
-      "images": [
-        "https://news-images.tvbs.com.tw/api/v1/image/019fc648-7282-7350-9a3d-eea9f2c2eaea.jpg?w=1067&h=600&t=16x9&c=0,0,1200,675",
-        "https://sb.scorecardresearch.com/p?c1=2&c2=18400300&cv=3.9.1&cj=1",
-        "https://news-images.tvbs.com.tw/api/v1/image/019fc648-7282-7350-9a3d-eea9f2c2eaea.jpg?w=1067&h=600&t=16x9&c=0",
-        "https://news-images.tvbs.com.tw/api/v1/image/019fc631-8a7e-71a1-a582-cbe31d64eb83.jpg?w=1440&h=675",
-        "https://news-images.tvbs.com.tw/api/v1/image/019fc632-6e41-7278-810c-496dba70fa50.jpg?w=1067&h=600&t=16x9&c=0",
-        "https://news-images.tvbs.com.tw/api/v1/image/019fc633-30de-7105-8027-c15cd635ceef.jpg?w=1067&h=600&t=16x9&c=0",
-        "https://news-images.tvbs.com.tw/api/v1/image/019fc635-224a-7023-aea1-05b24d60c332.jpg?w=1067&h=600&t=16x9&c=0",
-        "https://news-images.tvbs.com.tw/api/v1/image/019fc638-a05c-73ea-a2e5-776cfe13a927.jpg?w=1067&h=600&t=16x9&c=0"
-      ],
-      "summary": "全台樂園人氣大洗牌！西湖渡假村成「最強黑馬」　冠軍換它當。t.value:void 0,s={timeout:e==null?void 0:e.timeout};\"requestIdleCallback\"in window?g(c,s,{enumerable:!0,value:d}):c[s]=d;var l=(c,s,d)=>w(c,typeof s!c[p](e):void 0},d=t=>t.map(s),y=t=>typeof t!=\"object\"||t===null?this.isConnected)return;let e=(b=this.parentElement)==null?void 0:b.closest(\"astro-island[ssr]\");if(e){e.addEventListener(\"astro:hydrate\",this.hydrate,{once:!0});return}let n=this.querySelectorAll(\"astro-slot\"),r={},i=this.querySelectorAll(\"template[data-astro-template]\");for(let o of i){let a=o.closest(this.tagName);a!",
-      "analysis": {
-        "overview": "全台樂園人氣大洗牌！西湖渡假村成「最強黑馬」　冠軍換它當。t.value:void 0,s={timeout:e==null?void 0:e.timeout};\"requestIdleCallback\"in window?g(c,s,{enumerable:!0,value:d}):c[s]=d;var l=(c,s,d)=>w(c,typeof s!c[p](e):void 0},d=t=>t.map(s),y=t=>typeof t!=\"object\"||t===null?this.isConnected)r",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "news.tvbs.com.tw",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "樂園遊樂設施多元，能讓孩子盡情放電玩樂，是親子出遊的好選擇。",
-      "published_at": "2026-08-03T07:53:00+00:00",
-      "collected_at": "2026-08-03T15:16:11.393397+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmilgvbvv95cuxovw8xaetilvfwvefpwwi2bnbyze1sz",
-      "title": "8月玩免費景點！六福村8/8～8/10壽星免費入園、高雄親子遊樂園區8/8起免費、新溪口吊橋8/21前免門票...｜【免費好好玩】",
-      "url": "https://news.google.com/rss/articles/CBMilgVBVV95cUxOVW8xaEtiLVFwVEFpWWI2bnByZE1SZFVlaWpNX0R5Z2x2Rk9kSG9lSXhzcU9weldhY2pQUE5GamRqV3U4SkRGbDBsVkxVT3ljWWE4UVFlelpRUzQzckJDdm40YU1IWk9tSjF3MU1kd2lnX1Rqa2o1elJHdGx4T3U5eTIxU2ljLU82NXk4UmxCa2xZUS1kNW9SWlFlcUxFaVRSd05OeWRubVN4b2c2bFA0ZnlyX01EUlJQVWZzMDN0cEZVcUFZckt5aDlIa2lPQ2R3VVQ1ekUwM3hyR1dEdmUxN0JKRkZDT1BwRi14dmtRVjdCeG5KTnloMWxIb1I0ZUlMR19oQ0VzYkJhUThMbnVCdHYwT1BFS3hpeXVydTl1ajRqZzZFQmExVDdJM3BhOGhkZGhCQk9uS2hzZkdiNkhUVWZrdERUSVlieTNFUm1GbXpFY1NVdjNEdWEycjM2ZHczTzZnLWVKM2V0OFNLVUI5WV9XZDE2RXFuVi1uM25keXNwMy1nQVgyaW9vWk15T1V6OW9TYUY4bEF6dHlUbWNWUEV2VllyLXlaREpWRjJEQjB3djQ0aXIxQXlEbFRyM0F5NFN5c1Vqejd5Z0ZLVEt5UlYyVGNSVWVLYm9TRHZFWWFjOWlDQ2EycEhRR3RtNFhEa2Q5UVd4MTlhcjhJRGxWNVNyRFlrRkI0LUlJakRaZUVzemV4c0ZHaFFqR0ZGNzlSUUx0b1hzRk5ucHlQdWwtbGxWaEJFdzJkOWdZUkpheTBNVkZGd3cxTmxBeWs3MEVfSXZaUlVvR1dXT21td25EWDhvNk9JQi1vTGlzamVZclZRdVpSNDVUN1FKWVFicjJKakxwWnJzcjRXVnVGZXFpLU5UbjZJdw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMilgVBVV95cUxOVW8xaEtiLVFwVEFpWWI2bnByZE1SZFVlaWpNX0R5Z2x2Rk9kSG9lSXhzcU9weldhY2pQUE5GamRqV3U4SkRGbDBsVkxVT3ljWWE4UVFlelpRUzQzckJDdm40YU1IWk9tSjF3MU1kd2lnX1Rqa2o1elJHdGx4T3U5eTIxU2ljLU82NXk4UmxCa2xZUS1kNW9SWlFlcUxFaVRSd05OeWRubVN4b2c2bFA0ZnlyX01EUlJQVWZzMDN0cEZVcUFZckt5aDlIa2lPQ2R3VVQ1ekUwM3hyR1dEdmUxN0JKRkZDT1BwRi14dmtRVjdCeG5KTnloMWxIb1I0ZUlMR19oQ0VzYkJhUThMbnVCdHYwT1BFS3hpeXVydTl1ajRqZzZFQmExVDdJM3BhOGhkZGhCQk9uS2hzZkdiNkhUVWZrdERUSVlieTNFUm1GbXpFY1NVdjNEdWEycjM2ZHczTzZnLWVKM2V0OFNLVUI5WV9XZDE2RXFuVi1uM25keXNwMy1nQVgyaW9vWk15T1V6OW9TYUY4bEF6dHlUbWNWUEV2VllyLXlaREpWRjJEQjB3djQ0aXIxQXlEbFRyM0F5NFN5c1Vqejd5Z0ZLVEt5UlYyVGNSVWVLYm9TRHZFWWFjOWlDQ2EycEhRR3RtNFhEa2Q5UVd4MTlhcjhJRGxWNVNyRFlrRkI0LUlJakRaZUVzemV4c0ZHaFFqR0ZGNzlSUUx0b1hzRk5ucHlQdWwtbGxWaEJFdzJkOWdZUkpheTBNVkZGd3cxTmxBeWs3MEVfSXZaUlVvR1dXT21td25EWDhvNk9JQi1vTGlzamVZclZRdVpSNDVUN1FKWVFicjJKakxwWnJzcjRXVnVGZXFpLU5UbjZJdw?oc=5",
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfawofvmm3zgrungd3z1n3npbfqtquzrc",
+      "title": "高雄親子遊樂園8日開幕倒數 陳其邁下令全面整備、交通防疫一次到位",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwOFVmM3ZGRUNGd3Z1N3NpbFQtQUZrcnhjZXI1SjdZUjJyVWxPSm52UHMzNVhVdkhSRUQtLWk2cndvbHEwVUpPdkZQWGRIVmUyZWc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwOFVmM3ZGRUNGd3Z1N3NpbFQtQUZrcnhjZXI1SjdZUjJyVWxPSm52UHMzNVhVdkhSRUQtLWk2cndvbHEwVUpPdkZQWGRIVmUyZWc?oc=5",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "images": [
         "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
       ],
-      "summary": "8月玩免費景點！六福村8/8～8/10壽星免費入園、高雄親子遊樂園區8/8起免費、新溪口吊橋8/21前免門票...｜【免費好好玩】。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "高雄親子遊樂園8日開幕倒數 陳其邁下令全面整備、交通防疫一次到位。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "analysis": {
-        "overview": "8月玩免費景點！六福村8/8～8/10壽星免費入園、高雄親子遊樂園區8/8起免費、新溪口吊橋8/21前免門票...｜【免費好好玩】。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "多個免費熱門樂園入選，六福村有動物區可看又有遊樂設施，高雄親子樂園適合小孩放電玩樂，新溪口吊橋可親近大自然，且免費期間停車方便適合家庭出遊。",
-      "published_at": "2026-08-03T02:16:10+00:00",
-      "collected_at": "2026-08-03T15:16:20.734059+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-www-storm-mg-lifestyle-11153364",
-      "title": "台灣最新遊樂園來了！8/8正式開幕，全台最大規模「免費玩30項設施、交通超便利」，地點優惠一次看 | 蔡惠芯 | 風生活",
-      "url": "https://www.storm.mg/lifestyle/11153364",
-      "canonical_url": "https://www.storm.mg/lifestyle/11153364",
-      "image_url": "https://images.storm.mg/cloud/f69f74d8cd7fd9f579bbb8f97106e5815e1e3c2b.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2151862%2FSpCPYxVmCUMLtf87DeXs88IlCh3lNmqvy1WKhUdT.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
-      "images": [
-        "https://images.storm.mg/cloud/f69f74d8cd7fd9f579bbb8f97106e5815e1e3c2b.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2151862%2FSpCPYxVmCUMLtf87DeXs88IlCh3lNmqvy1WKhUdT.jpg&g=sm&h=675&resize=fill&w=1200&format=jpg",
-        "https://images.storm.mg/webSiteSetting/13/HiDCWacecnqhKNXuGKkKhXQBPz5nFF6dEczk9ZbU.png",
-        "https://images.storm.mg/cloud/f69f74d8cd7fd9f579bbb8f97106e5815e1e3c2b.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2151862%2FSpCPYxVmCUMLtf87DeXs88IlCh3lNmqvy1WKhUdT.jpg&g=sm&h=675&resize=fill&w=1200&format=webp",
-        "https://www.storm.mg/img/article-default-cover.jpg",
-        "https://images.storm.mg/cloud/71d72107494275eacfe0884c237f27fbdf7d8562.webp?url=https%3A%2F%2Fimage.cache.storm.mg%2Fstyles%2Fsmg-150x150-fp%2Fs3%2Fdefault_images%2Fdefault_author_1.png%3Fitok%3DwlNRUDRB&g=sm&h=144&resize=fill&w=144",
-        "https://images.storm.mg/cloud/3521175e02e1127d7fd19db19a2d5f64cdcd2440.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2193415%2Fy1b6wSYuZTOnYpLutUGPIzaG6d7VxuX29S8vwrsP.jpg&g=fp&h=400&resize=fill&w=400&x=0.28&y=0.5",
-        "https://images.storm.mg/cloud/41eb0e763e32fdc7d30efbd4d8aa8ae2292c426a.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2192222%2FXYAI8I8qIOZyelUy5nEESnEhEU0cVHf2O97f1S5m.png&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/d7a17a19cc0ba04500aebb0632f850aefe05bfec.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2185453%2FtjKKdPyrOW8QbJ2KLMSneyLgf11f6rFsUT1ETY0b.jpg&g=sm&h=400&resize=fill&w=400"
-      ],
-      "summary": "台灣最新遊樂園來了！8/8正式開幕，全台最大規模「免費玩30項設施、交通超便利」，地點優惠一次看 | 蔡惠芯 | 風生活。由台鐵高雄機廠舊工廠華麗轉型的「高雄親子遊樂園區」，確定於 8 月 8 日父親節正式開園。這座佔地 1.5 公頃的全新地標，不僅是全台最大的半室內樂園，更主打全面免費開放。園區保留了昔日鐵道維修廠的工業風鋼構骨架，並打造全新的太陽能光電屋頂，讓大人小孩在大太陽或雷陣雨天都能舒適放電。園區打破傳統兒童樂園的年齡限制，從幼童到長者都能找到適合的體驗空間，豐富設施包括： ‧極限體能挑戰： 引進全台首創的「泡泡雲朵彈跳床」、專為單車與滑板設計的「Pump Track 破浪騎乘場」，以及高空纜繩、網繩攀爬與抱石攀岩場。‧ 幼童感官與戲水區： 規畫低風險遊戲區、多元鞦韆、溜滑梯、感官體驗空間與消暑戲水區。‧ 鐵道文化融合： 將舊有門型天車改造成攀爬網，歷史軌道化身人力台車，未來舊車廂還將進駐特色店舖與歷史導覽。園區內亦貼心設有美食餐飲區，全方位滿足全家大小的休憩需求。園區位於高雄市鳳山區武慶二路 221 號（原台鐵高雄機廠），周邊已順利打通武慶二路出入口，並提供完善的大眾運輸與轉乘接駁服務： ‧ 高雄輕軌： 搭乘至「凱旋武昌站」，下車後循專屬通道步行 1 分鐘即可直達園區。",
-      "analysis": {
-        "overview": "台灣最新遊樂園來了！8/8正式開幕，全台最大規模「免費玩30項設施、交通超便利」，地點優惠一次看 | 蔡惠芯 | 風生活。由台鐵高雄機廠舊工廠華麗轉型的「高雄親子遊樂園區」，確定於 8 月 8 日父親節正式開園。這座佔地 1.5 公頃的全新地標，不僅是全台最大的半室內樂園，更主打全面免費開放。園區保留了昔日鐵道維修廠的工業風鋼構骨架，並打造全新的太陽能光電屋頂，讓大人小孩在大太陽或雷陣雨天都能舒適放電。園區打破傳統兒童樂園的年齡限制，從幼童到長者都能找到適合的體驗空間，豐富設施包括： ‧極限體能挑戰： 引進全台首創",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "storm.mg",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "全台最大規模免費親子樂園，採半室內太陽能光電屋頂設計，大太陽或雨天都能舒適放電，且從幼童到長者都有適合設施，老幼皆宜。",
-      "published_at": "2026-08-03T02:15:00+00:00",
-      "collected_at": "2026-08-03T15:16:28.310229+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-tw-news-yahoo-com-e9-ab-98-e9-9b-84-e8-a6-aa-e5-ad-90-e9-81-8a-e6-a8-82-e5",
-      "title": "高雄親子遊樂園8/8開幕！30項設施免費玩　交通攻略、亮點一次看",
-      "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E8%A6%AA%E5%AD%90%E9%81%8A%E6%A8%82%E5%9C%928-8%E9%96%8B%E5%B9%95-30%E9%A0%85%E8%A8%AD%E6%96%BD%E5%85%8D%E8%B2%BB%E7%8E%A9-%E4%BA%A4%E9%80%9A%E6%94%BB%E7%95%A5-%E4%BA%AE%E9%BB%9E-091320281.html",
-      "canonical_url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E8%A6%AA%E5%AD%90%E9%81%8A%E6%A8%82%E5%9C%928-8%E9%96%8B%E5%B9%95-30%E9%A0%85%E8%A8%AD%E6%96%BD%E5%85%8D%E8%B2%BB%E7%8E%A9-%E4%BA%A4%E9%80%9A%E6%94%BB%E7%95%A5-%E4%BA%AE%E9%BB%9E-091320281.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/c63fbf9a3f35555205bc5a933afb61a3db140c2f1d9f654a10d3c5207278afdc/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeoplenews.tw%2F0fa2f918e8fdd36653d596785efd9208",
-      "images": [
-        "https://s.yimg.com/lo/mysterio/api/c63fbf9a3f35555205bc5a933afb61a3db140c2f1d9f654a10d3c5207278afdc/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeoplenews.tw%2F0fa2f918e8fdd36653d596785efd9208",
-        "https://s.yimg.com/lo/mysterio/api/3f6d1e48519a030ce08947d5059b320f62792c57203b8d0990e246242875d764/lightyear_networkapi/resizefill_h48;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-12%2F986f70a0-d80d-11f0-9fff-b9e4ada5a004",
-        "https://s.yimg.com/lo/mysterio/api/65a81f332f27bcee085f820a7b163b990a9a354cf45dbc8feaba9f53fc2fad85/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeoplenews.tw%2F123d2730c1c887d207757c81651aecde",
-        "https://s.yimg.com/lo/mysterio/api/f4dc8000e6203526030c4105928a880d2a2d48d141c7a9339fb8333991221fb5/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeoplenews.tw%2F3078e7069bfa8660b49ce2debcea6dc7",
-        "https://s.yimg.com/lo/mysterio/api/95bb277111ae862c75549ab41af08fc7f3a9f3390be0f15f8d3d82a129a4572f/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeoplenews.tw%2Fd8674ce39dd5ef48104fdf0950bfde27",
-        "https://s.yimg.com/lo/mysterio/api/c9ad02cd91917f53346b92decfd1ab137d94a53c48b17b8793970f9cf0d4828a/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeoplenews.tw%2F09c31d17bd6c62d277aeb556500fe837",
-        "https://s.yimg.com/lo/mysterio/api/9d0990bb36ea0ecb97289bebed8a6aff726472913e40cd31f6da603a9bc0bbc7/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeoplenews.tw%2F2f5059f6ee43153a353be0b087926a56",
-        "https://s.yimg.com/lo/mysterio/api/a95944a902cbbc4e7103f787ab8aec4faf81c7cec60b4784830cbe19a44fcbd9/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeoplenews.tw%2F0ce57583b424664a1e07ac02c4dba3dd"
-      ],
-      "summary": "高雄親子遊樂園8/8開幕！30項設施免費玩　交通攻略、亮點一次看。30項設施免費玩 交通攻略、亮點一次看\",\"position\":3}]} Yahoo新聞 即時 高雄親子遊樂園8/8開幕！",
-      "analysis": {
-        "overview": "高雄親子遊樂園8/8開幕！30項設施免費玩　交通攻略、亮點一次看。30項設施免費玩 交通攻略、亮點一次看\",\"position\":3}]} Yahoo新聞 即時 高雄親子遊樂園8/8開幕！",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "tw.news.yahoo.com",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄全新親子遊樂園開幕，30項設施免費玩，讓小孩盡情放電，家長省下門票錢無負擔。",
-      "published_at": "2026-08-03T02:14:00+00:00",
-      "collected_at": "2026-08-03T15:16:44.168283+00:00",
-      "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmixkfvx3lxtfa0t0pxwxjnuglwnk95avvkd1bvejn2t",
-      "title": "開箱全新親子景點！全台最大「高雄機廠遊樂園區」8/8開幕，攀岩場、戲水區30項設施免費玩。|旅遊",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0T0pXWXJnUGlwNk95aVVKd1BvejN2T2tjZHRmV0RLYmhZeW9DUWExbDVvUlNHOUNwX0poeUFGeXVZNEsyaDNmWDc2eUFDY1BWdmJGc0JaWGx6U1Q4NWc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0T0pXWXJnUGlwNk95aVVKd1BvejN2T2tjZHRmV0RLYmhZeW9DUWExbDVvUlNHOUNwX0poeUFGeXVZNEsyaDNmWDc2eUFDY1BWdmJGc0JaWGx6U1Q4NWc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "開箱全新親子景點！全台最大「高雄機廠遊樂園區」8/8開幕，攀岩場、戲水區30項設施免費玩。|旅遊。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "開箱全新親子景點！全台最大「高雄機廠遊樂園區」8/8開幕，攀岩場、戲水區30項設施免費玩。|旅遊。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "WalkerLand 窩客島",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "全台最大遊戲場有30項設施免費玩，攀岩場與戲水區能讓小孩盡情放電，大片戶外空間適合全家一起活動。",
-      "published_at": "2026-08-03T01:30:00+00:00",
-      "collected_at": "2026-08-03T15:16:51.320185+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte9xslp2dhn6vgzqbwhkvermcwvgq1r6e",
-      "title": "台灣最新遊樂園來了！8/8正式開幕，全台最大規模「免費玩30項設施、交通超便利」， 地點優惠一次看",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XSlp2dHN6VGZQbWhKVERMcWVGQ1R6eDdhV3NjM2JtMFh5V1h3YW5TSVZwMUI3d0RSR1hKWGM5OF90ZEtXVWNLSERtTndRN3cx?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XSlp2dHN6VGZQbWhKVERMcWVGQ1R6eDdhV3NjM2JtMFh5V1h3YW5TSVZwMUI3d0RSR1hKWGM5OF90ZEtXVWNLSERtTndRN3cx?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台灣最新遊樂園來了！8/8正式開幕，全台最大規模「免費玩30項設施、交通超便利」， 地點優惠一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台灣最新遊樂園來了！8/8正式開幕，全台最大規模「免費玩30項設施、交通超便利」， 地點優惠一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "風傳媒",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "30項設施免費暢玩，孩子可以盡情放電，家長不用擔心門票費用；交通便利且設施規模全台最大，適合全家大小一起出遊。",
-      "published_at": "2026-08-03T01:15:00+00:00",
-      "collected_at": "2026-08-03T15:16:59.309484+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmixefvx3lxtfbpugniqkdvsf9syxnpu0tuzuxinjbpx",
-      "title": "故宮南院旁玩衝浪！嘉義最新水陸樂園「芯浪」親子客群清涼玩一夏",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPUGNIQkdvSF9sYXNPU0tuZUxINjBpX0wwd2RUekM3aGwyajdTd3Vvd3I4NWNOTmVQNkZVbmU4SEZSZWsyV0RBUVRxTENXSTVQY051OEdaNDFxamxB?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPUGNIQkdvSF9sYXNPU0tuZUxINjBpX0wwd2RUekM3aGwyajdTd3Vvd3I4NWNOTmVQNkZVbmU4SEZSZWsyV0RBUVRxTENXSTVQY051OEdaNDFxamxB?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "故宮南院旁玩衝浪！嘉義最新水陸樂園「芯浪」親子客群清涼玩一夏。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "故宮南院旁玩衝浪！嘉義最新水陸樂園「芯浪」親子客群清涼玩一夏。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "travel.udn.com",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "嘉義最新水陸樂園「芯浪」緊鄰故宮南院，結合衝浪等水上設施與陸地活動，清涼又多元的體驗非常適合親子放電同樂。",
-      "published_at": "2026-08-03T01:02:13+00:00",
-      "collected_at": "2026-08-03T15:17:06.597923+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmi5wzbvv95cuxozgzmtxb4elmzws1px1dqnxbcwmm3m",
-      "title": "【2026年8月活動推薦】高雄親子遊樂園區、淡水漁人碼頭煙火、父親節、花蓮金針花季、八里沙雕展...全台熱門景點活動一次看！(不斷更新) |【玩樂行事曆】",
-      "url": "https://news.google.com/rss/articles/CBMi5wZBVV95cUxOZGZmTXB4elMzWS1pX1dqNXBCWmM3MU9DcGZoMjhWcUpHSmItdnF6dkxiUFQxaFJibEZad1VkS0xuU0NxWGYycU40MHRHeG52d0ZFVmQyNWVUWnE3RzFwcnhKQnJab29HczhJYldfdEhyYkN2NmFlekEzYmNmR0xyTDR3S0RQRGI1X0tNY3Exb2tOT3R3bWpwYVNubUZkMU8wd001ZktfTzVlMlpCVFQ2Y1NUelc1TklLN2daVlBOZjRyTFZyWjVtRU03ajRzQTJjN3FKeFNOWWNRMjJDUlpxeHRaalZXTUQ5MUliZzlvZkYyNFo3Qk03X09Fd2FDMFNrT001Sy00LVp6OEFJX29tcjBQMlRKaTVGYXZXRUZLNTBmeHRjQVRGVGhoak9SSkhyVmhzcEx1Wmx1dFFvMUh2dGF3RzJPSXZtQTZuTGFVdlFDUy1ycVl6SnE5WU5ycHNUQXY2WnpyQ19vdTNEVFhUNFJ0V0pJejZoTThEck1nN0UtN3ZsUzVyZm84R084STlSeFBydVYtYVVpZF9vZmZWRmViYTBwTTA2c1FnZVpzRjl4bU91UXM1WExia2RYWGI5WTNhTFFLdjBMWmhuQ1VpVXF1MW5URDhfdmQtS25oT2xRQ0ZycEdWd0tvZ1M1MkpSeGxLb2NYcXFVU1Z6RHZFUFZNdVBoeVRpN1ZhOGw0VjdyVDVKbFhyOHpnN19leUl6MTdfS1FySlYzc3JabXp0VzdXZi1kLVpxa1JLR0NlcHhKTzhxUWROTlRfdktIWWV3TUowMWRveW1wc1pidUFRX2RtSEFycTFLdnZSWmpReVpiMl9rRWVFTENUbnpmQ1JoNWwyUzZ2Z0dTY0dmcE9jS3QtUTI3QjQ1LTJacXpCaHdyLU85a01ZYUY0aXBWZ1NIejA5LTJhYVdlWm8taWxtNnllRDNsZ3dMMVJVamptQlRSZWpJTzF5Uk5PQnVpS1d1QVlGUVEzYV9OZ1d5SDhBdjh1d29iaUJpNjAwem9aYkRraTN0Rm5ZR2ZqN0taOVE0VVJRSFdtREg5VXdGMXdXUFliT0F5d1lTZzF2Z3lYMW02SWktSlhESEhFX0dZZ01qRFp4OWJiemRkNlAyRk1wSHFfRGpMVTNOcEJ0TFFGMUxSUDdHY1dn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi5wZBVV95cUxOZGZmTXB4elMzWS1pX1dqNXBCWmM3MU9DcGZoMjhWcUpHSmItdnF6dkxiUFQxaFJibEZad1VkS0xuU0NxWGYycU40MHRHeG52d0ZFVmQyNWVUWnE3RzFwcnhKQnJab29HczhJYldfdEhyYkN2NmFlekEzYmNmR0xyTDR3S0RQRGI1X0tNY3Exb2tOT3R3bWpwYVNubUZkMU8wd001ZktfTzVlMlpCVFQ2Y1NUelc1TklLN2daVlBOZjRyTFZyWjVtRU03ajRzQTJjN3FKeFNOWWNRMjJDUlpxeHRaalZXTUQ5MUliZzlvZkYyNFo3Qk03X09Fd2FDMFNrT001Sy00LVp6OEFJX29tcjBQMlRKaTVGYXZXRUZLNTBmeHRjQVRGVGhoak9SSkhyVmhzcEx1Wmx1dFFvMUh2dGF3RzJPSXZtQTZuTGFVdlFDUy1ycVl6SnE5WU5ycHNUQXY2WnpyQ19vdTNEVFhUNFJ0V0pJejZoTThEck1nN0UtN3ZsUzVyZm84R084STlSeFBydVYtYVVpZF9vZmZWRmViYTBwTTA2c1FnZVpzRjl4bU91UXM1WExia2RYWGI5WTNhTFFLdjBMWmhuQ1VpVXF1MW5URDhfdmQtS25oT2xRQ0ZycEdWd0tvZ1M1MkpSeGxLb2NYcXFVU1Z6RHZFUFZNdVBoeVRpN1ZhOGw0VjdyVDVKbFhyOHpnN19leUl6MTdfS1FySlYzc3JabXp0VzdXZi1kLVpxa1JLR0NlcHhKTzhxUWROTlRfdktIWWV3TUowMWRveW1wc1pidUFRX2RtSEFycTFLdnZSWmpReVpiMl9rRWVFTENUbnpmQ1JoNWwyUzZ2Z0dTY0dmcE9jS3QtUTI3QjQ1LTJacXpCaHdyLU85a01ZYUY0aXBWZ1NIejA5LTJhYVdlWm8taWxtNnllRDNsZ3dMMVJVamptQlRSZWpJTzF5Uk5PQnVpS1d1QVlGUVEzYV9OZ1d5SDhBdjh1d29iaUJpNjAwem9aYkRraTN0Rm5ZR2ZqN0taOVE0VVJRSFdtREg5VXdGMXdXUFliT0F5d1lTZzF2Z3lYMW02SWktSlhESEhFX0dZZ01qRFp4OWJiemRkNlAyRk1wSHFfRGpMVTNOcEJ0TFFGMUxSUDdHY1dn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "【2026年8月活動推薦】高雄親子遊樂園區、淡水漁人碼頭煙火、父親節、花蓮金針花季、八里沙雕展...全台熱門景點活動一次看！(不斷更新) |【玩樂行事曆】。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "【2026年8月活動推薦】高雄親子遊樂園區、淡水漁人碼頭煙火、父親節、花蓮金針花季、八里沙雕展...全台熱門景點活動一次看！(不斷更新) |【玩樂行事曆】。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "8月集結全台夏季活動，包含遊樂園、沙雕展、金針花季等多元選擇，可依孩子年齡與天氣彈性安排戶外踏青或放電行程。",
-      "published_at": "2026-08-03T00:06:04+00:00",
-      "collected_at": "2026-08-03T15:17:12.337978+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-www-businesstoday-com-tw-article-category-183031-post-202607310043",
-      "title": "高雄親子遊樂園在哪裡？8/8父親節開幕…台鐵機廠變身遊樂園，30項設施要門票嗎？營業時間、交通一文看 - 今周刊",
-      "url": "https://www.businesstoday.com.tw/article/category/183031/post/202607310043/",
-      "canonical_url": "https://www.businesstoday.com.tw/article/category/183031/post/202607310043",
-      "image_url": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/191054/59c9a61c-783d-4ffa-9060-b25e3f7740a7_20260803141205.jpg_600x450.jpg",
-      "images": [
-        "https://doqvf81n9htmm.cloudfront.net/data/crop_article/191054/59c9a61c-783d-4ffa-9060-b25e3f7740a7_20260803141205.jpg_600x450.jpg",
-        "http://b.scorecardresearch.com/p?c1=2&c2=17072375&cv=2.0&cj=1",
-        "https://sb.scorecardresearch.com/p?c1=2&c2=17072375&cv=4.4.0&cj=1",
-        "https://www.facebook.com/tr?id=1906801402968742&ev=PageView&noscript=1",
-        "https://www.facebook.com/tr?id=929908945291803&ev=PageView&noscript=1",
-        "https://doqvf81n9htmm.cloudfront.net/data/crop_article/191054/59c9a61c-783d-4ffa-9060-b25e3f7740a7_20260803141205.jpg_1140x855.jpg",
-        "https://www.businesstoday.com.tw/lazyweb/web/images/2018/article/share_fb.png",
-        "https://www.businesstoday.com.tw/lazyweb/web/images/2018/article/share_google.png"
-      ],
-      "summary": "高雄親子遊樂園在哪裡？8/8父親節開幕…台鐵機廠變身遊樂園，30項設施要門票嗎？營業時間、交通一文看 - 今周刊。邱鈺庭 整理 美食旅遊 美食旅遊 高雄市政府提供 2026-08-03 17:12 高雄親子遊樂園區8/8(星期六)父親節開幕！台鐵高雄機廠轉型打造的「高雄親子遊樂園區」佔地1.5公頃，內含超過30種遊玩設施免費玩，包括攀岩區、泡泡雲朵彈跳床、戲水空間、及考驗膽量的高空纜繩與感官遊戲區等，是半露天全齡室內遊樂場。高雄親子遊樂園區開幕後，未來高雄景點再+1。有關高雄親子遊樂園區地址、營業時間、遊樂設施、開箱影片、交通與停車攻略，皆在《今周刊》一文整理。8月8日（六）父親節開幕 每日 9：00 ～ 19：00 高雄市鳳山區武慶二路 221 號 免門票全面開放 高雄親子遊樂園區佔地1.5公頃，為半露天全齡室內遊樂場，內含超過30種遊玩設施，包括攀岩區、泡泡雲朵彈跳床、戲水空間、及考驗膽量的高空纜繩與感官遊戲區等。此外，園區也提供販賣區、休息區，是適合大人小孩一起遊玩的好去處。【輕軌】 搭乘輕軌至「凱旋武昌站」，下車後依循指標經由專屬通道步行1分鐘即可快速入園。",
-      "analysis": {
-        "overview": "高雄親子遊樂園在哪裡？8/8父親節開幕…台鐵機廠變身遊樂園，30項設施要門票嗎？營業時間、交通一文看 - 今周刊。邱鈺庭 整理 美食旅遊 美食旅遊 高雄市政府提供 2026-08-03 17:12 高雄親子遊樂園區8/8(星期六)父親節開幕！台鐵高雄機廠轉型打造的「高雄親子遊樂園區」佔地1.5公頃，內含超過30種遊玩設施免費玩，包括攀岩區、泡泡雲朵彈跳床、戲水空間、及考驗膽量的高空纜繩與感官遊戲區等，是半露天全齡室內遊樂場。高雄親子遊樂園區開幕後，未來高雄景點再+1。有關高雄親子遊樂園區地址、營業時間、遊樂設施、開",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "businesstoday.com.tw",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "超過30種設施免費暢玩，攀岩、彈跳床、戲水一次滿足，半露天設計不怕雨天掃興，輕軌直達交通便利。",
-      "published_at": "2026-08-02T20:12:00+00:00",
-      "collected_at": "2026-08-03T15:17:21.377965+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-www-msn-com-zh-tw-news-other-e9-96-8b-e7-ae-b1-e5-85-a8-e6-96-b0-e8-a6-aa-",
-      "title": "開箱全新親子景點!全台最大「高雄機廠遊樂園區」8/8開幕，攀岩場、戲水區30項設施免費玩。",
-      "url": "https://www.msn.com/zh-tw/news/other/%E9%96%8B%E7%AE%B1%E5%85%A8%E6%96%B0%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E5%85%A8%E5%8F%B0%E6%9C%80%E5%A4%A7-%E9%AB%98%E9%9B%84%E6%A9%9F%E5%BB%A0%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%80-88%E9%96%8B%E5%B9%95-%E6%94%80%E5%B2%A9%E5%A0%B4-%E6%88%B2%E6%B0%B4%E5%8D%8030%E9%A0%85%E8%A8%AD%E6%96%BD%E5%85%8D%E8%B2%BB%E7%8E%A9/ar-AA29gkTi",
-      "canonical_url": "https://www.msn.com/zh-tw/news/other/%E9%96%8B%E7%AE%B1%E5%85%A8%E6%96%B0%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E5%85%A8%E5%8F%B0%E6%9C%80%E5%A4%A7-%E9%AB%98%E9%9B%84%E6%A9%9F%E5%BB%A0%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%80-88%E9%96%8B%E5%B9%95-%E6%94%80%E5%B2%A9%E5%A0%B4-%E6%88%B2%E6%B0%B4%E5%8D%8030%E9%A0%85%E8%A8%AD%E6%96%BD%E5%85%8D%E8%B2%BB%E7%8E%A9/ar-AA29gkTi",
-      "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "開箱全新親子景點!全台最大「高雄機廠遊樂園區」8/8開幕，攀岩場、戲水區30項設施免費玩。。編輯王瀅瀅表示，可以讓小孩放電，又不用日曬雨淋有夠幸福欸。過往承載著滿滿產業記憶的臺鐵高雄機廠，如今迎來驚喜大轉型，華麗化身為兼具歷史特色與超大規模的半室內「高雄機廠親子遊樂園區」。市府特別選在炎夏季節，將這座全台最大的室內全齡樂園全面免費開放，就是要讓爸爸媽媽們再也不用擔心強烈日照或驟雨攪局，能無後顧之憂地帶著家中寶貝前往開箱體驗。",
-      "analysis": {
-        "overview": "開箱全新親子景點!全台最大「高雄機廠遊樂園區」8/8開幕，攀岩場、戲水區30項設施免費玩。。編輯王瀅瀅表示，可以讓小孩放電，又不用日曬雨淋有夠幸福欸。過往承載著滿滿產業記憶的臺鐵高雄機廠，如今迎來驚喜大轉型，華麗化身為兼具歷史特色與超大規模的半室內「高雄機廠親子遊樂園區」。市府特別選在炎夏季節，將這座全台最大的室內全齡樂園全面免費開放，就是要讓爸爸媽媽們再也不用擔心強烈日照或驟雨攪局，能無後顧之憂地帶著家中寶貝前往開箱體驗。",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "msn.com",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "全台最大半室內樂園，30項設施免費玩，不需擔心日曬雨淋，雨天備案首選，讓小孩盡情放電又能吹冷氣。",
-      "published_at": "2026-08-02T18:30:00+00:00",
-      "collected_at": "2026-08-03T15:17:27.896680+00:00",
-      "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-www-msn-com-zh-tw-news-other-e9-96-8b-e7-ae-b1-e5-85-a8-e6-96-b0-e8-a6-aa-",
-      "title": "開箱全新親子景點!全台最大「高雄機廠遊樂園區」8/8開幕，攀岩場、戲水區30項設施免費玩。",
-      "url": "https://www.msn.com/zh-tw/news/other/%E9%96%8B%E7%AE%B1%E5%85%A8%E6%96%B0%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E-%E5%85%A8%E5%8F%B0%E6%9C%80%E5%A4%A7-%E9%AB%98%E9%9B%84%E6%A9%9F%E5%BB%A0%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%80-8-8%E9%96%8B%E5%B9%95-%E6%94%80%E5%B2%A9%E5%A0%B4-%E6%88%B2%E6%B0%B4%E5%8D%8030%E9%A0%85%E8%A8%AD%E6%96%BD%E5%85%8D%E8%B2%BB%E7%8E%A9/ar-AA29gkTi",
-      "canonical_url": "https://www.msn.com/zh-tw/news/other/%E9%96%8B%E7%AE%B1%E5%85%A8%E6%96%B0%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E-%E5%85%A8%E5%8F%B0%E6%9C%80%E5%A4%A7-%E9%AB%98%E9%9B%84%E6%A9%9F%E5%BB%A0%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%80-8-8%E9%96%8B%E5%B9%95-%E6%94%80%E5%B2%A9%E5%A0%B4-%E6%88%B2%E6%B0%B4%E5%8D%8030%E9%A0%85%E8%A8%AD%E6%96%BD%E5%85%8D%E8%B2%BB%E7%8E%A9/ar-AA29gkTi",
-      "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "開箱全新親子景點!全台最大「高雄機廠遊樂園區」8/8開幕，攀岩場、戲水區30項設施免費玩。。編輯王瀅瀅表示，可以讓小孩放電，又不用日曬雨淋有夠幸福欸。過往承載著滿滿產業記憶的臺鐵高雄機廠，如今迎來驚喜大轉型，華麗化身為兼具歷史特色與超大規模的半室內「高雄機廠親子遊樂園區」。市府特別選在炎夏季節，將這座全台最大的室內全齡樂園全面免費開放，就是要讓爸爸媽媽們再也不用擔心強烈日照或驟雨攪局，能無後顧之憂地帶著家中寶貝前往開箱體驗。",
-      "analysis": {
-        "overview": "開箱全新親子景點!全台最大「高雄機廠遊樂園區」8/8開幕，攀岩場、戲水區30項設施免費玩。。編輯王瀅瀅表示，可以讓小孩放電，又不用日曬雨淋有夠幸福欸。過往承載著滿滿產業記憶的臺鐵高雄機廠，如今迎來驚喜大轉型，華麗化身為兼具歷史特色與超大規模的半室內「高雄機廠親子遊樂園區」。市府特別選在炎夏季節，將這座全台最大的室內全齡樂園全面免費開放，就是要讓爸爸媽媽們再也不用擔心強烈日照或驟雨攪局，能無後顧之憂地帶著家中寶貝前往開箱體驗。",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "msn.com",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "全台最大半室內樂園，有30項設施免費暢玩，搭配攀岩場與戲水區讓小孩盡情放電，且完全不用擔心日曬雨淋，是夏日雨天備案的絕佳選擇。",
-      "published_at": "2026-08-02T18:30:00+00:00",
-      "collected_at": "2026-08-03T15:17:33.713379+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiiwfbvv95cuxqsfdhufzkywhxwgxysnrxt1kys1psc",
-      "title": "【代發交通局新聞稿】親子放電新景點8/8登場交通攻略大公開搭輕軌、公車、接駁車輕鬆玩高雄親子遊樂園區",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSFdHUFZkYWhxWGxYSnRxT1kyS1psci1nVzBMZDZoZmRqUTRKRDg1U1ZsVm5CQkNxVW9NZTJtbjBuakRSdG5USmhkb0pnN3Nmbkt0aVVxeElLZXd1ZkM4QUZSVXlhRUNMOUFydFgxOGpaU1ZPOHhOLVVJd0p4NkFGXzllYkxHOVFNVUx3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSFdHUFZkYWhxWGxYSnRxT1kyS1psci1nVzBMZDZoZmRqUTRKRDg1U1ZsVm5CQkNxVW9NZTJtbjBuakRSdG5USmhkb0pnN3Nmbkt0aVVxeElLZXd1ZkM4QUZSVXlhRUNMOUFydFgxOGpaU1ZPOHhOLVVJd0p4NkFGXzllYkxHOVFNVUx3?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "【代發交通局新聞稿】親子放電新景點8/8登場交通攻略大公開搭輕軌、公車、接駁車輕鬆玩高雄親子遊樂園區。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "【代發交通局新聞稿】親子放電新景點8/8登場交通攻略大公開搭輕軌、公車、接駁車輕鬆玩高雄親子遊樂園區。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "kcg.gov.tw",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "交通局貼心提供輕軌、公車、接駁車等多元交通攻略，親子出遊免開車輕鬆抵達，專為放電設計的遊樂設施讓小孩盡情玩耍消耗體力。",
-      "published_at": "2026-08-01T20:41:47+00:00",
-      "collected_at": "2026-08-02T13:53:50.333863+00:00",
-      "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-www-msn-com-zh-tw-news-living-e6-9c-80-e5-a4-a7-e5-ae-a4-e5-85-a7-e5-85-92",
-      "title": "最大室內兒童樂園8/8開幕！30項設施免費玩 富野祭3000元親子住房專案",
-      "url": "https://www.msn.com/zh-tw/news/living/%E6%9C%80%E5%A4%A7%E5%AE%A4%E5%85%A7%E5%85%92%E7%AB%A5%E6%A8%82%E5%9C%9288%E9%96%8B%E5%B9%95-30%E9%A0%85%E8%A8%AD%E6%96%BD%E5%85%8D%E8%B2%BB%E7%8E%A9-%E5%AF%8C%E9%87%8E%E7%A5%AD3000%E5%85%83%E8%A6%AA%E5%AD%90%E4%BD%8F%E6%88%BF%E5%B0%88%E6%A1%88/ar-AA29eaWH",
-      "canonical_url": "https://www.msn.com/zh-tw/news/living/%E6%9C%80%E5%A4%A7%E5%AE%A4%E5%85%A7%E5%85%92%E7%AB%A5%E6%A8%82%E5%9C%9288%E9%96%8B%E5%B9%95-30%E9%A0%85%E8%A8%AD%E6%96%BD%E5%85%8D%E8%B2%BB%E7%8E%A9-%E5%AF%8C%E9%87%8E%E7%A5%AD3000%E5%85%83%E8%A6%AA%E5%AD%90%E4%BD%8F%E6%88%BF%E5%B0%88%E6%A1%88/ar-AA29eaWH",
-      "image_url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "最大室內兒童樂園8/8開幕！30項設施免費玩 富野祭3000元親子住房專案。全台最大、由台鐵高雄機廠舊工廠改建的室內兒童樂園將於8月8日父親節當天開幕。這座占地達1.5公頃的全新景點，主打「全面免費開放」，有攀岩場、泡泡彈跳床、戲水空間與感官遊戲等逾30項設施，勢必成為南台灣暑假觀光新亮點。鄰近的高雄富野渡假飯店也特別推出「放電 親子住房專案」，即日起至8月31日，平日兩大兩小住宿只要3000元(原價4600元)，讓大小朋友瘋狂一夏。",
-      "analysis": {
-        "overview": "最大室內兒童樂園8/8開幕！30項設施免費玩 富野祭3000元親子住房專案。全台最大、由台鐵高雄機廠舊工廠改建的室內兒童樂園將於8月8日父親節當天開幕。這座占地達1.5公頃的全新景點，主打「全面免費開放」，有攀岩場、泡泡彈跳床、戲水空間與感官遊戲等逾30項設施，勢必成為南台灣暑假觀光新亮點。鄰近的高雄富野渡假飯店也特別推出「放電 親子住房專案」，即日起至8月31日，平日兩大兩小住宿只要3000元(原價4600元)，讓大小朋友瘋狂一夏。",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "msn.com",
-      "tags": [
-        "室內",
-        "放電",
-        "好玩"
-      ],
-      "reason": "室內兒童樂園不受天氣影響，雨天也能放電，且30項設施全面免費，攀岩彈跳戲水一站滿足。",
-      "published_at": "2026-08-01T19:06:00+00:00",
-      "collected_at": "2026-08-02T13:53:58.133274+00:00",
-      "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-www-msn-com-zh-tw-news-living-e6-9c-80-e5-a4-a7-e5-ae-a4-e5-85-a7-e5-85-92",
-      "title": "最大室內兒童樂園8/8開幕! 30項設施免費玩 富野祭3000元親子住房專案",
-      "url": "https://www.msn.com/zh-tw/news/living/%E6%9C%80%E5%A4%A7%E5%AE%A4%E5%85%A7%E5%85%92%E7%AB%A5%E6%A8%82%E5%9C%928-8%E9%96%8B%E5%B9%95-30%E9%A0%85%E8%A8%AD%E6%96%BD%E5%85%8D%E8%B2%BB%E7%8E%A9-%E5%AF%8C%E9%87%8E%E7%A5%AD3000%E5%85%83%E8%A6%AA%E5%AD%90%E4%BD%8F%E6%88%BF%E5%B0%88%E6%A1%88/ar-AA29eaWH",
-      "canonical_url": "https://www.msn.com/zh-tw/news/living/%E6%9C%80%E5%A4%A7%E5%AE%A4%E5%85%A7%E5%85%92%E7%AB%A5%E6%A8%82%E5%9C%928-8%E9%96%8B%E5%B9%95-30%E9%A0%85%E8%A8%AD%E6%96%BD%E5%85%8D%E8%B2%BB%E7%8E%A9-%E5%AF%8C%E9%87%8E%E7%A5%AD3000%E5%85%83%E8%A6%AA%E5%AD%90%E4%BD%8F%E6%88%BF%E5%B0%88%E6%A1%88/ar-AA29eaWH",
-      "image_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "最大室內兒童樂園8/8開幕! 30項設施免費玩 富野祭3000元親子住房專案。全台最大、由台鐵高雄機廠舊工廠改建的室內兒童樂園將於8月8日父親節當天開幕。這座占地達1.5公頃的全新景點，主打「全面免費開放」，有攀岩場、泡泡彈跳床、戲水空間與感官遊戲等逾30項設施，勢必成為南台灣暑假觀光新亮點。鄰近的高雄富野渡假飯店也特別推出「放電 親子住房專案」，即日起至8月31日，平日兩大兩小住宿只要3000元(原價4600元)，讓大小朋友瘋狂一夏。",
-      "analysis": {
-        "overview": "最大室內兒童樂園8/8開幕! 30項設施免費玩 富野祭3000元親子住房專案。全台最大、由台鐵高雄機廠舊工廠改建的室內兒童樂園將於8月8日父親節當天開幕。這座占地達1.5公頃的全新景點，主打「全面免費開放」，有攀岩場、泡泡彈跳床、戲水空間與感官遊戲等逾30項設施，勢必成為南台灣暑假觀光新亮點。鄰近的高雄富野渡假飯店也特別推出「放電 親子住房專案」，即日起至8月31日，平日兩大兩小住宿只要3000元(原價4600元)，讓大小朋友瘋狂一夏。",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "msn.com",
-      "tags": [
-        "室內",
-        "放電",
-        "好玩"
-      ],
-      "reason": "全台最大室內兒童樂園，30項設施免費玩不怕風雨日曬，夏天吹冷氣放電超讚；占地1.5公頃設施多元，攀岩、彈跳床、戲水等適合不同年齡層盡情放電。",
-      "published_at": "2026-08-01T19:06:00+00:00",
-      "collected_at": "2026-08-03T15:17:42.177333+00:00",
-      "query": "台灣 室內親子景點"
-    },
-    {
-      "id": "https-www-msn-com-zh-tw-travel-e6-88-b6-e5-a4-96-e6-b4-bb-e5-8b-95-e6-9c-80-e5-a",
-      "title": "最大室內兒童樂園8/8開幕! 30項設施免費玩 富野祭3000元親子住房專案",
-      "url": "https://www.msn.com/zh-tw/travel/%E6%88%B6%E5%A4%96%E6%B4%BB%E5%8B%95/%E6%9C%80%E5%A4%A7%E5%AE%A4%E5%85%A7%E5%85%92%E7%AB%A5%E6%A8%82%E5%9C%928-8%E9%96%8B%E5%B9%95-30%E9%A0%85%E8%A8%AD%E6%96%BD%E5%85%8D%E8%B2%BB%E7%8E%A9-%E5%AF%8C%E9%87%8E%E7%A5%AD3000%E5%85%83%E8%A6%AA%E5%AD%90%E4%BD%8F%E6%88%BF%E5%B0%88%E6%A1%88/ar-AA29eaWH",
-      "canonical_url": "https://www.msn.com/zh-tw/travel/%E6%88%B6%E5%A4%96%E6%B4%BB%E5%8B%95/%E6%9C%80%E5%A4%A7%E5%AE%A4%E5%85%A7%E5%85%92%E7%AB%A5%E6%A8%82%E5%9C%928-8%E9%96%8B%E5%B9%95-30%E9%A0%85%E8%A8%AD%E6%96%BD%E5%85%8D%E8%B2%BB%E7%8E%A9-%E5%AF%8C%E9%87%8E%E7%A5%AD3000%E5%85%83%E8%A6%AA%E5%AD%90%E4%BD%8F%E6%88%BF%E5%B0%88%E6%A1%88/ar-AA29eaWH",
-      "image_url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "最大室內兒童樂園8/8開幕! 30項設施免費玩 富野祭3000元親子住房專案。全台最大、由台鐵高雄機廠舊工廠改建的室內兒童樂園將於8月8日父親節當天開幕。這座占地達1.5公頃的全新景點，主打「全面免費開放」，有攀岩場、泡泡彈跳床、戲水空間與感官遊戲等逾30項設施，勢必成為南台灣暑假觀光新亮點。鄰近的高雄富野渡假飯店也特別推出「放電 親子住房專案」，即日起至8月31日，平日兩大兩小住宿只要3000元(原價4600元)，讓大小朋友瘋狂一夏。",
-      "analysis": {
-        "overview": "最大室內兒童樂園8/8開幕! 30項設施免費玩 富野祭3000元親子住房專案。全台最大、由台鐵高雄機廠舊工廠改建的室內兒童樂園將於8月8日父親節當天開幕。這座占地達1.5公頃的全新景點，主打「全面免費開放」，有攀岩場、泡泡彈跳床、戲水空間與感官遊戲等逾30項設施，勢必成為南台灣暑假觀光新亮點。鄰近的高雄富野渡假飯店也特別推出「放電 親子住房專案」，即日起至8月31日，平日兩大兩小住宿只要3000元(原價4600元)，讓大小朋友瘋狂一夏。",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "msn.com",
-      "tags": [
-        "放電",
-        "室內",
-        "好玩"
-      ],
-      "reason": "室內空間雨天備案佳；占地1.5公頃、30項設施多元，小孩可盡情放電。",
-      "published_at": "2026-08-01T19:06:00+00:00",
-      "collected_at": "2026-08-03T23:19:16.143426+00:00",
-      "query": "台灣 室內親子景點"
-    },
-    {
-      "id": "https-www-ettoday-net-news-news-list-2026-08-02-11-htm",
-      "title": "新聞總覽 | ETtoday新聞雲",
-      "url": "https://www.ettoday.net/news/news-list-2026-08-02-11.htm",
-      "canonical_url": "https://www.ettoday.net/news/news-list-2026-08-02-11.htm",
-      "image_url": "https://cdn2.ettoday.net/style/ettoday2017/images/push.jpg",
-      "images": [
-        "https://cdn2.ettoday.net/style/ettoday2017/images/push.jpg",
-        "https://www.ettoday.net/news/images/003.jpg",
-        "https://cdn2.ettoday.net/film/images/507/c507751.jpg",
-        "https://cdn2.ettoday.net/film/images/507/c507742.jpg",
-        "https://cdn2.ettoday.net/film/images/507/c507739.jpg",
-        "https://cdn2.ettoday.net/film/images/507/c507753.jpg",
-        "https://cdn2.ettoday.net/film/images/507/c507763.jpg",
-        "https://cdn1.ettoday.net/img/paste/119/119786.jpg"
-      ],
-      "summary": "新聞總覽 | ETtoday新聞雲。即日起至8/30，下載新聞雲APP，連續簽到抽《伊藤潤二展》雙人門票！即日起至8/23止，下載新聞雲APP，天天看新聞，抽「台灣金孫」古林睿煬背號短 T。即日起至8/26止，下載新聞雲APP，天天簽到抽《OSAUMU GOODS》雙人門票！即日起至8/19止，下載新聞雲APP，連續簽到抽《愛麗絲夢遊仙境門票》門票，一人中獎，兩人同行！解放雙手雙眼，隨時隨地掌握新聞，輕鬆接收最新消息！王牌營養師幫你補充應援，輕鬆為生活添加營養！別再自己摸索耗時找房，專家親自帶領您直擊潛力優質建案，購屋選擇，就從最給力的賞屋體驗開始。ETtoday攝影棚提供完整設施與高品質服務，提供創作者最佳支援，滿足你各種拍攝需求！",
-      "analysis": {
-        "overview": "新聞總覽 | ETtoday新聞雲。即日起至8/30，下載新聞雲APP，連續簽到抽《伊藤潤二展》雙人門票！即日起至8/23止，下載新聞雲APP，天天看新聞，抽「台灣金孫」古林睿煬背號短 T。即日起至8/26止，下載新聞雲APP，天天簽到抽《OSAUMU GOODS》雙人門票！即日起至8/19止，下載新聞雲APP，連續簽到抽《愛麗絲夢遊仙境門票》門票，一人中獎，兩人同行！解放雙手雙眼，隨時隨地掌握新聞，輕鬆接收最新消息！王牌營養師幫你補充應援，輕鬆為生活添加營養！別再自己摸索耗時找房，專家親自帶領您直擊潛力優質建案，",
-        "pros": "此為新聞雲APP下載及抽獎活動頁面，非親子旅遊相關內容，無法分類為適合親子的踏青地點。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "ettoday.net",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "此為新聞雲APP下載及抽獎活動頁面，非親子旅遊相關內容，無法分類為適合親子的踏青地點。",
-      "published_at": "2026-08-01T17:03:00+00:00",
-      "collected_at": "2026-08-02T23:11:54.969425+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiy0fvx3lxte5oa0iyn0z6vwgysll2tndznlr4d3vzq",
-      "title": "2026暑假活動懶人包！全台10大必去景點攻略：大稻埕煙火、台東熱氣球、宜蘭童玩節、福隆沙雕展準備出發",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oa0IyN0Z6VWgySll2TndzNlR4d3VzQmY5YTdUQ3JTektaOXdKbzloZHpDaERIUUxLRFB1VHJNTG5FcVdUZHpLME1QWjRBVUhjUU16bnp3TWx0VEtyQWJRV1Bfdw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oa0IyN0Z6VWgySll2TndzNlR4d3VzQmY5YTdUQ3JTektaOXdKbzloZHpDaERIUUxLRFB1VHJNTG5FcVdUZHpLME1QWjRBVUhjUU16bnp3TWx0VEtyQWJRV1Bfdw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "2026暑假活動懶人包！全台10大必去景點攻略：大稻埕煙火、台東熱氣球、宜蘭童玩節、福隆沙雕展準備出發。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "2026暑假活動懶人包！全台10大必去景點攻略：大稻埕煙火、台東熱氣球、宜蘭童玩節、福隆沙雕展準備出發。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "涵蓋煙火、沙雕與水樂園等多元戶外活動，腹地寬敞且全台定點遊玩交通便利，適合帶孩子盡情放電同樂。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "Marie Claire 美麗佳人",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "涵蓋煙火、沙雕與水樂園等多元戶外活動，腹地寬敞且全台定點遊玩交通便利，適合帶孩子盡情放電同樂。",
-      "published_at": "2026-08-01T16:51:26+00:00",
-      "collected_at": "2026-08-02T13:54:13.861982+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-www-msn-com-zh-tw-news-other-e5-85-a8-e5-8f-b0-e5-bf-85-e7-8e-a93-e5-80-8b",
-      "title": "全台必玩3個免費親子景點 最新室內樂園、還有恐龍旋轉木馬",
-      "url": "https://www.msn.com/zh-tw/news/other/%E5%85%A8%E5%8F%B0%E5%BF%85%E7%8E%A93%E5%80%8B%E5%85%8D%E8%B2%BB%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E-%E6%9C%80%E6%96%B0%E5%AE%A4%E5%85%A7%E6%A8%82%E5%9C%92-%E9%82%84%E6%9C%89%E6%81%90%E9%BE%8D%E6%97%8B%E8%BD%89%E6%9C%A8%E9%A6%AC/ar-AA29cPCd",
-      "canonical_url": "https://www.msn.com/zh-tw/news/other/%E5%85%A8%E5%8F%B0%E5%BF%85%E7%8E%A93%E5%80%8B%E5%85%8D%E8%B2%BB%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E-%E6%9C%80%E6%96%B0%E5%AE%A4%E5%85%A7%E6%A8%82%E5%9C%92-%E9%82%84%E6%9C%89%E6%81%90%E9%BE%8D%E6%97%8B%E8%BD%89%E6%9C%A8%E9%A6%AC/ar-AA29cPCd",
-      "image_url": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "全台必玩3個免費親子景點 最新室內樂園、還有恐龍旋轉木馬。▲高雄機廠親子遊樂園區將於8月8日開幕。（圖／高雄市政府提供，下同） 記者蔡玟君／綜合報導 暑假進入8月，還在煩惱去哪裡遛小孩嗎？現在就有3大免費親子活動值得衝一波，包括全台最大的室內兒童樂園「高雄機廠親子遊樂園區」將於8月8日正式開幕，還有屏東夏日狂歡祭免費玩大型遊具、澎湖馬公夏日童樂趴打造侏羅紀主題遊樂園與滑水道，讓大小朋友一路玩到暑假尾聲。高雄 高雄機廠親子遊樂園區 全台最大、由台鐵高雄機 ...",
-      "analysis": {
-        "overview": "全台必玩3個免費親子景點 最新室內樂園、還有恐龍旋轉木馬。▲高雄機廠親子遊樂園區將於8月8日開幕。（圖／高雄市政府提供，下同） 記者蔡玟君／綜合報導 暑假進入8月，還在煩惱去哪裡遛小孩嗎？現在就有3大免費親子活動值得衝一波，包括全台最大的室內兒童樂園「高雄機廠親子遊樂園區」將於8月8日正式開幕，還有屏東夏日狂歡祭免費玩大型遊具、澎湖馬公夏日童樂趴打造侏羅紀主題遊樂園與滑水道，讓大小朋友一路玩到暑假尾聲。高雄 高雄機廠親子遊樂園區 全台最大、由台鐵高雄機 ...",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "msn.com",
-      "tags": [
-        "看動物",
-        "室內",
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
-      "published_at": "2026-08-01T15:03:00+00:00",
-      "collected_at": "2026-08-01T23:11:07.179523+00:00",
-      "query": "台灣 週末親子 去哪裡"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte5lmxn4tfg4bwlkmtd3cwppmupmq1rwd",
-      "title": "親子放電新景點8/8登場 交通攻略大公開 搭輕軌、公車、接駁車輕鬆玩高雄親子遊樂園區",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lMXN4TFg4bWlkMTd3cWppMUpMQ1RWdzhrNW9OWWxnYVNJcXZoZGI3d2k1N3dHcEV3WS1tY211dmNaaDdSUEJlMXViWHVVcnhPNkhVZg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lMXN4TFg4bWlkMTd3cWppMUpMQ1RWdzhrNW9OWWxnYVNJcXZoZGI3d2k1N3dHcEV3WS1tY211dmNaaDdSUEJlMXViWHVVcnhPNkhVZg?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "親子放電新景點8/8登場 交通攻略大公開 搭輕軌、公車、接駁車輕鬆玩高雄親子遊樂園區。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "親子放電新景點8/8登場 交通攻略大公開 搭輕軌、公車、接駁車輕鬆玩高雄親子遊樂園區。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "fion.ikh.tw",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "大眾交通便利，輕軌、公車、接駁車多元接駁選項，帶小孩出遊不用擔心停車問題，輕鬆抵達新開放的親子遊樂園區放電。",
-      "published_at": "2026-08-01T08:28:15+00:00",
-      "collected_at": "2026-08-01T13:54:44.889285+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmi5ajbvv95cuxnugdfqwv1ndzwq012smrdazr2dk40z",
-      "title": "「高雄親子遊樂園區」8/8登場 交通攻略大公開 搭輕軌、公車、接駁車輕鬆玩",
-      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNUGdFQWV1NDZwQ012SmRDazR2dk40Z3MtNWRRTUo5NlE5MWNXOWlyWl9QVmhRakJxVUZCR3o0bFk1MnhDb1hDekl0aW5ydkhKcXN4Ni1HbXh1Rk9pM21Lbk51TWFobVJsSFViNk9FaWZPVU02WEt2WUswR1cwQ2E0a0ZYa1lTWF9mLTYtZkpZdGhuZ2hLZzZaQTF4bE4zOGczOXNTNDJQcTZLbmtNSDN1V3B6Z3RoemtkS2Mtcl9wVFdlRkNsMzJXSEJwUGtpMWpMZnNhQ28zVkJXQTE3SXhySHdScGdCdEhfTDFZTDVFZjEyVTNBYUVldjViWVdhT2lnRWVkSnZDbS1mQ3dLWFdNMFdHTjVxazFoNXpDT2d1bzh6bHNQM2NPWVdveVlEUzBQbkliU2EteXNQVlAwa1YzV3FmVjhyTlZEQVpYaThMZWJhWWlZR0JBckpHNXRaakZmcGlDbg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNUGdFQWV1NDZwQ012SmRDazR2dk40Z3MtNWRRTUo5NlE5MWNXOWlyWl9QVmhRakJxVUZCR3o0bFk1MnhDb1hDekl0aW5ydkhKcXN4Ni1HbXh1Rk9pM21Lbk51TWFobVJsSFViNk9FaWZPVU02WEt2WUswR1cwQ2E0a0ZYa1lTWF9mLTYtZkpZdGhuZ2hLZzZaQTF4bE4zOGczOXNTNDJQcTZLbmtNSDN1V3B6Z3RoemtkS2Mtcl9wVFdlRkNsMzJXSEJwUGtpMWpMZnNhQ28zVkJXQTE3SXhySHdScGdCdEhfTDFZTDVFZjEyVTNBYUVldjViWVdhT2lnRWVkSnZDbS1mQ3dLWFdNMFdHTjVxazFoNXpDT2d1bzh6bHNQM2NPWVdveVlEUzBQbkliU2EteXNQVlAwa1YzV3FmVjhyTlZEQVpYaThMZWJhWWlZR0JBckpHNXRaakZmcGlDbg?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "「高雄親子遊樂園區」8/8登場 交通攻略大公開 搭輕軌、公車、接駁車輕鬆玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "「高雄親子遊樂園區」8/8登場 交通攻略大公開 搭輕軌、公車、接駁車輕鬆玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "life.tw",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄親子遊樂園區提供多元遊樂設施讓孩子盡情放電，大眾交通便利（輕軌、公車、接駁車），帶小孩不用擔心停車問題。",
-      "published_at": "2026-08-01T07:15:29+00:00",
-      "collected_at": "2026-08-02T13:54:23.029665+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfbsr2nvdmxnutlkwtdkn1hbnmlqr2exr",
-      "title": "「高雄親子遊樂園區」8/8登場 交通攻略大公開 搭輕軌、公車、接駁車輕鬆玩",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSR2NvdmxNUTlkWTdkN1hBNmlQR2ExR2QtTzV4NGp3aGdzWmM1SEhwcjZLUkZxYUtkcWF0ek9qWFlpYi1UVGJ4TV8zU2p6d2hVSWc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSR2NvdmxNUTlkWTdkN1hBNmlQR2ExR2QtTzV4NGp3aGdzWmM1SEhwcjZLUkZxYUtkcWF0ek9qWFlpYi1UVGJ4TV8zU2p6d2hVSWc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "「高雄親子遊樂園區」8/8登場 交通攻略大公開 搭輕軌、公車、接駁車輕鬆玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "「高雄親子遊樂園區」8/8登場 交通攻略大公開 搭輕軌、公車、接駁車輕鬆玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "overview": "高雄親子遊樂園8日開幕倒數 陳其邁下令全面整備、交通防疫一次到位。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
         "pros": "遊具與體驗性強，適合安排半日到一日放電。",
         "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
         "tips": "建議備替換衣物、毛巾與簡單點心。"
@@ -656,126 +50,285 @@
         "放電",
         "好玩"
       ],
-      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
-      "published_at": "2026-08-01T07:15:00+00:00",
-      "collected_at": "2026-08-01T23:11:07.803834+00:00",
-      "query": "台灣 遊樂園 親子 最新"
+      "reason": "高雄全新親子遊樂園專為孩童設計，讓孩子盡情放電玩樂，市府全面整備交通與防疫，開幕期間可安心遊玩。",
+      "published_at": "2026-08-04T12:04:52+00:00",
+      "collected_at": "2026-08-04T14:39:03.305931+00:00",
+      "query": "台灣 親子景點 最新"
     },
     {
-      "id": "https-www-msn-com-zh-tw-lifestyle-other-e5-85-a8-e5-8f-b0-e5-bf-85-e7-8e-a93-e5-",
-      "title": "全台必玩3個免費親子景點 最新室內樂園、還有恐龍旋轉木馬",
-      "url": "https://www.msn.com/zh-tw/lifestyle/other/%E5%85%A8%E5%8F%B0%E5%BF%85%E7%8E%A93%E5%80%8B%E5%85%8D%E8%B2%BB%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E-%E6%9C%80%E6%96%B0%E5%AE%A4%E5%85%A7%E6%A8%82%E5%9C%92-%E9%82%84%E6%9C%89%E6%81%90%E9%BE%8D%E6%97%8B%E8%BD%89%E6%9C%A8%E9%A6%AC/ar-AA29cPCd",
-      "canonical_url": "https://www.msn.com/zh-tw/lifestyle/other/%E5%85%A8%E5%8F%B0%E5%BF%85%E7%8E%A93%E5%80%8B%E5%85%8D%E8%B2%BB%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E-%E6%9C%80%E6%96%B0%E5%AE%A4%E5%85%A7%E6%A8%82%E5%9C%92-%E9%82%84%E6%9C%89%E6%81%90%E9%BE%8D%E6%97%8B%E8%BD%89%E6%9C%A8%E9%A6%AC/ar-AA29cPCd",
-      "image_url": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "全台必玩3個免費親子景點 最新室內樂園、還有恐龍旋轉木馬。▲高雄機廠親子遊樂園區將於8月8日開幕。（圖／高雄市政府提供，下同） 記者蔡玟君／綜合報導 暑假進入8月，還在煩惱去哪裡遛小孩嗎？現在就有3大免費親子活動值得衝一波，包括全台最大的室內兒童樂園「高雄機廠親子遊樂園區」將於8月8日正式開幕，還有屏東夏日狂歡祭免費玩大型遊具、澎湖馬公夏日童樂趴打造侏羅紀主題遊樂園與滑水道，讓大小朋友一路玩到暑假尾聲。高雄 高雄機廠親子遊樂園區 全台最大、由台鐵高雄機 ...",
+      "id": "https-news-google-com-rss-articles-cbmifefvx3lxte9ase8tvjjuv1ywmuytowm0nmstwux2w",
+      "title": "高雄親子遊樂園8/8開幕",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aSE8tVjJuV1YwMUYtOWM0NmstWUx2WktkSmRlY2JWeHNIUFUyeGg3TklsV0Jacm9BNGdETDBYR0FUcE9jVGtBOEhCZEx0c0R1TEpNWi00d2U4V2ZIUW9yWDlFMUJXVDNySUxCRDE1Z0x1Q1NTaGJWak0wSFA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aSE8tVjJuV1YwMUYtOWM0NmstWUx2WktkSmRlY2JWeHNIUFUyeGg3TklsV0Jacm9BNGdETDBYR0FUcE9jVGtBOEhCZEx0c0R1TEpNWi00d2U4V2ZIUW9yWDlFMUJXVDNySUxCRDE1Z0x1Q1NTaGJWak0wSFA?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園8/8開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "analysis": {
-        "overview": "全台必玩3個免費親子景點 最新室內樂園、還有恐龍旋轉木馬。▲高雄機廠親子遊樂園區將於8月8日開幕。（圖／高雄市政府提供，下同） 記者蔡玟君／綜合報導 暑假進入8月，還在煩惱去哪裡遛小孩嗎？現在就有3大免費親子活動值得衝一波，包括全台最大的室內兒童樂園「高雄機廠親子遊樂園區」將於8月8日正式開幕，還有屏東夏日狂歡祭免費玩大型遊具、澎湖馬公夏日童樂趴打造侏羅紀主題遊樂園與滑水道，讓大小朋友一路玩到暑假尾聲。高雄 高雄機廠親子遊樂園區 全台最大、由台鐵高雄機 ...",
+        "overview": "高雄親子遊樂園8/8開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "台灣華報",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "高雄新開幕的親子遊樂園，提供多樣遊樂設施讓孩子盡情放電，建議出發前先確認設施是否符合小孩年齡與安全規範。",
+      "published_at": "2026-08-04T11:06:30+00:00",
+      "collected_at": "2026-08-04T14:39:10.430167+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte1pbvjqvloxrfu3bw1xwnkzuzqwv2hcn",
+      "title": "高雄親子遊樂園區8月8日正式開幕",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pbVJQVloxRFU3bW1XWnkzUzQwV2hCNUx2OG9YM3dsdy1SSkw4Y1hROVllWlllTEQ5dUNVMWhGNDVpVXRKN0NhS0NvaHhmXzZsREpVbg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pbVJQVloxRFU3bW1XWnkzUzQwV2hCNUx2OG9YM3dsdy1SSkw4Y1hROVllWlllTEQ5dUNVMWhGNDVpVXRKN0NhS0NvaHhmXzZsREpVbg?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區8月8日正式開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區8月8日正式開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "臺灣導報",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "高雄新開幕的親子遊樂園專為兒童設計，室內空間可讓孩子盡情放電遊玩，是雨天備案的好去處。",
+      "published_at": "2026-08-04T10:10:29+00:00",
+      "collected_at": "2026-08-04T14:39:16.463604+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte4zbmrxnudxa0dyveprzmiyymmxugdzv",
+      "title": "高雄最大親子樂園開幕！台鐵機廠變身免費遊戲天堂 8月8日全國爸媽衝一波",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zbmRxNUdxa0dyVEprZmIyYmMxUGdzVEJQZTRrMlJHZHo5UUN3U0hVMkVXWDZaRWRLNHhzXzFWWWRUcE5YU0hxNklWb3ZjZFF4U0E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zbmRxNUdxa0dyVEprZmIyYmMxUGdzVEJQZTRrMlJHZHo5UUN3U0hVMkVXWDZaRWRLNHhzXzFWWWRUcE5YU0hxNklWb3ZjZFF4U0E?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄最大親子樂園開幕！台鐵機廠變身免費遊戲天堂 8月8日全國爸媽衝一波。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄最大親子樂園開幕！台鐵機廠變身免費遊戲天堂 8月8日全國爸媽衝一波。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "台鐵機廠改造的高雄最大親子樂園，佔地寬廣、遊戲設施多元，適合帶小孩盡情放電，且免費入園cp值極高。",
+      "published_at": "2026-08-04T10:05:00+00:00",
+      "collected_at": "2026-08-04T14:39:21.449814+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmie0fvx3lxte5klwhitmlxy240ek9crdluberysghmm",
+      "title": "高雄親子遊樂園8/8開幕",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kLWhITmlxY240ek9CRDlUbERySGhmMTBNWkRBMlVCYndDUF9MRXBjOUZ3UW82LXF4czRKRW1Zbm5vREdnQmRXS2FGUmd0c2N0MzhwVXJWcXNsaGpZbi1maTNDZHNRbFJ6MG5MYzhtNGF5SU45SmxQb29HNA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kLWhITmlxY240ek9CRDlUbERySGhmMTBNWkRBMlVCYndDUF9MRXBjOUZ3UW82LXF4czRKRW1Zbm5vREdnQmRXS2FGUmd0c2N0MzhwVXJWcXNsaGpZbi1maTNDZHNRbFJ6MG5MYzhtNGF5SU45SmxQb29HNA?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園8/8開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園8/8開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "台灣華報",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "新開幕的高雄親子遊樂園提供孩子盡情玩耍放電的場所，是家長帶小孩消耗體力的好選擇。",
+      "published_at": "2026-08-04T09:54:13+00:00",
+      "collected_at": "2026-08-04T14:39:29.232315+00:00",
+      "query": "台灣 室內親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfbvegp0qk5zmexxdvl0c2zvquzkslvjq",
+      "title": "全台最大免費親子樂園8/8開幕！6米滑水道、YOYO明星陪玩嗨翻高雄",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVeGp0Qk5zMExXdVl0c2ZVQUZkSlVJQmRIbmgyOGhYTmFKZGZxU3lHTTlqaFpBYVpkWjk4eEp4LURuVVVqcmN5WjZhSE5TbXNCZGc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVeGp0Qk5zMExXdVl0c2ZVQUZkSlVJQmRIbmgyOGhYTmFKZGZxU3lHTTlqaFpBYVpkWjk4eEp4LURuVVVqcmN5WjZhSE5TbXNCZGc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "全台最大免費親子樂園8/8開幕！6米滑水道、YOYO明星陪玩嗨翻高雄。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "全台最大免費親子樂園8/8開幕！6米滑水道、YOYO明星陪玩嗨翻高雄。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "全台最大免費親子樂園，6米滑水道讓小孩盡情放電玩水，YOYO明星陪玩互動性高，是高雄夏日親子出遊的好去處。",
+      "published_at": "2026-08-04T09:52:59+00:00",
+      "collected_at": "2026-08-04T14:39:37.502003+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte9ux3doamjhu0fftlvxuw9mekzttuhkt",
+      "title": "高雄親子遊樂園區8/8開幕共度歡樂暑假| 青年日報",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uX3doamJHU0FfTlVXUW9MekZTTUhKT0pvR3dBcFJzdVFYNWlwak81RnV3bmRsc09VZmJYT1JVQTZOazJmeGFnTzMwN1prN19tczhOdkdR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uX3doamJHU0FfTlVXUW9MekZTTUhKT0pvR3dBcFJzdVFYNWlwak81RnV3bmRsc09VZmJYT1JVQTZOazJmeGFnTzMwN1prN19tczhOdkdR?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區8/8開幕共度歡樂暑假| 青年日報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區8/8開幕共度歡樂暑假| 青年日報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊樂園區有多元遊樂設施，孩子可以盡情放電玩耍，家長也有休息區域，是暑假親子同樂的好去處。",
+      "published_at": "2026-08-04T09:51:40+00:00",
+      "collected_at": "2026-08-04T14:39:43.043353+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmihanbvv95cuxnalmwcffcdxvoqkrrzhpodkywm1nnw",
+      "title": "高雄親子遊樂園8月8日開幕 全台最大半室內免費開放 暑假加碼水樂園、YOYO家族同樂",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNalMwcFFCdXVOQkRrZHpodkYwM1NNWUkxdFhPSXFZbXdEa3hrRnhUNHZRNVhEc24xckZrUEd4Q0Z6bGlEb0d5YTQtQ1JPb2daaUltVnowbWVmYzhCYnZiSnhXb1NvNUEyOElXUEs3eU54QW5jWkFnaF9HZWNxWDBFeVJCNnJiRWNsRTEzTzJwd2JpWlZxeHlxWkFXNzN6MWFIQjF3aGhrSU1nYUxDLTMwLXM5RVRzT3JaSW13N0NmQ3hYbld4ajJrSXpqbFFLeUJpZW5NQ2N0NzJTd09kcUJ5VlE3Y25QTDkzQy1fclBlQU1YQ0dKazlCOHN2NjItcENXZlhQNTNmZExjNG0zcllHcEJ5Ynd1NGJFVWVCTkJfREE4dy1taENJdEVtd2lxT0NNZFJlZXhzOGVBOWxzT1ZPd3QwSS1kVGtpaW5tby0yTU5ZaGJTN3ZxeF9KNEJ0bzNxd09FUkowTXNFTW1FbXAzcnBTZWpIcU5uXzVJMlNpcHZDZEYy?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNalMwcFFCdXVOQkRrZHpodkYwM1NNWUkxdFhPSXFZbXdEa3hrRnhUNHZRNVhEc24xckZrUEd4Q0Z6bGlEb0d5YTQtQ1JPb2daaUltVnowbWVmYzhCYnZiSnhXb1NvNUEyOElXUEs3eU54QW5jWkFnaF9HZWNxWDBFeVJCNnJiRWNsRTEzTzJwd2JpWlZxeHlxWkFXNzN6MWFIQjF3aGhrSU1nYUxDLTMwLXM5RVRzT3JaSW13N0NmQ3hYbld4ajJrSXpqbFFLeUJpZW5NQ2N0NzJTd09kcUJ5VlE3Y25QTDkzQy1fclBlQU1YQ0dKazlCOHN2NjItcENXZlhQNTNmZExjNG0zcllHcEJ5Ynd1NGJFVWVCTkJfREE4dy1taENJdEVtd2lxT0NNZFJlZXhzOGVBOWxzT1ZPd3QwSS1kVGtpaW5tby0yTU5ZaGJTN3ZxeF9KNEJ0bzNxd09FUkowTXNFTW1FbXAzcnBTZWpIcU5uXzVJMlNpcHZDZEYy?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園8月8日開幕 全台最大半室內免費開放 暑假加碼水樂園、YOYO家族同樂。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園8月8日開幕 全台最大半室內免費開放 暑假加碼水樂園、YOYO家族同樂。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
         "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
         "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
         "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
       },
-      "source_name": "msn.com",
+      "source_name": "Life 生活網",
       "tags": [
         "放電",
         "好玩",
         "室內"
       ],
-      "reason": "全台3處免費親子景點含室內樂園可雨天備案，高雄機廠有恐龍旋轉木馬、屏東澎湖有大型遊具與滑水道，小孩能盡情放電又不傷荷包。",
-      "published_at": "2026-08-01T07:03:00+00:00",
-      "collected_at": "2026-08-02T13:54:32.618566+00:00",
+      "reason": "全台最大半室內空間免費開放，雨天也有遮蔽不怕掃興，設有水樂園能盡情放電玩水，YOYO家族表演更是小孩最期待的亮點。",
+      "published_at": "2026-08-04T09:30:00+00:00",
+      "collected_at": "2026-08-04T14:39:47.778162+00:00",
       "query": "台灣 免費親子景點"
     },
     {
-      "id": "https-news-google-com-rss-articles-cbmizefvx3lxte4xt1bmoxd1qm5otxhwmm92vvhsmmhxu",
-      "title": "高雄親子遊樂園區8/8開園！30設施免費玩交通攻略一次看- 生活",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xT1BmOXd1Qm5oTXhWMm92VVhsMmhxU2t4RTlNTEJlcXpla0YzY25uTHZJaE5pMzVlYzNuWFVZZE1pdmNLRDUzcXN3RUtsa0x4ZXRvbVRscW1UemRIRFljOHUxTkk?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xT1BmOXd1Qm5oTXhWMm92VVhsMmhxU2t4RTlNTEJlcXpla0YzY25uTHZJaE5pMzVlYzNuWFVZZE1pdmNLRDUzcXN3RUtsa0x4ZXRvbVRscW1UemRIRFljOHUxTkk?oc=5",
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxtfbfzelragxiqxz6mzjsam5is1c3b0xpb",
+      "title": "高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族 | EBC 東森新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfZElRaGxIQXZ6MzJsam5iS1c3b0xPbUtHN1JVZl9RYVJZZWY4bVZua3BhY1dfTEpHcDhMRWkwUzZJblJFX2tGMzR5Z0RZM0tudGFjUldn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfZElRaGxIQXZ6MzJsam5iS1c3b0xPbUtHN1JVZl9RYVJZZWY4bVZua3BhY1dfTEpHcDhMRWkwUzZJblJFX2tGMzR5Z0RZM0tudGFjUldn?oc=5",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "images": [
         "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
       ],
-      "summary": "高雄親子遊樂園區8/8開園！30設施免費玩交通攻略一次看- 生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族 | EBC 東森新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "analysis": {
-        "overview": "高雄親子遊樂園區8/8開園！30設施免費玩交通攻略一次看- 生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "overview": "高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族 | EBC 東森新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
         "pros": "遊具與體驗性強，適合安排半日到一日放電。",
         "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
         "tips": "建議備替換衣物、毛巾與簡單點心。"
       },
-      "source_name": "自由時報",
+      "source_name": "LINE TODAY",
       "tags": [
         "放電",
         "好玩"
       ],
-      "reason": "30項設施免費暢玩讓小孩盡情放電，家長可參考交通攻略輕鬆抵達，省去安排行程的困擾。",
-      "published_at": "2026-08-01T06:57:53+00:00",
-      "collected_at": "2026-08-01T13:54:52.033292+00:00",
+      "reason": "30項設施免費玩加上戶外水樂園，小孩能盡情放電消暑，還有YOYO家族表演吸引小朋友，不用擔心門票負擔。",
+      "published_at": "2026-08-04T09:16:01+00:00",
+      "collected_at": "2026-08-04T14:39:56.362045+00:00",
+      "query": "台灣 親子飯店 親子樂園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmia0fvx3lxte9ztjnwtnhgn0jwwjg2dhremjfmy3nhy",
+      "title": "高雄親子遊樂園8/8開幕",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZTjNwTnhGN0JwWjg2dHREMjFMY3NhYWJlR0pjSWV2ajU0Ym1nX0dvYy1QOE15RmFmaGZMY1BDS1M0c2NmZXJsSlQtQ3VIWlRreVgzSmxSZklNOHZWb3FIMEZ1akdpU21GX1Q0?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZTjNwTnhGN0JwWjg2dHREMjFMY3NhYWJlR0pjSWV2ajU0Ym1nX0dvYy1QOE15RmFmaGZMY1BDS1M0c2NmZXJsSlQtQ3VIWlRreVgzSmxSZklNOHZWb3FIMEZ1akdpU21GX1Q0?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園8/8開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園8/8開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "台灣華報",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "專為親子設計的遊樂園提供多樣遊戲設施，孩子能盡情奔跑放電，園區安全係數高，家長可放心讓孩童玩耍。",
+      "published_at": "2026-08-04T08:44:05+00:00",
+      "collected_at": "2026-08-04T14:40:05.643273+00:00",
       "query": "台灣 親子景點 最新"
     },
     {
-      "id": "https-news-google-com-rss-articles-cbmicefvx3lxte1nudjfwgvqau84dffhcwlvx1pmzzjpq",
-      "title": "高雄親子遊樂園區8/8開園！30設施免費玩交通攻略一次看- 高雄市",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NUDJfWGVQaU84dFFHcWlVX1pmZzJpQi1VSG9HRVlrUnktSTFleDFuX3hXTkpDSzQyOVNSd0tIWjhnUXBmVzRXUDd0TUVTblVablZFMnlCUkZMOVFBY25OalBVQ09VLUdoU05tSzVKeWE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NUDJfWGVQaU84dFFHcWlVX1pmZzJpQi1VSG9HRVlrUnktSTFleDFuX3hXTkpDSzQyOVNSd0tIWjhnUXBmVzRXUDd0TUVTblVablZFMnlCUkZMOVFBY25OalBVQ09VLUdoU05tSzVKeWE?oc=5",
+      "id": "https-news-google-com-rss-articles-cbmivefvx3lxtfbpstvpc09pqwphd1reedg2lwgyoudyc",
+      "title": "高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPSTVpc09pQWphd1REeDg2LWgyOUdYclQyRmZ0dUJyZlphRFZtQThVODNSMnBsdnFWc2MxdEpQd2ozaEZLZFhncWpMM05oQlhWWmhJMA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPSTVpc09pQWphd1REeDg2LWgyOUdYclQyRmZ0dUJyZlphRFZtQThVODNSMnBsdnFWc2MxdEpQd2ozaEZLZFhncWpMM05oQlhWWmhJMA?oc=5",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "images": [
         "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
       ],
-      "summary": "高雄親子遊樂園區8/8開園！30設施免費玩交通攻略一次看- 高雄市。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "analysis": {
-        "overview": "高雄親子遊樂園區8/8開園！30設施免費玩交通攻略一次看- 高雄市。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "overview": "高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
         "pros": "遊具與體驗性強，適合安排半日到一日放電。",
         "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
         "tips": "建議備替換衣物、毛巾與簡單點心。"
       },
-      "source_name": "news.ltn.com.tw",
+      "source_name": "東森新聞",
       "tags": [
         "放電",
-        "好玩"
+        "好玩",
+        "大自然"
       ],
-      "reason": "30項設施免費暢玩，孩子能盡情放電消耗體力，園區設施多元適合不同年齡層，高雄市區交通便利有完整攻略，停車方便適合全家出遊。",
-      "published_at": "2026-08-01T06:57:53+00:00",
-      "collected_at": "2026-08-02T23:12:03.212977+00:00",
-      "query": "台灣 親子飯店 親子樂園"
+      "reason": "30項設施全免費且有戶外水樂園，夏日戲水消暑又能消耗孩子體力，YOYO家族表演更是增加吸引力。",
+      "published_at": "2026-08-04T08:34:00+00:00",
+      "collected_at": "2026-08-04T14:40:15.995929+00:00",
+      "query": "台灣 免費親子景點"
     },
     {
-      "id": "https-news-google-com-rss-articles-cbmi0wjbvv95cuxqn1pxvvroykxauxrfx0r1ufowegjob",
-      "title": "高雄親子遊樂園區8月8日開園 交通局公布搭乘攻略",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQN1pXVVRoYkxaUXRfX0R1UFoweGJObGRlS0owTE5zdUdheGJYODFYQjRCcjBud0IwMm1PZ18xckc4YWE2dFdieHM1UUJzYWJnRWVXdWxxTXVOdHJLNnYwNXV3T29Lck5XMWlxY29tUE9zZExGVndGbzV6UXVIMV9qaWJsY1RBZjhGNXAyUVFYYUE0ckNCajFLQnRPV3JyMkNoM1N0U20tV0M0V2VlLW0ybjFEaV93amNlcmxucjVVWFBpX0dQOWpQQ1VCMFd3aHc4SGFCVFE3Ym8tbjBVU0xUa2MtNWJBNExDRWtLQVFqU3ZBQzJiZXJYVi1ZLWw4UFZ3LVdwTDlCXzdPazBTSUpSc2FOaFI5YnFQUUh5b1dhQmtmMjVtaVZQRE9CWXFjQmx3TmJFelM1amt0VTFERDRlX0V1MmQ1aGwtUXRCa2w1LTFwU2s?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQN1pXVVRoYkxaUXRfX0R1UFoweGJObGRlS0owTE5zdUdheGJYODFYQjRCcjBud0IwMm1PZ18xckc4YWE2dFdieHM1UUJzYWJnRWVXdWxxTXVOdHJLNnYwNXV3T29Lck5XMWlxY29tUE9zZExGVndGbzV6UXVIMV9qaWJsY1RBZjhGNXAyUVFYYUE0ckNCajFLQnRPV3JyMkNoM1N0U20tV0M0V2VlLW0ybjFEaV93amNlcmxucjVVWFBpX0dQOWpQQ1VCMFd3aHc4SGFCVFE3Ym8tbjBVU0xUa2MtNWJBNExDRWtLQVFqU3ZBQzJiZXJYVi1ZLWw4UFZ3LVdwTDlCXzdPazBTSUpSc2FOaFI5YnFQUUh5b1dhQmtmMjVtaVZQRE9CWXFjQmx3TmJFelM1amt0VTFERDRlX0V1MmQ1aGwtUXRCa2w1LTFwU2s?oc=5",
+      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte5mzhdscuffmtjfvznktlput2fqoelqz",
+      "title": "高雄親子遊樂園8月8日開幕 30項設施免費玩、暑假加碼水樂園與YOYO家族",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mZHdScUFFMTJfVzNkTlpuT2FqOElQZXJDZm1aSG5VSy0xeV9qNmxTTDVxaHBIMWFyejc2ZDNWZ2tETVJwdE9kbV92ZDVLcENjMjlFTA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mZHdScUFFMTJfVzNkTlpuT2FqOElQZXJDZm1aSG5VSy0xeV9qNmxTTDVxaHBIMWFyejc2ZDNWZ2tETVJwdE9kbV92ZDVLcENjMjlFTA?oc=5",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "images": [
         "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
       ],
-      "summary": "高雄親子遊樂園區8月8日開園 交通局公布搭乘攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "高雄親子遊樂園8月8日開幕 30項設施免費玩、暑假加碼水樂園與YOYO家族。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "analysis": {
-        "overview": "高雄親子遊樂園區8月8日開園 交通局公布搭乘攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
-      "published_at": "2026-08-01T03:56:34+00:00",
-      "collected_at": "2026-08-01T23:11:08.590198+00:00",
-      "query": "台灣 親子飯店 親子樂園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivefvx3lxtfa3tdc2ofvqr1m2qxfhcvdkq2fbmnjbo",
-      "title": "高雄親子遊樂園區8月8日開園 交通局公布搭乘攻略",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3TDc2OFVqR1M2QXFHcVdKQ2FBMnJBOWphb296VE5FZHl4WkdodmlBT1MwMFdLTkRJa3h2NDVfY2pGcDF2MEJpRHdQS0lGcHRjZVg5UQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3TDc2OFVqR1M2QXFHcVdKQ2FBMnJBOWphb296VE5FZHl4WkdodmlBT1MwMFdLTkRJa3h2NDVfY2pGcDF2MEJpRHdQS0lGcHRjZVg5UQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區8月8日開園 交通局公布搭乘攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區8月8日開園 交通局公布搭乘攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "overview": "高雄親子遊樂園8月8日開幕 30項設施免費玩、暑假加碼水樂園與YOYO家族。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
         "pros": "遊具與體驗性強，適合安排半日到一日放電。",
         "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
         "tips": "建議備替換衣物、毛巾與簡單點心。"
@@ -785,36 +338,493 @@
         "放電",
         "好玩"
       ],
-      "reason": "全新親子遊樂園區提供完善交通指引，爸媽可輕鬆抵達讓孩子盡情放電玩樂。",
-      "published_at": "2026-08-01T02:35:47+00:00",
-      "collected_at": "2026-08-01T13:54:56.706100+00:00",
-      "query": "台灣 親子景點 最新"
+      "reason": "30項設施免費暢玩，加上暑假限定水樂園消暑又好玩，還有YOYO家族表演可說是小孩最期待的亮點，非常適合父親節帶孩子來盡情放電。",
+      "published_at": "2026-08-04T07:43:31+00:00",
+      "collected_at": "2026-08-04T14:40:24.103618+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
     },
     {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfbkt0hkuznrquhxlxi1yjqtamfhnvlgb",
-      "title": "高雄親子遊樂園區8月8日開園 交通局公布搭乘攻略",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkT0hkUzNrQUhxLXI1YjQtamFhNVlGbnFCM2dEU3I4NFZCVGcyanZiSEJkM29ZUnFhcDRwZEhUM0tTaEU5Y2M4THVwazNzaHBtNUE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkT0hkUzNrQUhxLXI1YjQtamFhNVlGbnFCM2dEU3I4NFZCVGcyanZiSEJkM29ZUnFhcDRwZEhUM0tTaEU5Y2M4THVwazNzaHBtNUE?oc=5",
+      "id": "https-news-google-com-rss-articles-cbmi7wjbvv95cuxpzfrir1hqsdfguevkthpkvxnky0c2y",
+      "title": "高雄親子遊樂園8月8日開幕 30項設施免費玩、暑假加碼水樂園與YOYO家族",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPZFRIR1hqSDFGUEVkTHpkVXNkY0c2YjBvaFdvdGZ4SWNoU0k5cWIybWZKeFh5UWcyTUJ4YXczSFdsXzhLSTQxVkt5WlVZS1RjbDA4NC1kVFk4MjRPVzRoUllUT2IxNkd5QTdUeHllNERmQks1dVNWdWltVXlfcXhHODVZNDJuQzI1VUxVUWVmN0dyOGtGYkk0TUprbnJkYk9OYzdPWVpUb2ZJZmhiekdlNzRZSkJBMng3M25abi0tVVl2LVBBS3FUSlZVSUdWSmVrN3VBcWdRLU1zTnFjT1dLaDU0MXB2ZDRyOHFzbWhSZng2clloY3NZX05BdzFmcThUU3VsenBpZ18wTXFZT1JuN29TUVE3cndnOWxObDUtQ29MTzVwd0JUOTNTLXFZS2lOS2ljUFR1Q1RZa1pQb0FBZ0dYTENOcWxpVEE5MGZCcHhVTUNvUHJjQlRSY2d4dEVERlBGOUVVLUJEblBCWWRR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPZFRIR1hqSDFGUEVkTHpkVXNkY0c2YjBvaFdvdGZ4SWNoU0k5cWIybWZKeFh5UWcyTUJ4YXczSFdsXzhLSTQxVkt5WlVZS1RjbDA4NC1kVFk4MjRPVzRoUllUT2IxNkd5QTdUeHllNERmQks1dVNWdWltVXlfcXhHODVZNDJuQzI1VUxVUWVmN0dyOGtGYkk0TUprbnJkYk9OYzdPWVpUb2ZJZmhiekdlNzRZSkJBMng3M25abi0tVVl2LVBBS3FUSlZVSUdWSmVrN3VBcWdRLU1zTnFjT1dLaDU0MXB2ZDRyOHFzbWhSZng2clloY3NZX05BdzFmcThUU3VsenBpZ18wTXFZT1JuN29TUVE3cndnOWxObDUtQ29MTzVwd0JUOTNTLXFZS2lOS2ljUFR1Q1RZa1pQb0FBZ0dYTENOcWxpVEE5MGZCcHhVTUNvUHJjQlRSY2d4dEVERlBGOUVVLUJEblBCWWRR?oc=5",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "images": [
         "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
       ],
-      "summary": "高雄親子遊樂園區8月8日開園 交通局公布搭乘攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "高雄親子遊樂園8月8日開幕 30項設施免費玩、暑假加碼水樂園與YOYO家族。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
       "analysis": {
-        "overview": "高雄親子遊樂園區8月8日開園 交通局公布搭乘攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "overview": "高雄親子遊樂園8月8日開幕 30項設施免費玩、暑假加碼水樂園與YOYO家族。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
         "pros": "遊具與體驗性強，適合安排半日到一日放電。",
         "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
         "tips": "建議備替換衣物、毛巾與簡單點心。"
       },
-      "source_name": "蕃新聞",
+      "source_name": "Life 生活網",
       "tags": [
         "放電",
         "好玩"
       ],
-      "reason": "高雄親子遊樂園區專為孩童設計的遊樂設施齊全，能讓孩子盡情放電玩耍，且有交通局提供的大眾運輸攻略，搭乘大眾交通前往便利又省去停車困擾。",
-      "published_at": "2026-08-01T02:35:00+00:00",
-      "collected_at": "2026-08-01T13:55:03.880538+00:00",
+      "reason": "30項設施免費暢玩且有YOYO家族表演，孩子盡情放電家長省荷包；暑假加碼水樂園提供清涼玩樂選項，室內外設施兼具不怕天氣變化。",
+      "published_at": "2026-08-04T07:43:31+00:00",
+      "collected_at": "2026-08-04T14:40:30.445969+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte1sa2etnudyafrnc3vdownua3pytxzzr",
+      "title": "台灣有新遊樂園了！8/8開幕，全台最大規模「免門票爽玩30項設施、搭輕軌步行1分鐘就到」， 交通方式一次看",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sa2EtNUdYaFRNc3VDOWNua3pYTXZZRERhZG9XX0xPcFVIV3pMNTJyZjlVaVFsOWJRWUVHZnpmQ0h0T1hFaFZPSUpXSTZxVEg4?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sa2EtNUdYaFRNc3VDOWNua3pYTXZZRERhZG9XX0xPcFVIV3pMNTJyZjlVaVFsOWJRWUVHZnpmQ0h0T1hFaFZPSUpXSTZxVEg4?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台灣有新遊樂園了！8/8開幕，全台最大規模「免門票爽玩30項設施、搭輕軌步行1分鐘就到」， 交通方式一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台灣有新遊樂園了！8/8開幕，全台最大規模「免門票爽玩30項設施、搭輕軌步行1分鐘就到」， 交通方式一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "風傳媒",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "免門票可省下大筆開銷，30項設施讓小孩盡情放電玩一整天，輕軌直達交通便利不怕塞車或找不到停車位的困擾。",
+      "published_at": "2026-08-04T07:00:00+00:00",
+      "collected_at": "2026-08-04T14:40:37.937429+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmir0fvx3lxtfbitutuzed4zjfmbe1ot2houknjewxsq",
+      "title": "落實高雄親子遊樂園區周邊交通整備 陳其邁：打造安心休憩環境 迎接全國遊客",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiTUtUZEd4ZjFmbE1oT2hoUkNJeWxsQ296eDU4dENvWE5xdV9jdFJtd3VkM24yVEg5OFFncTdlNzdDd0VpUmNv?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiTUtUZEd4ZjFmbE1oT2hoUkNJeWxsQ296eDU4dENvWE5xdV9jdFJtd3VkM24yVEg5OFFncTdlNzdDd0VpUmNv?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "落實高雄親子遊樂園區周邊交通整備 陳其邁：打造安心休憩環境 迎接全國遊客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "落實高雄親子遊樂園區周邊交通整備 陳其邁：打造安心休憩環境 迎接全國遊客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "886.news",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為新聞報導而非景點介紹文章，無法提供具體的親子踏青推薦分類與理由。",
+      "published_at": "2026-08-04T06:54:18+00:00",
+      "collected_at": "2026-08-04T14:40:42.785017+00:00",
       "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-www-nownews-com-news-6862910",
+      "title": "高雄親子遊樂園區來了！全台最大室內樂園如何去？ 四大方法速記 | 美食旅遊 | 生活 | NOWnews今日新聞",
+      "url": "https://www.nownews.com/news/6862910",
+      "canonical_url": "https://www.nownews.com/news/6862910",
+      "image_url": "https://media.nownews.com/nn_media/thumbnail/2026/08/1785820691454-422631550c354a839452ef49bf7198f2-1200x900.webp?unShow=false",
+      "images": [
+        "https://www.nownews.com/NOWnews/images/app-promote.webp",
+        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785820691454-422631550c354a839452ef49bf7198f2-1200x900.webp?unShow=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/06/1782800737771-836a92b40d35477888e77e0fecb63473-500x342.webp?unShow=false&waterMark=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785820779710-e6154b034e7840ce8b0a47a124f48db1-500x625.webp?unShow=false&waterMark=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/06/1782801369935-3a4ce842ed7f4e18a355446012f8b8c6-500x333.webp?unShow=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/06/1782800869603-cf4e22f1a95e412fba0214679c2c83c3-500x333.webp?unShow=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785817506190-33b24dd8ac8946e8aa5a1bd9398f8aa9-500x281.webp?unShow=false",
+        "https://media.nownews.com/nn_media/thumbnail/2025/01/1736295772146-3640e596c9174d1d9c1e73b7026d6106-500x281.webp?unShow=false"
+      ],
+      "summary": "高雄親子遊樂園區來了！全台最大室內樂園如何去？ 四大方法速記 | 美食旅遊 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 葉盛耀 /綜合報導 ▲高雄親子遊樂園將於8月8日開幕，如何前往4大方式一次看。（圖／記者葉盛耀攝） ✕ 臺鐵高雄機廠轉型打造的「高雄親子遊樂園區」將於8月8日正式開園營運，高雄市政府也準備盛大的開幕活動，交通局提醒，活動期間預估將吸引大量人潮，園區周邊包含汽車、機車的停車空間有限，呼籲民眾多加利用大眾運輸交通工具前往，《NOWNEWS今日新聞》整理除了自行開車騎車之外，包含輕軌、公車及免費接駁車方式一次看。我是廣告 請繼續往下閱讀 --> 🟡「 台鐵高雄機廠舊工廠改建的高雄親子遊樂園區」在哪裡？台鐵高雄機廠位於高雄苓雅、鳳山區交界，由二聖路、凱旋路、武昌路、武慶路圍起的一處區域，佔地1.5公頃。▲台鐵高雄機廠舊工廠位在高雄苓雅、鳳山區交界。",
+      "analysis": {
+        "overview": "高雄親子遊樂園區來了！全台最大室內樂園如何去？ 四大方法速記 | 美食旅遊 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 葉盛耀 /綜合報導 ▲高雄親子遊樂園將於8月8日開幕，如何前往4大方式一次看。（圖／記者葉盛耀攝） ✕ 臺鐵高雄機廠轉型打造的「高雄親子遊樂園區」將於8月8日正式開園營運，高雄市政府也準備盛大的開幕活動，交通局",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "nownews.com",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "全台最大室內樂園雨天備案首選，園區旁停車位有限，建議搭輕軌或接駁車抵達，輕鬆出遊不塞車。",
+      "published_at": "2026-08-04T06:23:00+00:00",
+      "collected_at": "2026-08-04T14:40:52.962866+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmijwnbvv95cuxpcuewt1vfs3vsyjdfbwv6ufi3mw1vz",
+      "title": "高雄親子遊樂園8日開幕倒數 陳其邁下令全面整備、交通防疫一次到位",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPcUEwT1VfS3VsYjdfbWV6UFI3MW1VZ3RsZFNkc2FqQXUtZTBUbWxLcUlKdTNfX1VFWjFRaV9vb2NuOTVDdU5qSjI4TU9MTVdrdzdocEJ1Mmp4ZzEwY3FyVDdEaWJJQ0FqdXRkbmc0dTRGTmxfVi03Z3RUdUNlaVVIdFdjTmR0U0FNY2RycFRBcTBRVXdZLTg2R1ZCdi1JdFFPY2JXUl9EYWcxdGRTY2J0dzlPOTEyUlUySUljZFVmdlhkcTZyX1VpemJwbFhBbWZla3IwdnNjbldVU0MtT3Z1RmhwcTEzenVFQm1vdTFUZzNfd0hhN0RYY1lkOWJ4dEJBTklpc25CbVg3MWdLU3Z5TVRVZXBLSkl4aEFfUXl1VmpBcXNydkFTTmtjUmRNalR4SnVwQUNXeHJlN0hGTUMxWUh2MUl3MklEdnowSF96OS1BaHBpQmo0QzdMMDhVc2M2akIteDRILXVfVHl5WW81RXR3aFBSMjBkVUwyTXpfOFNMUVp3bENmRG9wVkxWQnM?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPcUEwT1VfS3VsYjdfbWV6UFI3MW1VZ3RsZFNkc2FqQXUtZTBUbWxLcUlKdTNfX1VFWjFRaV9vb2NuOTVDdU5qSjI4TU9MTVdrdzdocEJ1Mmp4ZzEwY3FyVDdEaWJJQ0FqdXRkbmc0dTRGTmxfVi03Z3RUdUNlaVVIdFdjTmR0U0FNY2RycFRBcTBRVXdZLTg2R1ZCdi1JdFFPY2JXUl9EYWcxdGRTY2J0dzlPOTEyUlUySUljZFVmdlhkcTZyX1VpemJwbFhBbWZla3IwdnNjbldVU0MtT3Z1RmhwcTEzenVFQm1vdTFUZzNfd0hhN0RYY1lkOWJ4dEJBTklpc25CbVg3MWdLU3Z5TVRVZXBLSkl4aEFfUXl1VmpBcXNydkFTTmtjUmRNalR4SnVwQUNXeHJlN0hGTUMxWUh2MUl3MklEdnowSF96OS1BaHBpQmo0QzdMMDhVc2M2akIteDRILXVfVHl5WW81RXR3aFBSMjBkVUwyTXpfOFNMUVp3bENmRG9wVkxWQnM?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園8日開幕倒數 陳其邁下令全面整備、交通防疫一次到位。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園8日開幕倒數 陳其邁下令全面整備、交通防疫一次到位。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Life 生活網",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "高雄新親子遊樂園即將開幕，市府全面整備交通與防疫，設施完善適合帶小孩放電玩樂。",
+      "published_at": "2026-08-04T06:05:22+00:00",
+      "collected_at": "2026-08-04T14:40:59.656992+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmia0fvx3lxte13nxptv2vvzlyyugmyzvjycwvzyutzc",
+      "title": "高雄親子遊樂園8/8開張陳其邁：迎全台遊客、規劃雨天備案- 高雄市",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13NXptV2VVZlYyUGMyZVJycWVzYUtZcEE4R1BESzY5T0R3ZGxwblBaeDJ0eUt5a3k0NUR5SW1ZMTVFZjBNUzBwN0tIZ2JoR0syRTdOZWdjLVNtVnJVY2Zkc3MxOXM0VjBCeHdJ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13NXptV2VVZlYyUGMyZVJycWVzYUtZcEE4R1BESzY5T0R3ZGxwblBaeDJ0eUt5a3k0NUR5SW1ZMTVFZjBNUzBwN0tIZ2JoR0syRTdOZWdjLVNtVnJVY2Zkc3MxOXM0VjBCeHdJ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園8/8開張陳其邁：迎全台遊客、規劃雨天備案- 高雄市。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園8/8開張陳其邁：迎全台遊客、規劃雨天備案- 高雄市。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "自由時報",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "全新親子遊樂園主打雨天備案，不怕天候影響行程，讓家長帶小孩出遊更安心，室內空間與放電設施兼顧，全台旅客都適合。",
+      "published_at": "2026-08-04T05:59:54+00:00",
+      "collected_at": "2026-08-04T14:41:06.104440+00:00",
+      "query": "台灣 雨天 親子 室內 景點"
+    },
+    {
+      "id": "https-www-nownews-com-news-6862888",
+      "title": "直擊全台最大「室內遊樂園」！30項設施免費玩 最新內裝搶先曝光 | 美食旅遊 | 生活 | NOWnews今日新聞",
+      "url": "https://www.nownews.com/news/6862888",
+      "canonical_url": "https://www.nownews.com/news/6862888",
+      "image_url": "https://media.nownews.com/nn_media/thumbnail/2026/08/1785815218712-74281eb2dd82489bacb652dd289bdc6a-1200x900.webp?unShow=false",
+      "images": [
+        "https://www.nownews.com/NOWnews/images/app-promote.webp",
+        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785815218712-74281eb2dd82489bacb652dd289bdc6a-1200x900.webp?unShow=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/06/1782800737771-836a92b40d35477888e77e0fecb63473-500x342.webp?unShow=false&waterMark=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785816065491-6bd6b9e8b3a9435fbd0086704deadfd3-500x333.webp?unShow=false&waterMark=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785816380100-d8d301236a8547eea88657306f7843ee-500x333.webp?unShow=false&waterMark=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785816447903-096fb1bc69cd45bfad804c47b35c97c6-500x375.webp?unShow=false&waterMark=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785816335537-2fd20320711947bda01b4e14facbd095-500x333.webp?unShow=false&waterMark=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785816767375-ae44b18bb0fd4de1bc9150d7a20dd3e3-500x333.webp?unShow=false&waterMark=false"
+      ],
+      "summary": "直擊全台最大「室內遊樂園」！30項設施免費玩 最新內裝搶先曝光 | 美食旅遊 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 葉盛耀 /綜合報導 ▲由台鐵高雄機廠舊工廠改建的「高雄親子遊樂園區」，將於8月8日父親節當天開幕，預計將是全台最大室內兒童樂園，記者搶先直擊現在內裝。（圖／記者葉盛耀攝） ✕ 由台鐵高雄機廠舊工廠改建的「高雄親子遊樂園區」，預計將成為全台最大室內兒童遊樂園！高雄市政府日前宣布，此兒童樂園預訂 將於8月8日父親節當天盛大開幕 。占地達1.5公頃的全新景點，將有攀岩場、泡泡彈跳床、戲水空間與感官遊戲等超過30項設施， 且高雄市府強調，將「全面免費開放」， 目前該場地正在最後施工作業，《NOWNEWS今日新聞》記者搶先直擊現場，提醒目前還未正式開放，民眾盡量從外側觀看為佳。我是廣告 請繼續往下閱讀 --> 🟡「 台鐵高雄機廠舊工廠改建的高雄親子遊樂園區」在哪裡？",
+      "analysis": {
+        "overview": "直擊全台最大「室內遊樂園」！30項設施免費玩 最新內裝搶先曝光 | 美食旅遊 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 葉盛耀 /綜合報導 ▲由台鐵高雄機廠舊工廠改建的「高雄親子遊樂園區」，將於8月8日父親節當天開幕，預計將是全台最大室內兒童樂園，記者搶先直擊現在內裝。（圖／記者葉盛耀攝） ✕ 由台鐵高雄機廠舊工廠改建的「高雄",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "nownews.com",
+      "tags": [
+        "室內",
+        "放電",
+        "好玩"
+      ],
+      "reason": "全台最大室內兒童樂園占地1.5公頃，30項設施免費暢玩，有攀岩、彈跳床、戲水等多元設施讓孩子盡情放電，且為室內空間是雨天備案好去處。",
+      "published_at": "2026-08-04T05:59:00+00:00",
+      "collected_at": "2026-08-04T14:41:15.466531+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-www-msn-com-zh-tw-news-national-e5-85-a8-e5-9c-8b-e6-9c-80-e5-a4-a7-e5-8d-",
+      "title": "全國最大半室內高雄親子遊樂園區8/8開幕",
+      "url": "https://www.msn.com/zh-tw/news/national/%E5%85%A8%E5%9C%8B%E6%9C%80%E5%A4%A7%E5%8D%8A%E5%AE%A4%E5%85%A7%E9%AB%98%E9%9B%84%E8%A6%AA%E5%AD%90%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%8088%E9%96%8B%E5%B9%95/ar-AA29lipv",
+      "canonical_url": "https://www.msn.com/zh-tw/news/national/%E5%85%A8%E5%9C%8B%E6%9C%80%E5%A4%A7%E5%8D%8A%E5%AE%A4%E5%85%A7%E9%AB%98%E9%9B%84%E8%A6%AA%E5%AD%90%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%8088%E9%96%8B%E5%B9%95/ar-AA29lipv",
+      "image_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "全國最大半室內高雄親子遊樂園區8/8開幕。[NOWNEWS今日新聞]高雄市政府活化台鐵高雄機廠舊有場域，打造「全台最大半室內」、全面免費開放的親子遊憩場域「高雄親子遊樂園區」，園區將於8月8日父親節正式開幕，不僅特別邀請高雄熊與YOYO家族香 ...",
+      "analysis": {
+        "overview": "全國最大半室內高雄親子遊樂園區8/8開幕。[NOWNEWS今日新聞]高雄市政府活化台鐵高雄機廠舊有場域，打造「全台最大半室內」、全面免費開放的親子遊憩場域「高雄親子遊樂園區」，園區將於8月8日父親節正式開幕，不僅特別邀請高雄熊與YOYO家族香 ...",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "msn.com",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "半室內空間雨天可遊玩且全面免費開放，場域寬敞適合孩童盡情放電，家長也能輕鬆陪同休息。",
+      "published_at": "2026-08-04T05:28:00+00:00",
+      "collected_at": "2026-08-04T14:41:17.753961+00:00",
+      "query": "台灣 親子飯店 親子樂園"
+    },
+    {
+      "id": "https-n-yam-com-article-20260804564992",
+      "title": "全台最大免費親子樂園8/8開幕！6米滑水道、YOYO明星陪玩嗨翻高雄 | 蕃新聞",
+      "url": "https://n.yam.com/Article/20260804564992",
+      "canonical_url": "https://n.yam.com/Article/20260804564992",
+      "image_url": "https://ni.yam.com/20260804/aaffe83887a518f068b21ab364bb2928-209e915501421ffe.jpg",
+      "images": [
+        "https://ni.yam.com/20260804/aaffe83887a518f068b21ab364bb2928-209e915501421ffe.jpg",
+        "https://img.newstaiwan.net/2026/08/aaffe83887a518f068b21ab364bb2928.jpg",
+        "https://img.newstaiwan.net/2026/08/5fc8b8d56ed1798818559bccdf43c245.jpg",
+        "https://img.newstaiwan.net/2026/08/015a7b1fa50f2f1d9f34c38eef6b84bb-scaled.jpg",
+        "https://img.newstaiwan.net/2026/08/994c59c0f09ac54923102715a9aef9ac.jpg",
+        "https://img.newstaiwan.net/2026/08/efabdac3d3364cb442ad2f1e598ae7ef.jpg",
+        "https://img.newstaiwan.net/2026/08/d5017636ca5843d25191444497453e3a-scaled.jpg",
+        "https://img.newstaiwan.net/2026/08/13aba6c3a0954c186c1bce29a5ea3e6f-scaled.jpg"
+      ],
+      "summary": "全台最大免費親子樂園8/8開幕！6米滑水道、YOYO明星陪玩嗨翻高雄 | 蕃新聞。6米滑水道、YOYO明星陪玩嗨翻高雄 【記者 王苡蘋╱高雄 報導】高雄暑假再掀旅遊熱潮！高雄市政府活化台鐵高雄機廠舊場域，打造全台最大、全面免費開放的半室內親子遊憩空間「高雄親子遊樂園區」，將於8月8日父親節正式開幕。園區不僅保留機廠挑高鋼構與鐵道工業風特色，更規劃30多項免費遊樂設施，搭配連續三個週末限定的氣墊水樂園、YOYO明星見面會、卡通明星互動、美食市集及舞台表演，打造今夏最強親子旅遊新地標。高雄市長陳其邁表示，高雄持續推動城市空間活化，將歷史建築結合公共建設，打造兼具休閒、觀光與教育功能的新場域。全新啟用的「高雄親子遊樂園區」不僅是全國面積最大的半室內親子遊憩空間，也是高雄首座融合遊戲、運動及教育體驗的公立親子樂園，讓大小朋友不受天候影響，全年都能安心遊玩。園區完整保留台鐵高雄機廠歷史風貌，並設置天車網繩遊藝裝置、抱石攀岩區、跑酷練習場、雲朵彈跳床、輪動坡道場等30多項免費設施，讓孩子在探索、挑戰與互動中盡情放電，也讓家長共享親子歡樂時光。",
+      "analysis": {
+        "overview": "全台最大免費親子樂園8/8開幕！6米滑水道、YOYO明星陪玩嗨翻高雄 | 蕃新聞。6米滑水道、YOYO明星陪玩嗨翻高雄 【記者 王苡蘋╱高雄 報導】高雄暑假再掀旅遊熱潮！高雄市政府活化台鐵高雄機廠舊場域，打造全台最大、全面免費開放的半室內親子遊憩空間「高雄親子遊樂園區」，將於8月8日父親節正式開幕。園區不僅保留機廠挑高鋼構與鐵道工業風特色，更規劃30多項免費遊樂設施，搭配連續三個週末限定的氣墊水樂園、YOYO明星見面會、卡通明星互動、美食市集及舞台表演，打造今夏最強親子旅遊新地標。高雄市長陳其邁表示，高雄持續推動城",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "n.yam.com",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "30多項免費遊樂設施包含攀岩、跑酷、彈跳床等，半室內空間不受天候影響，下雨天也有備案可玩，全年都適合帶孩子盡情放電。",
+      "published_at": "2026-08-04T05:24:00+00:00",
+      "collected_at": "2026-08-04T14:41:26.545294+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmibefvx3lxte94t3hru2t4mzrgd1u2r1j2ae9teun4w",
+      "title": "免門票爽玩30項設施！高雄親子樂園開園水樂園今下午開放預約- 瘋台灣",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94T3hrU2t4MzRGd1U2R1J2aE9teUN4WHI0aVExT3ZfVV9KSWRybjY1MV9OeXpUMjFQblJlSTR3ekVxOWdmT0FKb1J6NFlUUVJsaDIyNFNGVF9fcUdpS3o5LWFUN1A2UW1oYUtKUA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94T3hrU2t4MzRGd1U2R1J2aE9teUN4WHI0aVExT3ZfVV9KSWRybjY1MV9OeXpUMjFQblJlSTR3ekVxOWdmT0FKb1J6NFlUUVJsaDIyNFNGVF9fcUdpS3o5LWFUN1A2UW1oYUtKUA?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "免門票爽玩30項設施！高雄親子樂園開園水樂園今下午開放預約- 瘋台灣。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "免門票爽玩30項設施！高雄親子樂園開園水樂園今下午開放預約- 瘋台灣。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "觸mii",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "免門票暢玩30項設施，家長省荷包又能讓小孩盡情放電，且有水樂園可消暑，雨天也有室內設施可當作備案。",
+      "published_at": "2026-08-04T05:04:00+00:00",
+      "collected_at": "2026-08-04T14:41:32.046635+00:00",
+      "query": "台灣 室內親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiigfbvv95cuxpbup3qnn5zlpfzfczck1qq1hjemnub",
+      "title": "全國最大半室內高雄親子遊樂園區8/8開幕 - 生活新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbUp3QnN5ZlpfZFczck1qQ1hjemNubWJWRHdtQ0pFVEt2akVEOGtkNUQtd3dKbC1janBpOHpNQ3FQY0dFYXM1VFlWWjViR3l6eFhWMll1cVpkcm9sRXRzV1A1eThBc0hDR1NGWnd4X2p1Vm1peFNzcFVwajZGcW9ldEhOVmhwcTJEd0E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbUp3QnN5ZlpfZFczck1qQ1hjemNubWJWRHdtQ0pFVEt2akVEOGtkNUQtd3dKbC1janBpOHpNQ3FQY0dFYXM1VFlWWjViR3l6eFhWMll1cVpkcm9sRXRzV1A1eThBc0hDR1NGWnd4X2p1Vm1peFNzcFVwajZGcW9ldEhOVmhwcTJEd0E?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "全國最大半室內高雄親子遊樂園區8/8開幕 - 生活新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "全國最大半室內高雄親子遊樂園區8/8開幕 - 生活新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "放電",
+        "室內"
+      ],
+      "reason": "半室內空間設計，下雨天也有備案，全國最大規模遊樂園區，空間寬敞適合小孩盡情放電玩耍。",
+      "published_at": "2026-08-04T04:28:32+00:00",
+      "collected_at": "2026-08-04T14:41:38.185293+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmitefvx3lxte5yui1lek9suno5oehfuhjsem13d3bhs",
+      "title": "全國最大半室內「高雄親子遊樂園區」8/8正式開幕",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yUi1Lek9sUno5OEhfUHJSem13d3BHSVRkZGk4TnZKdll4d1ZEUmRaZ2dUZWE4R1JkdVA0ZFBWZXVVLU41QUp4c1VmazbSAVJBVV95cUxQbml0UzZfOTY2bUZWdlRSNzNPR1g1anJVbndPR3hBeTdjRGJfdlNCdlJXblRFYjhWRHJtN3VUSlphbFhhTUpVTXRNclNwRG4zakpR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yUi1Lek9sUno5OEhfUHJSem13d3BHSVRkZGk4TnZKdll4d1ZEUmRaZ2dUZWE4R1JkdVA0ZFBWZXVVLU41QUp4c1VmazbSAVJBVV95cUxQbml0UzZfOTY2bUZWdlRSNzNPR1g1anJVbndPR3hBeTdjRGJfdlNCdlJXblRFYjhWRHJtN3VUSlphbFhhTUpVTXRNclNwRG4zakpR?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "全國最大半室內「高雄親子遊樂園區」8/8正式開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "全國最大半室內「高雄親子遊樂園區」8/8正式開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "NOWnews今日新聞",
+      "tags": [
+        "室內",
+        "放電"
+      ],
+      "reason": "半室內空間不怕日曬雨淋，高雄夏天悶熱也能涼爽放電，遊樂設施多樣適合孩子盡情奔跑消耗體力。",
+      "published_at": "2026-08-04T04:28:32+00:00",
+      "collected_at": "2026-08-04T14:41:48.717430+00:00",
+      "query": "台灣 室內親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiu0fvx3lxte5hymzoekcxuxnnc0hqluo0cnhavtzkc",
+      "title": "高雄親子遊樂園區8月8日正式開幕全國最大半室內、30項設施全面免費暑假加碼戶外水樂園、YOYO家族",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HYmZoekcxUXNnc0hqLUo0cnhaVTZkcGh0TEVyN2RqcGQ2LTBtVmpSMVhReWE3M21fci1qQ21WOHVMN2RKRFBWQ2hITEQyUDRaLVpj?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HYmZoekcxUXNnc0hqLUo0cnhaVTZkcGh0TEVyN2RqcGQ2LTBtVmpSMVhReWE3M21fci1qQ21WOHVMN2RKRFBWQ2hITEQyUDRaLVpj?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區8月8日正式開幕全國最大半室內、30項設施全面免費暑假加碼戶外水樂園、YOYO家族。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區8月8日正式開幕全國最大半室內、30項設施全面免費暑假加碼戶外水樂園、YOYO家族。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "高雄旅遊網",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "30項設施全面免費且為半室內空間，夏天有水樂園可玩，不必擔心日曬雨淋，小孩可以盡情放電。",
+      "published_at": "2026-08-04T04:21:16+00:00",
+      "collected_at": "2026-08-04T14:41:55.596458+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmikwfbvv95cuxoyjvdnwdmz1jguwpxmghennc3cgxvv",
+      "title": "全台最大免費親子樂園8/8開幕！6米滑水道、YOYO明星陪玩嗨翻高雄",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYjVDNWdMZ1JGUWpxMGhENnc3cGxvVm9VYWk3cXZXY1lKVlhjYlREV094VWUtVld0TEFwckdHMnYwcXNndGJaRUhQVUFHMGNuSHpsZy0wRENRcUozVHNsQll2bWs2TEJDb2dFYThkYXhyMGduWkpZY3JEMG1acEY2T0FwUlNtdGRHQTQwS1lVUXpuX0E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYjVDNWdMZ1JGUWpxMGhENnc3cGxvVm9VYWk3cXZXY1lKVlhjYlREV094VWUtVld0TEFwckdHMnYwcXNndGJaRUhQVUFHMGNuSHpsZy0wRENRcUozVHNsQll2bWs2TEJDb2dFYThkYXhyMGduWkpZY3JEMG1acEY2T0FwUlNtdGRHQTQwS1lVUXpuX0E?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "全台最大免費親子樂園8/8開幕！6米滑水道、YOYO明星陪玩嗨翻高雄。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "全台最大免費親子樂園8/8開幕！6米滑水道、YOYO明星陪玩嗨翻高雄。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "6米滑水道刺激好玩，加上YOYO明星陪玩能吸引小朋友注意，讓孩子盡情放電，全台最大規模且免費入場適合全家同樂。",
+      "published_at": "2026-08-04T03:44:25+00:00",
+      "collected_at": "2026-08-04T14:42:01.377017+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-news-ltn-com-tw-news-kaohsiung-breakingnews-5527713",
+      "title": "高雄親子遊樂園8/8開幕 搶先開箱試玩 - 高雄市 - 自由時報電子報",
+      "url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5527713",
+      "canonical_url": "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5527713",
+      "image_url": "https://img.ltn.com.tw/Upload/news/600/2026/08/04/5527713_1_1.jpg",
+      "images": [
+        "https://img.ltn.com.tw/Upload/news/600/2026/08/04/5527713_1_1.jpg",
+        "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/assets/images/x.png",
+        "https://ad.doubleclick.net/ddm/activity/src=9530821;type=invmedia;cat=ltn_w0;u1=news;u2=高雄市;u3=5527713;u4=;u5=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1",
+        "https://b.scorecardresearch.com/p?c1=2&c2=18368781&cv=2.0&cj=1",
+        "https://pv6.ltn.com.tw/impression?ano=",
+        "https://cache.ltn.com.tw/images/sexno.png",
+        "https://cache.ltn.com.tw/images/sexyes.png",
+        "https://news.ltn.com.tw/news/Kaohsiung/breakingnews/assets/images/default800.jpg"
+      ],
+      "summary": "高雄親子遊樂園8/8開幕 搶先開箱試玩 - 高雄市 - 自由時報電子報。為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。（「跟著左豪吃不胖」臉書粉專提供） 台鐵高雄機廠轉型打造的「高雄親子遊樂園區」將於8月8日正式開園營運，場內有超過30項設施提供親子免費玩，大小朋友玩得相當盡興。高雄親子遊樂園區為佔地1.5公頃的半露天全齡室內遊樂場，有超過30種免費遊玩項目，包括全台首創的「泡泡雲朵彈跳床」、極速刺激的「Pump Track．破浪騎乘場」、跑酷練習場及考驗膽量的高空纜繩與感官遊戲，從幼童到長者都能體驗。請繼續往下閱讀... 市府近日邀請網紅及相關團體搶先體驗，大家都玩得不亦樂乎。臉書粉專「跟著左豪吃不胖」表示，此處是暑假遛小孩首選；臉書粉專「跟著尼力吃喝玩樂」也說，這裡是南台灣最強的免費避暑神級景點，讓孩子可以盡情放電，加上半室內不曝曬，玩得更盡興。台北市極限運動協會試玩後指出，高雄親子樂園的專業跑酷場地很好玩，也是台灣目前高度最高的一座，旁邊的設施也都超級好玩到不想回家了。",
+      "analysis": {
+        "overview": "高雄親子遊樂園8/8開幕 搶先開箱試玩 - 高雄市 - 自由時報電子報。為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。（「跟著左豪吃不胖」臉書粉專提供） 台鐵高雄機廠轉型打造的「高雄親子遊樂園區」將於8月8日正式開園營運，場內有超過30項設施提供親子免費玩，大小朋友玩得相當盡興。高雄親子遊樂園區為佔地1.5公頃的半露天全齡室內遊樂場，有超過30種免費遊玩項目，包括全台首創的「泡泡雲朵彈跳床」、極速刺激的「Pump Track．破浪騎乘場」、跑酷練習場及考驗膽量",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "news.ltn.com.tw",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "超過30項免費設施含全台首創泡泡雲朵彈跳床與跑酷場，半室內空間夏天不曝曬，是南台灣免費避暑放電首選。",
+      "published_at": "2026-08-04T03:22:00+00:00",
+      "collected_at": "2026-08-04T14:42:10.010231+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-n-yam-com-article-20260804170810",
+      "title": "高雄最大親子樂園開幕！台鐵機廠變身免費遊戲天堂　8月8日全國爸媽衝一波 | 蕃新聞",
+      "url": "https://n.yam.com/Article/20260804170810",
+      "canonical_url": "https://n.yam.com/Article/20260804170810",
+      "image_url": "https://ni.yam.com/20260804/s--141459665-1500x1125-4daa5808b9cc1153.jpg",
+      "images": [
+        "https://ni.yam.com/20260804/s--141459665-1500x1125-4daa5808b9cc1153.jpg",
+        "https://news.586.com.tw/wp-content/uploads/2026/08/s--141459665-800x600.jpg",
+        "https://news.586.com.tw/wp-content/uploads/2026/08/s--141459670-800x600.jpg",
+        "https://news.586.com.tw/wp-content/uploads/2026/08/s--141459667-800x600.jpg",
+        "https://ni.yam.com/20260715/dq-260716-001.png",
+        "https://ni.yam.com/20260730/757969627_1505203694957106_7873595428921215662_n-c75f5e965f3150cb.jpg",
+        "https://ni.yam.com/20260803/S__58646544_0-de64946ad5e763e5.jpg",
+        "https://ni.yam.com/20260728/e7d643ad702fb8ee11b28f7801dd1e12-990e8c1db4f017a2.jpg"
+      ],
+      "summary": "高雄最大親子樂園開幕！台鐵機廠變身免費遊戲天堂　8月8日全國爸媽衝一波 | 蕃新聞。【點傳媒／記者張淑慧報導】高雄再添暑假親子新亮點！繼打造全台最大戶外親水空間「星光水岸公園」後，高雄市政府持續活化城市閒置空間，將台鐵高雄機廠舊址轉型為全台最大「半室內」免費親子遊憩場域「高雄親子遊樂園區」，保留原有挑高鋼構與鐵道工業風貌，結合遊戲、教育與休閒功能，將於8月8日父親節正式開幕，邀請全國親子家庭到高雄歡度暑假。高雄市長陳其邁表示，市府近年積極推動城市空間再造，透過歷史建築保存與公共建設結合，讓老場域展現新生命。「高雄親子遊樂園區」不僅是全國最大公立半室內親子遊樂空間，更完整保留台鐵高雄機廠特色，導入多元遊憩設施，打造不受天候影響的親子休閒場所。園區規劃超過30項免費遊樂設施，包括天車網繩遊藝裝置、抱石攀岩、跑酷練習場、雲朵彈跳床及輪動坡道場等，讓孩子在挑戰體能、探索遊戲的過程中培養創造力，也提供家長與孩子共享歡樂時光的新選擇。為迎接開幕，觀光局邀請高雄熊與YOYO家族香蕉哥哥擔任觀光大使，自8月8日至8月23日連續三個週末推出暑假限定活動，包含YOYO明星見面會、卡通明星互動、親子舞台演出、街頭藝人表演、魔術秀及特色市集等，打造親子滿滿回憶的歡樂假期。",
+      "analysis": {
+        "overview": "高雄最大親子樂園開幕！台鐵機廠變身免費遊戲天堂　8月8日全國爸媽衝一波 | 蕃新聞。【點傳媒／記者張淑慧報導】高雄再添暑假親子新亮點！繼打造全台最大戶外親水空間「星光水岸公園」後，高雄市政府持續活化城市閒置空間，將台鐵高雄機廠舊址轉型為全台最大「半室內」免費親子遊憩場域「高雄親子遊樂園區」，保留原有挑高鋼構與鐵道工業風貌，結合遊戲、教育與休閒功能，將於8月8日父親節正式開幕，邀請全國親子家庭到高雄歡度暑假。高雄市長陳其邁表示，市府近年積極推動城市空間再造，透過歷史建築保存與公共建設結合，讓老場域展現新生命。「高雄親",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "n.yam.com",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "半室內空間不受天候影響，雨天也能放電，且保留鐵道工業風貌超過30項設施讓孩子盡情探索體能。",
+      "published_at": "2026-08-04T03:05:00+00:00",
+      "collected_at": "2026-08-04T14:42:18.277130+00:00",
+      "query": "台灣 室內親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmijajbvv95cuxpcmnbvmmtngxbvmzmmk5irenjzzlvt",
+      "title": "高雄親子遊樂園8/8開幕 搶先開箱試玩",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPcmNBVmMtNGxBVmZMMk5iRENJZzlVTlNwT25IWGM1V3J0bm1NQ2Z2VHNiVWVBT2Y4amlfd21VVTc2S1pvLXJpa1pvdXlZaS1CUVZyekI2aDBpTFZEOVc4ZEV3cy1rTUYySmtDak5JMDlwSVhVeHZ6bTVva1FuR2JCNVotaVdhMVF0SkxBYmdKUmc5ei03ZHdnMHBtLTVseko4SGl1UTJTN2JSOF9iUVY2VVdwZ2JtN09JNkdHbzJQUkpiT1o5emJZb3JOczB1c3EzN3hnSDB6aGVTakViS25qQnZjMkYtTEFkUEZTRW1YOERwWGlFWmJKakdJMEVieWUtVW5hVUNjNVp6TDZN?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPcmNBVmMtNGxBVmZMMk5iRENJZzlVTlNwT25IWGM1V3J0bm1NQ2Z2VHNiVWVBT2Y4amlfd21VVTc2S1pvLXJpa1pvdXlZaS1CUVZyekI2aDBpTFZEOVc4ZEV3cy1rTUYySmtDak5JMDlwSVhVeHZ6bTVva1FuR2JCNVotaVdhMVF0SkxBYmdKUmc5ei03ZHdnMHBtLTVseko4SGl1UTJTN2JSOF9iUVY2VVdwZ2JtN09JNkdHbzJQUkpiT1o5emJZb3JOczB1c3EzN3hnSDB6aGVTakViS25qQnZjMkYtTEFkUEZTRW1YOERwWGlFWmJKakdJMEVieWUtVW5hVUNjNVp6TDZN?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園8/8開幕 搶先開箱試玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園8/8開幕 搶先開箱試玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "高雄新開幕親子遊樂園有多元遊樂設施，孩子盡情放電、家長輕鬆陪玩。",
+      "published_at": "2026-08-04T02:38:20+00:00",
+      "collected_at": "2026-08-04T14:42:24.941656+00:00",
+      "query": "台灣 免費親子景點"
     }
   ]
 }
