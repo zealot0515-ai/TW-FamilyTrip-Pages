@@ -1,8 +1,542 @@
 {
-  "updated_at": "2026-08-04T23:20:32.814739+00:00",
+  "updated_at": "2026-08-05T14:36:08.113431+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfa5bxrxqxnpce1fqzfttnzhlwzxn2hva",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5bXRxQXNpcE1FQzFtTnZHLWZXN2hva2NGdkVkTDlUVHhBSy1PSVdhQUtpRUtfNFhVcEdncTkzX1BNUGtpM1VRQVRDcGR6VUlIUUE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5bXRxQXNpcE1FQzFtTnZHLWZXN2hva2NGdkVkTDlUVHhBSy1PSVdhQUtpRUtfNFhVcEdncTkzX1BNUGtpM1VRQVRDcGR6VUlIUUE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此為 Google 新聞聚合頁面，非旅遊相關文章，無法提供親子踏青推薦。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google 新聞聚合頁面，非旅遊相關文章，無法提供親子踏青推薦。",
+      "published_at": "2026-08-05T11:59:00+00:00",
+      "collected_at": "2026-08-05T14:32:35.905206+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfbmeunrvl9sq2nxb0fanw50zvdkn3vdn",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmeUNRVl9sQ2NXb0FaNW50ZVdKN3VDNFNWX1FPY2FKeWRaTWd0Y2RYYTAzMW51U2RXWkRrUmlZcThNa2ZKclBmVGJUYzlJaEViQ2c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmeUNRVl9sQ2NXb0FaNW50ZVdKN3VDNFNWX1FPY2FKeWRaTWd0Y2RYYTAzMW51U2RXWkRrUmlZcThNa2ZKclBmVGJUYzlJaEViQ2c?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此為 Google 新聞 RSS 摘要，屬一般新聞彙整頁面，與台灣親子踏青目的地無關，無法提供分類與推薦理由。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google 新聞 RSS 摘要，屬一般新聞彙整頁面，與台灣親子踏青目的地無關，無法提供分類與推薦理由。",
+      "published_at": "2026-08-05T11:59:00+00:00",
+      "collected_at": "2026-08-05T14:32:43.052605+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiu0fvx3lxte1hdtryn2p3ew9nm29rmmnvckfqu1l6y",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HdTRyN2p3eW9NM29RMmNvckFQU1l6YmxKdjFoMl9nZ25EQXRyaV9iel95UzF0TlRSWFZEVy15RUZwODFWWDlwY3h2aVZYV1VaOW1n?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HdTRyN2p3eW9NM29RMmNvckFQU1l6YmxKdjFoMl9nZ25EQXRyaV9iel95UzF0TlRSWFZEVy15RUZwODFWWDlwY3h2aVZYV1VaOW1n?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "具備親子出遊題材，可作為週末備選靈感。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "台灣好報",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "適合親子出遊，建議出發前再確認開放時間與交通資訊。",
+      "published_at": "2026-08-05T11:33:52+00:00",
+      "collected_at": "2026-08-05T14:32:47.577288+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmikwfbvv95cuxpchixwwjpwmtnoersq2tuqtrzvjzoq",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcHIxWWJPWmtNOERsQ2tuQTRZVjZoQ0c3X0lDZ3RhbHJtY19memh3d1kxcHhwdHdtX19PLWlidkIxWTBLM3VCUFF0NktVTjZ6Z0xqTzhtNDVRa0hxQXhFQ1owRGlnSV91NlJERlRZek84clU3a0pGM3pSdldMNkdpOGZWRGxhZzAtSjJkNld6bjVJXzg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcHIxWWJPWmtNOERsQ2tuQTRZVjZoQ0c3X0lDZ3RhbHJtY19memh3d1kxcHhwdHdtX19PLWlidkIxWTBLM3VCUFF0NktVTjZ6Z0xqTzhtNDVRa0hxQXhFQ1owRGlnSV91NlJERlRZek84clU3a0pGM3pSdldMNkdpOGZWRGxhZzAtSjJkNld6bjVJXzg?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此內容為 Google 新聞 RSS 摘要，與台灣親子旅遊無關，無法推薦。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此內容為 Google 新聞 RSS 摘要，與台灣親子旅遊無關，無法推薦。",
+      "published_at": "2026-08-05T11:33:52+00:00",
+      "collected_at": "2026-08-05T14:32:51.785841+00:00",
+      "query": "台南 高雄 屏東 親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiu0fvx3lxte5dvf8zt0thanvix1jjcmrqckvtzw81e",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DVF8zT0tHanViX1JJcmRqckVtZW81eE1Ma1ZIdVh5Wkx2U3dLZm5BdmZQR1QzUWpJNlI0SjlYSFJqY1NXcENVZ1NwQlNYQVgtZ2k0?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DVF8zT0tHanViX1JJcmRqckVtZW81eE1Ma1ZIdVh5Wkx2U3dLZm5BdmZQR1QzUWpJNlI0SjlYSFJqY1NXcENVZ1NwQlNYQVgtZ2k0?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此內容為Google新聞聚合頁面，非親子旅遊相關文章，無法提供分類與推薦。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "台灣好報",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此內容為Google新聞聚合頁面，非親子旅遊相關文章，無法提供分類與推薦。",
+      "published_at": "2026-08-05T11:21:41+00:00",
+      "collected_at": "2026-08-05T14:32:57.322747+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmitkfvx3lxte1puu43eke0zhc4au1fvlfzb1rbqjvoo",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pUU43ekE0ZHc4aU1FVlFZb1RBQjVOOGhCR3BkWVVLMjFXM2JZX183QXU2eTJzRkVPTHkwQXRyMzFfZlljWlNYZElIbERWdw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pUU43ekE0ZHc4aU1FVlFZb1RBQjVOOGhCR3BkWVVLMjFXM2JZX183QXU2eTJzRkVPTHkwQXRyMzFfZlljWlNYZElIbERWdw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此為Google新聞RSS摘要，非旅遊相關內容，不適用於親子旅遊推薦。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "風傳媒",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為Google新聞RSS摘要，非旅遊相關內容，不適用於親子旅遊推薦。",
+      "published_at": "2026-08-05T10:48:24+00:00",
+      "collected_at": "2026-08-05T14:33:07.618931+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxtfbcr1pub1jfuxlyn3zps1ozohv0ylr2c",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCR1pUb1JfUXlyN3ZpS1ozOHV0YlR2cWVWX0I4cTFBWDVObXdvUlV0a2x5blFTMXZLTG9wN05VMlk1NjdQNThWXzlSeXFCSlJySlFEbzB3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCR1pUb1JfUXlyN3ZpS1ozOHV0YlR2cWVWX0I4cTFBWDVObXdvUlV0a2x5blFTMXZLTG9wN05VMlk1NjdQNThWXzlSeXFCSlJySlFEbzB3?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "具備親子出遊題材，可作為週末備選靈感。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "適合親子出遊，建議出發前再確認開放時間與交通資訊。",
+      "published_at": "2026-08-05T10:31:40+00:00",
+      "collected_at": "2026-08-05T14:33:15.410177+00:00",
+      "query": "台南 高雄 屏東 親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfbmevvndgnkwurkwwfjq1heumlsttdiv",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmeVVNdGNkWURKWWFJQ1hEUmlsTTdiVWNCbnlqWnJVbnBMX1hCRjN4Tm9nSl9rZUpSR0xjRk1keGw3c3NQclk1MS1QcVF0UTBEWVE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmeVVNdGNkWURKWWFJQ1hEUmlsTTdiVWNCbnlqWnJVbnBMX1hCRjN4Tm9nSl9rZUpSR0xjRk1keGw3c3NQclk1MS1QcVF0UTBEWVE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此為Google新聞RSS文章，非親子旅遊相關內容，無法提供分類與推薦理由。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為Google新聞RSS文章，非親子旅遊相關內容，無法提供分類與推薦理由。",
+      "published_at": "2026-08-05T10:24:00+00:00",
+      "collected_at": "2026-08-05T14:33:20.838781+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmizgjbvv95cuxqv1nllulfrlbjempfotrnvgzyx0t2v",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQV1NLLUlFRlBjempfOTRnVGZyX0t2VUlyMm1BR3pLdkVqd1NmN1djZkRyRTRqTnoxa0NQN3pUZjlkT2FYRkpzVjM5dXFFOXhJdGVsamJ1S0tsdWVjWjRsTFQ2NkFvZmdJVEVpeG5PaFNWcXJZTmFqM2daWXRtVlBINWo0V1JmTnpLdkhXUWpWNGc3SUFheUVlaHRIMUtnZy1BR1d5UVoyUjZsUVE1Ym95aGpZRk5YeEZ5UGhnV2FSRTcwc1lfWHBjQUZXemV1SUEtOGFYUDN4MzlKNnJJaWJTM2FIOVVHdTFLUWlzaFlEWnVWc3NyeHZlZXE2SXRmeFV4MS1hVGdyTUhFWkV2aEZLNXp3cWtZd25wcHBIMHZianY4STNYeGp5M1ZqX1FYV2MwU3ozTEpyVTBGb1BkR3NEZUFFWjRTSW5MVzB1WXZ3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQV1NLLUlFRlBjempfOTRnVGZyX0t2VUlyMm1BR3pLdkVqd1NmN1djZkRyRTRqTnoxa0NQN3pUZjlkT2FYRkpzVjM5dXFFOXhJdGVsamJ1S0tsdWVjWjRsTFQ2NkFvZmdJVEVpeG5PaFNWcXJZTmFqM2daWXRtVlBINWo0V1JmTnpLdkhXUWpWNGc3SUFheUVlaHRIMUtnZy1BR1d5UVoyUjZsUVE1Ym95aGpZRk5YeEZ5UGhnV2FSRTcwc1lfWHBjQUZXemV1SUEtOGFYUDN4MzlKNnJJaWJTM2FIOVVHdTFLUWlzaFlEWnVWc3NyeHZlZXE2SXRmeFV4MS1hVGdyTUhFWkV2aEZLNXp3cWtZd25wcHBIMHZianY4STNYeGp5M1ZqX1FYV2MwU3ozTEpyVTBGb1BkR3NEZUFFWjRTSW5MVzB1WXZ3?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此為 Google 新聞 RSS 連結，非親子旅遊相關內容，不適用於親子踏青推薦。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "台灣好新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google 新聞 RSS 連結，非親子旅遊相關內容，不適用於親子踏青推薦。",
+      "published_at": "2026-08-05T10:20:22+00:00",
+      "collected_at": "2026-08-05T14:33:33.553078+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte90r1eyognmy3hxbwzjafvoyjhst1j3m",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90R1EyOGNmY3hxbWZJaFVOYjhST1J3MlNlX2REM25sdzFZQmxQTDk1U0tnVWkxblRLUVFJTXNQSEJUbFM5ejkzWUxDMzhSRkZxbGo2UkxR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90R1EyOGNmY3hxbWZJaFVOYjhST1J3MlNlX2REM25sdzFZQmxQTDk1U0tnVWkxblRLUVFJTXNQSEJUbFM5ejkzWUxDMzhSRkZxbGo2UkxR?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-08-05T09:22:24+00:00",
+      "collected_at": "2026-08-05T14:33:42.684763+00:00",
+      "query": "台灣 週末親子 去哪裡"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmipanbvv95cuxovu5xtfd4vurjzfjwbuvqtdl3bkrvn",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOVU5XTFd4VURJZFJWbUVQTDl3bkRvNzBrVXNEUi1NTFRLVWw3S3ZoVWFnOEUxWG55aVhZWV9sVlBjMXUxMV9MdldHbU5qeDVmdktJQ18xZmFoZGZUOHhOQW5rZXZ5THY1Q2dQYXdlMF9wRE8yNkt1VEFHS0pPd1h5amRhQ2p2UkYyc2hwdmpsUXRCLWZwY1JTbDNzb0tNVng1ektzN3k2VTI2SWV1T2lINXZxVWpTM2w2SGxYcW9HX2o0SXI1dGh6bkJYRlZEaTNTU09xclRkd3RtTlJ5NGdJSEhLamo2cGwzclBfcTVzd3RJQzJlVlVndE9hb0wxRmR3a0V3VXEyLVh3S2dJbnhYWmg3eFcybGhLZEhiMmU3T3ZfcEhucDZhQXQ4WURlcmsyMVBGTlBVV3E5dWdHNmYzU2JvTmtYdXhGTG9aTVJqTEY1dVhiRkxtTnNob0NNaEc2WTlpYy13NVYtZl9aRFpVZ0EwUFdkZHBYOE9Xby1MTGxHRC1Sc1RQTThia285MENBdG1GYzFzdExTNDYxYlFiMWJpTWY?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOVU5XTFd4VURJZFJWbUVQTDl3bkRvNzBrVXNEUi1NTFRLVWw3S3ZoVWFnOEUxWG55aVhZWV9sVlBjMXUxMV9MdldHbU5qeDVmdktJQ18xZmFoZGZUOHhOQW5rZXZ5THY1Q2dQYXdlMF9wRE8yNkt1VEFHS0pPd1h5amRhQ2p2UkYyc2hwdmpsUXRCLWZwY1JTbDNzb0tNVng1ektzN3k2VTI2SWV1T2lINXZxVWpTM2w2SGxYcW9HX2o0SXI1dGh6bkJYRlZEaTNTU09xclRkd3RtTlJ5NGdJSEhLamo2cGwzclBfcTVzd3RJQzJlVlVndE9hb0wxRmR3a0V3VXEyLVh3S2dJbnhYWmg3eFcybGhLZEhiMmU3T3ZfcEhucDZhQXQ4WURlcmsyMVBGTlBVV3E5dWdHNmYzU2JvTmtYdXhGTG9aTVJqTEY1dVhiRkxtTnNob0NNaEc2WTlpYy13NVYtZl9aRFpVZ0EwUFdkZHBYOE9Xby1MTGxHRC1Sc1RQTThia285MENBdG1GYzFzdExTNDYxYlFiMWJpTWY?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此為 Google 新聞 RSS 摘要，與親子旅遊主題無關，不建議收錄。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "life.tw",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google 新聞 RSS 摘要，與親子旅遊主題無關，不建議收錄。",
+      "published_at": "2026-08-05T08:39:21+00:00",
+      "collected_at": "2026-08-05T14:33:50.478591+00:00",
+      "query": "台南 高雄 屏東 親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmirkfvx3lxte45c2x0eed4yki2ws1fetrjmeloqzvas",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE45c2x0eEd4YkI2WS1feTRJMEloQzVaSmllVlV3SFVzek9wZzk1MEx1dEhzYzB6OVNIRjhhN08tS2RzS2hITGc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE45c2x0eEd4YkI2WS1feTRJMEloQzVaSmllVlV3SFVzek9wZzk1MEx1dEhzYzB6OVNIRjhhN08tS2RzS2hITGc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此為 Google 新聞摘要，非台灣親子旅遊相關文章，無法提供分類與推薦理由。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "台灣新聞雲報",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google 新聞摘要，非台灣親子旅遊相關文章，無法提供分類與推薦理由。",
+      "published_at": "2026-08-05T08:28:04+00:00",
+      "collected_at": "2026-08-05T14:33:58.943957+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte55exbtze8zqvu4mtbfsmzum3piz1ppe",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55eXBtZE8zQVU4MTBFSmZuM3pIZ1pPeE13aElCZlI0OENlbmJfYlY0d3RWVlotblU2cDJnZDNlSnhuU2FmX01tdzNnYV9KRlJTZF84WlFR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55eXBtZE8zQVU4MTBFSmZuM3pIZ1pPeE13aElCZlI0OENlbmJfYlY0d3RWVlotblU2cDJnZDNlSnhuU2FmX01tdzNnYV9KRlJTZF84WlFR?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此內容為 Google 新聞摘要，非台灣親子旅遊相關文章，無法進行分類與推薦。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此內容為 Google 新聞摘要，非台灣親子旅遊相關文章，無法進行分類與推薦。",
+      "published_at": "2026-08-05T06:01:48+00:00",
+      "collected_at": "2026-08-05T14:34:08.648656+00:00",
+      "query": "台灣 室內親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmilgvbvv95cuxnb2h2rjfzrmrnvlj3ctjdcm0tz2uzm",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMilgVBVV95cUxNb2h2RjFzRmRNVlJ3cTJDcm0tZ2UzMnpJd1JLRjJ1bEprVVc5bHJfVXgtRnppUHh2VFpPaFN4UUtKc0U4ZjQza0dDb2xQS0pJR0VGWXR2S3JLbUxEXzljVWlpYnhCOHFkSHNNRHJBZXcwMGQ1YmVTNlEtMll1ZEQ5QU0xRnlOTlJ6djRhUjBfR3BsbXRoWVdPVWpjY0d5bjVyczJTVXVpeFBndUZJTEJWazdWN0FSZGlwOGFIanRtTFQ0ODRqQW52X2JpaFJCblV4TkxmbXVvYl96RTlFMG0yUVhNSDcxR0hnRHBrTk9nLWtWOHdpMkVHZG42cXpXSHN6X3kwUWhna3RkSHNLM3F0V0lETnM4blc0alJVZEx1dlZ5U1NUUzZ5NDM4N21HbHplV05YWk1LelZfTW5JU1BneUVTVTI4eTF6ODd4TjZiQWh1bDRLTmJINm5BRWtwajQ1YlR6QXF6UjJjdURJY0htZDJfVDBRYVdJR0Jxd1l6T1NzcE1zR1RJWWh0RTFGbUVIeDkzRGpIN0RHVWlLY3Y4VnRQeExXUVAzakhEd0hIenBNWG9pYzdxQm5UYmtNV3hTcGF6Wl9GaHg1cERRMjR4dGhvOUdVdkV0Z0w3b1B2a2swMkduVm9TWHlORURRRG80dHRIX0NtRXhxV0JBQWVUYWtRM0llT2VoMzRaSjIxbEZ4Q1FrODQ4ODhhMk82QnFCQ0ZKclllb0hXQWJ3OG9UNjJtazRCRldwQ3BCTEtNSm5LTF9IbkVwVXJTaUVJcXJSYXZnZDJNcDZFSnlfYVJfOHRDVHZWVFVXTlRWUXVDNEw2UU0xM3I4SzJoUHFMUlh5OVJHTjVrQ09NdzZOb1JXMlF1UlJUdw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilgVBVV95cUxNb2h2RjFzRmRNVlJ3cTJDcm0tZ2UzMnpJd1JLRjJ1bEprVVc5bHJfVXgtRnppUHh2VFpPaFN4UUtKc0U4ZjQza0dDb2xQS0pJR0VGWXR2S3JLbUxEXzljVWlpYnhCOHFkSHNNRHJBZXcwMGQ1YmVTNlEtMll1ZEQ5QU0xRnlOTlJ6djRhUjBfR3BsbXRoWVdPVWpjY0d5bjVyczJTVXVpeFBndUZJTEJWazdWN0FSZGlwOGFIanRtTFQ0ODRqQW52X2JpaFJCblV4TkxmbXVvYl96RTlFMG0yUVhNSDcxR0hnRHBrTk9nLWtWOHdpMkVHZG42cXpXSHN6X3kwUWhna3RkSHNLM3F0V0lETnM4blc0alJVZEx1dlZ5U1NUUzZ5NDM4N21HbHplV05YWk1LelZfTW5JU1BneUVTVTI4eTF6ODd4TjZiQWh1bDRLTmJINm5BRWtwajQ1YlR6QXF6UjJjdURJY0htZDJfVDBRYVdJR0Jxd1l6T1NzcE1zR1RJWWh0RTFGbUVIeDkzRGpIN0RHVWlLY3Y4VnRQeExXUVAzakhEd0hIenBNWG9pYzdxQm5UYmtNV3hTcGF6Wl9GaHg1cERRMjR4dGhvOUdVdkV0Z0w3b1B2a2swMkduVm9TWHlORURRRG80dHRIX0NtRXhxV0JBQWVUYWtRM0llT2VoMzRaSjIxbEZ4Q1FrODQ4ODhhMk82QnFCQ0ZKclllb0hXQWJ3OG9UNjJtazRCRldwQ3BCTEtNSm5LTF9IbkVwVXJTaUVJcXJSYXZnZDJNcDZFSnlfYVJfOHRDVHZWVFVXTlRWUXVDNEw2UU0xM3I4SzJoUHFMUlh5OVJHTjVrQ09NdzZOb1JXMlF1UlJUdw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此為Google新聞RSS摘要，非旅遊相關文章，無法進行親子踏青分類與推薦。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為Google新聞RSS摘要，非旅遊相關文章，無法進行親子踏青分類與推薦。",
+      "published_at": "2026-08-05T05:59:06+00:00",
+      "collected_at": "2026-08-05T14:34:13.747942+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmi0ajbvv95cuxnlvfzr1f3mkpszxhpv1vlmnpvntbgn",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNLVFZR1F3MkpsZXhPV1VlMnpVNTBGN3dScVhHeTdXZDdjZUJkTHlXUmlERDV3Z0M4Wi10M1BqTEx2T3otclpfaVJCUTgwRTJRN1k3bmFWX1FtdW5UYTJiUmtrTlVQUHI1eHRjWVR0QlZ1T2Z6d2gzT0p3Si1JVGlzMllJMEhqeW9hbC1QSzVJcmJtRndXVVJHcXpkQVFfdkdQTFh3XzFfN21SQ24xUVFVRm01WTROencwNjBGTVdwZldveTVjbnV6cFpnVHFRUllhY1RVRzE0OGh1MkFuanRscjlhcGYxWC1CMUxSN3pzeVEtMUNiN3lXeGw5LXlvVGloQU9oRWR5bFl4RnVtelVESVRDZkltNjhXYXUxaEZNck5vUE0zb3pPM0pVVW1TWGhBRGxkUkJRMVhMZVk5WXdlX3ZjUnhfZlFwR1ROTUdmNnU?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNLVFZR1F3MkpsZXhPV1VlMnpVNTBGN3dScVhHeTdXZDdjZUJkTHlXUmlERDV3Z0M4Wi10M1BqTEx2T3otclpfaVJCUTgwRTJRN1k3bmFWX1FtdW5UYTJiUmtrTlVQUHI1eHRjWVR0QlZ1T2Z6d2gzT0p3Si1JVGlzMllJMEhqeW9hbC1QSzVJcmJtRndXVVJHcXpkQVFfdkdQTFh3XzFfN21SQ24xUVFVRm01WTROencwNjBGTVdwZldveTVjbnV6cFpnVHFRUllhY1RVRzE0OGh1MkFuanRscjlhcGYxWC1CMUxSN3pzeVEtMUNiN3lXeGw5LXlvVGloQU9oRWR5bFl4RnVtelVESVRDZkltNjhXYXUxaEZNck5vUE0zb3pPM0pVVW1TWGhBRGxkUkJRMVhMZVk5WXdlX3ZjUnhfZlFwR1ROTUdmNnU?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此內容為 Google 新聞 RSS 摘要，非旅遊文章，無法判斷是否適合親子出遊。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "life.tw",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此內容為 Google 新聞 RSS 摘要，非旅遊文章，無法判斷是否適合親子出遊。",
+      "published_at": "2026-08-05T05:36:00+00:00",
+      "collected_at": "2026-08-05T14:34:22.033698+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmijwnbvv95cuxoqjzvs2pxzedwbk1zrtuxrjkwmgdqy",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOQjZVS2pxZEdWbk1zRTUxRjkwMGdQY2pwcm1TV1dJRkNGQzlGRmtmQjl0SUtSbG1MbnMxdXlJU05ySWlGSlg0OTlmZUZFYTdzcHBnd2dkQjQ1bzZmWDlqeVZGNDZSY0NxQVl5dF9ZUUI1ang3ZkZBRUhQLXY3MHpBUGU4eU1ZWDJkY2hZVEtNZzdiQ2ZJLUI2ZlR4Q052ek1oSjdHQkY2VDRlbEs0ZW5NRGJpVkl4U0I2ajhWU0Nua29QWER6bzdHZTRicEYwZzRMcGxQRmpFTFlQQzZDYXZpM05MUElPM1FtMEVSZGUyeml2OVR4WXdPY1QwV0JuUjN5SnZxcExxOEhROXMzRjFEQkVTa1ZaX0tjNHhvSk5DTUtudHU1TDJVY1dzY1hXdURRWEpCWkJMeC1fdkVoYXJxaG9sRnozY2FSTnhta2ZJNlY2ZF9CZXhtRFItUWctYlNLUERaZEZKcVQ4bmJ0YXRmaHZXZ2ptanpqSTJROTNMc2JnTlI5YXdZbzFyM1N4YnM?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOQjZVS2pxZEdWbk1zRTUxRjkwMGdQY2pwcm1TV1dJRkNGQzlGRmtmQjl0SUtSbG1MbnMxdXlJU05ySWlGSlg0OTlmZUZFYTdzcHBnd2dkQjQ1bzZmWDlqeVZGNDZSY0NxQVl5dF9ZUUI1ang3ZkZBRUhQLXY3MHpBUGU4eU1ZWDJkY2hZVEtNZzdiQ2ZJLUI2ZlR4Q052ek1oSjdHQkY2VDRlbEs0ZW5NRGJpVkl4U0I2ajhWU0Nua29QWER6bzdHZTRicEYwZzRMcGxQRmpFTFlQQzZDYXZpM05MUElPM1FtMEVSZGUyeml2OVR4WXdPY1QwV0JuUjN5SnZxcExxOEhROXMzRjFEQkVTa1ZaX0tjNHhvSk5DTUtudHU1TDJVY1dzY1hXdURRWEpCWkJMeC1fdkVoYXJxaG9sRnozY2FSTnhta2ZJNlY2ZF9CZXhtRFItUWctYlNLUERaZEZKcVQ4bmJ0YXRmaHZXZ2ptanpqSTJROTNMc2JnTlI5YXdZbzFyM1N4YnM?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此為Google新聞RSS摘要，非台灣親子旅遊文章，無法提供分類與推薦理由。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "life.tw",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為Google新聞RSS摘要，非台灣親子旅遊文章，無法提供分類與推薦理由。",
+      "published_at": "2026-08-05T05:14:00+00:00",
+      "collected_at": "2026-08-05T14:34:30.735140+00:00",
+      "query": "台灣 室內親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiigfbvv95cuxpa3vaeha4qtitd2rcbuhprhjks0m1q",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3VaeHA4QTItd2RCbUhpRHJKS0M1QTlUSkpFcTZld3hmSTBLNnF5VGRxeWNNdEFMOENjQ3pNUXZTYkttM1FQSWpmSWp6OWZaazNXTWtERFdEeEI3U3N0Q1VDNFpQRkxJQ2dfMWNlUDV3LVBCOFEtcHNuMDFCZFRoU2owcmh5MzAtbWc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3VaeHA4QTItd2RCbUhpRHJKS0M1QTlUSkpFcTZld3hmSTBLNnF5VGRxeWNNdEFMOENjQ3pNUXZTYkttM1FQSWpmSWp6OWZaazNXTWtERFdEeEI3U3N0Q1VDNFpQRkxJQ2dfMWNlUDV3LVBCOFEtcHNuMDFCZFRoU2owcmh5MzAtbWc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此連結為Google新聞頻道，非台灣親子旅遊文章，無法提供推薦分類。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此連結為Google新聞頻道，非台灣親子旅遊文章，無法提供推薦分類。",
+      "published_at": "2026-08-05T03:07:31+00:00",
+      "collected_at": "2026-08-05T14:34:39.201413+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmi6gjbvv95cuxnykzjr3nbn0tiwutly2l0enf6ls1lo",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNYkZJR3NBN0tIWUtlY2l0enF6LS1LOUplYS1pVERiY2I4Zy1sUndOZUEyYTd1QnNacV9MZGNvWko4Sml5bTNTVTFUczNHTVZyamlMeU1iMWpWMnMxRHFORV82R1dlMGtVRTJESGNOemtBX3NwN2JFSWtzcGtaMDI5Q0wxbHJCelJvb1RwenJYNHdlV1dIeVlMdUNTXzJlR3BvOWxxRFlLcUpJbldtSkZ5Nl9OZXhfNVZKMWljdFczTG13TWdFOUtYSldCcXNiVldLaHQ3N3JvTGFxbzdUaGlOa2VpNlcxYks3VEdMdlJ3NW42eGkxR3R5VzRnVXBQN0dOZ0hzU2tkOXEzQkJtUVIwX2R6SEdIamhHNzF5UjJGLWV3VGFoV2djU1ZzMkt0dmFNM05XX3NCMXNZbnJvTFUzT3U2ZHFod0lVSnFEbjNyaHJfbWxkOTJ2WWF0RjlDdFJXck9RWU9CQmJQQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNYkZJR3NBN0tIWUtlY2l0enF6LS1LOUplYS1pVERiY2I4Zy1sUndOZUEyYTd1QnNacV9MZGNvWko4Sml5bTNTVTFUczNHTVZyamlMeU1iMWpWMnMxRHFORV82R1dlMGtVRTJESGNOemtBX3NwN2JFSWtzcGtaMDI5Q0wxbHJCelJvb1RwenJYNHdlV1dIeVlMdUNTXzJlR3BvOWxxRFlLcUpJbldtSkZ5Nl9OZXhfNVZKMWljdFczTG13TWdFOUtYSldCcXNiVldLaHQ3N3JvTGFxbzdUaGlOa2VpNlcxYks3VEdMdlJ3NW42eGkxR3R5VzRnVXBQN0dOZ0hzU2tkOXEzQkJtUVIwX2R6SEdIamhHNzF5UjJGLWV3VGFoV2djU1ZzMkt0dmFNM05XX3NCMXNZbnJvTFUzT3U2ZHFod0lVSnFEbjNyaHJfbWxkOTJ2WWF0RjlDdFJXck9RWU9CQmJQQQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此為 Google 新聞聚合連結，與親子踏青主題無關，不適合作為推薦內容。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "life.tw",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google 新聞聚合連結，與親子踏青主題無關，不適合作為推薦內容。",
+      "published_at": "2026-08-05T03:07:31+00:00",
+      "collected_at": "2026-08-05T14:34:45.379713+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmifefvx3lxte51njfbq2y1rw1svvvmrmnhn1hwwhhtt",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51NjFBQ2Y1RW1SVVVMRmNHN1hWWHhtT21xTkdvVkh2T2h2dUtQUGY1OWdFQ2pnRHdSYUozMVNXQzlnRlU1RFg3eGtLZ2lGcnVwRHZ4TkVOczBNTG5ycFpIczRNd3JOc2FNMldSbklGSlRsdXA3T3d5Q05zRF_SAWJBVV95cUxNaDFMdmJRdlR3OG8wNjBrc2d2WWxvOWc4dEQ4NVEzaThmS1k3M29JQVB0eV9sYTFBeURNY3VEVVNCSjlZV29EdlNiRC1FUVR2TXFnZkVET0djRGI1ZlFKRW1TZw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51NjFBQ2Y1RW1SVVVMRmNHN1hWWHhtT21xTkdvVkh2T2h2dUtQUGY1OWdFQ2pnRHdSYUozMVNXQzlnRlU1RFg3eGtLZ2lGcnVwRHZ4TkVOczBNTG5ycFpIczRNd3JOc2FNMldSbklGSlRsdXA3T3d5Q05zRF_SAWJBVV95cUxNaDFMdmJRdlR3OG8wNjBrc2d2WWxvOWc4dEQ4NVEzaThmS1k3M29JQVB0eV9sYTFBeURNY3VEVVNCSjlZV29EdlNiRC1FUVR2TXFnZkVET0djRGI1ZlFKRW1TZw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此內容為 Google 新聞摘要，非親子旅遊文章，無法提供推薦。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "經濟日報",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此內容為 Google 新聞摘要，非親子旅遊文章，無法提供推薦。",
+      "published_at": "2026-08-05T01:28:23+00:00",
+      "collected_at": "2026-08-05T14:34:50.749959+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiykfvx3lxte1omux2ylf2vhc4bza2mgtzz3zzbg85z",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oMUx2YlF2VHc4bzA2MGtzZ3ZZbG85Zzh0RDg1UTNpOGZLWTczb0lBUHR5X2xhMUF5RE1jdURVU0JKOVlXb0R2U2JELUVRVHZNcWdmRURPR2NEYjVmUUpFbVNn0gFiQVVfeXFMTWgxTHZiUXZUdzhvMDYwa3NndllsbzlnOHREODVRM2k4ZktZNzNvSUFQdHlfbGExQXlETWN1RFVTQko5WVdvRHZTYkQtRVFUdk1xZ2ZFRE9HY0RiNWZRSkVtU2c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oMUx2YlF2VHc4bzA2MGtzZ3ZZbG85Zzh0RDg1UTNpOGZLWTczb0lBUHR5X2xhMUF5RE1jdURVU0JKOVlXb0R2U2JELUVRVHZNcWdmRURPR2NEYjVmUUpFbVNn0gFiQVVfeXFMTWgxTHZiUXZUdzhvMDYwa3NndllsbzlnOHREODVRM2k4ZktZNzNvSUFQdHlfbGExQXlETWN1RFVTQko5WVdvRHZTYkQtRVFUdk1xZ2ZFRE9HY0RiNWZRSkVtU2c?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此為 Google 新聞連結，非旅遊相關文章，無法提供親子踏青推薦。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "經濟日報",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google 新聞連結，非旅遊相關文章，無法提供親子踏青推薦。",
+      "published_at": "2026-08-05T01:28:23+00:00",
+      "collected_at": "2026-08-05T14:34:56.574868+00:00",
+      "query": "台北 新北 桃園 親子景點"
+    },
+    {
+      "id": "https-news-ltn-com-tw-news-kaohsiung-paper-1765434",
+      "title": "《父親節開放》高雄親子遊樂園 逾30項設施免費玩 - 高雄市 - 自由時報電子報",
+      "url": "https://news.ltn.com.tw/news/Kaohsiung/paper/1765434",
+      "canonical_url": "https://news.ltn.com.tw/news/Kaohsiung/paper/1765434",
+      "image_url": "https://img.ltn.com.tw/Upload/news/600/2026/08/05/100.jpg",
+      "images": [
+        "https://img.ltn.com.tw/Upload/news/600/2026/08/05/100.jpg",
+        "https://news.ltn.com.tw/news/Kaohsiung/paper/assets/images/x.png",
+        "https://ad.doubleclick.net/ddm/activity/src=9530821;type=invmedia;cat=ltn_w0;u1=news;u2=高雄市;u3=1765434;u4=;u5=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1",
+        "https://b.scorecardresearch.com/p?c1=2&c2=18368781&cv=2.0&cj=1",
+        "https://pv6.ltn.com.tw/impression?ano=",
+        "https://cache.ltn.com.tw/images/sexno.png",
+        "https://cache.ltn.com.tw/images/sexyes.png",
+        "https://news.ltn.com.tw/news/Kaohsiung/paper/assets/images/default800.jpg"
+      ],
+      "summary": "《父親節開放》高雄親子遊樂園 逾30項設施免費玩 - 高雄市 - 自由時報電子報。為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。（記者陳文嬋攝） 全國首創「泡泡雲朵彈跳床」、極速刺激的「破浪騎乘場」 連3個週末 加碼戶外氣墊水樂園 台鐵高雄機廠轉型打造的「高雄親子遊樂園」，將於八日父親節開放，超過卅項設施提供親子免費玩；暑假連續三個週末，更加碼推出戶外氣墊水樂園。請繼續往下閱讀... 台鐵高雄機廠打造 佔地1.5公頃 高雄親子遊樂園區為佔地一．五公頃的半露天全齡室內遊樂場，位於鳳山區、前鎮區、苓雅區的交界處，完整保留機廠挑高鋼構與鐵道工業的建築特色，並有超過卅種免費遊玩項目，包括全國首創的「泡泡雲朵彈跳床」、極速刺激的「破浪騎乘場」、天車網繩遊藝裝置、抱石攀岩等，從幼童到長者都能體驗。捷運黃線列車模型 開放乘坐體驗 園區以一比一大小比例，打造捷運黃線的新列車模型，將於開幕當天亮相並開放民眾進入乘坐體驗；還推出台鐵篷守車及冷氣平快車，可以體驗當年台鐵列車的復古情懷，還可於退役車廂上用餐。",
+      "analysis": {
+        "overview": "《父親節開放》高雄親子遊樂園 逾30項設施免費玩 - 高雄市 - 自由時報電子報。為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。（記者陳文嬋攝） 全國首創「泡泡雲朵彈跳床」、極速刺激的「破浪騎乘場」 連3個週末 加碼戶外氣墊水樂園 台鐵高雄機廠轉型打造的「高雄親子遊樂園」，將於八日父親節開放，超過卅項設施提供親子免費玩；暑假連續三個週末，更加碼推出戶外氣墊水樂園。請繼續往下閱讀... 台鐵高雄機廠打造 佔地1.5公頃 高雄親子遊樂園區為佔地一．五公頃的半露天全",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "news.ltn.com.tw",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "逾30項設施免費玩、含氣墊水樂園與彈跳床等多元設施，孩子可以盡情放電；半露天室內空間有冷氣，暑假雨天也有備案，家長輕鬆陪玩不傷荷包。",
+      "published_at": "2026-08-04T22:30:00+00:00",
+      "collected_at": "2026-08-05T14:35:09.200954+00:00",
+      "query": "台灣 免費親子景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiykfvx3lxte5im2dxudv0tecxcjvcve9unmtgu0nad",
       "title": "《父親節開放》高雄親子遊樂園逾30項設施免費玩- 高雄市",
@@ -27,6 +561,31 @@
       "reason": "父親節免費開放逾30項設施，小孩能盡情放電玩樂，高雄市區交通便利、停車方便，適合全家出遊。",
       "published_at": "2026-08-04T21:30:00+00:00",
       "collected_at": "2026-08-04T23:18:21.879149+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiz0fvx3lxte9jvnreotbdunzgbnbrn0ferudms0e4a",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jVnREOTBDUnZGbnBrN0FERUdmS0E4aHZNNE14UlctakwzTzVLZ2pRS0EyQ3FCOUgwWktmdVc3OTcxR1dGT1phNXJDbHdyY2RaNktWRHNCeEN2WjBqR2ZjeVRYcG9tZmc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jVnREOTBDUnZGbnBrN0FERUdmS0E4aHZNNE14UlctakwzTzVLZ2pRS0EyQ3FCOUgwWktmdVc3OTcxR1dGT1phNXJDbHdyY2RaNktWRHNCeEN2WjBqR2ZjeVRYcG9tZmc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此為 Google 新聞 RSS 動態摘要，非台灣親子旅遊相關內容，不適用於親子踏青分類推薦。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "news.ltn.com.tw",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為 Google 新聞 RSS 動態摘要，非台灣親子旅遊相關內容，不適用於親子踏青分類推薦。",
+      "published_at": "2026-08-04T21:30:00+00:00",
+      "collected_at": "2026-08-05T14:35:12.882816+00:00",
       "query": "台灣 免費親子景點"
     },
     {
@@ -80,6 +639,31 @@
       "published_at": "2026-08-04T20:33:00+00:00",
       "collected_at": "2026-08-04T23:18:34.167255+00:00",
       "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmijwfbvv95cuxqdmi0tjczsvzey2rpwmpws0y1umvgu",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmI0TjczSVZEY2RPWmpwS0Y1UmVGUU9QRWRHU1hIbExZS18ta1l5WnpFbXJZb3A2S1pqMDAwUFhnQWQ0eVBvTDlncXN4WDFva2cxdDFKeElMYzNUa2RjdDRJbUhnZUhaT0pNLXplRGtoaXFCQkdHRGczQWhhRGQ0a0hiNU9YU2ltU3VENmVSNA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmI0TjczSVZEY2RPWmpwS0Y1UmVGUU9QRWRHU1hIbExZS18ta1l5WnpFbXJZb3A2S1pqMDAwUFhnQWQ0eVBvTDlncXN4WDFva2cxdDFKeElMYzNUa2RjdDRJbUhnZUhaT0pNLXplRGtoaXFCQkdHRGczQWhhRGQ0a0hiNU9YU2ltU3VENmVSNA?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "此為Google新聞RSS連結，非旅遊文章，不適合作為親子踏青推薦。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為Google新聞RSS連結，非旅遊文章，不適合作為親子踏青推薦。",
+      "published_at": "2026-08-04T20:03:06+00:00",
+      "collected_at": "2026-08-05T14:35:20.122635+00:00",
+      "query": "台灣 室內親子景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmivefvx3lxte5qunnrbvhtqv9inwtht3phvtlrshvku",
@@ -184,635 +768,6 @@
       "published_at": "2026-08-04T12:04:52+00:00",
       "collected_at": "2026-08-04T14:39:03.305931+00:00",
       "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-www-upmedia-mg-tw-lifestyle-policy-265391",
-      "title": "高雄親子遊樂園8月8日開幕　全台最大半室內免費開放　暑假加碼水樂園、YOYO家族同樂 -- 上報",
-      "url": "https://www.upmedia.mg/tw/lifestyle/policy/265391",
-      "canonical_url": "https://www.upmedia.mg/tw/lifestyle/policy/265391",
-      "image_url": "https://pic.upmedia.mg/upfile/img/2026/0804/202608041735385251.webp",
-      "images": [
-        "https://www.upmedia.mg/images/weather-clear.png",
-        "https://www.upmedia.mg/images/ai-close2.png",
-        "https://www.upmedia.mg/images/ai-close.png",
-        "https://pic.upmedia.mg/upfile/img/2026/0804/202608041735385251.webp",
-        "https://pic.upmedia.mg/upfile/img/2026/0731/202607311713533040.webp",
-        "https://www.upmedia.mg/images/gotop.png"
-      ],
-      "summary": "高雄親子遊樂園8月8日開幕　全台最大半室內免費開放　暑假加碼水樂園、YOYO家族同樂 -- 上報。2026/08/05 星期三 高雄市政府將於8月8日開幕全國最大半室內免費「高雄親子遊樂園區」，並推出多項暑假限定活動。高雄市政府將於8月8日開幕全國最大半室內免費「高雄親子遊樂園區」，並推出多項暑假限定活動。我們集結菁英記者、編輯、專業行銷業務、社群好手，強調多元的原生內容與有趣豐富的觀點。我們有國內外調查新聞、生活、遊戲、消費等資訊，希望提供讀者具有深度、廣度、樂趣及生活、時尚品味的原生新聞。",
-      "analysis": {
-        "overview": "高雄親子遊樂園8月8日開幕　全台最大半室內免費開放　暑假加碼水樂園、YOYO家族同樂 -- 上報。2026/08/05 星期三 高雄市政府將於8月8日開幕全國最大半室內免費「高雄親子遊樂園區」，並推出多項暑假限定活動。高雄市政府將於8月8日開幕全國最大半室內免費「高雄親子遊樂園區」，並推出多項暑假限定活動。我們集結菁英記者、編輯、專業行銷業務、社群好手，強調多元的原生內容與有趣豐富的觀點。我們有國內外調查新聞、生活、遊戲、消費等資訊，希望提供讀者具有深度、廣度、樂趣及生活、時尚品味的原生新聞。",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "upmedia.mg",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "半室內空間設計雨天也能暢玩，加上免費入園和水樂園消暑，是暑假帶小孩放風的雨天備案好去處。",
-      "published_at": "2026-08-04T12:00:00+00:00",
-      "collected_at": "2026-08-04T23:18:53.963358+00:00",
-      "query": "台灣 室內親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmifefvx3lxte9ase8tvjjuv1ywmuytowm0nmstwux2w",
-      "title": "高雄親子遊樂園8/8開幕",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aSE8tVjJuV1YwMUYtOWM0NmstWUx2WktkSmRlY2JWeHNIUFUyeGg3TklsV0Jacm9BNGdETDBYR0FUcE9jVGtBOEhCZEx0c0R1TEpNWi00d2U4V2ZIUW9yWDlFMUJXVDNySUxCRDE1Z0x1Q1NTaGJWak0wSFA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aSE8tVjJuV1YwMUYtOWM0NmstWUx2WktkSmRlY2JWeHNIUFUyeGg3TklsV0Jacm9BNGdETDBYR0FUcE9jVGtBOEhCZEx0c0R1TEpNWi00d2U4V2ZIUW9yWDlFMUJXVDNySUxCRDE1Z0x1Q1NTaGJWak0wSFA?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園8/8開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園8/8開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "台灣華報",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄新開幕的親子遊樂園，提供多樣遊樂設施讓孩子盡情放電，建議出發前先確認設施是否符合小孩年齡與安全規範。",
-      "published_at": "2026-08-04T11:06:30+00:00",
-      "collected_at": "2026-08-04T14:39:10.430167+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte1pbvjqvloxrfu3bw1xwnkzuzqwv2hcn",
-      "title": "高雄親子遊樂園區8月8日正式開幕",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pbVJQVloxRFU3bW1XWnkzUzQwV2hCNUx2OG9YM3dsdy1SSkw4Y1hROVllWlllTEQ5dUNVMWhGNDVpVXRKN0NhS0NvaHhmXzZsREpVbg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pbVJQVloxRFU3bW1XWnkzUzQwV2hCNUx2OG9YM3dsdy1SSkw4Y1hROVllWlllTEQ5dUNVMWhGNDVpVXRKN0NhS0NvaHhmXzZsREpVbg?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區8月8日正式開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區8月8日正式開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "臺灣導報",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄新開幕的親子遊樂園專為兒童設計，室內空間可讓孩子盡情放電遊玩，是雨天備案的好去處。",
-      "published_at": "2026-08-04T10:10:29+00:00",
-      "collected_at": "2026-08-04T14:39:16.463604+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte4zbmrxnudxa0dyveprzmiyymmxugdzv",
-      "title": "高雄最大親子樂園開幕！台鐵機廠變身免費遊戲天堂 8月8日全國爸媽衝一波",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zbmRxNUdxa0dyVEprZmIyYmMxUGdzVEJQZTRrMlJHZHo5UUN3U0hVMkVXWDZaRWRLNHhzXzFWWWRUcE5YU0hxNklWb3ZjZFF4U0E?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zbmRxNUdxa0dyVEprZmIyYmMxUGdzVEJQZTRrMlJHZHo5UUN3U0hVMkVXWDZaRWRLNHhzXzFWWWRUcE5YU0hxNklWb3ZjZFF4U0E?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄最大親子樂園開幕！台鐵機廠變身免費遊戲天堂 8月8日全國爸媽衝一波。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄最大親子樂園開幕！台鐵機廠變身免費遊戲天堂 8月8日全國爸媽衝一波。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "台鐵機廠改造的高雄最大親子樂園，佔地寬廣、遊戲設施多元，適合帶小孩盡情放電，且免費入園cp值極高。",
-      "published_at": "2026-08-04T10:05:00+00:00",
-      "collected_at": "2026-08-04T14:39:21.449814+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmie0fvx3lxte5klwhitmlxy240ek9crdluberysghmm",
-      "title": "高雄親子遊樂園8/8開幕",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kLWhITmlxY240ek9CRDlUbERySGhmMTBNWkRBMlVCYndDUF9MRXBjOUZ3UW82LXF4czRKRW1Zbm5vREdnQmRXS2FGUmd0c2N0MzhwVXJWcXNsaGpZbi1maTNDZHNRbFJ6MG5MYzhtNGF5SU45SmxQb29HNA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kLWhITmlxY240ek9CRDlUbERySGhmMTBNWkRBMlVCYndDUF9MRXBjOUZ3UW82LXF4czRKRW1Zbm5vREdnQmRXS2FGUmd0c2N0MzhwVXJWcXNsaGpZbi1maTNDZHNRbFJ6MG5MYzhtNGF5SU45SmxQb29HNA?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園8/8開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園8/8開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "台灣華報",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "新開幕的高雄親子遊樂園提供孩子盡情玩耍放電的場所，是家長帶小孩消耗體力的好選擇。",
-      "published_at": "2026-08-04T09:54:13+00:00",
-      "collected_at": "2026-08-04T14:39:29.232315+00:00",
-      "query": "台灣 室內親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfbvegp0qk5zmexxdvl0c2zvquzkslvjq",
-      "title": "全台最大免費親子樂園8/8開幕！6米滑水道、YOYO明星陪玩嗨翻高雄",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVeGp0Qk5zMExXdVl0c2ZVQUZkSlVJQmRIbmgyOGhYTmFKZGZxU3lHTTlqaFpBYVpkWjk4eEp4LURuVVVqcmN5WjZhSE5TbXNCZGc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVeGp0Qk5zMExXdVl0c2ZVQUZkSlVJQmRIbmgyOGhYTmFKZGZxU3lHTTlqaFpBYVpkWjk4eEp4LURuVVVqcmN5WjZhSE5TbXNCZGc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "全台最大免費親子樂園8/8開幕！6米滑水道、YOYO明星陪玩嗨翻高雄。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "全台最大免費親子樂園8/8開幕！6米滑水道、YOYO明星陪玩嗨翻高雄。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "全台最大免費親子樂園，6米滑水道讓小孩盡情放電玩水，YOYO明星陪玩互動性高，是高雄夏日親子出遊的好去處。",
-      "published_at": "2026-08-04T09:52:59+00:00",
-      "collected_at": "2026-08-04T14:39:37.502003+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte9ux3doamjhu0fftlvxuw9mekzttuhkt",
-      "title": "高雄親子遊樂園區8/8開幕共度歡樂暑假| 青年日報",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uX3doamJHU0FfTlVXUW9MekZTTUhKT0pvR3dBcFJzdVFYNWlwak81RnV3bmRsc09VZmJYT1JVQTZOazJmeGFnTzMwN1prN19tczhOdkdR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uX3doamJHU0FfTlVXUW9MekZTTUhKT0pvR3dBcFJzdVFYNWlwak81RnV3bmRsc09VZmJYT1JVQTZOazJmeGFnTzMwN1prN19tczhOdkdR?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區8/8開幕共度歡樂暑假| 青年日報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區8/8開幕共度歡樂暑假| 青年日報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "遊樂園區有多元遊樂設施，孩子可以盡情放電玩耍，家長也有休息區域，是暑假親子同樂的好去處。",
-      "published_at": "2026-08-04T09:51:40+00:00",
-      "collected_at": "2026-08-04T14:39:43.043353+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-ebc-net-tw-news-living-564668",
-      "title": "高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族｜東森新聞",
-      "url": "https://news.ebc.net.tw/news/living/564668",
-      "canonical_url": "https://news.ebc.net.tw/news/living/564668",
-      "image_url": "https://img.news.ebc.net.tw/EbcNews/news/2026/08/04/1785857130_33277.jpg",
-      "images": [
-        "https://img.news.ebc.net.tw/EbcNews/topic/2026/07/14/1784039503_67958.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/topic/2026/07/01/1782911837_55204.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/topic/2026/06/15/1781527129_27394.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/topic/2026/07/01/1782945967_46623.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/topic/2026/07/28/1785257351_91200.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/topic/2024/08/12/1723479839_68716.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/news/2026/08/04/1785857130_33277.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/news/2026/08/04/1785859252_52793.jpg"
-      ],
-      "summary": "高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族｜東森新聞。快訊 《理財達人秀》X 安聯投信免費講座報名中！搶先卡位 2027 下載東森App，隨時掌握天下大小事！首頁 生活 加入為 Google 偏好來源 高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族 2026-08-04 16:34 東森新聞 聽新聞 高雄親子遊樂園區8月8日開幕。（圖／高雄市政府提供） 繼打造全台最大戶外親水空間「星光水岸公園」，高雄市政府再次活化 台鐵高雄機廠 舊有場域，保留機廠挑高鋼構與鐵道工業特色，打造「 全台最大半室內 」、全面免費開放的親子遊憩場域-「 高雄親子遊樂園 區」 。園區將於8月8日父親節正式開幕，不僅特別邀請高雄熊與 YOYO家族 香蕉哥哥擔任觀光大使，自8月8日起至8月23日連續三個週末，更加碼推出戶外氣墊水樂園、YOYO明星見面會、卡通明星互動、親子舞台演出及特色市集等 暑假限定 活動，邀請全國親子家庭一起到高雄共度歡樂暑假！高雄市長陳其邁表示，高雄近年持續推動城市空間活化，結合歷史文化保存與公共建設，打造兼具休閒、觀光與生活機能的優質公共空間；由台鐵高雄機廠轉型活化的「高雄親子遊樂園區」，不僅是佔地面積全國最大，也是高雄首座融合遊憩與教育功能的公立半室內親子遊樂空間。",
-      "analysis": {
-        "overview": "高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族｜東森新聞。快訊 《理財達人秀》X 安聯投信免費講座報名中！搶先卡位 2027 下載東森App，隨時掌握天下大小事！首頁 生活 加入為 Google 偏好來源 高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族 2026-08-04 16:34 東森新聞 聽新聞 高雄親子遊樂園區8月8日開幕。（圖／高雄市政府提供） 繼打造全台最大戶外親水空間「星光水岸公園」，高雄市政府再次活化 台鐵高雄機廠 舊有場域，保留機廠挑高鋼構與鐵",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "news.ebc.net.tw",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "全台最大半室內空間，30項設施免費暢玩，加上氣墊水樂園與YOYO見面會，下雨天也有室內備案，大小朋友都能盡情放電。",
-      "published_at": "2026-08-04T09:33:00+00:00",
-      "collected_at": "2026-08-04T23:19:00.619592+00:00",
-      "query": "台灣 親子飯店 親子樂園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmihanbvv95cuxnalmwcffcdxvoqkrrzhpodkywm1nnw",
-      "title": "高雄親子遊樂園8月8日開幕 全台最大半室內免費開放 暑假加碼水樂園、YOYO家族同樂",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNalMwcFFCdXVOQkRrZHpodkYwM1NNWUkxdFhPSXFZbXdEa3hrRnhUNHZRNVhEc24xckZrUEd4Q0Z6bGlEb0d5YTQtQ1JPb2daaUltVnowbWVmYzhCYnZiSnhXb1NvNUEyOElXUEs3eU54QW5jWkFnaF9HZWNxWDBFeVJCNnJiRWNsRTEzTzJwd2JpWlZxeHlxWkFXNzN6MWFIQjF3aGhrSU1nYUxDLTMwLXM5RVRzT3JaSW13N0NmQ3hYbld4ajJrSXpqbFFLeUJpZW5NQ2N0NzJTd09kcUJ5VlE3Y25QTDkzQy1fclBlQU1YQ0dKazlCOHN2NjItcENXZlhQNTNmZExjNG0zcllHcEJ5Ynd1NGJFVWVCTkJfREE4dy1taENJdEVtd2lxT0NNZFJlZXhzOGVBOWxzT1ZPd3QwSS1kVGtpaW5tby0yTU5ZaGJTN3ZxeF9KNEJ0bzNxd09FUkowTXNFTW1FbXAzcnBTZWpIcU5uXzVJMlNpcHZDZEYy?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNalMwcFFCdXVOQkRrZHpodkYwM1NNWUkxdFhPSXFZbXdEa3hrRnhUNHZRNVhEc24xckZrUEd4Q0Z6bGlEb0d5YTQtQ1JPb2daaUltVnowbWVmYzhCYnZiSnhXb1NvNUEyOElXUEs3eU54QW5jWkFnaF9HZWNxWDBFeVJCNnJiRWNsRTEzTzJwd2JpWlZxeHlxWkFXNzN6MWFIQjF3aGhrSU1nYUxDLTMwLXM5RVRzT3JaSW13N0NmQ3hYbld4ajJrSXpqbFFLeUJpZW5NQ2N0NzJTd09kcUJ5VlE3Y25QTDkzQy1fclBlQU1YQ0dKazlCOHN2NjItcENXZlhQNTNmZExjNG0zcllHcEJ5Ynd1NGJFVWVCTkJfREE4dy1taENJdEVtd2lxT0NNZFJlZXhzOGVBOWxzT1ZPd3QwSS1kVGtpaW5tby0yTU5ZaGJTN3ZxeF9KNEJ0bzNxd09FUkowTXNFTW1FbXAzcnBTZWpIcU5uXzVJMlNpcHZDZEYy?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園8月8日開幕 全台最大半室內免費開放 暑假加碼水樂園、YOYO家族同樂。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園8月8日開幕 全台最大半室內免費開放 暑假加碼水樂園、YOYO家族同樂。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "全台最大半室內空間免費開放，雨天也有遮蔽不怕掃興，設有水樂園能盡情放電玩水，YOYO家族表演更是小孩最期待的亮點。",
-      "published_at": "2026-08-04T09:30:00+00:00",
-      "collected_at": "2026-08-04T14:39:47.778162+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxtfbfzelragxiqxz6mzjsam5is1c3b0xpb",
-      "title": "高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族 | EBC 東森新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfZElRaGxIQXZ6MzJsam5iS1c3b0xPbUtHN1JVZl9RYVJZZWY4bVZua3BhY1dfTEpHcDhMRWkwUzZJblJFX2tGMzR5Z0RZM0tudGFjUldn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfZElRaGxIQXZ6MzJsam5iS1c3b0xPbUtHN1JVZl9RYVJZZWY4bVZua3BhY1dfTEpHcDhMRWkwUzZJblJFX2tGMzR5Z0RZM0tudGFjUldn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族 | EBC 東森新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族 | EBC 東森新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "30項設施免費玩加上戶外水樂園，小孩能盡情放電消暑，還有YOYO家族表演吸引小朋友，不用擔心門票負擔。",
-      "published_at": "2026-08-04T09:16:01+00:00",
-      "collected_at": "2026-08-04T14:39:56.362045+00:00",
-      "query": "台灣 親子飯店 親子樂園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmia0fvx3lxte9ztjnwtnhgn0jwwjg2dhremjfmy3nhy",
-      "title": "高雄親子遊樂園8/8開幕",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZTjNwTnhGN0JwWjg2dHREMjFMY3NhYWJlR0pjSWV2ajU0Ym1nX0dvYy1QOE15RmFmaGZMY1BDS1M0c2NmZXJsSlQtQ3VIWlRreVgzSmxSZklNOHZWb3FIMEZ1akdpU21GX1Q0?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZTjNwTnhGN0JwWjg2dHREMjFMY3NhYWJlR0pjSWV2ajU0Ym1nX0dvYy1QOE15RmFmaGZMY1BDS1M0c2NmZXJsSlQtQ3VIWlRreVgzSmxSZklNOHZWb3FIMEZ1akdpU21GX1Q0?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園8/8開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園8/8開幕。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "台灣華報",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "專為親子設計的遊樂園提供多樣遊戲設施，孩子能盡情奔跑放電，園區安全係數高，家長可放心讓孩童玩耍。",
-      "published_at": "2026-08-04T08:44:05+00:00",
-      "collected_at": "2026-08-04T14:40:05.643273+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivefvx3lxtfbpstvpc09pqwphd1reedg2lwgyoudyc",
-      "title": "高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPSTVpc09pQWphd1REeDg2LWgyOUdYclQyRmZ0dUJyZlphRFZtQThVODNSMnBsdnFWc2MxdEpQd2ozaEZLZFhncWpMM05oQlhWWmhJMA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPSTVpc09pQWphd1REeDg2LWgyOUdYclQyRmZ0dUJyZlphRFZtQThVODNSMnBsdnFWc2MxdEpQd2ozaEZLZFhncWpMM05oQlhWWmhJMA?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園8/8開幕 30項設施全免費 加碼戶外水樂園、YOYO家族。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "東森新聞",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "30項設施全免費且有戶外水樂園，夏日戲水消暑又能消耗孩子體力，YOYO家族表演更是增加吸引力。",
-      "published_at": "2026-08-04T08:34:00+00:00",
-      "collected_at": "2026-08-04T14:40:15.995929+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte5mzhdscuffmtjfvznktlput2fqoelqz",
-      "title": "高雄親子遊樂園8月8日開幕 30項設施免費玩、暑假加碼水樂園與YOYO家族",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mZHdScUFFMTJfVzNkTlpuT2FqOElQZXJDZm1aSG5VSy0xeV9qNmxTTDVxaHBIMWFyejc2ZDNWZ2tETVJwdE9kbV92ZDVLcENjMjlFTA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mZHdScUFFMTJfVzNkTlpuT2FqOElQZXJDZm1aSG5VSy0xeV9qNmxTTDVxaHBIMWFyejc2ZDNWZ2tETVJwdE9kbV92ZDVLcENjMjlFTA?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園8月8日開幕 30項設施免費玩、暑假加碼水樂園與YOYO家族。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園8月8日開幕 30項設施免費玩、暑假加碼水樂園與YOYO家族。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "品觀點",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "30項設施免費暢玩，加上暑假限定水樂園消暑又好玩，還有YOYO家族表演可說是小孩最期待的亮點，非常適合父親節帶孩子來盡情放電。",
-      "published_at": "2026-08-04T07:43:31+00:00",
-      "collected_at": "2026-08-04T14:40:24.103618+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmi7wjbvv95cuxpzfrir1hqsdfguevkthpkvxnky0c2y",
-      "title": "高雄親子遊樂園8月8日開幕 30項設施免費玩、暑假加碼水樂園與YOYO家族",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPZFRIR1hqSDFGUEVkTHpkVXNkY0c2YjBvaFdvdGZ4SWNoU0k5cWIybWZKeFh5UWcyTUJ4YXczSFdsXzhLSTQxVkt5WlVZS1RjbDA4NC1kVFk4MjRPVzRoUllUT2IxNkd5QTdUeHllNERmQks1dVNWdWltVXlfcXhHODVZNDJuQzI1VUxVUWVmN0dyOGtGYkk0TUprbnJkYk9OYzdPWVpUb2ZJZmhiekdlNzRZSkJBMng3M25abi0tVVl2LVBBS3FUSlZVSUdWSmVrN3VBcWdRLU1zTnFjT1dLaDU0MXB2ZDRyOHFzbWhSZng2clloY3NZX05BdzFmcThUU3VsenBpZ18wTXFZT1JuN29TUVE3cndnOWxObDUtQ29MTzVwd0JUOTNTLXFZS2lOS2ljUFR1Q1RZa1pQb0FBZ0dYTENOcWxpVEE5MGZCcHhVTUNvUHJjQlRSY2d4dEVERlBGOUVVLUJEblBCWWRR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPZFRIR1hqSDFGUEVkTHpkVXNkY0c2YjBvaFdvdGZ4SWNoU0k5cWIybWZKeFh5UWcyTUJ4YXczSFdsXzhLSTQxVkt5WlVZS1RjbDA4NC1kVFk4MjRPVzRoUllUT2IxNkd5QTdUeHllNERmQks1dVNWdWltVXlfcXhHODVZNDJuQzI1VUxVUWVmN0dyOGtGYkk0TUprbnJkYk9OYzdPWVpUb2ZJZmhiekdlNzRZSkJBMng3M25abi0tVVl2LVBBS3FUSlZVSUdWSmVrN3VBcWdRLU1zTnFjT1dLaDU0MXB2ZDRyOHFzbWhSZng2clloY3NZX05BdzFmcThUU3VsenBpZ18wTXFZT1JuN29TUVE3cndnOWxObDUtQ29MTzVwd0JUOTNTLXFZS2lOS2ljUFR1Q1RZa1pQb0FBZ0dYTENOcWxpVEE5MGZCcHhVTUNvUHJjQlRSY2d4dEVERlBGOUVVLUJEblBCWWRR?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園8月8日開幕 30項設施免費玩、暑假加碼水樂園與YOYO家族。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園8月8日開幕 30項設施免費玩、暑假加碼水樂園與YOYO家族。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "30項設施免費暢玩且有YOYO家族表演，孩子盡情放電家長省荷包；暑假加碼水樂園提供清涼玩樂選項，室內外設施兼具不怕天氣變化。",
-      "published_at": "2026-08-04T07:43:31+00:00",
-      "collected_at": "2026-08-04T14:40:30.445969+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte9hqms3rxe0wunklxjiethtsfrvr01cw",
-      "title": "30項設施免費玩！高雄親子遊樂園區8／8開幕，加碼推出氣墊水樂園、美食市集",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HQms3RXE0WUNkLXJieThtSFRvR01CWkg3Y3hWWVYyUHlGcUpkTXBLTkVSZDVHTS0xQVZ5YUlBNURJLVlsTlBkX0JTcGtGU3M3dEd4cNIBWkFVX3lxTE1uV3NvTGhsX2h1TXItVGhnUkVLcGV5UDU5bTVUb2dfVHJjVDl1ZFVwb0RLbEZtNE5ZVnZTZVJyWjdGUFpCa1pVdjJYclc5VkplbkRYX2xKN0xMQQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HQms3RXE0WUNkLXJieThtSFRvR01CWkg3Y3hWWVYyUHlGcUpkTXBLTkVSZDVHTS0xQVZ5YUlBNURJLVlsTlBkX0JTcGtGU3M3dEd4cNIBWkFVX3lxTE1uV3NvTGhsX2h1TXItVGhnUkVLcGV5UDU5bTVUb2dfVHJjVDl1ZFVwb0RLbEZtNE5ZVnZTZVJyWjdGUFpCa1pVdjJYclc5VkplbkRYX2xKN0xMQQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "30項設施免費玩！高雄親子遊樂園區8／8開幕，加碼推出氣墊水樂園、美食市集。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "30項設施免費玩！高雄親子遊樂園區8／8開幕，加碼推出氣墊水樂園、美食市集。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "食尚玩家",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "30項設施免費玩讓爸媽省很大，氣墊水樂園夏天玩水消暑又能消耗孩子體力，附設美食市集不怕餓肚子。",
-      "published_at": "2026-08-04T07:05:00+00:00",
-      "collected_at": "2026-08-04T23:19:06.939588+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte1sa2etnudyafrnc3vdownua3pytxzzr",
-      "title": "台灣有新遊樂園了！8/8開幕，全台最大規模「免門票爽玩30項設施、搭輕軌步行1分鐘就到」， 交通方式一次看",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sa2EtNUdYaFRNc3VDOWNua3pYTXZZRERhZG9XX0xPcFVIV3pMNTJyZjlVaVFsOWJRWUVHZnpmQ0h0T1hFaFZPSUpXSTZxVEg4?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sa2EtNUdYaFRNc3VDOWNua3pYTXZZRERhZG9XX0xPcFVIV3pMNTJyZjlVaVFsOWJRWUVHZnpmQ0h0T1hFaFZPSUpXSTZxVEg4?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台灣有新遊樂園了！8/8開幕，全台最大規模「免門票爽玩30項設施、搭輕軌步行1分鐘就到」， 交通方式一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台灣有新遊樂園了！8/8開幕，全台最大規模「免門票爽玩30項設施、搭輕軌步行1分鐘就到」， 交通方式一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "風傳媒",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "免門票可省下大筆開銷，30項設施讓小孩盡情放電玩一整天，輕軌直達交通便利不怕塞車或找不到停車位的困擾。",
-      "published_at": "2026-08-04T07:00:00+00:00",
-      "collected_at": "2026-08-04T14:40:37.937429+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmir0fvx3lxtfbitutuzed4zjfmbe1ot2houknjewxsq",
-      "title": "落實高雄親子遊樂園區周邊交通整備 陳其邁：打造安心休憩環境 迎接全國遊客",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiTUtUZEd4ZjFmbE1oT2hoUkNJeWxsQ296eDU4dENvWE5xdV9jdFJtd3VkM24yVEg5OFFncTdlNzdDd0VpUmNv?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiTUtUZEd4ZjFmbE1oT2hoUkNJeWxsQ296eDU4dENvWE5xdV9jdFJtd3VkM24yVEg5OFFncTdlNzdDd0VpUmNv?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "落實高雄親子遊樂園區周邊交通整備 陳其邁：打造安心休憩環境 迎接全國遊客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "落實高雄親子遊樂園區周邊交通整備 陳其邁：打造安心休憩環境 迎接全國遊客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "886.news",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "此為新聞報導而非景點介紹文章，無法提供具體的親子踏青推薦分類與理由。",
-      "published_at": "2026-08-04T06:54:18+00:00",
-      "collected_at": "2026-08-04T14:40:42.785017+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-www-nownews-com-news-6862910",
-      "title": "高雄親子遊樂園區來了！全台最大室內樂園如何去？ 四大方法速記 | 美食旅遊 | 生活 | NOWnews今日新聞",
-      "url": "https://www.nownews.com/news/6862910",
-      "canonical_url": "https://www.nownews.com/news/6862910",
-      "image_url": "https://media.nownews.com/nn_media/thumbnail/2026/08/1785820691454-422631550c354a839452ef49bf7198f2-1200x900.webp?unShow=false",
-      "images": [
-        "https://www.nownews.com/NOWnews/images/app-promote.webp",
-        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785820691454-422631550c354a839452ef49bf7198f2-1200x900.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/06/1782800737771-836a92b40d35477888e77e0fecb63473-500x342.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785820779710-e6154b034e7840ce8b0a47a124f48db1-500x625.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/06/1782801369935-3a4ce842ed7f4e18a355446012f8b8c6-500x333.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/06/1782800869603-cf4e22f1a95e412fba0214679c2c83c3-500x333.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785817506190-33b24dd8ac8946e8aa5a1bd9398f8aa9-500x281.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2025/01/1736295772146-3640e596c9174d1d9c1e73b7026d6106-500x281.webp?unShow=false"
-      ],
-      "summary": "高雄親子遊樂園區來了！全台最大室內樂園如何去？ 四大方法速記 | 美食旅遊 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 葉盛耀 /綜合報導 ▲高雄親子遊樂園將於8月8日開幕，如何前往4大方式一次看。（圖／記者葉盛耀攝） ✕ 臺鐵高雄機廠轉型打造的「高雄親子遊樂園區」將於8月8日正式開園營運，高雄市政府也準備盛大的開幕活動，交通局提醒，活動期間預估將吸引大量人潮，園區周邊包含汽車、機車的停車空間有限，呼籲民眾多加利用大眾運輸交通工具前往，《NOWNEWS今日新聞》整理除了自行開車騎車之外，包含輕軌、公車及免費接駁車方式一次看。我是廣告 請繼續往下閱讀 --> 🟡「 台鐵高雄機廠舊工廠改建的高雄親子遊樂園區」在哪裡？台鐵高雄機廠位於高雄苓雅、鳳山區交界，由二聖路、凱旋路、武昌路、武慶路圍起的一處區域，佔地1.5公頃。▲台鐵高雄機廠舊工廠位在高雄苓雅、鳳山區交界。",
-      "analysis": {
-        "overview": "高雄親子遊樂園區來了！全台最大室內樂園如何去？ 四大方法速記 | 美食旅遊 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 葉盛耀 /綜合報導 ▲高雄親子遊樂園將於8月8日開幕，如何前往4大方式一次看。（圖／記者葉盛耀攝） ✕ 臺鐵高雄機廠轉型打造的「高雄親子遊樂園區」將於8月8日正式開園營運，高雄市政府也準備盛大的開幕活動，交通局",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "nownews.com",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "全台最大室內樂園雨天備案首選，園區旁停車位有限，建議搭輕軌或接駁車抵達，輕鬆出遊不塞車。",
-      "published_at": "2026-08-04T06:23:00+00:00",
-      "collected_at": "2026-08-04T14:40:52.962866+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijwnbvv95cuxpcuewt1vfs3vsyjdfbwv6ufi3mw1vz",
-      "title": "高雄親子遊樂園8日開幕倒數 陳其邁下令全面整備、交通防疫一次到位",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPcUEwT1VfS3VsYjdfbWV6UFI3MW1VZ3RsZFNkc2FqQXUtZTBUbWxLcUlKdTNfX1VFWjFRaV9vb2NuOTVDdU5qSjI4TU9MTVdrdzdocEJ1Mmp4ZzEwY3FyVDdEaWJJQ0FqdXRkbmc0dTRGTmxfVi03Z3RUdUNlaVVIdFdjTmR0U0FNY2RycFRBcTBRVXdZLTg2R1ZCdi1JdFFPY2JXUl9EYWcxdGRTY2J0dzlPOTEyUlUySUljZFVmdlhkcTZyX1VpemJwbFhBbWZla3IwdnNjbldVU0MtT3Z1RmhwcTEzenVFQm1vdTFUZzNfd0hhN0RYY1lkOWJ4dEJBTklpc25CbVg3MWdLU3Z5TVRVZXBLSkl4aEFfUXl1VmpBcXNydkFTTmtjUmRNalR4SnVwQUNXeHJlN0hGTUMxWUh2MUl3MklEdnowSF96OS1BaHBpQmo0QzdMMDhVc2M2akIteDRILXVfVHl5WW81RXR3aFBSMjBkVUwyTXpfOFNMUVp3bENmRG9wVkxWQnM?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPcUEwT1VfS3VsYjdfbWV6UFI3MW1VZ3RsZFNkc2FqQXUtZTBUbWxLcUlKdTNfX1VFWjFRaV9vb2NuOTVDdU5qSjI4TU9MTVdrdzdocEJ1Mmp4ZzEwY3FyVDdEaWJJQ0FqdXRkbmc0dTRGTmxfVi03Z3RUdUNlaVVIdFdjTmR0U0FNY2RycFRBcTBRVXdZLTg2R1ZCdi1JdFFPY2JXUl9EYWcxdGRTY2J0dzlPOTEyUlUySUljZFVmdlhkcTZyX1VpemJwbFhBbWZla3IwdnNjbldVU0MtT3Z1RmhwcTEzenVFQm1vdTFUZzNfd0hhN0RYY1lkOWJ4dEJBTklpc25CbVg3MWdLU3Z5TVRVZXBLSkl4aEFfUXl1VmpBcXNydkFTTmtjUmRNalR4SnVwQUNXeHJlN0hGTUMxWUh2MUl3MklEdnowSF96OS1BaHBpQmo0QzdMMDhVc2M2akIteDRILXVfVHl5WW81RXR3aFBSMjBkVUwyTXpfOFNMUVp3bENmRG9wVkxWQnM?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園8日開幕倒數 陳其邁下令全面整備、交通防疫一次到位。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園8日開幕倒數 陳其邁下令全面整備、交通防疫一次到位。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄新親子遊樂園即將開幕，市府全面整備交通與防疫，設施完善適合帶小孩放電玩樂。",
-      "published_at": "2026-08-04T06:05:22+00:00",
-      "collected_at": "2026-08-04T14:40:59.656992+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmia0fvx3lxte13nxptv2vvzlyyugmyzvjycwvzyutzc",
-      "title": "高雄親子遊樂園8/8開張陳其邁：迎全台遊客、規劃雨天備案- 高雄市",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13NXptV2VVZlYyUGMyZVJycWVzYUtZcEE4R1BESzY5T0R3ZGxwblBaeDJ0eUt5a3k0NUR5SW1ZMTVFZjBNUzBwN0tIZ2JoR0syRTdOZWdjLVNtVnJVY2Zkc3MxOXM0VjBCeHdJ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13NXptV2VVZlYyUGMyZVJycWVzYUtZcEE4R1BESzY5T0R3ZGxwblBaeDJ0eUt5a3k0NUR5SW1ZMTVFZjBNUzBwN0tIZ2JoR0syRTdOZWdjLVNtVnJVY2Zkc3MxOXM0VjBCeHdJ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園8/8開張陳其邁：迎全台遊客、規劃雨天備案- 高雄市。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園8/8開張陳其邁：迎全台遊客、規劃雨天備案- 高雄市。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "自由時報",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "全新親子遊樂園主打雨天備案，不怕天候影響行程，讓家長帶小孩出遊更安心，室內空間與放電設施兼顧，全台旅客都適合。",
-      "published_at": "2026-08-04T05:59:54+00:00",
-      "collected_at": "2026-08-04T14:41:06.104440+00:00",
-      "query": "台灣 雨天 親子 室內 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmizefvx3lxte9fmgm0s190v1puy011ykzrc3nin2rlb",
-      "title": "高雄親子遊樂園8/8開張陳其邁：迎全台遊客、規劃雨天備案- 生活",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FMGM0S190V1puY011YkZRc3NiN2RLbHc4RWxQb19rMTdmbTVjcUtwNXdidTl0UjRMRHhIY21BNGJzUFo0TG1oTHR5ZnFaaXhMZllPemRVVGNrTzhWQXUtOG5OVkg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FMGM0S190V1puY011YkZRc3NiN2RLbHc4RWxQb19rMTdmbTVjcUtwNXdidTl0UjRMRHhIY21BNGJzUFo0TG1oTHR5ZnFaaXhMZllPemRVVGNrTzhWQXUtOG5OVkg?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園8/8開張陳其邁：迎全台遊客、規劃雨天備案- 生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園8/8開張陳其邁：迎全台遊客、規劃雨天備案- 生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "自由時報",
-      "tags": [
-        "放電",
-        "室內"
-      ],
-      "reason": "新開張親子樂園規劃雨天備案，即使突然下雨也能在室內設施暢玩，家長不必掃興；多元遊戲空間能讓孩子盡情放電玩樂。",
-      "published_at": "2026-08-04T05:59:54+00:00",
-      "collected_at": "2026-08-04T23:19:14.527932+00:00",
-      "query": "台灣 雨天 親子 室內 景點"
-    },
-    {
-      "id": "https-www-nownews-com-news-6862888",
-      "title": "直擊全台最大「室內遊樂園」！30項設施免費玩 最新內裝搶先曝光 | 美食旅遊 | 生活 | NOWnews今日新聞",
-      "url": "https://www.nownews.com/news/6862888",
-      "canonical_url": "https://www.nownews.com/news/6862888",
-      "image_url": "https://media.nownews.com/nn_media/thumbnail/2026/08/1785815218712-74281eb2dd82489bacb652dd289bdc6a-1200x900.webp?unShow=false",
-      "images": [
-        "https://www.nownews.com/NOWnews/images/app-promote.webp",
-        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785815218712-74281eb2dd82489bacb652dd289bdc6a-1200x900.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/06/1782800737771-836a92b40d35477888e77e0fecb63473-500x342.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785816065491-6bd6b9e8b3a9435fbd0086704deadfd3-500x333.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785816380100-d8d301236a8547eea88657306f7843ee-500x333.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785816447903-096fb1bc69cd45bfad804c47b35c97c6-500x375.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785816335537-2fd20320711947bda01b4e14facbd095-500x333.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/08/1785816767375-ae44b18bb0fd4de1bc9150d7a20dd3e3-500x333.webp?unShow=false&waterMark=false"
-      ],
-      "summary": "直擊全台最大「室內遊樂園」！30項設施免費玩 最新內裝搶先曝光 | 美食旅遊 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 葉盛耀 /綜合報導 ▲由台鐵高雄機廠舊工廠改建的「高雄親子遊樂園區」，將於8月8日父親節當天開幕，預計將是全台最大室內兒童樂園，記者搶先直擊現在內裝。（圖／記者葉盛耀攝） ✕ 由台鐵高雄機廠舊工廠改建的「高雄親子遊樂園區」，預計將成為全台最大室內兒童遊樂園！高雄市政府日前宣布，此兒童樂園預訂 將於8月8日父親節當天盛大開幕 。占地達1.5公頃的全新景點，將有攀岩場、泡泡彈跳床、戲水空間與感官遊戲等超過30項設施， 且高雄市府強調，將「全面免費開放」， 目前該場地正在最後施工作業，《NOWNEWS今日新聞》記者搶先直擊現場，提醒目前還未正式開放，民眾盡量從外側觀看為佳。我是廣告 請繼續往下閱讀 --> 🟡「 台鐵高雄機廠舊工廠改建的高雄親子遊樂園區」在哪裡？",
-      "analysis": {
-        "overview": "直擊全台最大「室內遊樂園」！30項設施免費玩 最新內裝搶先曝光 | 美食旅遊 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 葉盛耀 /綜合報導 ▲由台鐵高雄機廠舊工廠改建的「高雄親子遊樂園區」，將於8月8日父親節當天開幕，預計將是全台最大室內兒童樂園，記者搶先直擊現在內裝。（圖／記者葉盛耀攝） ✕ 由台鐵高雄機廠舊工廠改建的「高雄",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "nownews.com",
-      "tags": [
-        "室內",
-        "放電",
-        "好玩"
-      ],
-      "reason": "全台最大室內兒童樂園占地1.5公頃，30項設施免費暢玩，有攀岩、彈跳床、戲水等多元設施讓孩子盡情放電，且為室內空間是雨天備案好去處。",
-      "published_at": "2026-08-04T05:59:00+00:00",
-      "collected_at": "2026-08-04T14:41:15.466531+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-www-msn-com-zh-tw-news-national-e5-85-a8-e5-9c-8b-e6-9c-80-e5-a4-a7-e5-8d-",
-      "title": "全國最大半室內高雄親子遊樂園區8/8開幕",
-      "url": "https://www.msn.com/zh-tw/news/national/%E5%85%A8%E5%9C%8B%E6%9C%80%E5%A4%A7%E5%8D%8A%E5%AE%A4%E5%85%A7%E9%AB%98%E9%9B%84%E8%A6%AA%E5%AD%90%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%8088%E9%96%8B%E5%B9%95/ar-AA29lipv",
-      "canonical_url": "https://www.msn.com/zh-tw/news/national/%E5%85%A8%E5%9C%8B%E6%9C%80%E5%A4%A7%E5%8D%8A%E5%AE%A4%E5%85%A7%E9%AB%98%E9%9B%84%E8%A6%AA%E5%AD%90%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%8088%E9%96%8B%E5%B9%95/ar-AA29lipv",
-      "image_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "全國最大半室內高雄親子遊樂園區8/8開幕。[NOWNEWS今日新聞]高雄市政府活化台鐵高雄機廠舊有場域，打造「全台最大半室內」、全面免費開放的親子遊憩場域「高雄親子遊樂園區」，園區將於8月8日父親節正式開幕，不僅特別邀請高雄熊與YOYO家族香 ...",
-      "analysis": {
-        "overview": "全國最大半室內高雄親子遊樂園區8/8開幕。[NOWNEWS今日新聞]高雄市政府活化台鐵高雄機廠舊有場域，打造「全台最大半室內」、全面免費開放的親子遊憩場域「高雄親子遊樂園區」，園區將於8月8日父親節正式開幕，不僅特別邀請高雄熊與YOYO家族香 ...",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "msn.com",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "半室內空間雨天可遊玩且全面免費開放，場域寬敞適合孩童盡情放電，家長也能輕鬆陪同休息。",
-      "published_at": "2026-08-04T05:28:00+00:00",
-      "collected_at": "2026-08-04T14:41:17.753961+00:00",
-      "query": "台灣 親子飯店 親子樂園"
     }
   ]
 }
