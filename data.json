@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T13:47:55.920765+00:00",
+  "updated_at": "2026-08-10T22:56:18.551009+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -28,6 +28,32 @@
       "published_at": "2026-08-10T09:44:23+00:00",
       "collected_at": "2026-08-10T13:43:35.561271+00:00",
       "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiv0fvx3lxte5ez3zidxi3ae5jm2h4ow1htmxwb0vhy",
+      "title": "全臺最大半室內樂園破紀錄！「高雄親子遊樂園區」首週末狂吸6.5萬人次 舊鐵道機廠華麗變身遊憩新地標",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EZ3ZIdXI3aE5JM2h4OW1hTmxwb0VHYnJ4ZzMweXB2UzM2VGRTY0UxR3dZTmVIQk81Tlpwb2hqNnRMNC1XZk1qLTAtMG1xYTNUUnNiMVFjcw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EZ3ZIdXI3aE5JM2h4OW1hTmxwb0VHYnJ4ZzMweXB2UzM2VGRTY0UxR3dZTmVIQk81Tlpwb2hqNnRMNC1XZk1qLTAtMG1xYTNUUnNiMVFjcw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "全臺最大半室內樂園破紀錄！「高雄親子遊樂園區」首週末狂吸6.5萬人次 舊鐵道機廠華麗變身遊憩新地標。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "全臺最大半室內樂園破紀錄！「高雄親子遊樂園區」首週末狂吸6.5萬人次 舊鐵道機廠華麗變身遊憩新地標。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "chtime.ikh.tw",
+      "tags": [
+        "好玩",
+        "室內"
+      ],
+      "reason": "半室內空間雨天也不受影響，家長不需擔心天氣變化，且由舊鐵道機廠改建，腹地大、設施新又多元，非常適合帶小孩放電玩上一整天。",
+      "published_at": "2026-08-10T09:04:33+00:00",
+      "collected_at": "2026-08-10T22:56:18.495717+00:00",
+      "query": "台灣 週末親子 去哪裡"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte9lbfbqugnwue1pr21ezf9bowvmrhbir",
@@ -829,30 +855,6 @@
       "published_at": "2026-08-09T01:23:57+00:00",
       "collected_at": "2026-08-09T13:16:14.059263+00:00",
       "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-www-msn-com-zh-tw-travel-e6-88-b6-e5-a4-96-e6-b4-bb-e5-8b-95-e9-ab-98-e9-9",
-      "title": "高雄親子遊樂園區湧人潮 輕軌站進出較平日激增20倍",
-      "url": "https://www.msn.com/zh-tw/travel/%E6%88%B6%E5%A4%96%E6%B4%BB%E5%8B%95/%E9%AB%98%E9%9B%84%E8%A6%AA%E5%AD%90%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%80%E6%B9%A7%E4%BA%BA%E6%BD%AE-%E8%BC%95%E8%BB%8C%E7%AB%99%E9%80%B2%E5%87%BA%E8%BC%83%E5%B9%B3%E6%97%A5%E6%BF%80%E5%A2%9E20%E5%80%8D/ar-AA29HqaU",
-      "canonical_url": "https://www.msn.com/zh-tw/travel/%E6%88%B6%E5%A4%96%E6%B4%BB%E5%8B%95/%E9%AB%98%E9%9B%84%E8%A6%AA%E5%AD%90%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%80%E6%B9%A7%E4%BA%BA%E6%BD%AE-%E8%BC%95%E8%BB%8C%E7%AB%99%E9%80%B2%E5%87%BA%E8%BC%83%E5%B9%B3%E6%97%A5%E6%BF%80%E5%A2%9E20%E5%80%8D/ar-AA29HqaU",
-      "image_url": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "高雄親子遊樂園區湧人潮 輕軌站進出較平日激增20倍。（中央社記者蔡孟妤高雄9日電）由原台鐵高雄機廠轉型的「高雄親子遊樂園區」昨天起正式開幕，免費對外開放；據市府統計，昨天首日即湧入逾3萬人次，輕軌凱旋武昌站單日進出達4000人次，較平日增加約20倍。",
-      "analysis": {
-        "overview": "高雄親子遊樂園區湧人潮 輕軌站進出較平日激增20倍。（中央社記者蔡孟妤高雄9日電）由原台鐵高雄機廠轉型的「高雄親子遊樂園區」昨天起正式開幕，免費對外開放；據市府統計，昨天首日即湧入逾3萬人次，輕軌凱旋武昌站單日進出達4000人次，較平日增加約20倍。",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "msn.com",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "免費開放且由機廠轉型的寬闊園區適合帶小孩放電奔跑，輕軌直達交通便利，適合全家出遊。",
-      "published_at": "2026-08-09T00:32:29+00:00",
-      "collected_at": "2026-08-10T13:46:32.408739+00:00",
-      "query": "台灣 親子飯店 親子樂園"
     }
   ]
 }
