@@ -1,8 +1,86 @@
 {
-  "updated_at": "2026-08-14T22:41:36.618670+00:00",
+  "updated_at": "2026-08-15T12:59:33.455393+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxtfb5d2d6lu9mavrxoxuxogz4umsytnjxc",
+      "title": "桃療走出戶外辦理親子綠色健走活動 打造健康友善職場新風貌 | 台灣好新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5d2d6LU9MaVRXOXUxOGZ4UmsyTnJxclNTTjZjOGVpQzh2UmQxSFZMMHgxaklvQWQ0WG1oXzZEUFZrYTMyUVlxcFFkMlpqQXphLU9BVlVn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5d2d6LU9MaVRXOXUxOGZ4UmsyTnJxclNTTjZjOGVpQzh2UmQxSFZMMHgxaklvQWQ0WG1oXzZEUFZrYTMyUVlxcFFkMlpqQXphLU9BVlVn?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "桃療走出戶外辦理親子綠色健走活動 打造健康友善職場新風貌 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "桃療走出戶外辦理親子綠色健走活動 打造健康友善職場新風貌 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "走出戶外進行綠色健走活動，帶孩子接觸自然環境同時消耗體力，是適合親子共遊的健康休閒選擇。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "大自然",
+        "放電"
+      ],
+      "reason": "走出戶外進行綠色健走活動，帶孩子接觸自然環境同時消耗體力，是適合親子共遊的健康休閒選擇。",
+      "published_at": "2026-08-15T05:59:33+00:00",
+      "collected_at": "2026-08-15T12:58:20.398441+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiu0fvx3lxte1zdmreevffcwzpmuzkvmpfb0ziajlee",
+      "title": "高雄親子遊樂園區探秘巡禮導覽職人場八月限定 加碼廠長帶路認識高雄昔日火車醫院",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZdmREeVFfcWZpMUZkVmpfb0ZIajlEeWQ5VUp5R09aWHBpVEVMbjAtMElES2RWOWJLQnVGaTctZW1nVUcxUU02cVVLaF83MjBTelpR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZdmREeVFfcWZpMUZkVmpfb0ZIajlEeWQ5VUp5R09aWHBpVEVMbjAtMElES2RWOWJLQnVGaTctZW1nVUcxUU02cVVLaF83MjBTelpR?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區探秘巡禮導覽職人場八月限定 加碼廠長帶路認識高雄昔日火車醫院。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區探秘巡禮導覽職人場八月限定 加碼廠長帶路認識高雄昔日火車醫院。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "台灣好報",
+      "tags": [
+        "好玩",
+        "放電"
+      ],
+      "reason": "職人導覽互動性強，小孩可近距離認識火車醫院歷史，寓教於樂；八月限定場次適合親子一同探索高雄特色景點。",
+      "published_at": "2026-08-15T03:15:38+00:00",
+      "collected_at": "2026-08-15T12:58:28.832925+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmikwfbvv95cuxnnwmxddhqukvqvtk2wnjlrwzrm2hqd",
+      "title": "高雄親子遊樂園區探秘巡禮導覽職人場八月限定 加碼廠長帶路認識高雄昔日火車醫院",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWMxdDhQUkVqVTk2WnJLRWZrM2hqdW41NEZwa25ISFRBVVd5TndzQ0ZULTJ4Q3VSd0hZRjFlaWpBTlJyekluYXJLVkVGUkxQR2ZoU1NLczdVSExTSzhZbUxrN1ZtY2dxd1BBVVUxYlhUOTk4N0t3dl9NLXpIZTg4ZW41bmVSREFvbURPcDA5RVJBR3c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWMxdDhQUkVqVTk2WnJLRWZrM2hqdW41NEZwa25ISFRBVVd5TndzQ0ZULTJ4Q3VSd0hZRjFlaWpBTlJyekluYXJLVkVGUkxQR2ZoU1NLczdVSExTSzhZbUxrN1ZtY2dxd1BBVVUxYlhUOTk4N0t3dl9NLXpIZTg4ZW41bmVSREFvbURPcDA5RVJBR3c?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區探秘巡禮導覽職人場八月限定 加碼廠長帶路認識高雄昔日火車醫院。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區探秘巡禮導覽職人場八月限定 加碼廠長帶路認識高雄昔日火車醫院。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "職人導覽加上廠長帶路，讓家長省力又增進親子互動，限定場次增添稀缺性與參與儀式感，適合安排暑假的放電行程。",
+      "published_at": "2026-08-15T03:15:38+00:00",
+      "collected_at": "2026-08-15T12:58:34.944996+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
     {
       "id": "https-www-storm-mg-lifestyle-11156503",
       "title": "台灣最新遊樂園8月開幕了！全台規模最大「不用門票免費玩30項設施、交通很便利」，地點活動優惠懶人包 | 蔡惠芯 | 風生活",
@@ -307,6 +385,56 @@
       "published_at": "2026-08-13T08:18:26+00:00",
       "collected_at": "2026-08-14T13:43:00.937597+00:00",
       "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-www-msn-com-zh-tw-health-topic-e5-8c-97-e9-83-a8-e8-a6-aa-e5-ad-90-e6-99-a",
+      "title": "北部親子景點完整攻略! 10+個室內景點推薦：雨天晴天都好玩，孩子放電、寓教於樂一次滿足",
+      "url": "https://www.msn.com/zh-tw/health/topic/%E5%8C%97%E9%83%A8%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E5%AE%8C%E6%95%B4%E6%94%BB%E7%95%A5-10-%E5%80%8B%E5%AE%A4%E5%85%A7%E6%99%AF%E9%BB%9E%E6%8E%A8%E8%96%A6-%E9%9B%A8%E5%A4%A9%E6%99%B4%E5%A4%A9%E9%83%BD%E5%A5%BD%E7%8E%A9-%E5%AD%A9%E5%AD%90%E6%94%BE%E9%9B%BB-%E5%AF%93%E6%95%99%E6%96%BC%E6%A8%82%E4%B8%80%E6%AC%A1%E6%BB%BF%E8%B6%B3/ar-AA29KXNM",
+      "canonical_url": "https://www.msn.com/zh-tw/health/topic/%E5%8C%97%E9%83%A8%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E5%AE%8C%E6%95%B4%E6%94%BB%E7%95%A5-10-%E5%80%8B%E5%AE%A4%E5%85%A7%E6%99%AF%E9%BB%9E%E6%8E%A8%E8%96%A6-%E9%9B%A8%E5%A4%A9%E6%99%B4%E5%A4%A9%E9%83%BD%E5%A5%BD%E7%8E%A9-%E5%AD%A9%E5%AD%90%E6%94%BE%E9%9B%BB-%E5%AF%93%E6%95%99%E6%96%BC%E6%A8%82%E4%B8%80%E6%AC%A1%E6%BB%BF%E8%B6%B3/ar-AA29KXNM",
+      "image_url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "北部親子景點完整攻略! 10+個室內景點推薦：雨天晴天都好玩，孩子放電、寓教於樂一次滿足。在台北規劃親子行程，其實不必與烈日或雨天對抗。只要安排室內景點，不僅能避開高溫與午後雷陣雨，還能大幅降低移動與等候成本。這類場館多半設有互動體驗設施，孩子可以動手操作、實際參與，比起單純走馬看花更具吸引力，也更能延長停留時間。爸媽則能在舒適環境中陪伴學習，不再因天氣影響心情與體力。從恐龍化石到宇宙探索，從植物生態到藝術創作，每一站都是寓教於樂的延伸教室。只要簡單規劃路線與時間，還能串聯多個景點 ...",
+      "analysis": {
+        "overview": "北部親子景點完整攻略! 10+個室內景點推薦：雨天晴天都好玩，孩子放電、寓教於樂一次滿足。在台北規劃親子行程，其實不必與烈日或雨天對抗。只要安排室內景點，不僅能避開高溫與午後雷陣雨，還能大幅降低移動與等候成本。這類場館多半設有互動體驗設施，孩子可以動手操作、實際參與，比起單純走馬看花更具吸引力，也更能延長停留時間。爸媽則能在舒適環境中陪伴學習，不再因天氣影響心情與體力。從恐龍化石到宇宙探索，從植物生態到藝術創作，每一站都是寓教於樂的延伸教室。只要簡單規劃路線與時間，還能串聯多個景點 ...",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "msn.com",
+      "tags": [
+        "看動物",
+        "室內",
+        "放電",
+        "好玩"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-08-13T04:45:32+00:00",
+      "collected_at": "2026-08-15T12:58:50.355318+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-www-msn-com-zh-tw-travel-e5-ae-b6-e5-ba-ad-e6-97-85-e9-81-8a-e5-8c-97-e9-8",
+      "title": "北部親子景點完整攻略! 10+個室內景點推薦：雨天晴天都好玩，孩子放電、寓教於樂一次滿足",
+      "url": "https://www.msn.com/zh-tw/travel/%E5%AE%B6%E5%BA%AD%E6%97%85%E9%81%8A/%E5%8C%97%E9%83%A8%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E5%AE%8C%E6%95%B4%E6%94%BB%E7%95%A5-10-%E5%80%8B%E5%AE%A4%E5%85%A7%E6%99%AF%E9%BB%9E%E6%8E%A8%E8%96%A6-%E9%9B%A8%E5%A4%A9%E6%99%B4%E5%A4%A9%E9%83%BD%E5%A5%BD%E7%8E%A9-%E5%AD%A9%E5%AD%90%E6%94%BE%E9%9B%BB-%E5%AF%93%E6%95%99%E6%96%BC%E6%A8%82%E4%B8%80%E6%AC%A1%E6%BB%BF%E8%B6%B3/ar-AA29KXNM",
+      "canonical_url": "https://www.msn.com/zh-tw/travel/%E5%AE%B6%E5%BA%AD%E6%97%85%E9%81%8A/%E5%8C%97%E9%83%A8%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E5%AE%8C%E6%95%B4%E6%94%BB%E7%95%A5-10-%E5%80%8B%E5%AE%A4%E5%85%A7%E6%99%AF%E9%BB%9E%E6%8E%A8%E8%96%A6-%E9%9B%A8%E5%A4%A9%E6%99%B4%E5%A4%A9%E9%83%BD%E5%A5%BD%E7%8E%A9-%E5%AD%A9%E5%AD%90%E6%94%BE%E9%9B%BB-%E5%AF%93%E6%95%99%E6%96%BC%E6%A8%82%E4%B8%80%E6%AC%A1%E6%BB%BF%E8%B6%B3/ar-AA29KXNM",
+      "image_url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "北部親子景點完整攻略! 10+個室內景點推薦：雨天晴天都好玩，孩子放電、寓教於樂一次滿足。在台北規劃親子行程，其實不必與烈日或雨天對抗。只要安排室內景點，不僅能避開高溫與午後雷陣雨，還能大幅降低移動與等候成本。這類場館多半設有互動體驗設施，孩子可以動手操作、實際參與，比起單純走馬看花更具吸引力，也更能延長停留時間。爸媽則能在舒適環境中陪伴學習，不再因天氣影響心情與體力。從恐龍化石到宇宙探索，從植物生態到藝術創作，每一站都是寓教於樂的延伸教室。只要簡單規劃路線與時間，還能串聯多個景點 ...",
+      "analysis": {
+        "overview": "北部親子景點完整攻略! 10+個室內景點推薦：雨天晴天都好玩，孩子放電、寓教於樂一次滿足。在台北規劃親子行程，其實不必與烈日或雨天對抗。只要安排室內景點，不僅能避開高溫與午後雷陣雨，還能大幅降低移動與等候成本。這類場館多半設有互動體驗設施，孩子可以動手操作、實際參與，比起單純走馬看花更具吸引力，也更能延長停留時間。爸媽則能在舒適環境中陪伴學習，不再因天氣影響心情與體力。從恐龍化石到宇宙探索，從植物生態到藝術創作，每一站都是寓教於樂的延伸教室。只要簡單規劃路線與時間，還能串聯多個景點 ...",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "msn.com",
+      "tags": [
+        "放電",
+        "室內"
+      ],
+      "reason": "室內景點能避開雨天與烈日，且多設有互動體驗設施，孩子可實際操作延長停留時間，爸媽在舒適環境中陪伴學習更輕鬆。",
+      "published_at": "2026-08-13T04:45:32+00:00",
+      "collected_at": "2026-08-15T12:58:57.807347+00:00",
+      "query": "台灣 親子放電 景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmib0fvx3lxte1nnnzpqvewbvnaoflqtetuy2ndrfzgc",
@@ -689,137 +817,6 @@
       "published_at": "2026-08-12T05:13:00+00:00",
       "collected_at": "2026-08-12T13:46:43.777251+00:00",
       "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmib0fvx3lxtfb1x1hvvlngvhfbmwhvnlrqbnbwatdxd",
-      "title": "嘉義親子一日遊玩4景點 太空探險採果一次滿足",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1X1hvVlNGVHFBMWhvNlRqbnBWaTdXdGhkWFpoXzVpcTBCcGRKcjgyUERlemVaTjNIUlIxR3ptZEZrdUxPZUFyVjluRVRWZk9nRVFjQ3d2MlU1RDlPM1EtTFItRnpvRk5EUWdLOFVCcw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1X1hvVlNGVHFBMWhvNlRqbnBWaTdXdGhkWFpoXzVpcTBCcGRKcjgyUERlemVaTjNIUlIxR3ptZEZrdUxPZUFyVjluRVRWZk9nRVFjQ3d2MlU1RDlPM1EtTFItRnpvRk5EUWdLOFVCcw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "嘉義親子一日遊玩4景點 太空探險採果一次滿足。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "嘉義親子一日遊玩4景點 太空探險採果一次滿足。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "一日遊暢玩4景點含太空探險與採果，結合室內趣味體驗與戶外自然活動，多元行程滿足不同年齡層需求。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "花花日報",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "一日遊暢玩4景點含太空探險與採果，結合室內趣味體驗與戶外自然活動，多元行程滿足不同年齡層需求。",
-      "published_at": "2026-08-12T02:13:00+00:00",
-      "collected_at": "2026-08-12T13:46:59.147171+00:00",
-      "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmi-wjbvv95cuxoqujvnjjrrvdtmfjoznrpqwpxr0e0r",
-      "title": "雲林又有新遊樂場！台78橋下變身「糖鐵樂園」0歲到百歲都能玩",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOQUJvNjJRRVdTMFJoZnRPQWpXR0E0REZJVXFiN1NTZE44R3E0V09YSkxEbzJFZ0JSNl9rbnhmRDNfcVdEbk9NTjh6Z0V0Q25pZWZWd3ZjTHZPc1NzR3J5ZUk4ZE5scnlfNFZHVkZ1YkpDMEdvSWRyZ0MzS3dQVnN0UTFNTkFiR3RrbHFVd2tDaENieWNKa2J4YnNudVV0VjdNOGZlU1J2VGxTSjUwR2dzY21sN0dPNDdUdUsyUEwtcjAwSzhzQWdGc3FvbGQtZ2ZoLU9NTzlGUnBkVjJIandFZGdMellUVllNUGlUb3RUYklEZWRyTUpxUVp4cjdvZVpScjZxNUthRHlqcDRSYUpTM2txZEJkZ2VhXzFZVWVkVjlSOUxzLVVoZ1gtYXFzeXk2NnhfQUlNQmxYd3JLbUdQQURfZGQ2bjAxN1JHdjl5MnV5VDR1cWpUVjhlUzFMdWVOZ1pCRnRVRWxzdkJBYzVTUkxnSFJnR000bmow?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOQUJvNjJRRVdTMFJoZnRPQWpXR0E0REZJVXFiN1NTZE44R3E0V09YSkxEbzJFZ0JSNl9rbnhmRDNfcVdEbk9NTjh6Z0V0Q25pZWZWd3ZjTHZPc1NzR3J5ZUk4ZE5scnlfNFZHVkZ1YkpDMEdvSWRyZ0MzS3dQVnN0UTFNTkFiR3RrbHFVd2tDaENieWNKa2J4YnNudVV0VjdNOGZlU1J2VGxTSjUwR2dzY21sN0dPNDdUdUsyUEwtcjAwSzhzQWdGc3FvbGQtZ2ZoLU9NTzlGUnBkVjJIandFZGdMellUVllNUGlUb3RUYklEZWRyTUpxUVp4cjdvZVpScjZxNUthRHlqcDRSYUpTM2txZEJkZ2VhXzFZVWVkVjlSOUxzLVVoZ1gtYXFzeXk2NnhfQUlNQmxYd3JLbUdQQURfZGQ2bjAxN1JHdjl5MnV5VDR1cWpUVjhlUzFMdWVOZ1pCRnRVRWxzdkJBYzVTUkxnSFJnR000bmow?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "雲林又有新遊樂場！台78橋下變身「糖鐵樂園」0歲到百歲都能玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "雲林又有新遊樂場！台78橋下變身「糖鐵樂園」0歲到百歲都能玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "台78橋下遮陽擋雨，雨天也能玩，適合帶小孩放電，且強調0歲到百歲都能玩，各年齡層都適合。",
-      "published_at": "2026-08-12T01:21:45+00:00",
-      "collected_at": "2026-08-12T13:47:05.697478+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiakfvx3lxte1lzl9mrdnlttziqvzudwtpsfjndklgc",
-      "title": "雲林又有新遊樂場！台78橋下變身「糖鐵樂園」0歲到百歲都能玩- 生活",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZl9mRDNlTTZIQVZudWtpSFJNdklGci1QWElTM0UzT0tVSXBTblBITHJuYkpuTlpnY1h6a0c5Q1pLS3BUdmRZTXVBMDNWU3BLclMtMXdrclRXZklKSVNqQ3Z2aU1odUtIOFE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZl9mRDNlTTZIQVZudWtpSFJNdklGci1QWElTM0UzT0tVSXBTblBITHJuYkpuTlpnY1h6a0c5Q1pLS3BUdmRZTXVBMDNWU3BLclMtMXdrclRXZklKSVNqQ3Z2aU1odUtIOFE?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "雲林又有新遊樂場！台78橋下變身「糖鐵樂園」0歲到百歲都能玩- 生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "雲林又有新遊樂場！台78橋下變身「糖鐵樂園」0歲到百歲都能玩- 生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "自由時報",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "台78橋下遮陽避雨雨天也能玩，0到100歲都能使用，推車也好推，適合全家放電。",
-      "published_at": "2026-08-12T00:59:43+00:00",
-      "collected_at": "2026-08-12T13:47:19.070922+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxnzll2s2llnex5qjlvx1dftkhhrug3q",
-      "title": "6米蜜柑站長賣萌！高雄親子園區12件裝置藝術驚喜現身 - 旅遊新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZll2S2lLNEx5QjlvX1dfTkhhRUg3Q0N0LWVtbmc2aUtkYmQ5NUgtR0s3SVVYWWFmbWthR0lieE1qTnhYdDZqODM0VFo1bnRNTmMweHJjYnJzZ0Y2UUd6eE1CajRhbWVDa1dHaWlJZEs3WDdpYVBrazl3UUI3X2dtZXZjTm14OFpOaFBDcw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZll2S2lLNEx5QjlvX1dfTkhhRUg3Q0N0LWVtbmc2aUtkYmQ5NUgtR0s3SVVYWWFmbWthR0lieE1qTnhYdDZqODM0VFo1bnRNTmMweHJjYnJzZ0Y2UUd6eE1CajRhbWVDa1dHaWlJZEs3WDdpYVBrazl3UUI3X2dtZXZjTm14OFpOaFBDcw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "6米蜜柑站長賣萌！高雄親子園區12件裝置藝術驚喜現身 - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "6米蜜柑站長賣萌！高雄親子園區12件裝置藝術驚喜現身 - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。"
-      },
-      "source_name": "PChome Online 新聞",
-      "tags": [
-        "好玩",
-        "大自然"
-      ],
-      "reason": "高雄最新親子園區擁有6米高人氣蜜柑站長及12件互動裝置藝術，大型戶外空間讓孩子盡情跑跳探索、拍照打卡，很適合全家同遊放電。",
-      "published_at": "2026-08-12T00:00:00+00:00",
-      "collected_at": "2026-08-13T13:48:01.066176+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte41qmvgazvsdufmzln0wvyzvvyxalbka",
-      "title": "暑假嗨翻 高雄親子樂園2天湧6.5萬人 | 自由電子報",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41QmVGazVSdUFmZlN0WVYzVVYxalBKaUk1Wi1QWVJqTVVQbXhqS3FZNWhZTl9DMkhXRnZCZEw3cWJDQXo3U0MyLWEyUHRBM194S1h1dTBR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41QmVGazVSdUFmZlN0WVYzVVYxalBKaUk1Wi1QWVJqTVVQbXhqS3FZNWhZTl9DMkhXRnZCZEw3cWJDQXo3U0MyLWEyUHRBM194S1h1dTBR?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "暑假嗨翻 高雄親子樂園2天湧6.5萬人 | 自由電子報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "暑假嗨翻 高雄親子樂園2天湧6.5萬人 | 自由電子報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄親子樂園暑假人氣爆棚，遊樂設施多元能讓孩子盡情放電，是放暑假帶小孩消耗體力的好去處。",
-      "published_at": "2026-08-11T23:22:13+00:00",
-      "collected_at": "2026-08-12T13:47:38.922187+00:00",
-      "query": "台灣 週末親子 去哪裡"
     }
   ]
 }
