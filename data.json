@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T13:03:18.838652+00:00",
+  "updated_at": "2026-08-16T22:36:50.772443+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -54,6 +54,32 @@
       "published_at": "2026-08-16T09:46:47+00:00",
       "collected_at": "2026-08-16T13:00:22.868866+00:00",
       "query": "台南 高雄 屏東 親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmi9wjbvv95cuxpaffjrtdsd1bprxlqvxfhrxuwvxjrr",
+      "title": "高雄親子遊樂園區好評不斷 30多項免費遊樂設施持續開放",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPaFFJRTdsd1BPRXlQVXFhRXUwVXJRRTBuWUdhNFExUGpmOWFzZDFCU1lPRTVrczBzTTJDMFNMU2tlQUtJRk1CYnFqLVJoOEVwZnF1cTBUN3Z0VVRYWng5VFI4WHZ1NmNpUDVoVjd1ZnRNeUVYZGFXTk1SQV9wVVR2SUxuZzRKRXplOFlOLWt3NFlDemhjVzZTaUtoSU1VYXI1eWRJVHlfeDZHYnNXT1RtTkh1bzh3UDk5Y0dKYlZGTndzWlVyTVhJVm81Q1h0akJ0X1F2MUdUYjVPRWVaMTJGczVTYlQxTHk0b0xWLUJPOHBaV201S3ZtTHhqZk9ncHdtTzAxUUVGZlo2NE8zZmdwd2xDQ3VSVFdmWUszY0hCeE16aUVpeEpXdUYyRW40ZHhMcGpYOUJ3Yk5aTGZnWVlUcW5mT1prMjhidURvMlZocnlMS3dieGdvaHpFNkRFYTJFODdkbnEwS0RMSFlPR0FaMUo1RGtXMFE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPaFFJRTdsd1BPRXlQVXFhRXUwVXJRRTBuWUdhNFExUGpmOWFzZDFCU1lPRTVrczBzTTJDMFNMU2tlQUtJRk1CYnFqLVJoOEVwZnF1cTBUN3Z0VVRYWng5VFI4WHZ1NmNpUDVoVjd1ZnRNeUVYZGFXTk1SQV9wVVR2SUxuZzRKRXplOFlOLWt3NFlDemhjVzZTaUtoSU1VYXI1eWRJVHlfeDZHYnNXT1RtTkh1bzh3UDk5Y0dKYlZGTndzWlVyTVhJVm81Q1h0akJ0X1F2MUdUYjVPRWVaMTJGczVTYlQxTHk0b0xWLUJPOHBaV201S3ZtTHhqZk9ncHdtTzAxUUVGZlo2NE8zZmdwd2xDQ3VSVFdmWUszY0hCeE16aUVpeEpXdUYyRW40ZHhMcGpYOUJ3Yk5aTGZnWVlUcW5mT1prMjhidURvMlZocnlMS3dieGdvaHpFNkRFYTJFODdkbnEwS0RMSFlPR0FaMUo1RGtXMFE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區好評不斷 30多項免費遊樂設施持續開放。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區好評不斷 30多項免費遊樂設施持續開放。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "30多項免費遊樂設施，讓小孩盡情玩耍放電，家長可輕鬆陪同無負擔。",
+      "published_at": "2026-08-16T09:18:28+00:00",
+      "collected_at": "2026-08-16T22:36:37.796062+00:00",
+      "query": "台灣 親子景點 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte1qnjzbadkyz2trq1vbedbdz2gwqvvmn",
@@ -330,6 +356,32 @@
       "published_at": "2026-08-16T02:41:58+00:00",
       "collected_at": "2026-08-16T13:01:52.573104+00:00",
       "query": "台南 高雄 屏東 親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxqqzluvk9xugjrq24wuzblm3u5qwr0b",
+      "title": "高雄親子遊樂園區週末嗨翻YOYO家族、魔術特技精彩壓軸暑假尾聲- 社會新聞- PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQzluVk9XUGJRQ24wUzBLM3U5QWR0bl9UdnVWZTNrendIelVyak9HUnIzNTZabHVxTk9tSmdQMVQ5eXdRRmNSMHU1YzBHbXptamFVaERhcy1tTWRRazNvTXRLSHhkT1k3ekVCTV9ZV2RuaXhXTWY1V0FjZUdNWDVJaFhJYWtwNlJ1eTU4YQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQzluVk9XUGJRQ24wUzBLM3U5QWR0bl9UdnVWZTNrendIelVyak9HUnIzNTZabHVxTk9tSmdQMVQ5eXdRRmNSMHU1YzBHbXptamFVaERhcy1tTWRRazNvTXRLSHhkT1k3ekVCTV9ZV2RuaXhXTWY1V0FjZUdNWDVJaFhJYWtwNlJ1eTU4YQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區週末嗨翻YOYO家族、魔術特技精彩壓軸暑假尾聲- 社會新聞- PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區週末嗨翻YOYO家族、魔術特技精彩壓軸暑假尾聲- 社會新聞- PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "樂園有多項表演與遊樂設施，孩子可盡情放電玩樂，適合帶小孩消耗體力、歡度週末時光。",
+      "published_at": "2026-08-16T02:41:58+00:00",
+      "collected_at": "2026-08-16T22:36:42.843695+00:00",
+      "query": "台灣 週末親子 去哪裡"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiywjbvv95cuxotvfwywnwvwlamulwunutc3jzuu00q",
@@ -784,74 +836,6 @@
       "published_at": "2026-08-15T07:31:02+00:00",
       "collected_at": "2026-08-15T22:37:58.233860+00:00",
       "query": "台南 高雄 屏東 親子景點"
-    },
-    {
-      "id": "https-n-yam-com-article-20260815248493",
-      "title": "濕雨天人氣不減！高雄親子遊樂園區單日飆破1.8萬人潮 | 蕃新聞",
-      "url": "https://n.yam.com/Article/20260815248493",
-      "canonical_url": "https://n.yam.com/Article/20260815248493",
-      "image_url": "https://ni.yam.com/20260815/688436-0-cdf8534275ed862e.jpg",
-      "images": [
-        "https://ni.yam.com/20260815/688436-0-cdf8534275ed862e.jpg",
-        "https://news.586.com.tw/wp-content/uploads/2026/08/688436-0-800x600.jpg",
-        "https://ni.yam.com/20260715/dq-260716-001.png",
-        "https://ni.yam.com/20260815/6ef8f740b2c5fab92f3f8e60e4c4a49b-4ce72bfa4cdbce83.jpg",
-        "https://ni.yam.com/20260815/7efe2326f817a261634dd521f605443f-scaled-9fcdc7f3fd3421ed.jpg",
-        "https://ni.yam.com/20260815/8eabdb8e8c42eef5aafeb1d42338e4c5-scaled-85fd901ac1c929c1.jpg",
-        "https://ni.yam.com/20260815/A0815--3e2800033702765b.jpg",
-        "https://ni.yam.com/20260815/S__581689358_0-scaled-85043239e77bf1bc.jpg"
-      ],
-      "summary": "濕雨天人氣不減！高雄親子遊樂園區單日飆破1.8萬人潮 | 蕃新聞。【點傳媒／記者張沁慧報導】雨勢澆不熄熱情！高雄親子遊樂園區今（15）日湧入高達1.8萬人次進場，雖受降雨影響，外縣市遊客仍佔了四成以上，其中以台南與屏東最為踴躍。這座由舊台鐵高雄機廠貨車工廠改造、佔地1.5公頃的樂園，完美結合歷史建築與半室內外設計，提供三十多項分齡遊憩設施及全台首創的天車攀爬網，成為全台暑假親子旅遊的熱門亮點。園區開放時間為寒暑假每週二至週日、一般期間每週三至週日，每日上午9時至晚間7時。建議民眾多加利用高雄輕軌至凱旋武昌站步行前往，或使用二聖路側停車場。遊玩時請遵循現場動線與安全指引，切勿擅入未開放區域。",
-      "analysis": {
-        "overview": "濕雨天人氣不減！高雄親子遊樂園區單日飆破1.8萬人潮 | 蕃新聞。【點傳媒／記者張沁慧報導】雨勢澆不熄熱情！高雄親子遊樂園區今（15）日湧入高達1.8萬人次進場，雖受降雨影響，外縣市遊客仍佔了四成以上，其中以台南與屏東最為踴躍。這座由舊台鐵高雄機廠貨車工廠改造、佔地1.5公頃的樂園，完美結合歷史建築與半室內外設計，提供三十多項分齡遊憩設施及全台首創的天車攀爬網，成為全台暑假親子旅遊的熱門亮點。園區開放時間為寒暑假每週二至週日、一般期間每週三至週日，每日上午9時至晚間7時。建議民眾多加利用高雄輕軌至凱旋武昌站步行前往",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "n.yam.com",
-      "tags": [
-        "放電",
-        "室內",
-        "好玩"
-      ],
-      "reason": "半室內外設計不怕下雨，三十多項分齡遊憩設施超級放電，且輕軌和停車場交通便利，是雨天也適合的親子遊樂園。",
-      "published_at": "2026-08-15T06:39:00+00:00",
-      "collected_at": "2026-08-15T22:38:03.575321+00:00",
-      "query": "台南 高雄 屏東 親子景點"
-    },
-    {
-      "id": "https-n-yam-com-article-20260815254330",
-      "title": "高雄親子遊樂園區今日湧入1.8萬人次 外縣市遊客占4成 不受雨勢影響 | 蕃新聞",
-      "url": "https://n.yam.com/Article/20260815254330",
-      "canonical_url": "https://n.yam.com/Article/20260815254330",
-      "image_url": "https://ni.yam.com/20260815/688439_0-a03ca65312b4b7ee.jpg",
-      "images": [
-        "https://ni.yam.com/20260815/688439_0-a03ca65312b4b7ee.jpg",
-        "https://focusnews.com.tw/wp-content/uploads/2026/08/688437_0-800x600.jpg",
-        "https://focusnews.com.tw/wp-content/uploads/2026/08/688435_0-800x600.jpg",
-        "https://ni.yam.com/20260715/dq-260716-001.png",
-        "https://ni.yam.com/20260809/s--107462674-0-1500x1125-21a696d8602efdf1.jpg",
-        "https://ni.yam.com/20260809/S__107462669_0-c8593bfb0da5b156.jpg",
-        "https://ni.yam.com/20260809/5855d4ad7d9c404fc792e4db28e5b791-2a977a450c052117.jpg",
-        "https://ni.yam.com/20260808/s--107397213-0-1500x1125-e9d63454e4eddb44.jpg"
-      ],
-      "summary": "高雄親子遊樂園區今日湧入1.8萬人次 外縣市遊客占4成 不受雨勢影響 | 蕃新聞。【今傳媒/記者李祖東報導】 雨勢澆不熄親子出遊熱情！高雄今（15）日受降雨影響，許多地區一度雨勢明顯，於8月8日父親節開園的「高雄親子遊樂園區」人潮卻依舊絡繹不絕，今日全天人流1.8萬人次，現場可見許多家長趁著週末帶著孩子冒雨前來遊玩。值得一提的是，今日入園遊客中，高雄市民占56.4%，外縣市遊客占43.6%，即使雨勢不斷，仍有超過4成遊客來自外縣市，其中以台南市13.4%、屏東縣12%最多，另有台中市5.1%，新北市4.6%，桃園市2.3%及台北市2.1%等地遊客前來，顯示高雄親子遊樂園區不僅受到在地家庭喜愛，更吸引全台家庭跨縣市前來，成為暑假親子出遊新亮點。其中，來自台東的一家四口帶著行李搭乘火車轉乘輕軌，專程來到高雄親子遊樂園區遊玩，即使今日碰上雨勢，仍沒有澆熄全家出遊的興致，直奔目前最夯的親子遊樂園區，成為今日外縣市遊客熱情的生動寫照，也展現園區已逐漸成為暑假家庭跨縣市旅遊的新熱門景點。今日雖逢雨天，園區人流仍維持熱絡，除了顯示市民對親子樂園的高度期待，也反映園區「半室內、半戶外」的空間設計，在南部夏季高溫及午後雷雨的天候條件下，提供家庭另一項安心又便利的遊憩選擇。",
-      "analysis": {
-        "overview": "高雄親子遊樂園區今日湧入1.8萬人次 外縣市遊客占4成 不受雨勢影響 | 蕃新聞。【今傳媒/記者李祖東報導】 雨勢澆不熄親子出遊熱情！高雄今（15）日受降雨影響，許多地區一度雨勢明顯，於8月8日父親節開園的「高雄親子遊樂園區」人潮卻依舊絡繹不絕，今日全天人流1.8萬人次，現場可見許多家長趁著週末帶著孩子冒雨前來遊玩。值得一提的是，今日入園遊客中，高雄市民占56.4%，外縣市遊客占43.6%，即使雨勢不斷，仍有超過4成遊客來自外縣市，其中以台南市13.4%、屏東縣12%最多，另有台中市5.1%，新北市4.6%，桃園市",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "n.yam.com",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "半室內半戶外空間設計，適合南部高溫與午後雷雨天氣，雨天也能輕鬆出遊，是雨天備案的好選擇。",
-      "published_at": "2026-08-15T06:36:00+00:00",
-      "collected_at": "2026-08-15T22:38:08.464813+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
     }
   ]
 }
