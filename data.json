@@ -1,8 +1,197 @@
 {
-  "updated_at": "2026-08-16T22:36:50.772443+00:00",
+  "updated_at": "2026-08-17T13:07:21.030233+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte1zm1bvcevfmhhpctvza3hky2vvbnvkn",
+      "title": "高雄親子遊樂園區志工熱烈招募中 邀您一起成為孩子的安全守護神！",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zM1BvcEVFMHhPcTVZa3hkY2VvbnVkNDl3UThnSG9PYWhobjZrRGZ5LWgtTUYwOHdpU1JlRXRsTmJRTTBpeEJlSEVvOWE1VjRPRkE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zM1BvcEVFMHhPcTVZa3hkY2VvbnVkNDl3UThnSG9PYWhobjZrRGZ5LWgtTUYwOHdpU1JlRXRsTmJRTTBpeEJlSEVvOWE1VjRPRkE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區志工熱烈招募中 邀您一起成為孩子的安全守護神！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區志工熱烈招募中 邀您一起成為孩子的安全守護神！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-08-17T10:15:00+00:00",
+      "collected_at": "2026-08-17T13:05:20.184777+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfa3ahb5lxh6zlg5ywnwy1rvngj1yxg0z",
+      "title": "高雄親子遊樂園區志工熱烈招募中",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3aHB5LXh6Zlg5YWNWY1RvNGJ1YXg0Z2FYNmFQWjFueEgtRWtPOVFERnpnbm5iSVJJTzl5NlhfV3lYRHBaZU1HRjh1M3RUQmJRZVE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3aHB5LXh6Zlg5YWNWY1RvNGJ1YXg0Z2FYNmFQWjFueEgtRWtPOVFERnpnbm5iSVJJTzl5NlhfV3lYRHBaZU1HRjh1M3RUQmJRZVE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區志工熱烈招募中。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區志工熱烈招募中。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "雖然這是招募志工的新聞，但從標題可推斷這是處可讓孩子盡情玩耍消耗體力、設施適合親子的遊樂園區。",
+      "published_at": "2026-08-17T04:57:00+00:00",
+      "collected_at": "2026-08-17T13:05:42.697218+00:00",
+      "query": "台灣 週末親子 去哪裡"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte5nqvdjd2wydux2r3duszddckvareo3w",
+      "title": "臺鐵機場百年轉身！「高雄親子遊樂園區」盛大開幕 全臺最大、免費入場、輕軌直達",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NQVdjd2wydUx2R3dUSzdDckVaREo3WG5jR1BpSzVtcHVFc21HQWVHbFB5LXBIWG9kbGpjTTZVOE5ZZmsydUw0TDBLSE9odFEzVUZNdA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NQVdjd2wydUx2R3dUSzdDckVaREo3WG5jR1BpSzVtcHVFc21HQWVHbFB5LXBIWG9kbGpjTTZVOE5ZZmsydUw0TDBLSE9odFEzVUZNdA?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "臺鐵機場百年轉身！「高雄親子遊樂園區」盛大開幕 全臺最大、免費入場、輕軌直達。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "臺鐵機場百年轉身！「高雄親子遊樂園區」盛大開幕 全臺最大、免費入場、輕軌直達。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "品觀點",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "全台最大遊樂園區提供寬廣空間讓孩子盡情放電，且免費入場交通便利，輕軌直達無需轉乘。",
+      "published_at": "2026-08-17T03:46:30+00:00",
+      "collected_at": "2026-08-17T13:05:56.618789+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmizefvx3lxte1cztzdtwtgtjfdalg0n1raow5wvwvwn",
+      "title": "請支援志工最夯的高雄親子遊樂園發出召集令- 生活",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CZTZDTWtGTjFDalg0N1RaOW5WVWVwNmM2VFV6a0xfRFlITG5aM1hsWGw1YVRGQWdoVzdSREZELTlxNTlFcjJGc2hGY01Nbmt2R2FHQ1A3NnY5TGxtSEdVQmNpQ24?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CZTZDTWtGTjFDalg0N1RaOW5WVWVwNmM2VFV6a0xfRFlITG5aM1hsWGw1YVRGQWdoVzdSREZELTlxNTlFcjJGc2hGY01Nbmt2R2FHQ1A3NnY5TGxtSEdVQmNpQ24?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "請支援志工最夯的高雄親子遊樂園發出召集令- 生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "請支援志工最夯的高雄親子遊樂園發出召集令- 生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "自由時報",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "高雄超人氣親子遊樂園，提供多元遊樂設施讓孩子盡情放電玩樂，是週末全家出遊的好去處。",
+      "published_at": "2026-08-17T03:36:08+00:00",
+      "collected_at": "2026-08-17T13:06:05.859159+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiywjbvv95cuxncdbedc1wblvic1lltgriswrusu5us",
+      "title": "高雄親子遊樂園區招募志工 邀市民攜手守護孩子遊戲安全",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNcDBEdC1WblVIc1llTGRISWRUSU5uSFFJYm1udFVqZDRwWE5jTkk5ZDUzTmN2anRjQXhscHM4Qk8xbnh2bldLcmlCdnhObnNnZHZkck9NeGdrQnlrdWlGVnJidF90bXZzNTQ5Q2NTcmQxNS15NFJsOHdkUGZBbjV4d1IwVlpPQVlFQUIxNFdqcDhkOU13cWxUVHRfUkR5RzRjM2c3RDJRY2laeXBmNlZVMzgyQ0J0RUZPWVZOMmNPYVpXNUxvZ1hmUUdnQzhfQU1zb1dITG1FM21HOS1WQTd5Y2RHYl9EbzQ5aU9kQ3pZaDI3bklZeDFneEdvQ0Vfdk5jZDhiUUVmak5rR1JmdmhXS242UHk2M25aMEp0T3VpWGJFR3NCc1ItY01QVGhTczF2OEo0NWJ4UlRrWFlFaFl2RllNQkV5UWNBMmpF?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNcDBEdC1WblVIc1llTGRISWRUSU5uSFFJYm1udFVqZDRwWE5jTkk5ZDUzTmN2anRjQXhscHM4Qk8xbnh2bldLcmlCdnhObnNnZHZkck9NeGdrQnlrdWlGVnJidF90bXZzNTQ5Q2NTcmQxNS15NFJsOHdkUGZBbjV4d1IwVlpPQVlFQUIxNFdqcDhkOU13cWxUVHRfUkR5RzRjM2c3RDJRY2laeXBmNlZVMzgyQ0J0RUZPWVZOMmNPYVpXNUxvZ1hmUUdnQzhfQU1zb1dITG1FM21HOS1WQTd5Y2RHYl9EbzQ5aU9kQ3pZaDI3bklZeDFneEdvQ0Vfdk5jZDhiUUVmak5rR1JmdmhXS242UHk2M25aMEp0T3VpWGJFR3NCc1ItY01QVGhTczF2OEo0NWJ4UlRrWFlFaFl2RllNQkV5UWNBMmpF?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區招募志工 邀市民攜手守護孩子遊戲安全。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區招募志工 邀市民攜手守護孩子遊戲安全。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "yesmedia.com.tw",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-08-17T03:16:17+00:00",
+      "collected_at": "2026-08-17T13:06:27.977149+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmilwdbvv95cuxpzhb3zjbuy3d2x1pvutvzsexsdxrvz",
+      "title": "【2026年8月活動推薦】宜蘭情人節煙火、高雄親子遊樂園區、石岡熱氣球、淡水漁人碼頭煙火、花蓮金針花季...全台熱門景點活動一次看！(不斷更新) |【玩樂行事曆】",
+      "url": "https://news.google.com/rss/articles/CBMilwdBVV95cUxPZHB3ZjBuY3d2X1pvUTVzSExSdXRvZkszUFdPTWtzRHFJeExpa2I3TGFienZvQ25VNV9ZSEE3R1BmNWZHbElpc1pOV0xxVlNCTHVPY3QwSFpReFRaVVBUajV6am00bUd1bnE1T2NKR1pscUtIQTJZcFJSeUZKeFZ3dmRxMVlnWU55bm9ZOEtDSGxIWFozZ09IblQtRDV2bWxhM0RsQzJGZzdSekRpemtYSWVnTUpIR2QxSEhZTVNsU3RkN0l1amxlR1gzUS1WeHlvY05uTV9yeDRCMENDdFFLcWRDOWlad1hwZUhxVUk2T1JxbjlWOGYwMG00RW5kWm52SnRmTDBvQnhWNGRyallRaWllU2JVNkZia2xWZ0hQMXpEWjdmVC1tM2RIaVRwS1podEVDY05fYmJFQVlSQzRtdDdFUnJTazNKQVI2Q3o0aGlNZ00xRVhFRDdXNC01N3o2eWdmVC1mYmR6bG1qaVpfb3dsSVNmRjZKOUxCVVE4Q3FIVU1PWmUtV1dnQVNsZkJhTmxjaWtJbFJ6b0FJOUFfZUtkdXpNMjR0SDhGTXpoVWFESmhNSE1Tb2NwallRdkZsckFSQTgwS0kwMWFLUEUxY1lHRGJZMUtEMUlTbFpVWDRMdEZQLUtXT25DQ0ZLTlBRblNoeEhmdEVSa29pUXNTem5odjBEVnBFUkdIVmxhbm5QamdXNTdZMU1MUFVyZ3IwcWxGQzl1SklSbzlyNlRBbXllZDZMdjdRQUk3ZFJibUhjNlBtOEZHS2Fra0NXSU1RcmEyOXgwbEdna2FSMGNfOFdGaUNFa1FTTkZ4cEFCdjhfNDFyYi02bUx0X0hXVE5IN3VKNGF0ZW5FT2NleXN0VnZFQndWcFRFamszOXZMSE1jbi1TcGtxbkVMNXVGTUpuUkh6a3lxRGRqYTJiRXhpdGRhU18yMVgzc29iQ0FXQ2JaSEVwaDdZZ3pUZElaaXV2UVI0NHkybm5fNV9FTXNoc1lVZjZzQkx1cVFkcWZNVlJseFA3MnQ0SmdpZ25kMm5CTElKRnc1aXI5MXN2clFjVko1eGdMaXZIel9UM1VaMVlSTTRab1R2eHByNGRXWHZXV3Utd2N6bGcwMnhMNnNUUzFRQXVXWHpTMXRoTHhPc3VrcEhUVlVXbjBYV0dCODJ4NkgtUUlucW92MlV3UUFyZlB5RXVFOUFkWVJuWmNadWNELUxVVUJr?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilwdBVV95cUxPZHB3ZjBuY3d2X1pvUTVzSExSdXRvZkszUFdPTWtzRHFJeExpa2I3TGFienZvQ25VNV9ZSEE3R1BmNWZHbElpc1pOV0xxVlNCTHVPY3QwSFpReFRaVVBUajV6am00bUd1bnE1T2NKR1pscUtIQTJZcFJSeUZKeFZ3dmRxMVlnWU55bm9ZOEtDSGxIWFozZ09IblQtRDV2bWxhM0RsQzJGZzdSekRpemtYSWVnTUpIR2QxSEhZTVNsU3RkN0l1amxlR1gzUS1WeHlvY05uTV9yeDRCMENDdFFLcWRDOWlad1hwZUhxVUk2T1JxbjlWOGYwMG00RW5kWm52SnRmTDBvQnhWNGRyallRaWllU2JVNkZia2xWZ0hQMXpEWjdmVC1tM2RIaVRwS1podEVDY05fYmJFQVlSQzRtdDdFUnJTazNKQVI2Q3o0aGlNZ00xRVhFRDdXNC01N3o2eWdmVC1mYmR6bG1qaVpfb3dsSVNmRjZKOUxCVVE4Q3FIVU1PWmUtV1dnQVNsZkJhTmxjaWtJbFJ6b0FJOUFfZUtkdXpNMjR0SDhGTXpoVWFESmhNSE1Tb2NwallRdkZsckFSQTgwS0kwMWFLUEUxY1lHRGJZMUtEMUlTbFpVWDRMdEZQLUtXT25DQ0ZLTlBRblNoeEhmdEVSa29pUXNTem5odjBEVnBFUkdIVmxhbm5QamdXNTdZMU1MUFVyZ3IwcWxGQzl1SklSbzlyNlRBbXllZDZMdjdRQUk3ZFJibUhjNlBtOEZHS2Fra0NXSU1RcmEyOXgwbEdna2FSMGNfOFdGaUNFa1FTTkZ4cEFCdjhfNDFyYi02bUx0X0hXVE5IN3VKNGF0ZW5FT2NleXN0VnZFQndWcFRFamszOXZMSE1jbi1TcGtxbkVMNXVGTUpuUkh6a3lxRGRqYTJiRXhpdGRhU18yMVgzc29iQ0FXQ2JaSEVwaDdZZ3pUZElaaXV2UVI0NHkybm5fNV9FTXNoc1lVZjZzQkx1cVFkcWZNVlJseFA3MnQ0SmdpZ25kMm5CTElKRnc1aXI5MXN2clFjVko1eGdMaXZIel9UM1VaMVlSTTRab1R2eHByNGRXWHZXV3Utd2N6bGcwMnhMNnNUUzFRQXVXWHpTMXRoTHhPc3VrcEhUVlVXbjBYV0dCODJ4NkgtUUlucW92MlV3UUFyZlB5RXVFOUFkWVJuWmNadWNELUxVVUJr?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "【2026年8月活動推薦】宜蘭情人節煙火、高雄親子遊樂園區、石岡熱氣球、淡水漁人碼頭煙火、花蓮金針花季...全台熱門景點活動一次看！(不斷更新) |【玩樂行事曆】。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "【2026年8月活動推薦】宜蘭情人節煙火、高雄親子遊樂園區、石岡熱氣球、淡水漁人碼頭煙火、花蓮金針花季...全台熱門景點活動一次看！(不斷更新) |【玩樂行事曆】。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "高雄親子遊樂園區提供多元遊樂設施，孩子可盡情放電；全台熱門活動如熱氣球與煙火體驗能增進親子互動，留下難忘回憶。",
+      "published_at": "2026-08-17T00:09:05+00:00",
+      "collected_at": "2026-08-17T13:06:42.966398+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-tw-news-yahoo-com-e8-87-ba-e9-90-b5-e6-a9-9f-e5-a0-b4-e7-99-be-e5-b9-b4-e8",
+      "title": "臺鐵機場百年轉身！「高雄親子遊樂園區」盛大開幕  全臺最大、免費入場、輕軌直達",
+      "url": "https://tw.news.yahoo.com/%E8%87%BA%E9%90%B5%E6%A9%9F%E5%A0%B4%E7%99%BE%E5%B9%B4%E8%BD%89%E8%BA%AB-%E9%AB%98%E9%9B%84%E8%A6%AA%E5%AD%90%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%80-%E7%9B%9B%E5%A4%A7%E9%96%8B%E5%B9%95-%E5%85%A8%E8%87%BA%E6%9C%80%E5%A4%A7-%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-034630299.html",
+      "canonical_url": "https://tw.news.yahoo.com/%E8%87%BA%E9%90%B5%E6%A9%9F%E5%A0%B4%E7%99%BE%E5%B9%B4%E8%BD%89%E8%BA%AB-%E9%AB%98%E9%9B%84%E8%A6%AA%E5%AD%90%E9%81%8A%E6%A8%82%E5%9C%92%E5%8D%80-%E7%9B%9B%E5%A4%A7%E9%96%8B%E5%B9%95-%E5%85%A8%E8%87%BA%E6%9C%80%E5%A4%A7-%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-034630299.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/82b39d6077c1e382fe3694f777e53e005670505f2f2252de60933d37f085dfe5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fpinview_com_tw_506%2F38608691444c90c58d975b065c68bb77.jpg",
+      "images": [
+        "https://s.yimg.com/lo/mysterio/api/82b39d6077c1e382fe3694f777e53e005670505f2f2252de60933d37f085dfe5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fpinview_com_tw_506%2F38608691444c90c58d975b065c68bb77.jpg",
+        "https://s.yimg.com/lo/mysterio/api/0732530c0a837af6f22f3a86239ba5b63f1780c4190cb52365959d65314089df/lightyear_networkapi/resizefill_h48%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-06%2Ff6720910-0b28-11ee-bfef-68993042acdd",
+        "https://s.yimg.com/lo/mysterio/api/00d13345e73c182a28441f9ce9fd7740435c3f6b1b8584fb54fbb31609573dfc/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fpinview_com_tw_506%2F38608691444c90c58d975b065c68bb77.jpg",
+        "https://s.yimg.com/lo/mysterio/api/1ce68e20d598d489142c22e0eab67b2128f019bbb397b42b0121a6bd7aaaba50/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fpinview_com_tw_506%2F6b199fd0cfaf1101a62eabc3afef2999.jpg",
+        "https://s.yimg.com/lo/mysterio/api/1e5dcfb9272030796f5f33ed8402d350e4888cc85c11cec7442f06e075202d35/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fpinview_com_tw_506%2F126da2c1f33570abda36691f7c2e2849.jpg",
+        "https://s.yimg.com/lo/mysterio/api/95b4eb8af4e4d84edcf8611b98ac5b33538db8dce031a027f50b1563eb50137b/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fpinview_com_tw_506%2F72777610ac2199e84df70b7b006f69be.jpg",
+        "https://s.yimg.com/lo/mysterio/api/6DFB1793F93DECA5EC8A6D06F4A75F92DF12BE44382ADC94BFD978AC757A7D5E/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fdailyview.tw%2F5c6afdd2be22f0668f52eced06c894f4",
+        "https://s.yimg.com/lo/mysterio/api/82E0FB9E42B8B4347B3FB0A9D1E7572446D4EC04523CA8B1295293C0E2DDDBBF/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fgotv_ctitv_com_tw_678%2F4ed7d867b6557bd8027ce9416b2284e3.jpg"
+      ],
+      "summary": "臺鐵機場百年轉身！「高雄親子遊樂園區」盛大開幕  全臺最大、免費入場、輕軌直達。「高雄親子遊樂園區」盛大開幕 全臺最大、免費入場、輕軌直達\",\"position\":3}]} Yahoo新聞 即時 臺鐵機場百年轉身！",
+      "analysis": {
+        "overview": "臺鐵機場百年轉身！「高雄親子遊樂園區」盛大開幕  全臺最大、免費入場、輕軌直達。「高雄親子遊樂園區」盛大開幕 全臺最大、免費入場、輕軌直達\",\"position\":3}]} Yahoo新聞 即時 臺鐵機場百年轉身！",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "tw.news.yahoo.com",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "全台最大遊樂園區免費入場，空間寬敞適合小孩盡情放電，輕軌直達交通便利省去停車困擾。",
+      "published_at": "2026-08-16T17:00:00+00:00",
+      "collected_at": "2026-08-17T13:06:55.888112+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiakfvx3lxte00wtfybudvehjznvfvaxa1eegxty1hr",
       "title": "高雄親子遊樂園區湧1.8萬人「兩外縣市」來的人最多- 生活",
@@ -53,6 +242,32 @@
       "reason": "高雄超人氣親子遊樂園區吸引上萬人潮造訪，設施多元能讓孩子盡情放電玩樂，是週末親子出遊的好去處。",
       "published_at": "2026-08-16T09:46:47+00:00",
       "collected_at": "2026-08-16T13:00:22.868866+00:00",
+      "query": "台南 高雄 屏東 親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmizefvx3lxtfa4n3funu1ulw44u0mwrzhxt0ddqti0w",
+      "title": "高雄親子遊樂園區湧1.8萬人「兩外縣市」來的人最多- 生活",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4N3FUNU1uLW44U0MwRzhXT0dDQTI0WFZyT2pVX19tWms4MElyUXg1Y2pQd3pNa3cyY3E5SUx4RklNd19XcE5NczIxSXk3MXZNajVrMnBWbllHV2dQak9FVThNSzQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4N3FUNU1uLW44U0MwRzhXT0dDQTI0WFZyT2pVX19tWms4MElyUXg1Y2pQd3pNa3cyY3E5SUx4RklNd19XcE5NczIxSXk3MXZNajVrMnBWbllHV2dQak9FVThNSzQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區湧1.8萬人「兩外縣市」來的人最多- 生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區湧1.8萬人「兩外縣市」來的人最多- 生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "自由時報",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "高雄超人氣親子遊樂園區，佔地寬敞設施多元，週末吸引上萬人造訪，是带孩子盡情放電的好去處。",
+      "published_at": "2026-08-16T09:46:47+00:00",
+      "collected_at": "2026-08-17T13:07:08.680502+00:00",
       "query": "台南 高雄 屏東 親子景點"
     },
     {
@@ -622,220 +837,6 @@
       "published_at": "2026-08-15T13:39:07+00:00",
       "collected_at": "2026-08-15T22:37:23.491908+00:00",
       "query": "台灣 雨天 親子 室內 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte4zn3zubtbkuzngwdbywklfqlfzq0fxv",
-      "title": "濕雨天人氣不減！高雄親子遊樂園區單日飆破1.8萬人潮",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zN3ZubTBkUzNGWDByWklfQlFzQ0FxVWZZbWNIZTM2T1pDR0Y0VHRSa2RIOWl1b0hFblVOakxtS1d1LTctcGc2dkZIbU5zaXZPV3c?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zN3ZubTBkUzNGWDByWklfQlFzQ0FxVWZZbWNIZTM2T1pDR0Y0VHRSa2RIOWl1b0hFblVOakxtS1d1LTctcGc2dkZIbU5zaXZPV3c?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "濕雨天人氣不減！高雄親子遊樂園區單日飆破1.8萬人潮。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "濕雨天人氣不減！高雄親子遊樂園區單日飆破1.8萬人潮。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "濕雨天人氣不減，作為室內遊樂園區是雨天備案首選，設施完善能讓小孩盡情放電玩整天。",
-      "published_at": "2026-08-15T13:39:00+00:00",
-      "collected_at": "2026-08-15T22:37:28.702648+00:00",
-      "query": "台南 高雄 屏東 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmikwfbvv95cuxnntbutfzornlozuoxz2r2ouljcg9no",
-      "title": "擋不住魅力下雨照玩！高雄親子遊樂園單日湧1.8萬人 外縣市客占43.6%",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNTBUTFZoRnlOZUoxZ2R2OUljcG9nOHgyaXZEVjlfbTdRc0ZVU2F1UzAtYUFSZHktaldCVThYUEpEdnFmU201MFJYcWhIdVpLOS1hX1VKLUtjWjJ4OVgzQ2loaWNtSnhjZjE3Wl83UGN2ZEZpaHQyUzdVZXhkNk9maDl5RWE0aXBrRm5aNEJoell2X28?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNTBUTFZoRnlOZUoxZ2R2OUljcG9nOHgyaXZEVjlfbTdRc0ZVU2F1UzAtYUFSZHktaldCVThYUEpEdnFmU201MFJYcWhIdVpLOS1hX1VKLUtjWjJ4OVgzQ2loaWNtSnhjZjE3Wl83UGN2ZEZpaHQyUzdVZXhkNk9maDl5RWE0aXBrRm5aNEJoell2X28?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "擋不住魅力下雨照玩！高雄親子遊樂園單日湧1.8萬人 外縣市客占43.6%。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "擋不住魅力下雨照玩！高雄親子遊樂園單日湧1.8萬人 外縣市客占43.6%。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "PChome Online新聞",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "雨天備案室內遊樂設施齊全，全台最大親子樂園吸引上萬人造訪，放電效果佳，但可能人潮多需排隊，建議提早入園。",
-      "published_at": "2026-08-15T13:36:45+00:00",
-      "collected_at": "2026-08-15T22:37:32.472294+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmilwnbvv95cuxps0rbmxzqqnq4lw50twhzsvh4bhltd",
-      "title": "擋不住魅力下雨照玩！高雄親子遊樂園單日湧1.8萬人 外縣市客占43.6%",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPS0RBMXZQQnQ4LW50TWhzSVh4bHltd0VMVmZpOFFHS2poMGE4MndLdFpnQWVhN0NJMUxzY1ZMUVlsam01UzZNSHQ1b2NJVmlqN2otekdva25pam5UdjgtNW1vTU44V2E0QnJVU2VhUXVUd1ByaFhCWDF3OXhDLVRyeU9jc0hVMnBTUHp5OU0yN3hkSXVXa1dmR2FBMDk0T0FJWldHYjU1bGlnQ2tuUVR4MU1RRVB4dGV1eXRtMUowdk5Na09CV0ZsekEzdVpfLVVlRmZaUDVzdzVjeDg4V29rN3dVcTc2bFNkTTdGT0lCZm5LXzEyOExsZUprVFRWSDlfQnNreGdKbU5qaGRYM2YyMUZoU1hlaEhWSnhiT0NibTJRa3lGQmhNZXN5elBjY2o5WURBdnJhUzc1R3RBZTRtZUNQT085QXpUblFOa3lkUVB4cUlucGkxUFJ6VlY3cHBrNVA1NURSTnRYdjhCZlFPM0xhUlpGUWw3TVN6VVhoMFRiWmJPbUw2c1dJQmthNF8tNTV5NmVONA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPS0RBMXZQQnQ4LW50TWhzSVh4bHltd0VMVmZpOFFHS2poMGE4MndLdFpnQWVhN0NJMUxzY1ZMUVlsam01UzZNSHQ1b2NJVmlqN2otekdva25pam5UdjgtNW1vTU44V2E0QnJVU2VhUXVUd1ByaFhCWDF3OXhDLVRyeU9jc0hVMnBTUHp5OU0yN3hkSXVXa1dmR2FBMDk0T0FJWldHYjU1bGlnQ2tuUVR4MU1RRVB4dGV1eXRtMUowdk5Na09CV0ZsekEzdVpfLVVlRmZaUDVzdzVjeDg4V29rN3dVcTc2bFNkTTdGT0lCZm5LXzEyOExsZUprVFRWSDlfQnNreGdKbU5qaGRYM2YyMUZoU1hlaEhWSnhiT0NibTJRa3lGQmhNZXN5elBjY2o5WURBdnJhUzc1R3RBZTRtZUNQT085QXpUblFOa3lkUVB4cUlucGkxUFJ6VlY3cHBrNVA1NURSTnRYdjhCZlFPM0xhUlpGUWw3TVN6VVhoMFRiWmJPbUw2c1dJQmthNF8tNTV5NmVONA?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "擋不住魅力下雨照玩！高雄親子遊樂園單日湧1.8萬人 外縣市客占43.6%。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "擋不住魅力下雨照玩！高雄親子遊樂園單日湧1.8萬人 外縣市客占43.6%。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "雨天照樣可以玩，是親子雨天備案的優質選擇，且主題樂園設施多元，能讓孩子盡情放電玩整天。",
-      "published_at": "2026-08-15T13:36:45+00:00",
-      "collected_at": "2026-08-15T22:37:37.825634+00:00",
-      "query": "台南 高雄 屏東 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmi-gjbvv95cuxquxbizhn5sg02yxjmyxnlvgfravq3d",
-      "title": "高雄親子遊樂園區今日湧入1.8萬人次 外縣市遊客占4成 不受雨勢影響",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQUXBIZHN5SG02YXJMYXNLVGFRaVQ3dVVlVHJiX29VRWhXSER0bENLTXRZRWRPMXFsMUQ1WHY3aEs3azJYZzVuX0FpX2xqMVNPWWtEVjVGUWJ1aHBET3k2UzVCWDd2MTVJXy1WRWFVRTNldEhmNU9KMWZpRVRHSDRCbFJqZVg3Qlo2TzJIbmhTTUlDOU5OTzFEODVsSWwtOFF0QWlCZDAxQWEtY3B6MXdISWFheGljVlp0MExHd04zVkVkQzdIQUJGXzV5NTFzQlhEalRVeTg5QWFzRjAwTDhiMUhiQXpyV1ZweW1ndDVxOEdaNlphdnp3ZmE3ZTJSVm1MeU5SalByeHozUWJyTVpJWUtCenZpUWZyRzRsLXhEY01jZEQ1Z0hXcU50S3hnLW5tdTE2RnUxLW1va2s4S2YteWNDRmw3MW5mbnpfOWRJRThkMmJfbHFqVy1GT0Yxd3I0b3B5aU45ZlRsSlNEbkJWQ09LaXRjVmRqeHc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQUXBIZHN5SG02YXJMYXNLVGFRaVQ3dVVlVHJiX29VRWhXSER0bENLTXRZRWRPMXFsMUQ1WHY3aEs3azJYZzVuX0FpX2xqMVNPWWtEVjVGUWJ1aHBET3k2UzVCWDd2MTVJXy1WRWFVRTNldEhmNU9KMWZpRVRHSDRCbFJqZVg3Qlo2TzJIbmhTTUlDOU5OTzFEODVsSWwtOFF0QWlCZDAxQWEtY3B6MXdISWFheGljVlp0MExHd04zVkVkQzdIQUJGXzV5NTFzQlhEalRVeTg5QWFzRjAwTDhiMUhiQXpyV1ZweW1ndDVxOEdaNlphdnp3ZmE3ZTJSVm1MeU5SalByeHozUWJyTVpJWUtCenZpUWZyRzRsLXhEY01jZEQ1Z0hXcU50S3hnLW5tdTE2RnUxLW1va2s4S2YteWNDRmw3MW5mbnpfOWRJRThkMmJfbHFqVy1GT0Yxd3I0b3B5aU45ZlRsSlNEbkJWQ09LaXRjVmRqeHc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區今日湧入1.8萬人次 外縣市遊客占4成 不受雨勢影響。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區今日湧入1.8萬人次 外縣市遊客占4成 不受雨勢影響。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "不受雨勢影響室內區域可遮蔽，適合全家出遊不怕天氣變化，孩子能盡情放電玩樂。",
-      "published_at": "2026-08-15T13:36:22+00:00",
-      "collected_at": "2026-08-15T22:37:39.540212+00:00",
-      "query": "台灣 雨天 親子 室內 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfbza2rxdc1tazfcx0lvrjy1udl2uflhz",
-      "title": "高雄親子遊樂園區今日湧入1.8萬人次 外縣市遊客占4成 不受雨勢影響",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBza2RXdC1TazFCX0lvRjY1UDl2UFlHZE5qekM1NkI1QXR5WXVicm54RzVJd1RnV0tpTnpsdzQzRThDSFRDSmFEWjlaVTNhSmpNdXfSAVJBVV95cUxQc2tkV3QtU2sxQl9Jb0Y2NVA5dlBZR2ROanpDNTZCNUF0eVl1YnJueEc1SXdUZ1dLaU56bHc0M0U4Q0hUQ0phRFo5WlUzYUpqTXV3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBza2RXdC1TazFCX0lvRjY1UDl2UFlHZE5qekM1NkI1QXR5WXVicm54RzVJd1RnV0tpTnpsdzQzRThDSFRDSmFEWjlaVTNhSmpNdXfSAVJBVV95cUxQc2tkV3QtU2sxQl9Jb0Y2NVA5dlBZR2ROanpDNTZCNUF0eVl1YnJueEc1SXdUZ1dLaU56bHc0M0U4Q0hUQ0phRFo5WlUzYUpqTXV3?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區今日湧入1.8萬人次 外縣市遊客占4成 不受雨勢影響。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區今日湧入1.8萬人次 外縣市遊客占4成 不受雨勢影響。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "今傳媒 JNEWS",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "遊樂園區室內空間完善，不受雨勢影響可放心出遊，園區腹地大且容客量高，適合帶小孩放電一整天。",
-      "published_at": "2026-08-15T13:36:22+00:00",
-      "collected_at": "2026-08-15T22:37:45.291755+00:00",
-      "query": "台南 高雄 屏東 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiwkfvx3lxte1hoxfyww5xuldrszj4tkxycgnonehmz",
-      "title": "高雄親子遊樂園區今日湧入1.8萬人次 外縣市遊客占4成 不受雨勢影響",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hOXFYWW5xUldRSzJ4TkxycGNoNEhmZW9KakI0TS1lUmJSVlFtaXVuV1FCaW1MZW9kWkh1MVBQazlqdTA0eG5HX3luQzlOSVFyQldhTDFRT1k2Z9IBWkFVX3lxTE1hOXFYWW5xUldRSzJ4TkxycGNoNEhmZW9KakI0TS1lUmJSVlFtaXVuV1FCaW1MZW9kWkh1MVBQazlqdTA0eG5HX3luQzlOSVFyQldhTDFRT1k2Zw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hOXFYWW5xUldRSzJ4TkxycGNoNEhmZW9KakI0TS1lUmJSVlFtaXVuV1FCaW1MZW9kWkh1MVBQazlqdTA0eG5HX3luQzlOSVFyQldhTDFRT1k2Z9IBWkFVX3lxTE1hOXFYWW5xUldRSzJ4TkxycGNoNEhmZW9KakI0TS1lUmJSVlFtaXVuV1FCaW1MZW9kWkh1MVBQazlqdTA0eG5HX3luQzlOSVFyQldhTDFRT1k2Zw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區今日湧入1.8萬人次 外縣市遊客占4成 不受雨勢影響。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區今日湧入1.8萬人次 外縣市遊客占4成 不受雨勢影響。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "今傳媒 JNEWS",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "遊樂園區設施豐富能讓孩子盡情放電，且不受雨勢影響有室內空間可作為雨天備案，家長無需擔心天氣問題。",
-      "published_at": "2026-08-15T13:36:22+00:00",
-      "collected_at": "2026-08-16T13:02:51.916694+00:00",
-      "query": "台南 高雄 屏東 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5ksfdqwjznlu43snvjt0zzevbimdu1b",
-      "title": "高雄親子遊樂園區今日湧入1.8萬人次 外縣市遊客占4成 不受雨勢影響",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KSFdqWjZnLU43SnVjT0ZzeVBiMDU1bnNXOGhfbGFPeEFZaEVWWkoyUkU2em94T0sybzluUWFzN0UtUXFOd1NKeEZtb2VjMHhPVEE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KSFdqWjZnLU43SnVjT0ZzeVBiMDU1bnNXOGhfbGFPeEFZaEVWWkoyUkU2em94T0sybzluUWFzN0UtUXFOd1NKeEZtb2VjMHhPVEE?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區今日湧入1.8萬人次 外縣市遊客占4成 不受雨勢影響。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區今日湧入1.8萬人次 外縣市遊客占4成 不受雨勢影響。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "高雄親子遊樂園區單日湧入1.8萬人次，人氣旺且不怕雨勢影響，是雨天備案的優質選擇，超人氣遊樂設施能讓孩子盡情放電。",
-      "published_at": "2026-08-15T13:36:00+00:00",
-      "collected_at": "2026-08-15T22:37:52.081950+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte9czm9oy2vtsgl5nzh0tevjoxvgueh1y",
-      "title": "台鐵高雄機廠變身高雄親子遊樂園 8月指定週六日廠長帶路職人",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CZm9oY2VtSGl5Nzh0TEVJOXVGUEh1Yk84LTJ1cHdLV3hzeS1XM0tPeE53U0p4ckpRNVFzS2RfcHY2TlREcmF5ZERuTEtXUUc0RDN2RQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CZm9oY2VtSGl5Nzh0TEVJOXVGUEh1Yk84LTJ1cHdLV3hzeS1XM0tPeE53U0p4ckpRNVFzS2RfcHY2TlREcmF5ZERuTEtXUUc0RDN2RQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台鐵高雄機廠變身高雄親子遊樂園 8月指定週六日廠長帶路職人。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台鐵高雄機廠變身高雄親子遊樂園 8月指定週六日廠長帶路職人。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "【飛揚新聞】",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "近距離參觀火車維修工廠，有專人職人帶路解說，寓教於樂且體驗難得，很適合帶孩子來放電又長知識。",
-      "published_at": "2026-08-15T07:31:02+00:00",
-      "collected_at": "2026-08-15T22:37:58.233860+00:00",
-      "query": "台南 高雄 屏東 親子景點"
     }
   ]
 }
