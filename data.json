@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-08-19T13:09:05.671337+00:00",
+  "updated_at": "2026-08-19T22:41:53.529218+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5rtflvqvnmdgdmegy0dgpysjnxmnjmr",
+      "title": "知卡宣綠森林親水公園週末人潮熱絡把握最後一週戲水時光8月23日戲水活動倒數邀親子把握暑假尾聲來花蓮清涼一夏",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rTFlvQVNMdGdMeGY0dGpySjNXMnJmRlBWZ1A2QzFwNnVDalNVdjVoNHVwTjlmeXl0T2MxbHNicms5QkgzOW9lNkh0eGp2ejFCX3c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rTFlvQVNMdGdMeGY0dGpySjNXMnJmRlBWZ1A2QzFwNnVDalNVdjVoNHVwTjlmeXl0T2MxbHNicms5QkgzOW9lNkh0eGp2ejFCX3c?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "知卡宣綠森林親水公園週末人潮熱絡把握最後一週戲水時光8月23日戲水活動倒數邀親子把握暑假尾聲來花蓮清涼一夏。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "知卡宣綠森林親水公園週末人潮熱絡把握最後一週戲水時光8月23日戲水活動倒數邀親子把握暑假尾聲來花蓮清涼一夏。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "知卡宣綠森林親水公園夏季戲水設施多元，小孩能在寬闊親水區盡情玩水放電，爸媽可在樹蔭下輕鬆陪伴，是暑假花蓮親子消暑好去處。",
+      "published_at": "2026-08-19T13:47:00+00:00",
+      "collected_at": "2026-08-19T22:41:40.154675+00:00",
+      "query": "台灣 週末親子 去哪裡"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiyefvx3lxte82tfjkqkqxcgldrxzvamvfx3qwrlzsb",
       "title": "百年「火車醫院」迎來新生！高雄機廠將化身親子樂園，老鐵道記憶走進下一代",
@@ -782,32 +809,6 @@
       "published_at": "2026-08-16T09:46:47+00:00",
       "collected_at": "2026-08-16T13:00:14.290896+00:00",
       "query": "台北 新北 桃園 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmicefvx3lxtfbsz3pnuu4ydhf4ywzhrxrwc2ixr2o5z",
-      "title": "高雄親子遊樂園區湧1.8萬人「兩外縣市」來的人最多- 高雄市",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsZ3pNUU4ydHF4YWZhRXRWc2IxR2o5ZTZfX19JRm0wdjVYaF85dmhRMUpibUkzcVBXd2pXOXVfbVNPQk5BeW9FcWI5OW40Z3hWWWRaV0JKNy1XUmRGeVoxQ3YwdnI0TEEwcXJxOVZUREU?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsZ3pNUU4ydHF4YWZhRXRWc2IxR2o5ZTZfX19JRm0wdjVYaF85dmhRMUpibUkzcVBXd2pXOXVfbVNPQk5BeW9FcWI5OW40Z3hWWWRaV0JKNy1XUmRGeVoxQ3YwdnI0TEEwcXJxOVZUREU?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區湧1.8萬人「兩外縣市」來的人最多- 高雄市。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區湧1.8萬人「兩外縣市」來的人最多- 高雄市。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "自由時報",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄超人氣親子遊樂園區吸引上萬人潮造訪，設施多元能讓孩子盡情放電玩樂，是週末親子出遊的好去處。",
-      "published_at": "2026-08-16T09:46:47+00:00",
-      "collected_at": "2026-08-16T13:00:22.868866+00:00",
-      "query": "台南 高雄 屏東 親子景點"
     }
   ]
 }
