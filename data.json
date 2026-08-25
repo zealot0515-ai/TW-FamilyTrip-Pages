@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T13:12:06.333172+00:00",
+  "updated_at": "2026-08-25T22:45:27.889838+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -28,6 +28,74 @@
       "published_at": "2026-08-25T02:56:00+00:00",
       "collected_at": "2026-08-25T13:11:10.537238+00:00",
       "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-tw-news-yahoo-com-e6-96-b0-e7-ab-b9-e5-b8-82-e7-ab-8b-e5-8b-95-e7-89-a9-e5",
+      "title": "新竹市立動物園親子餐廳嶄新亮相 高虹安與羊駝共進午餐",
+      "url": "https://tw.news.yahoo.com/%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AB%8B%E5%8B%95%E7%89%A9%E5%9C%92%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3%E5%B6%84%E6%96%B0%E4%BA%AE%E7%9B%B8-%E9%AB%98%E8%99%B9%E5%AE%89%E8%88%87%E7%BE%8A%E9%A7%9D%E5%85%B1%E9%80%B2%E5%8D%88%E9%A4%90-090735925.html",
+      "canonical_url": "https://tw.news.yahoo.com/%E6%96%B0%E7%AB%B9%E5%B8%82%E7%AB%8B%E5%8B%95%E7%89%A9%E5%9C%92%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3%E5%B6%84%E6%96%B0%E4%BA%AE%E7%9B%B8-%E9%AB%98%E8%99%B9%E5%AE%89%E8%88%87%E7%BE%8A%E9%A7%9D%E5%85%B1%E9%80%B2%E5%8D%88%E9%A4%90-090735925.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/f389ed5c43a62f95ca9d7cfe23283d51dd51d6c1e2908fdab8010c79e3ac8c1f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2Fe980c9879ee7f27faf8979478421939b.jpg",
+      "images": [
+        "https://s.yimg.com/lo/mysterio/api/f389ed5c43a62f95ca9d7cfe23283d51dd51d6c1e2908fdab8010c79e3ac8c1f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2Fe980c9879ee7f27faf8979478421939b.jpg",
+        "https://s.yimg.com/lo/mysterio/api/b427d047c0eed0397a2cc6c9b19dbbc82ef8492114d7a8bf053db43938b9ee5f/lightyear_networkapi/resizefill_h48%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-06%2Fddc518a0-410c-11f0-97f9-02e7ad2438c5",
+        "https://s.yimg.com/lo/mysterio/api/f3a7c8c5b14e99fb2c1608ee66e0b9703b9926f59456bef2506911f4aeb37334/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2Fe980c9879ee7f27faf8979478421939b.jpg",
+        "https://s.yimg.com/lo/mysterio/api/B96CDA12A1A944B766E6F6E86E5EF96689D8B39F6B745A533F432638ED7CF7F2/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fupmedia.mg.tw%2F8270aed1e95f8a1cef39f8a72d397af3.jpg",
+        "https://s.yimg.com/lo/mysterio/api/6671FB9CC7CF4817820A7BABD0415CAC4A7E3FFD5E60BBC9D9836AB6817BC9B3/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fupmedia.mg.tw%2Fff7fb572aaf2edb022a83c5e3201b6a2.jpg",
+        "https://s.yimg.com/lo/mysterio/api/13399445C4B705959587430C1F4DC828DC6D9CE1EB5F598E0A8F7054283CBB44/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fftvn.com.tw%2Fdc81a95431ae1ec31e9632941d61a3d8.jpg",
+        "https://s.yimg.com/lo/mysterio/api/23C35FD1B3FD106F1D0DAA8A04179DC0CB2A4E4A894C7E8E5605B480031FAC91/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fgotv_ctitv_com_tw_678%2F4e95d2ffd98b41a5ab49a865dfc39d18.jpg",
+        "https://s.yimg.com/lo/mysterio/api/EDCE456FE0EA74F61B05256E1F1371E58373EE30249EFD39E9FBE56E20A04C75/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fstormmediagroup.com%2F174100657f921f1556244df225b1a3a3"
+      ],
+      "summary": "新竹市立動物園親子餐廳嶄新亮相 高虹安與羊駝共進午餐。首頁 新聞 股市 運動 TV 汽機車 購物中心 拍賣 氣象 App 下載 搜尋 登入 焦點 即時 颱風動態 娛樂影劇 國際 政治 社會地方 財經 運動 玩樂 品味 健康 遊戲3C AI 事件整理 更多專輯 焦點 AI 事件整理 Yahoo畫重點 熱門新聞 天氣 民調 專輯 合作媒體 即時 娛樂即時 國際即時 政治即時 社會即時 財經即時 生活即時 運動即時 科技即時 健康即時 行動斷網Q&A 颱風動態 氣象署最新說明 颱風航班異動 防颱懶人包 娛樂影劇 2026演唱會指南 Yahoo特派 日韓新聞 院線電影 追劇情報 啦啦隊女孩 星座運勢 國際 美國伊朗交火 中港澳 亞澳 美洲 歐非 德國之聲 BBC中文 Yahoo國際通 政治 2026九合一選舉 Yahoo論壇 立法院直播 社會地方 全民打詐 全台即時水情 ",
+      "analysis": {
+        "overview": "新竹市立動物園親子餐廳嶄新亮相 高虹安與羊駝共進午餐。首頁 新聞 股市 運動 TV 汽機車 購物中心 拍賣 氣象 App 下載 搜尋 登入 焦點 即時 颱風動態 娛樂影劇 國際 政治 社會地方 財經 運動 玩樂 品味 健康 遊戲3C AI 事件整理 更多專輯 焦點 AI 事件整理 Yahoo畫重點 熱門新聞 天氣 民調 專輯 合作媒體 即時 娛樂即時 國際即時 政治即時 社會即時 財經即時 生活即時 運動即時 科技即時 健康即時 行動斷網Q&A 颱風動態 氣象署最新說明 颱風航班異動 防颱懶人包 娛樂影劇 2026",
+        "pros": "動物互動與自然觀察能提高孩子參與感。",
+        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
+        "tips": "出發前確認餵食、互動體驗與休園時間。"
+      },
+      "source_name": "tw.news.yahoo.com",
+      "tags": [
+        "看動物",
+        "放電",
+        "大自然"
+      ],
+      "reason": "新竹市立动物园有羊驼等动物可近距离观赏，并设有亲子餐厅，园区空间开阔适合孩童奔跑放电。",
+      "published_at": "2026-08-25T02:07:00+00:00",
+      "collected_at": "2026-08-25T22:44:52.802602+00:00",
+      "query": "台灣 親子餐廳 景點"
+    },
+    {
+      "id": "https-futurecity-cw-com-tw-article-4116",
+      "title": "從百年機廠到全國最大半室內親子樂園 高雄如何讓工業遺構重新呼吸 - 未來城市＠天下 - 進步城市的新想像",
+      "url": "https://futurecity.cw.com.tw/article/4116",
+      "canonical_url": "https://futurecity.cw.com.tw/article/4116",
+      "image_url": "https://cdn-futurecity.cw.com.tw/article/202608/article-6a8d319d0bbb7.jpg",
+      "images": [
+        "https://cdn-futurecity.cw.com.tw/article/202608/article-6a8d319d0bbb7.jpg",
+        "https://cdn-www.cw.com.tw/ckeditor/202608/ckeditor-6a8018c60f0e30.00822377.jpg",
+        "https://cdn-www.cw.com.tw/ckeditor/202608/ckeditor-6a8018eae47729.68095509.jpg",
+        "https://cdn-www.cw.com.tw/ckeditor/202608/ckeditor-6a80190add1934.66488698.jpg",
+        "https://cdn-futurecity.cw.com.tw/writer/201901/writer-5c3e9330d65ae.png",
+        "https://cdn-futurecity.cw.com.tw/article/202211/article-63858b907e01c.jpg",
+        "https://cdn-futurecity.cw.com.tw/article/202005/article-5eb2b983085b4.jpg",
+        "https://cdn-futurecity.cw.com.tw/ckeditor/202006/ckeditor-5edbda8f37ddf.jpg"
+      ],
+      "summary": "從百年機廠到全國最大半室內親子樂園 高雄如何讓工業遺構重新呼吸 - 未來城市＠天下 - 進步城市的新想像。立即加入會員 取得專屬服務 熱門關鍵字 2026年8月8日的父親節，高雄市政府送給全市親子、市民朋友一份重磅大禮：將承載百年鐵路發展的老機廠，打造為全國最大的半室內親子遊樂園，開幕首個週末湧入6.5萬人朝聖，成為現下最具人氣的新景點之一。這座曾是臺鐵南部規模最大的客貨車廂維修廠，如今華麗轉身，成為占地約1.5公頃、規劃超過30項遊樂設施的歡笑天堂，它不只是一座樂園，更是高雄從重工業巨輪邁向幸福宜居城市的時代見證。臺鐵高雄機廠位處鳳山、前鎮、苓雅三區交界處，佔地約30公頃，因鐵路地下化及臨港線停駛，行政院2013年核定將昔日的「火車醫院」整廠遷建至屏東潮州，並於2021年10月完成遷建，原址就此閒置。為妥善利用這片黃金地段的土地，高雄市政府採取主動出擊，啟動都市計畫變更程序，把這座見證臺灣鐵路運輸史的老廠房，轉化為市民真正用得到的公共空間：一處半室內型活動場域。最大可能保留鐵道紋理與地景意象，貨車工廠全棟保存再利用，市府的決策不只保存並活化老建物，更希望將城市發展與變遷結出的果實，傳遞給每一個家庭。",
+      "analysis": {
+        "overview": "從百年機廠到全國最大半室內親子樂園 高雄如何讓工業遺構重新呼吸 - 未來城市＠天下 - 進步城市的新想像。立即加入會員 取得專屬服務 熱門關鍵字 2026年8月8日的父親節，高雄市政府送給全市親子、市民朋友一份重磅大禮：將承載百年鐵路發展的老機廠，打造為全國最大的半室內親子遊樂園，開幕首個週末湧入6.5萬人朝聖，成為現下最具人氣的新景點之一。這座曾是臺鐵南部規模最大的客貨車廂維修廠，如今華麗轉身，成為占地約1.5公頃、規劃超過30項遊樂設施的歡笑天堂，它不只是一座樂園，更是高雄從重工業巨輪邁向幸福宜居城市的時代見證",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "futurecity.cw.com.tw",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "占地1.5公頃、逾30項遊樂設施，半室內空間雨天也有備案，百年鐵道元素兼顧玩樂與教育意義。",
+      "published_at": "2026-08-24T17:00:00+00:00",
+      "collected_at": "2026-08-25T22:44:59.397965+00:00",
+      "query": "台灣 室內親子景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiu0fvx3lxte9cduuyz1dkcwposta5b1m5rlfvu0jfc",
@@ -756,68 +824,6 @@
       "published_at": "2026-08-20T07:51:43+00:00",
       "collected_at": "2026-08-21T13:10:35.366525+00:00",
       "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-udn-com-news-story-124378-9703645",
-      "title": "9月國旅補助上路 台南親子飯店加碼優惠 盼延續暑假旅遊熱度 | 聯合新聞網",
-      "url": "https://udn.com/news/story/124378/9703645",
-      "canonical_url": "https://udn.com/news/story/124378/9703645",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/20/35247771.jpg&M=1&s=Y&x=0&y=0&sw=999&sh=666&exp=3600",
-      "images": [
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/20/35247771.jpg&M=1&s=Y&x=0&y=0&sw=999&sh=666&exp=3600",
-        "https://sb.scorecardresearch.com/p?c1=2&c2=7390954&comscorekw=&cv=4.0.0&cj=1",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/20/35247771.jpg&M=1&s=Y&x=0&y=0&sw=1000&sh=667&sl=W&fw=930&exp=3600&w=930",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/20/35247770.jpg&M=1&s=Y&x=0&y=0&sw=1000&sh=562&sl=W&fw=800&exp=3600&w=800",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/20/35247772.png&M=1&s=Y&x=0&y=0&sw=1000&sh=1000&sl=W&fw=800&exp=3600&w=800",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/20/35246486.jpg&M=1&s=Y&x=0&y=0&sw=882&sh=588&exp=3600&w=300&w=300",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/20/35247447.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300&w=300",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/19/35244602.jpg&M=1&s=Y&x=0&y=46&sw=1280&sh=853&exp=3600&w=300&w=300"
-      ],
-      "summary": "9月國旅補助上路 台南親子飯店加碼優惠 盼延續暑假旅遊熱度 | 聯合新聞網。0:00 / 0:00 Your browser does not support HTML5 Audio!😢 9月國旅補助上路 台南親子飯店加碼優惠 盼延續暑假旅遊熱度 2026-08-20 14:34 聯合報／ 記者 萬于甄 ／台南即時報導 暑假期間親子旅遊需求旺，台南親子飯店平均住房率維持8成以上；業者看好9月國旅補助，盼延續暑假後的旅遊熱度。圖／和逸飯店・台南西門館提供 --> 贊助本文 --> 交通部觀光署今公布平日 國旅 補助方案，預計9月起實施，和逸 飯店 ・台南西門館也推出「驚喜同樂月」住房優惠，鎖定生日旅遊及平日親子客群，盼搭上補助話題，刺激開學後的平日旅遊需求。和逸飯店・台南西門館表示，旅宿業長期存在平、假日住房落差，此次補助鎖定周日至周四，並提高連續住宿補助額度，有助鼓勵旅客改安排平日出遊，甚至延長住宿天數，對政策方向持正面看待。業者說，以親子旅館市場來看，7、8月暑假原本就是家庭旅遊旺季，平、假日住房差距並不明顯，目前整體平均住房率維持8成以上，從實際訂房狀況觀察，國旅市場仍有一定需求，尤其親子家庭暑假期間出遊時間較具彈性，平日住房表現相對穩定。",
-      "analysis": {
-        "overview": "9月國旅補助上路 台南親子飯店加碼優惠 盼延續暑假旅遊熱度 | 聯合新聞網。0:00 / 0:00 Your browser does not support HTML5 Audio!😢 9月國旅補助上路 台南親子飯店加碼優惠 盼延續暑假旅遊熱度 2026-08-20 14:34 聯合報／ 記者 萬于甄 ／台南即時報導 暑假期間親子旅遊需求旺，台南親子飯店平均住房率維持8成以上；業者看好9月國旅補助，盼延續暑假後的旅遊熱度。圖／和逸飯店・台南西門館提供 --> 贊助本文 --> 交通部觀光署今公布平日 國旅 補助方",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "udn.com",
-      "tags": [
-        "室內"
-      ],
-      "reason": "這是飯店住房優惠的新聞報導，非踏青景點介紹，若要找室內親子去處建議參考飯店設施或遊樂園等主題文章。",
-      "published_at": "2026-08-20T07:35:00+00:00",
-      "collected_at": "2026-08-20T22:45:15.862958+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-www-upmedia-mg-tw-lifestyle-policy-266724",
-      "title": "中秋、生日、親子旅遊帶動住房需求　南台灣飯店推出季節限定住宿優惠 -- 上報",
-      "url": "https://www.upmedia.mg/tw/lifestyle/policy/266724",
-      "canonical_url": "https://www.upmedia.mg/tw/lifestyle/policy/266724",
-      "image_url": "https://pic.upmedia.mg/upfile/img/2026/0820/202608201155247814.webp",
-      "images": [
-        "https://www.upmedia.mg/images/weather-clear.png",
-        "https://www.upmedia.mg/images/ai-close2.png",
-        "https://www.upmedia.mg/images/ai-close.png",
-        "https://pic.upmedia.mg/upfile/img/2026/0820/202608201155247814.webp",
-        "https://pic.upmedia.mg/upfile/img/2026/0819/202608190111533845.webp",
-        "https://www.upmedia.mg/images/gotop.png"
-      ],
-      "summary": "中秋、生日、親子旅遊帶動住房需求　南台灣飯店推出季節限定住宿優惠 -- 上報。2026/08/21 星期五 南台灣飯店業者因應中秋、生日及親子旅遊需求，推出多樣化的季節限定住宿優惠方案，以刺激國旅市場。南台灣飯店業者因應中秋、生日及親子旅遊需求，推出多樣化的季節限定住宿優惠方案，以刺激國旅市場。我們集結菁英記者、編輯、專業行銷業務、社群好手，強調多元的原生內容與有趣豐富的觀點。我們有國內外調查新聞、生活、遊戲、消費等資訊，希望提供讀者具有深度、廣度、樂趣及生活、時尚品味的原生新聞。",
-      "analysis": {
-        "overview": "中秋、生日、親子旅遊帶動住房需求　南台灣飯店推出季節限定住宿優惠 -- 上報。2026/08/21 星期五 南台灣飯店業者因應中秋、生日及親子旅遊需求，推出多樣化的季節限定住宿優惠方案，以刺激國旅市場。南台灣飯店業者因應中秋、生日及親子旅遊需求，推出多樣化的季節限定住宿優惠方案，以刺激國旅市場。我們集結菁英記者、編輯、專業行銷業務、社群好手，強調多元的原生內容與有趣豐富的觀點。我們有國內外調查新聞、生活、遊戲、消費等資訊，希望提供讀者具有深度、廣度、樂趣及生活、時尚品味的原生新聞。",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "upmedia.mg",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "適合親子出遊，建議出發前再確認開放時間與交通資訊。",
-      "published_at": "2026-08-20T05:52:00+00:00",
-      "collected_at": "2026-08-20T22:45:21.226754+00:00",
-      "query": "台灣 特色飯店 親子 房型"
     }
   ]
 }
