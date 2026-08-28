@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T22:17:14.920117+00:00",
+  "updated_at": "2026-08-28T06:07:56.155304+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -26,6 +26,57 @@
       "reason": "此為志工招募新聞，非景點推薦，無法提供分類。",
       "published_at": "2026-08-27T11:05:23+00:00",
       "collected_at": "2026-08-27T22:16:00.222261+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiekfvx3lxtfbkrzdvefq2sznpcs02nhjgnzc0v1npt",
+      "title": "國旅補助麗寶再加碼點數免費玩樂園住飯店每人不到700元 | 勁報",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKRzdVeFQ2SzNpcS02NHJGNzc0V1NPTFNzSlJTMVVDdUVCaExtUGFrNjlTdjZGLTRlOW00bWw4SUZ4LVJFQ0dSU3M4RDBNb0NqMDZranU3cXExS3lOOUxndkFwQWdhc0E1enpWN1hZRi03TmJsM0laWUpR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKRzdVeFQ2SzNpcS02NHJGNzc0V1NPTFNzSlJTMVVDdUVCaExtUGFrNjlTdjZGLTRlOW00bWw4SUZ4LVJFQ0dSU3M4RDBNb0NqMDZranU3cXExS3lOOUxndkFwQWdhc0E1enpWN1hZRi03TmJsM0laWUpR?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "國旅補助麗寶再加碼點數免費玩樂園住飯店每人不到700元 | 勁報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "國旅補助麗寶再加碼點數免費玩樂園住飯店每人不到700元 | 勁報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "國旅補助後每人不到700元就能玩樂園加住宿，CP值高且停車空間大，帶小孩出遊省很大。",
+      "published_at": "2026-08-27T10:40:03+00:00",
+      "collected_at": "2026-08-28T06:07:32.853921+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte91lvpknzblawdgt1boqkg0tzrvnu5ft",
+      "title": "【地方】國旅補助麗寶再加碼 點數免費玩樂園 | 青年日報",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91LVpKNzBlaWdGT1BoQkg0TzRVNU5fTWpXTi1hVkNwZUk5X3ZHNjlubnBTUHRGcnBLd1loRld1akZpVzhlVEZmRWxaUDdpZ2ZzclczR1Bn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91LVpKNzBlaWdGT1BoQkg0TzRVNU5fTWpXTi1hVkNwZUk5X3ZHNjlubnBTUHRGcnBLd1loRld1akZpVzhlVEZmRWxaUDdpZ2ZzclczR1Bn?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "【地方】國旅補助麗寶再加碼 點數免費玩樂園 | 青年日報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "【地方】國旅補助麗寶再加碼 點數免費玩樂園 | 青年日報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "適合親子出遊，建議出發前再確認開放時間與交通資訊。",
+      "published_at": "2026-08-27T10:39:41+00:00",
+      "collected_at": "2026-08-28T06:07:45.581505+00:00",
       "query": "台灣 遊樂園 親子 最新"
     },
     {
@@ -251,6 +302,31 @@
       "published_at": "2026-08-26T08:00:00+00:00",
       "collected_at": "2026-08-27T22:16:27.950086+00:00",
       "query": "台灣 親子農場 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmi8wrbvv95cuxouvfpmwfucmfmdetubth1av92tehkl",
+      "title": "【九三軍人節優惠】故宮南北院免費、兒童新樂園憑證免門票、台北101觀景台免費入場...向辛苦國軍致敬！",
+      "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxOUVFPMWFUcmFmdEtubTh1aV92TEhkLVY5SVVqRC02LUdFZ3lfRFRnNFRWaXowTW04UzhfZlkyRF90UDNKZXZzMDBVMERGUTFWMjdWOG1nZzVoVVZpUDBmUFpyTGpRa3BqQlVRQ1BrZTl5clMwVktDMWZCUjhhczJwRWM0TVh4TVlUNGcwQURMLTBzV1pZZ08yTTUyaVFGSWR3cEtWemdkQUNpMjRoa245ckprYm45QjdOaFR6X3FBeDNFWUpHc3ZzZnFuNkFoSVlhNDBzdHlyeFVkZm5aaTVjampZeno3anUtYmE5Nk5yNEQ5bXJqRnNrTjQ4TVpFYV9kM0VOVEdSOVpDQXRmUkJTa0t6Sy15dlVEckRRUkVXNi1HTm1jMkQxcm1aZmtTY3VFSmoxTWxnSDN0bWg0aFJvOEpSVlMybFo0WVl5WHg3dy1DeU9LeWsxdmVQNEF2RElPbFZSMUJxenJJaTlwcUhZUXpEeWVpQk5mOU1vZkFtODRReE9SSXZONkhqUjJQNjBQaHBuY01jLUZHTGJuSWhydWhCV0F0dXo4aHJ6V2JST0FSSlBCY2xCZVpvRlV2NFNMOVlPeEx5cHg0MDNCSzN6REJBVExyZVNJZHNkOEYyZjRseTZKbHRwbm1LMjREOVU2VXA1RHVLWFQ1WFFFcTdzeVJpYlZkT2xXQXNDVUFVbHRCa2VudVZyNk1oRlhSMW5xM0hQaWdxZFZiSFl1TGdZaXFsMTgwVERIOHpBSk9kb2o4MG5lc3duRVBLX21RTkV0d1BYN0tSNmZoVVlkTUlaaDNHeDMyd2hEU25xcVZwOTRXUjQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxOUVFPMWFUcmFmdEtubTh1aV92TEhkLVY5SVVqRC02LUdFZ3lfRFRnNFRWaXowTW04UzhfZlkyRF90UDNKZXZzMDBVMERGUTFWMjdWOG1nZzVoVVZpUDBmUFpyTGpRa3BqQlVRQ1BrZTl5clMwVktDMWZCUjhhczJwRWM0TVh4TVlUNGcwQURMLTBzV1pZZ08yTTUyaVFGSWR3cEtWemdkQUNpMjRoa245ckprYm45QjdOaFR6X3FBeDNFWUpHc3ZzZnFuNkFoSVlhNDBzdHlyeFVkZm5aaTVjampZeno3anUtYmE5Nk5yNEQ5bXJqRnNrTjQ4TVpFYV9kM0VOVEdSOVpDQXRmUkJTa0t6Sy15dlVEckRRUkVXNi1HTm1jMkQxcm1aZmtTY3VFSmoxTWxnSDN0bWg0aFJvOEpSVlMybFo0WVl5WHg3dy1DeU9LeWsxdmVQNEF2RElPbFZSMUJxenJJaTlwcUhZUXpEeWVpQk5mOU1vZkFtODRReE9SSXZONkhqUjJQNjBQaHBuY01jLUZHTGJuSWhydWhCV0F0dXo4aHJ6V2JST0FSSlBCY2xCZVpvRlV2NFNMOVlPeEx5cHg0MDNCSzN6REJBVExyZVNJZHNkOEYyZjRseTZKbHRwbm1LMjREOVU2VXA1RHVLWFQ1WFFFcTdzeVJpYlZkT2xXQXNDVUFVbHRCa2VudVZyNk1oRlhSMW5xM0hQaWdxZFZiSFl1TGdZaXFsMTgwVERIOHpBSk9kb2o4MG5lc3duRVBLX21RTkV0d1BYN0tSNmZoVVlkTUlaaDNHeDMyd2hEU25xcVZwOTRXUjQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "【九三軍人節優惠】故宮南北院免費、兒童新樂園憑證免門票、台北101觀景台免費入場...向辛苦國軍致敬！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "【九三軍人節優惠】故宮南北院免費、兒童新樂園憑證免門票、台北101觀景台免費入場...向辛苦國軍致敬！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "放電"
+      ],
+      "reason": "兒童新樂園有多項遊樂設施，軍人節期間憑證免門票，讓孩子盡情放電、家長省荷包。",
+      "published_at": "2026-08-26T07:32:32+00:00",
+      "collected_at": "2026-08-28T06:07:56.088772+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmivefvx3lxte85bgnqbnhvoxllam5wt3rjuxawcw9sm",
@@ -761,94 +837,6 @@
       "published_at": "2026-08-24T07:28:00+00:00",
       "collected_at": "2026-08-24T13:12:32.245076+00:00",
       "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmixajbvv95cuxpv3pbb1ywahjczlhlv0j1bljizwvar",
-      "title": "台中美樂地再進化 谷溜遊戲場帶大小朋友玩中學",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPV3pBb1YwaHJCZlhLV0J1blJiZWVaRmkxMkZQdmE4TXZDcHd0UDZtZmRGY210VjFFSEZwYVR4SGpDMDJNdjhkdFoxa0JzMHhfR0V1MmlVQmcxMXhKNUs5dEhIWksxUmVXQmk4ZnMyOTlWcWFBcXlCQlFpT1c5Vy1mdGEzM0thU0FWN1h1N1VMTkJpLTl6TENpRnZYQ0JCNEtYWXdnVDVJdUMxeGJJNW1yR0pFOVFLaVZTOTllT20xb3VtOEY5YVlBanc2QkRodndPc2YwVWZ1MGFjSVIyYzlQYlhvQllZRE94SDIwbTgxY24ya2ZXSVJ5S3BIbWhxWExxTXJPM0xMcko5RV9KazE1aVpSVDFkR1NHVGNXZnVzWTU4bFdxSVNGaDFmYVFFY1ROZWdDZ2Q2SFgtbjFubkNQZWYtSjU?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPV3pBb1YwaHJCZlhLV0J1blJiZWVaRmkxMkZQdmE4TXZDcHd0UDZtZmRGY210VjFFSEZwYVR4SGpDMDJNdjhkdFoxa0JzMHhfR0V1MmlVQmcxMXhKNUs5dEhIWksxUmVXQmk4ZnMyOTlWcWFBcXlCQlFpT1c5Vy1mdGEzM0thU0FWN1h1N1VMTkJpLTl6TENpRnZYQ0JCNEtYWXdnVDVJdUMxeGJJNW1yR0pFOVFLaVZTOTllT20xb3VtOEY5YVlBanc2QkRodndPc2YwVWZ1MGFjSVIyYzlQYlhvQllZRE94SDIwbTgxY24ya2ZXSVJ5S3BIbWhxWExxTXJPM0xMcko5RV9KazE1aVpSVDFkR1NHVGNXZnVzWTU4bFdxSVNGaDFmYVFFY1ROZWdDZ2Q2SFgtbjFubkNQZWYtSjU?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台中美樂地再進化 谷溜遊戲場帶大小朋友玩中學。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台中美樂地再進化 谷溜遊戲場帶大小朋友玩中學。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "台中美樂地谷溜遊戲場為戶外共融公園，擁有寬廣草皮與多元遊戲設施，孩子能盡情放電，家長也有完善休息區與乾淨廁所，是親子同樂的好去處。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "台中美樂地谷溜遊戲場為戶外共融公園，擁有寬廣草皮與多元遊戲設施，孩子能盡情放電，家長也有完善休息區與乾淨廁所，是親子同樂的好去處。",
-      "published_at": "2026-08-24T07:23:04+00:00",
-      "collected_at": "2026-08-25T13:11:34.180768+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-n-yam-com-article-20260824490993",
-      "title": "暑假最後召集！四、五星飯店＋親子行程一次打包 四人房最低三千有找 | 蕃新聞",
-      "url": "https://n.yam.com/Article/20260824490993",
-      "canonical_url": "https://n.yam.com/Article/20260824490993",
-      "image_url": "https://ni.yam.com/20260824/20260821060033308-91780be8b418b848.jpg",
-      "images": [
-        "https://ni.yam.com/20260824/20260821060033308-91780be8b418b848.jpg",
-        "https://www.tromnimedia.com/FileUploads/ArticlePhoto/20260821060033308.jpg",
-        "https://www.tromnimedia.com/FileUploads/ArticlePhoto/20260821055556595.jpg",
-        "https://www.tromnimedia.com/FileUploads/ArticlePhoto/20260821055617157.jpg",
-        "https://ni.yam.com/20260715/dq-260716-001.png",
-        "https://ni.yam.com/20260821/29674-optimized-e59e2c14eb204d04.jpg",
-        "https://ni.yam.com/20260821/jpg-8fdccc830f9a2bd0.jpg",
-        "https://ni.yam.com/20260814/SQ08095-9--scaled-c04897ef3f6af1b1.jpg"
-      ],
-      "summary": "暑假最後召集！四、五星飯店＋親子行程一次打包 四人房最低三千有找 | 蕃新聞。訂花蓮遠雄悅來大飯店、送遠雄海洋公園暢遊門票。圖：Klook／提供 【旅奇傳媒/編輯部報導】暑假進入倒數！根據 Klook《2026旅遊脈動大調查》，10個全球旅客中就有8個願意花費和去年相同甚至更多的預算在體驗行程上，反映旅客對旅程中「玩什麼」的重視程度持續提升，從景點、活動到在地體驗，都成為旅遊規劃越發重要的一環。對親子旅客而言，如何在有限的假期中兼顧住宿舒適度與體驗豐富度，更是出遊時的重要課題。看準旅客對體驗的重視，Klook 推出國旅「訂房送行程」專案，將住宿與目的地熱門體驗一次串聯，讓旅客完成訂房的同時，也能把旅程中的精彩玩法一併安排。相較於入住飯店後再另外搜尋景點、購買票券，「訂房送行程」讓旅客從訂房開始，更輕鬆安排一趟完整旅程。▲訂綠舞國際觀光飯店指定房型、送萌寵餵食等主題體驗。圖：Klook／提供 此外，08/31前使用 Klook 訂購台灣指定飯店，輸入優惠碼「HOTEL92202608」再享92折，最高可折抵300元，再幫爸媽省一筆！",
-      "analysis": {
-        "overview": "暑假最後召集！四、五星飯店＋親子行程一次打包 四人房最低三千有找 | 蕃新聞。訂花蓮遠雄悅來大飯店、送遠雄海洋公園暢遊門票。圖：Klook／提供 【旅奇傳媒/編輯部報導】暑假進入倒數！根據 Klook《2026旅遊脈動大調查》，10個全球旅客中就有8個願意花費和去年相同甚至更多的預算在體驗行程上，反映旅客對旅程中「玩什麼」的重視程度持續提升，從景點、活動到在地體驗，都成為旅遊規劃越發重要的一環。對親子旅客而言，如何在有限的假期中兼顧住宿舒適度與體驗豐富度，更是出遊時的重要課題。看準旅客對體驗的重視，Klook 推出",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 價格與房型差異大，親子設施也可能需預約。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "n.yam.com",
-      "tags": [
-        "放電",
-        "好玩",
-        "看動物"
-      ],
-      "reason": "飯店搭配遠雄海洋公園或萌寬餵食體驗，行程一次打包不需額外規劃，讓孩子盡情放電、家長輕鬆度假。",
-      "published_at": "2026-08-24T02:45:00+00:00",
-      "collected_at": "2026-08-24T13:12:40.905000+00:00",
-      "query": "台灣 親子飯店 親子樂園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijgdbvv95cuxpewzwbelxb0dvmnfxyvdpoevnrvpky",
-      "title": "【2026年8月活動推薦】大巨蛋遠東Garden City、高雄親子遊樂園區、石岡熱氣球、淡水漁人碼頭煙火、花蓮金針花季...全台熱門景點活動一次看！(不斷更新) |【玩樂行事曆】",
-      "url": "https://news.google.com/rss/articles/CBMijgdBVV95cUxPeWZWbElxb0dVMnFXYVdpOEVNRVpKYnZxSXdOVHBVbUpBdWllQUtheFJfNnBMY2dQV0dJWTBqUVh1WmRNY0pqY1A1NFdBdHNOc2t1VTZZRy1tWUlXLXlmUjJINzJqbktYeWh5SVp4ZmxadzdIV1ZOSjRQVUh0M2dRdEpfY0NzTWxaa2FmYlBPVjN6VkRpMW5Bc3NSSkhhclJoV29NNENYc01DQnd0WWJGOXNyYl95RTc4LVk2aFlCZlctQ0NvX09ScnJ0ZUJfcWgxYjNUSmZVLWV1bVJKTDRLV1RmbllocUZ6Nk9GZmJRV2FOc2FmbU5yWGNLNUMyWTFSV1hKTll0cFV6Yl81enJrMlhMOWdIZVU4YS1CdDFqNnVmQ3AwcjNFRGxFR3VSdFQtTll2QVZRWGloczFiaW83WDZ1bEJ2R0pCN1F0VE1WREtLUVJ5XzMxTHZpUTFOUWtoVWxkZVZ1WUZONERKUGJFSDBiYjcxcFJoV3pOWVFjMWdHdXE4YkNFN2h4bVp6cW5INGZqU1pWZUk3LXdLNjU3c0lLaFBOMDRkel8tY2JaMmNIVUxmOG9NYlYyb3l2N0l5bk5SaThuVjVzcVEzQ2VKZDl6NVA4aVQ4dGlhbkxkWHlldUJqQnI4eEpIV1FUNGVmS05EUEJUY0czVG00NXpMN1NHX2NEWEJUeUw2S3FyYzFjZ2FLamw0TmhFRHp1Y19fVEVhc2FXaUo3bTZkRUhNNFRTQ1dlZkVITWJZbW5MbUw2MGtVMGFJTnlLMGUtU0pSSHhfRHNPSjJ5SjFzSXQ5Tk5Hb3ZlY1NNdEh4TDcyZWZwV0FXdW9nX2Vub0M5TlludjQzSnFoc1VqOXVaTk5nbnV4bS1PbEY5V3AyMG5QaE9YX1NYTl9oeWNHUXU5SEVPQUxpMGRoZ3JLbkFaVVpGQVEzMHhRblJobFNkemdKbHplbTczalBCSy16YWVCRzNQV2l0MzUzLVRERnFnMWQwa1FyNDZkQkQxekhWa01ac0MzQ3NpYVlDMTBoSFU1dGpZcFVETFllbzBUWXkwMF9qaElQVE9nUGFxWk4xMmIzZWN5QTJBMVI2RkdMUDVxSHFUUks1TC0yU0FodUhJaVFGdWxkTG5OTks3LWpqVzBVajJQckxPc3VubFdLd21SOUVfTVJSWk1Lbm83YXF1aUlqbmNrOXlkOEp1UTE0Qm1B?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijgdBVV95cUxPeWZWbElxb0dVMnFXYVdpOEVNRVpKYnZxSXdOVHBVbUpBdWllQUtheFJfNnBMY2dQV0dJWTBqUVh1WmRNY0pqY1A1NFdBdHNOc2t1VTZZRy1tWUlXLXlmUjJINzJqbktYeWh5SVp4ZmxadzdIV1ZOSjRQVUh0M2dRdEpfY0NzTWxaa2FmYlBPVjN6VkRpMW5Bc3NSSkhhclJoV29NNENYc01DQnd0WWJGOXNyYl95RTc4LVk2aFlCZlctQ0NvX09ScnJ0ZUJfcWgxYjNUSmZVLWV1bVJKTDRLV1RmbllocUZ6Nk9GZmJRV2FOc2FmbU5yWGNLNUMyWTFSV1hKTll0cFV6Yl81enJrMlhMOWdIZVU4YS1CdDFqNnVmQ3AwcjNFRGxFR3VSdFQtTll2QVZRWGloczFiaW83WDZ1bEJ2R0pCN1F0VE1WREtLUVJ5XzMxTHZpUTFOUWtoVWxkZVZ1WUZONERKUGJFSDBiYjcxcFJoV3pOWVFjMWdHdXE4YkNFN2h4bVp6cW5INGZqU1pWZUk3LXdLNjU3c0lLaFBOMDRkel8tY2JaMmNIVUxmOG9NYlYyb3l2N0l5bk5SaThuVjVzcVEzQ2VKZDl6NVA4aVQ4dGlhbkxkWHlldUJqQnI4eEpIV1FUNGVmS05EUEJUY0czVG00NXpMN1NHX2NEWEJUeUw2S3FyYzFjZ2FLamw0TmhFRHp1Y19fVEVhc2FXaUo3bTZkRUhNNFRTQ1dlZkVITWJZbW5MbUw2MGtVMGFJTnlLMGUtU0pSSHhfRHNPSjJ5SjFzSXQ5Tk5Hb3ZlY1NNdEh4TDcyZWZwV0FXdW9nX2Vub0M5TlludjQzSnFoc1VqOXVaTk5nbnV4bS1PbEY5V3AyMG5QaE9YX1NYTl9oeWNHUXU5SEVPQUxpMGRoZ3JLbkFaVVpGQVEzMHhRblJobFNkemdKbHplbTczalBCSy16YWVCRzNQV2l0MzUzLVRERnFnMWQwa1FyNDZkQkQxekhWa01ac0MzQ3NpYVlDMTBoSFU1dGpZcFVETFllbzBUWXkwMF9qaElQVE9nUGFxWk4xMmIzZWN5QTJBMVI2RkdMUDVxSHFUUks1TC0yU0FodUhJaVFGdWxkTG5OTks3LWpqVzBVajJQckxPc3VubFdLd21SOUVfTVJSWk1Lbm83YXF1aUlqbmNrOXlkOEp1UTE0Qm1B?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "【2026年8月活動推薦】大巨蛋遠東Garden City、高雄親子遊樂園區、石岡熱氣球、淡水漁人碼頭煙火、花蓮金針花季...全台熱門景點活動一次看！(不斷更新) |【玩樂行事曆】。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "【2026年8月活動推薦】大巨蛋遠東Garden City、高雄親子遊樂園區、石岡熱氣球、淡水漁人碼頭煙火、花蓮金針花季...全台熱門景點活動一次看！(不斷更新) |【玩樂行事曆】。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "8月全台親子活動一次看，室內戶外皆有選擇，高雄親子遊樂園區放電首選，淡水漁人碼頭賞煙火適合全家同樂。",
-      "published_at": "2026-08-24T00:06:45+00:00",
-      "collected_at": "2026-08-24T13:12:50.727991+00:00",
-      "query": "台灣 免費親子景點"
     }
   ]
 }
