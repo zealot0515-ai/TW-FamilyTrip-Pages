@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-08-28T22:21:39.315444+00:00",
+  "updated_at": "2026-08-29T03:43:28.763643+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiwkfvx3lxte44ugg3dnvlwkz2bjbeddzvtkt2cza5w",
+      "title": "台北古亭河濱遊戲場新開放！玩彈跳床、攀爬架　還能賞新店溪夕陽",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44UGg3dnVlWkZ2bjBEdDZvTkt2czA5WEFObkFiYWRiN2VfRnNDZlZTMUllbF9QcmxZYmctUUg0TGhmSjdmUzZ1UGZneG1fb1IxLXJvOGlENERtQdIBT0FVX3lxTE10VzlzZmtPX0pmS3ZqT0o2MUJiMUhlS1dOOURvZXl1QjE3XzMyTjNEVTQydjh4UzFQMWZEaXo2THlXZzBfeHhXdE1OWExEbVE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44UGg3dnVlWkZ2bjBEdDZvTkt2czA5WEFObkFiYWRiN2VfRnNDZlZTMUllbF9QcmxZYmctUUg0TGhmSjdmUzZ1UGZneG1fb1IxLXJvOGlENERtQdIBT0FVX3lxTE10VzlzZmtPX0pmS3ZqT0o2MUJiMUhlS1dOOURvZXl1QjE3XzMyTjNEVTQydjh4UzFQMWZEaXo2THlXZzBfeHhXdE1OWExEbVE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台北古亭河濱遊戲場新開放！玩彈跳床、攀爬架　還能賞新店溪夕陽。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台北古亭河濱遊戲場新開放！玩彈跳床、攀爬架　還能賞新店溪夕陽。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "河濱遊戲場腹地寬廣，全新開放的彈跳床與攀爬架設施新穎安全，讓孩子盡情放電外，還能欣賞新店溪夕陽美景。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "ETtoday旅遊雲",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "河濱遊戲場腹地寬廣，全新開放的彈跳床與攀爬架設施新穎安全，讓孩子盡情放電外，還能欣賞新店溪夕陽美景。",
+      "published_at": "2026-08-29T03:12:00+00:00",
+      "collected_at": "2026-08-29T03:43:12.495467+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmivefvx3lxtfb5rwhemm1gbnromnvdsvdqevphqjzgt",
       "title": "高雄親子遊樂園區開幕近三週 議會考察盯遊具安全、人力及停車",
@@ -135,6 +161,31 @@
       "query": "台灣 親子旅遊 最新"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfb0qthez2pfqxpvd2deaxctb0tly0xor",
+      "title": "高雄親子遊樂園區開幕近三週 議會考察盯遊具安全、人力及停車",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0QThEZ2pFQXpvd2dEaXctb0tLY0xORFBFMjRwUmNRaldFVjd6S0VIRzAzdDNFeGNCaHlfbEtrSjhzYVNkN2N5YWxwT2ViTDJ6bEE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0QThEZ2pFQXpvd2dEaXctb0tLY0xORFBFMjRwUmNRaldFVjd6S0VIRzAzdDNFeGNCaHlfbEtrSjhzYVNkN2N5YWxwT2ViTDJ6bEE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區開幕近三週 議會考察盯遊具安全、人力及停車。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區開幕近三週 議會考察盯遊具安全、人力及停車。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此篇為新聞報導，非景點遊記或遊玩分享，無法從中獲取足以推薦的實用資訊。",
+      "published_at": "2026-08-28T04:58:00+00:00",
+      "collected_at": "2026-08-29T03:43:20.605773+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiigfbvv95cuxnrfpxunpht1pvbxl1ahbdmzz3wkp5r",
       "title": "走進草鴞的秘密家園！ 屏東親子農遊9月5日登場 - 旅遊新聞 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRFpxUnphT1pvbXl1aHBDMzZ3Wkp5RWhGa0s5MHhxNE5yZjVua1NaRG9Yc19lZ2NYdUtYMk8tZkUzdkd3VFZlbjcxWVMwdjVDQW9TOU5jcnY5SWdwc2dMNkFTQU92X3p5NkQyQ0xYQ1QzUU1rMk9qYUhPVjNjdm02NUtaUllzZlFuMXc?oc=5",
@@ -159,6 +210,39 @@
       "published_at": "2026-08-28T04:27:00+00:00",
       "collected_at": "2026-08-28T22:20:21.907680+00:00",
       "query": "台灣 動物農場 親子 景點"
+    },
+    {
+      "id": "https-news-nextapple-com-eattravel-20260828-d8eb7c4ec77f286e40a0e173cde4fc3a",
+      "title": "Klook暑假最後召集！訂房送行程4人房最低不到3千元　親子住玩一次搞定｜壹蘋新聞網",
+      "url": "https://news.nextapple.com/eattravel/20260828/D8EB7C4EC77F286E40A0E173CDE4FC3A",
+      "canonical_url": "https://news.nextapple.com/eattravel/20260828/D8EB7C4EC77F286E40A0E173CDE4FC3A",
+      "image_url": "https://static-cdn.nextapple.tw/prod/2026-08/D8EB7C4EC77F286E40A0E173CDE4FC3A/0272f7628077549dad508ab3b003e95a_1280.jpeg",
+      "images": [
+        "https://static-cdn.nextapple.tw/prod/2026-08/D8EB7C4EC77F286E40A0E173CDE4FC3A/0272f7628077549dad508ab3b003e95a_1280.jpeg",
+        "https://www.facebook.com/tr?id=1518019065889481&ev=PageView&noscript=1",
+        "https://static.nextapple.tw/web/layout/img/app11042.webp",
+        "https://static.nextapple.tw/web/layout/ad/pin.webp",
+        "https://static.nextapple.tw/web/layout/ad/beauty2026.webp",
+        "https://static.nextapple.tw/web/layout/ad/Focus%2BA.webp",
+        "https://static.nextapple.tw/web/layout/ad/election2026.webp",
+        "https://static.nextapple.tw/web/layout/img/breakingNews03.webp"
+      ],
+      "summary": "Klook暑假最後召集！訂房送行程4人房最低不到3千元　親子住玩一次搞定｜壹蘋新聞網。最新 焦點 熱門 娛樂時尚 生活 政治 社會 國際 財經股市 體育 壹蘋民調 火線話題 Focus+ 愛美 AI科技 地產王 市場交易 預售屋新屋開箱 律師解「房」 旅遊美食 車市 打詐 指標企業 壹蘋頭家 健康 購物 女神 10點強打 var intHoldNav = 15; 葉元之駁稱「10歲女童沒被性侵」 主播對嗆：道歉很難？國旅補助前房價微上漲 趙建銘爆「順母意」娶陳幸妤 弟堅持娶同學：不必再一個光采媳 低壓＋92W攪局！粉專示警：南部雨又要「下不停」 小學生性騷妙齡女！目擊者：下半身蹭另一女「邊蹭邊笑」 最高現省111元！超市量販週末好康 最低29元起開搶 買飲料送20顆鍋貼！四大超商優惠一次看 便當驚見普渡雞腿「有紅紅一個洞…」 店家回應惹人怒 超過3000人死亡失蹤！尼泊爾撐不住了 同意有限度國際救援 小學男童捷運性騷妙齡女！「抱我…還死命跟緊」警出手了 男游泳教練PO「嘟臉求親親＋環抱女童胸」 全網噁炸鍋！陳幸妤國中遭教官訓「陳水扁是壞人」 兒被家長嗆不歡迎 黃揚明：2026藍敗選在望！",
+      "analysis": {
+        "overview": "Klook暑假最後召集！訂房送行程4人房最低不到3千元　親子住玩一次搞定｜壹蘋新聞網。最新 焦點 熱門 娛樂時尚 生活 政治 社會 國際 財經股市 體育 壹蘋民調 火線話題 Focus+ 愛美 AI科技 地產王 市場交易 預售屋新屋開箱 律師解「房」 旅遊美食 車市 打詐 指標企業 壹蘋頭家 健康 購物 女神 10點強打 var intHoldNav = 15; 葉元之駁稱「10歲女童沒被性侵」 主播對嗆：道歉很難？國旅補助前房價微上漲 趙建銘爆「順母意」娶陳幸妤 弟堅持娶同學：不必再一個光采媳 低壓＋92W攪局！",
+        "pros": "Klook搭配飯店與體驗行程，4人房3000元有找，CP值高且行程一次搞定，爸媽省去規劃麻煩，小孩也能盡情放電。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "news.nextapple.com",
+      "tags": [
+        "好玩",
+        "放電"
+      ],
+      "reason": "Klook搭配飯店與體驗行程，4人房3000元有找，CP值高且行程一次搞定，爸媽省去規劃麻煩，小孩也能盡情放電。",
+      "published_at": "2026-08-28T03:00:00+00:00",
+      "collected_at": "2026-08-29T03:43:28.722175+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmizefvx3lxtfbfbkzndfnzyklvwgreuwmzazvlbwfub",
@@ -739,87 +823,6 @@
       "published_at": "2026-08-25T16:59:00+00:00",
       "collected_at": "2026-08-26T13:16:16.045864+00:00",
       "query": "台灣 親子農場 景點"
-    },
-    {
-      "id": "https-focusnews-com-tw-2026-08-717215",
-      "title": "西拉雅推「親子森活趣」 家扶童搭台灣好行菱波官田線玩採果、看劇團",
-      "url": "https://focusnews.com.tw/2026/08/717215/",
-      "canonical_url": "https://focusnews.com.tw/2026/08/717215",
-      "image_url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "西拉雅推「親子森活趣」 家扶童搭台灣好行菱波官田線玩採果、看劇團。【今傳媒／記者張淑慧 報導】暑假進入尾聲，交通部觀光署西拉雅國家風景區管理處昨（25）日推出「親子森活趣」主題遊程，邀請北台南家扶中心及官田鄰近小森林成長幼兒園學童搭乘台灣好行菱波官田線出遊，安排農場採果、創意野菜料理及親子劇團演出等豐富體驗，將公益行動與環境教育結合，帶領孩子走進自然、認識土地，度過充滿歡笑與收穫的夏日時光。活動首站來到大坑休閒農場，孩子們化身小小農夫，親手體驗採果樂趣，從實際 ...",
-      "analysis": {
-        "overview": "西拉雅推「親子森活趣」 家扶童搭台灣好行菱波官田線玩採果、看劇團。【今傳媒／記者張淑慧 報導】暑假進入尾聲，交通部觀光署西拉雅國家風景區管理處昨（25）日推出「親子森活趣」主題遊程，邀請北台南家扶中心及官田鄰近小森林成長幼兒園學童搭乘台灣好行菱波官田線出遊，安排農場採果、創意野菜料理及親子劇團演出等豐富體驗，將公益行動與環境教育結合，帶領孩子走進自然、認識土地，度過充滿歡笑與收穫的夏日時光。活動首站來到大坑休閒農場，孩子們化身小小農夫，親手體驗採果樂趣，從實際 ...",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "focusnews.com.tw",
-      "tags": [
-        "放電",
-        "大自然",
-        "好玩"
-      ],
-      "reason": "大坑休閒農場採果體驗能讓孩子化身小小農夫親近自然，台灣好行公車直達免開車負擔，適合學齡兒童放電學習。",
-      "published_at": "2026-08-25T16:59:00+00:00",
-      "collected_at": "2026-08-28T22:21:39.248362+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-www-cna-com-tw-postwrite-chi-442416",
-      "title": "新竹市立動物園親子餐廳嶄新登場 高虹安市長與羊駝共進午餐 | 中央社訊息平台",
-      "url": "https://www.cna.com.tw/postwrite/chi/442416",
-      "canonical_url": "https://www.cna.com.tw/postwrite/chi/442416",
-      "image_url": "https://imgcdn.cna.com.tw/www/postwrite/2026/20260825/00442416.20260825785379425M.jpg",
-      "images": [
-        "https://imgcdn.cna.com.tw/www/postwrite/2026/20260825/00442416.20260825785379425M.jpg",
-        "https://imgcdn.cna.com.tw/www/postwrite/2026/20260825/00442416.202608252137154572M.jpg",
-        "https://imgcdn.cna.com.tw/www/postwrite/2026/20260825/00442416.202608251857652787M.jpg",
-        "https://imgcdn.cna.com.tw/www/postwrite/2026/20260825/00442416.20260825293296347M.jpg"
-      ],
-      "summary": "新竹市立動物園親子餐廳嶄新登場 高虹安市長與羊駝共進午餐 | 中央社訊息平台。簡介 (中央社訊息服務20260826 16:32:10)新竹市立動物園親子餐廳於今（25）日嶄新登場，餐廳採用智慧點餐並打造動物環繞的用餐空間，可以選擇坐在長頸鹿角或紅毛猩猩角旁邊用餐。市長高虹安在試營運首日特別搶先體驗，隔著落地窗與窗外超萌的羊駝共進午餐，歡迎大小朋友一同在心愛的動物圍繞下，享用精緻的動物造型餐點，開心拍照並於社群平台打卡分享。高虹安市長表示，新竹市立動物園親子餐廳引進大型擬真動物絨毛玩偶，融入整體用餐空間，用餐同時抬頭可以欣賞海洋世界，魟魚、海豚悠遊餐廳，營造置身動物世界的特色用餐氛圍。餐廳落地窗特別採用預防鳥擊設計，降低鳥類撞擊玻璃風險，同時讓遊客在用餐過程中認識鳥類保育及「窗殺」議題，將生命教育融入用餐環境。高虹安市長說，親子餐廳導入桌邊掃描點餐，遊客入座後即可使用手機瀏覽菜單及完成點餐後至櫃檯結帳，營造點餐自主及快速上菜的舒適用餐體驗。考量長輩及不習慣使用手機的遊客，現場也保留紙本點餐服務，讓不同年齡層的遊客都能輕鬆使用。",
-      "analysis": {
-        "overview": "新竹市立動物園親子餐廳嶄新登場 高虹安市長與羊駝共進午餐 | 中央社訊息平台。簡介 (中央社訊息服務20260826 16:32:10)新竹市立動物園親子餐廳於今（25）日嶄新登場，餐廳採用智慧點餐並打造動物環繞的用餐空間，可以選擇坐在長頸鹿角或紅毛猩猩角旁邊用餐。市長高虹安在試營運首日特別搶先體驗，隔著落地窗與窗外超萌的羊駝共進午餐，歡迎大小朋友一同在心愛的動物圍繞下，享用精緻的動物造型餐點，開心拍照並於社群平台打卡分享。高虹安市長表示，新竹市立動物園親子餐廳引進大型擬真動物絨毛玩偶，融入整體用餐空間，用餐同時抬",
-        "pros": "動物互動與自然觀察能提高孩子參與感。",
-        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "cna.com.tw",
-      "tags": [
-        "室內",
-        "看動物"
-      ],
-      "reason": "室內親子餐廳有大尺寸仿真動物玩偶陪吃，落地窗外能近距離觀察羊駝等萌寵，用餐環境舒適且有紙本點餐服務，年幼孩子也能輕鬆參與。",
-      "published_at": "2026-08-25T09:53:00+00:00",
-      "collected_at": "2026-08-27T03:19:47.616152+00:00",
-      "query": "台灣 親子餐廳 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmir0fvx3lxtfatm2utnxzivtrzz0prsudkbwrprwdnd",
-      "title": "新竹市立動物園親子餐廳嶄新登場",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtM2UtNXZIVTRZZ0pRSUdKbWRPRWdNdVlFNGhRVkFNMEhJdEd2Vlh1bXBCVjc5NDV1RHVsTng1dTdFWEszVDVF?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtM2UtNXZIVTRZZ0pRSUdKbWRPRWdNdVlFNGhRVkFNMEhJdEd2Vlh1bXBCVjc5NDV1RHVsTng1dTdFWEszVDVF?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "新竹市立動物園親子餐廳嶄新登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "新竹市立動物園親子餐廳嶄新登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "動物互動與自然觀察能提高孩子參與感。",
-        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "台灣新聞雲",
-      "tags": [
-        "看動物",
-        "室內",
-        "好玩"
-      ],
-      "reason": "有動物或自然觀察元素，孩子比較容易投入；出發前可先確認餵食、展區與洗手設施。",
-      "published_at": "2026-08-25T07:03:00+00:00",
-      "collected_at": "2026-08-26T13:16:16.531919+00:00",
-      "query": "台灣 親子景點 最新"
     }
   ]
 }
