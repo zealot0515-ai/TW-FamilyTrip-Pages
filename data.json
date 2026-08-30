@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T00:21:04.154729+00:00",
+  "updated_at": "2026-08-30T16:40:53.335940+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -202,6 +202,31 @@
       "published_at": "2026-08-29T00:02:00+00:00",
       "collected_at": "2026-08-29T16:43:33.009800+00:00",
       "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte9vbwlmotm0zk1xv0c2dtm2clzuykx0a",
+      "title": "花蓮室內親子遊憩空間不足 魏嘉賢承諾將成功經驗推13鄉鎮",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vbWlMOTM0Zk1XV0c2dTM2clZUYkx0aUYyN1JSMzd1UjFmMjhxVE9fTjRxbHhnNUpyUkFEcUpxTFl3ZXpobTUxNnpoWE4yRE1hNWc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vbWlMOTM0Zk1XV0c2dTM2clZUYkx0aUYyN1JSMzd1UjFmMjhxVE9fTjRxbHhnNUpyUkFEcUpxTFl3ZXpobTUxNnpoWE4yRE1hNWc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "花蓮室內親子遊憩空間不足 魏嘉賢承諾將成功經驗推13鄉鎮。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "花蓮室內親子遊憩空間不足 魏嘉賢承諾將成功經驗推13鄉鎮。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "室內"
+      ],
+      "reason": "此為地方首長推動室內親子遊憩空間的政策規劃報導，非具體景點遊記，暂无实际地点推荐。",
+      "published_at": "2026-08-28T14:18:08+00:00",
+      "collected_at": "2026-08-30T16:40:43.726876+00:00",
+      "query": "台灣 室內親子景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmivefvx3lxtfb5rwhemm1gbnromnvdsvdqevphqjzgt",
@@ -598,6 +623,32 @@
       "query": "台灣 週末親子 去哪裡"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmitkfvx3lxte5fehqyajjxntriquz5whozwjlzqxlod",
+      "title": "國旅補助 麗寶再加碼 點數免費玩樂園 住飯店每人不到700元",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5feHQyajJxNTRIQUZ5WHozWjlzQXlOdGtKVTZJMjNZVkZ5YWM3SzhqWmxCR0FpVU5tVmZ4WHFpQnk2SFo0N3FqYUhiV1BhUQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5feHQyajJxNTRIQUZ5WHozWjlzQXlOdGtKVTZJMjNZVkZ5YWM3SzhqWmxCR0FpVU5tVmZ4WHFpQnk2SFo0N3FqYUhiV1BhUQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "國旅補助 麗寶再加碼 點數免費玩樂園 住飯店每人不到700元。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "國旅補助 麗寶再加碼 點數免費玩樂園 住飯店每人不到700元。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "TVBS新聞網",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "麗寶樂園擁有馬拉灣與探索世界兩大園區，刺激遊樂設施多樣且兒童遊戲區完善，非常適合帶小孩來盡情放電消耗體力，搭配國旅補助入住飯店每人不到700元，CP值高又好玩。",
+      "published_at": "2026-08-27T07:09:00+00:00",
+      "collected_at": "2026-08-30T16:40:48.885576+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte8wag40ne0zdv8wnli4se9frglsvetrc",
       "title": "國旅補助麗寶再加碼！點數免費玩樂園、住飯店每人不到700元 | 民視新聞網",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8waG40NE0zdV8wNlI4SE9fRGlSVEtrcGczbHNaMnk0eF9oNTBLRnhMOE5aZHRhQ28tQjh6cWRha080SGtjRVo2OWxyUDRiUU9yc0dKV093?oc=5",
@@ -770,58 +821,6 @@
       "published_at": "2026-08-26T08:11:45+00:00",
       "collected_at": "2026-08-28T22:20:27.524154+00:00",
       "query": "台灣 親子飯店 親子樂園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte1dm0xmsdlvaklfae1fcflyouw2rgzow",
-      "title": "高雄親子遊樂園區紙風車魔法來襲！酷暑瘋童趣《蕃薯森林奇遇記》8/29 開演",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DM0xMSDlvaklfaE1FcFlyOUw2RGZoWU9penFob1R2OW83cVFOc2JvQ2JENFRQemJSdkY3R3lnTFhPR2NoTW04eEJVSGlWZUFkd0E?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DM0xMSDlvaklfaE1FcFlyOUw2RGZoWU9penFob1R2OW83cVFOc2JvQ2JENFRQemJSdkY3R3lnTFhPR2NoTW04eEJVSGlWZUFkd0E?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區紙風車魔法來襲！酷暑瘋童趣《蕃薯森林奇遇記》8/29 開演。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區紙風車魔法來襲！酷暑瘋童趣《蕃薯森林奇遇記》8/29 開演。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-08-26T08:11:00+00:00",
-      "collected_at": "2026-08-26T13:15:58.075702+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-life-tw-article-fun-3131234",
-      "title": "台灣好行帶孩子Fun暑假！家扶童採果看劇團 菱波官田線玩遍西拉雅",
-      "url": "https://life.tw/article/台灣好行帶孩子fun暑假-家扶童採果看劇團-菱波官田線玩遍西-3131234",
-      "canonical_url": "https://life.tw/article/台灣好行帶孩子fun暑假-家扶童採果看劇團-菱波官田線玩遍西-3131234",
-      "image_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "台灣好行帶孩子Fun暑假！家扶童採果看劇團 菱波官田線玩遍西拉雅。【賴傳媒、記者爆料網 王俊勝／台南報導】暑假接近尾聲，西拉雅國家風景區管理處25日安排一趟「親子森活趣」公益遊程，邀請北台南家扶中心孩子及官田鄰近幼兒園學童，搭乘台灣好行菱波官田線出遊。孩子們從採水果、品嘗農場料理，到觀賞親子劇團演出，在大自然裡上了一堂不一樣的環境教育課，也替暑假留下難忘回憶。家扶童採果看劇團菱波官田線玩遍西拉雅（圖／記者王俊勝 翻攝，下同） 一行人 ...",
-      "analysis": {
-        "overview": "台灣好行帶孩子Fun暑假！家扶童採果看劇團 菱波官田線玩遍西拉雅。【賴傳媒、記者爆料網 王俊勝／台南報導】暑假接近尾聲，西拉雅國家風景區管理處25日安排一趟「親子森活趣」公益遊程，邀請北台南家扶中心孩子及官田鄰近幼兒園學童，搭乘台灣好行菱波官田線出遊。孩子們從採水果、品嘗農場料理，到觀賞親子劇團演出，在大自然裡上了一堂不一樣的環境教育課，也替暑假留下難忘回憶。家扶童採果看劇團菱波官田線玩遍西拉雅（圖／記者王俊勝 翻攝，下同） 一行人 ...",
-        "pros": "動物互動與自然觀察能提高孩子參與感。",
-        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "life.tw",
-      "tags": [
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "台灣好行直達西拉雅風景區免開車，採果、觀賞劇團等多元活動讓孩子在自然環境中盡情放電，同時透過環境教育課寓教於樂。",
-      "published_at": "2026-08-26T08:00:00+00:00",
-      "collected_at": "2026-08-27T22:16:27.950086+00:00",
-      "query": "台灣 親子農場 景點"
     }
   ]
 }
