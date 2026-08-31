@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-08-30T16:40:53.335940+00:00",
+  "updated_at": "2026-08-31T00:37:28.398846+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte9xre40rkxwbddrq1nxwnbpr1nqnk52l",
+      "title": "內灣老街、城隍廟輸了！新竹最強景點TOP10冠軍是它，遊客讚迷你東京上野公園、 適合全家去玩",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xRE40RkxwbDdrQ1NxWnBPR1NQNk52LThjSGplT25UTmxYUnlUamhQdWhRaG1xYTI1Q2E5Tkh6ZmxIc3JIcWVWRTEwQVY2Q25T?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xRE40RkxwbDdrQ1NxWnBPR1NQNk52LThjSGplT25UTmxYUnlUamhQdWhRaG1xYTI1Q2E5Tkh6ZmxIc3JIcWVWRTEwQVY2Q25T?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "內灣老街、城隍廟輸了！新竹最強景點TOP10冠軍是它，遊客讚迷你東京上野公園、 適合全家去玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "內灣老街、城隍廟輸了！新竹最強景點TOP10冠軍是它，遊客讚迷你東京上野公園、 適合全家去玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "Storm.mg",
+      "tags": [
+        "大自然",
+        "放電"
+      ],
+      "reason": "被評為新竹最強景點冠軍，腹地寬廣如迷你上野公園，適合全家到此踏青放電。",
+      "published_at": "2026-08-30T21:30:00+00:00",
+      "collected_at": "2026-08-31T00:37:11.648884+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
     {
       "id": "https-n-yam-com-article-20260830171986",
       "title": "白天放電、夜晚浪漫！　北市古亭河濱兒童遊戲場全新完工 | 蕃新聞",
@@ -793,33 +819,6 @@
       "reason": "室內劇場有冷氣舒適，不怕暑假酷暑小孩容易中暑；專為親子設計的紙風車劇團演出，互動性強又富有教育意義。",
       "published_at": "2026-08-26T08:11:45+00:00",
       "collected_at": "2026-08-27T03:19:22.813874+00:00",
-      "query": "台灣 親子飯店 親子樂園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijgnbvv95cuxoufmxyty3qlladmlevfroqktxy2l0d",
-      "title": "高雄親子遊樂園區紙風車魔法來襲！酷暑瘋童趣《蕃薯森林奇遇記》8/29 開演",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOUFMxYTY3QlladmlEVFROQktXY2l0dzJmaUdXVUhfeHZJd0dBXzd2NGF5eVo3Rm4xdzNGdnpveUl6bjc5SF85ZEdBTkp6V0t1Q2JzUFVSZkNDVldRQ1BUUklHZkZRTWFvZHR1bUstMEdIMXktSXBDNUx4NnljbXBhV3VvTzJJbjA1RFljRlFUblZPeThVd2FsTUtqMDIzT1FpWFNBcG1KaExncjVCbDlTY2xicEg2cG80U3dFNkY5Q2tjb3FHLS1senJjQmVuLTZLSVI3WFlHblllVHdPc05vbEVpMG51Mng0RDZRTGdwZDB3VG1fYXpnekp1YUZaSUZVSldrWFF2cFdTeDRhdmY5dWM1Z2FlMEE2aFRHLUdZTUxYaENOY1Q4ejhKd3ZLVm5SNENHQl9tNHNycTlUOWw5aXBsZExWYVA0UG1zOU05Z0s4Mk9jTVh2cTRUTFZUQWJIdzBvWllwSlZUOTdwdlR0Y29ySEt2bHlaUDRkZEJJdllNQzVSQUxXOXhaT05NUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOUFMxYTY3QlladmlEVFROQktXY2l0dzJmaUdXVUhfeHZJd0dBXzd2NGF5eVo3Rm4xdzNGdnpveUl6bjc5SF85ZEdBTkp6V0t1Q2JzUFVSZkNDVldRQ1BUUklHZkZRTWFvZHR1bUstMEdIMXktSXBDNUx4NnljbXBhV3VvTzJJbjA1RFljRlFUblZPeThVd2FsTUtqMDIzT1FpWFNBcG1KaExncjVCbDlTY2xicEg2cG80U3dFNkY5Q2tjb3FHLS1senJjQmVuLTZLSVI3WFlHblllVHdPc05vbEVpMG51Mng0RDZRTGdwZDB3VG1fYXpnekp1YUZaSUZVSldrWFF2cFdTeDRhdmY5dWM1Z2FlMEE2aFRHLUdZTUxYaENOY1Q4ejhKd3ZLVm5SNENHQl9tNHNycTlUOWw5aXBsZExWYVA0UG1zOU05Z0s4Mk9jTVh2cTRUTFZUQWJIdzBvWllwSlZUOTdwdlR0Y29ySEt2bHlaUDRkZEJJdllNQzVSQUxXOXhaT05NUQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區紙風車魔法來襲！酷暑瘋童趣《蕃薯森林奇遇記》8/29 開演。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區紙風車魔法來襲！酷暑瘋童趣《蕃薯森林奇遇記》8/29 開演。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "紙風車劇團演出互動性高，孩子能盡情投入故事情境消耗精力；室內或有遮蔽的演出空間，即使酷暑高雄也能舒適觀賞，是暑假雨天備案的優質選擇。",
-      "published_at": "2026-08-26T08:11:45+00:00",
-      "collected_at": "2026-08-28T22:20:27.524154+00:00",
       "query": "台灣 親子飯店 親子樂園"
     }
   ]
