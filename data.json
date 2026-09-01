@@ -1,8 +1,140 @@
 {
-  "updated_at": "2026-09-01T01:18:22.527058+00:00",
+  "updated_at": "2026-09-01T16:41:00.134438+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte9htzlttjmxrs1lmur6uvjbedhxt3fkr",
+      "title": "雲林免費觀光工廠Top 3！親子一日遊這樣玩：DIY 醬油、國軍罐頭免費吃、毛巾蛋糕超好拍| 旅遊",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hTzlTTjMxRS1LMUR6UVJBeDhXT3FKRzZ6dHFvbjJMcjNSdWNNYUZWYXpEZ0todVNwS2VMeks2RF9hQlZLZ0RnWmJrQ21ITER0?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hTzlTTjMxRS1LMUR6UVJBeDhXT3FKRzZ6dHFvbjJMcjNSdWNNYUZWYXpEZ0todVNwS2VMeks2RF9hQlZLZ0RnWmJrQ21ITER0?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "雲林免費觀光工廠Top 3！親子一日遊這樣玩：DIY 醬油、國軍罐頭免費吃、毛巾蛋糕超好拍| 旅遊。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "雲林免費觀光工廠Top 3！親子一日遊這樣玩：DIY 醬油、國軍罐頭免費吃、毛巾蛋糕超好拍| 旅遊。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "免費入場參觀加上DIY體驗，孩子能動手做又有試吃互動，室內空間雨天也能盡興玩。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "UDN",
+      "tags": [
+        "室內",
+        "好玩"
+      ],
+      "reason": "免費入場參觀加上DIY體驗，孩子能動手做又有試吃互動，室內空間雨天也能盡興玩。",
+      "published_at": "2026-09-01T02:28:17+00:00",
+      "collected_at": "2026-09-01T16:39:57.425473+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmif0fvx3lxte9ivm1qnxvtwmzym3homnblqnnzbzh5a",
+      "title": "雲林免費觀光工廠 Top 3！親子一日遊這樣玩：DIY 醬油、國軍罐頭免費吃、毛巾蛋糕超好拍",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IVm1QNXVTWmZYM3hOMnBlQnNzbzh5a2JGNWIxN3ZJbFE3QkFHS19IOGN5ckxsaTdWYzRXN0x6MHFEZmFWWXVOOWp1cnhiSGl2OWhMaXZzTHVQQ1NCUnU2cm9RelpaUkZCa2N3TWNJUEUtYUpSNjhCem5iRzBfa0U?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IVm1QNXVTWmZYM3hOMnBlQnNzbzh5a2JGNWIxN3ZJbFE3QkFHS19IOGN5ckxsaTdWYzRXN0x6MHFEZmFWWXVOOWp1cnhiSGl2OWhMaXZzTHVQQ1NCUnU2cm9RelpaUkZCa2N3TWNJUEUtYUpSNjhCem5iRzBfa0U?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "雲林免費觀光工廠 Top 3！親子一日遊這樣玩：DIY 醬油、國軍罐頭免費吃、毛巾蛋糕超好拍。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "雲林免費觀光工廠 Top 3！親子一日遊這樣玩：DIY 醬油、國軍罐頭免費吃、毛巾蛋糕超好拍。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "觀光工廠室內有冷氣舒適，雨天備案首選；DIY 體驗與試吃活動能讓孩子動手玩樂、消耗體力，非常適合親子一日遊。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "UDN",
+      "tags": [
+        "室內",
+        "好玩",
+        "放電"
+      ],
+      "reason": "觀光工廠室內有冷氣舒適，雨天備案首選；DIY 體驗與試吃活動能讓孩子動手玩樂、消耗體力，非常適合親子一日遊。",
+      "published_at": "2026-09-01T02:28:17+00:00",
+      "collected_at": "2026-09-01T16:40:07.349283+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte1toxlxr1o0slz2cu5kmlfsbhm5wej4d",
+      "title": "太平山、傳藝中心輸了！宜蘭最強景點吸109萬遊客：風景絕美值得再訪、 全家大小玩整天",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tOXlXR1o0SlZ2cU5KMlFsbHM5WEJ4dUQ4dXFrSjMxUzRCMzc0el9xckNmRUl5QkI1Zm9TUGRFRXVXa1R0bXVYSEFDZ1A2R3hl?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tOXlXR1o0SlZ2cU5KMlFsbHM5WEJ4dUQ4dXFrSjMxUzRCMzc0el9xckNmRUl5QkI1Zm9TUGRFRXVXa1R0bXVYSEFDZ1A2R3hl?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "太平山、傳藝中心輸了！宜蘭最強景點吸109萬遊客：風景絕美值得再訪、 全家大小玩整天。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "太平山、傳藝中心輸了！宜蘭最強景點吸109萬遊客：風景絕美值得再訪、 全家大小玩整天。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "風景優美且腹地寬廣，適合全家出遊放電一整天，各年齡層都能盡興遊玩。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "Storm.mg",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "風景優美且腹地寬廣，適合全家出遊放電一整天，各年齡層都能盡興遊玩。",
+      "published_at": "2026-09-01T02:00:00+00:00",
+      "collected_at": "2026-09-01T16:40:15.110980+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiwefvx3lxte5es2vgeugytehpym1nexdyandpbe9pb",
+      "title": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ES2VGeUgyTEhpYm1NeXdyandPbE9pb1Mzc2JFdUMzcTBUb1E2TW56clQzWWx6SmlDRi1GYmlxNS1fRVg5WjVQcjBQS29TbVBiazlyUmNTalA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ES2VGeUgyTEhpYm1NeXdyandPbE9pb1Mzc2JFdUMzcTBUb1E2TW56clQzWWx6SmlDRi1GYmlxNS1fRVg5WjVQcjBQS29TbVBiazlyUmNTalA?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "tromnimedia.com",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "古亭河濱公園腹地寬闊，擁有草地與水岸環境，孩子可盡情奔跑放電，晚間還能欣賞河濱夜景，是台北市區難得的親子踏青好去處。",
+      "published_at": "2026-09-01T01:32:12+00:00",
+      "collected_at": "2026-09-01T16:40:19.872306+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmihanbvv95cuxnnmqxmkpqtexkxy1zqwzomwwyzffvr",
+      "title": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNNmQxMkpqTExKXy1zQWZOMWwyZFFvR3hHb1lNTDVIQlRvbDQ3TUcyeV9pUGhUZnZBOEh0UXMxY1JPOEtjZVlaT05OQUhzdVZtX3VPSm5SVWdvMHZUaDlJUkxZX1l0VDd4Si1OXzlzbm5CWU1sTS14cW94QUl0cnlLcFktYVVIQ2RJRzBramZ0WVpDQThTLURyN3hkY0hUQmhXTURYaVRwbzk4UUw5ZmM2TVY1djBRRnlxRk9hdkJpSE5BWXJ3dl9BSUw4N1pkWGlXR3RveUtKbnNYWjBFVUJoX1pfekVyZzNyRndzaXVDWWg1a1dQUkRGY2pqb3FzWElrbnRaVURhUHlfcS1rTUFUWlBUX1JzU0ZETDlnLVd5VGp6ZlNWckExdHpPSExuNE1jTFJTSGxqXy1SZXN1eVVFZGtvV2Y1ODZXa0NoZkV3YnhweER4c1hXOHZwM0s4bzNUU2ZoUFNQamUtdUhKcmFxTFByS1huR1pNSmdmWnpUeEFNbDhU?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNNmQxMkpqTExKXy1zQWZOMWwyZFFvR3hHb1lNTDVIQlRvbDQ3TUcyeV9pUGhUZnZBOEh0UXMxY1JPOEtjZVlaT05OQUhzdVZtX3VPSm5SVWdvMHZUaDlJUkxZX1l0VDd4Si1OXzlzbm5CWU1sTS14cW94QUl0cnlLcFktYVVIQ2RJRzBramZ0WVpDQThTLURyN3hkY0hUQmhXTURYaVRwbzk4UUw5ZmM2TVY1djBRRnlxRk9hdkJpSE5BWXJ3dl9BSUw4N1pkWGlXR3RveUtKbnNYWjBFVUJoX1pfekVyZzNyRndzaXVDWWg1a1dQUkRGY2pqb3FzWElrbnRaVURhUHlfcS1rTUFUWlBUX1JzU0ZETDlnLVd5VGp6ZlNWckExdHpPSExuNE1jTFJTSGxqXy1SZXN1eVVFZGtvV2Y1ODZXa0NoZkV3YnhweER4c1hXOHZwM0s4bzNUU2ZoUFNQamUtdUhKcmFxTFByS1huR1pNSmdmWnpUeEFNbDhU?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "Life 生活網",
+      "tags": [
+        "放電",
+        "大自然",
+        "好玩"
+      ],
+      "reason": "古亭河濱公園遊戲場腹地寬廣、臨水岸步道適合推車，，白天孩子盡情放電、夜晚還能賞水岸夜景，一兼顧玩與觀景需求。",
+      "published_at": "2026-09-01T01:15:00+00:00",
+      "collected_at": "2026-09-01T16:40:25.192226+00:00",
+      "query": "台北 新北 桃園 親子景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte9mzvrqr1vumxbjcjzhy3hsztztb05hu",
       "title": "週末別再問要去哪！搭台北捷運解鎖有捷米的「數位印章」，貓纜、兒童新樂園玩樂兼集章抽大獎！ | 勁報",
@@ -677,132 +809,6 @@
       "published_at": "2026-08-28T03:00:00+00:00",
       "collected_at": "2026-08-29T03:43:28.722175+00:00",
       "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmizefvx3lxtfbfbkzndfnzyklvwgreuwmzazvlbwfub",
-      "title": "討論牆 | 一起成為孩子的安全守護神 高雄親子遊樂園區志工熱烈招募中",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfbkZndFNzYklVWGREUWMzazVLbWFubVc0UGRPOWU5aktIb0ZEa1hjYjhaZ1M2ZXNoMmF4SU40ZEMyRzBBQ2RZWnh4eFFxV1ltb1FrWThOM2JoQlhFc29qYi1Xc3M?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfbkZndFNzYklVWGREUWMzazVLbWFubVc0UGRPOWU5aktIb0ZEa1hjYjhaZ1M2ZXNoMmF4SU40ZEMyRzBBQ2RZWnh4eFFxV1ltb1FrWThOM2JoQlhFc29qYi1Xc3M?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "討論牆 | 一起成為孩子的安全守護神 高雄親子遊樂園區志工熱烈招募中。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "討論牆 | 一起成為孩子的安全守護神 高雄親子遊樂園區志工熱烈招募中。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "此為志工招募新聞，非景點推薦，無法提供分類。",
-      "published_at": "2026-08-27T11:05:23+00:00",
-      "collected_at": "2026-08-27T22:16:00.222261+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiekfvx3lxtfbkrzdvefq2sznpcs02nhjgnzc0v1npt",
-      "title": "國旅補助麗寶再加碼點數免費玩樂園住飯店每人不到700元 | 勁報",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKRzdVeFQ2SzNpcS02NHJGNzc0V1NPTFNzSlJTMVVDdUVCaExtUGFrNjlTdjZGLTRlOW00bWw4SUZ4LVJFQ0dSU3M4RDBNb0NqMDZranU3cXExS3lOOUxndkFwQWdhc0E1enpWN1hZRi03TmJsM0laWUpR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKRzdVeFQ2SzNpcS02NHJGNzc0V1NPTFNzSlJTMVVDdUVCaExtUGFrNjlTdjZGLTRlOW00bWw4SUZ4LVJFQ0dSU3M4RDBNb0NqMDZranU3cXExS3lOOUxndkFwQWdhc0E1enpWN1hZRi03TmJsM0laWUpR?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "國旅補助麗寶再加碼點數免費玩樂園住飯店每人不到700元 | 勁報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "國旅補助麗寶再加碼點數免費玩樂園住飯店每人不到700元 | 勁報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "國旅補助後每人不到700元就能玩樂園加住宿，CP值高且停車空間大，帶小孩出遊省很大。",
-      "published_at": "2026-08-27T10:40:03+00:00",
-      "collected_at": "2026-08-28T06:07:32.853921+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte91lvpknzblawdgt1boqkg0tzrvnu5ft",
-      "title": "【地方】國旅補助麗寶再加碼 點數免費玩樂園 | 青年日報",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91LVpKNzBlaWdGT1BoQkg0TzRVNU5fTWpXTi1hVkNwZUk5X3ZHNjlubnBTUHRGcnBLd1loRld1akZpVzhlVEZmRWxaUDdpZ2ZzclczR1Bn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91LVpKNzBlaWdGT1BoQkg0TzRVNU5fTWpXTi1hVkNwZUk5X3ZHNjlubnBTUHRGcnBLd1loRld1akZpVzhlVEZmRWxaUDdpZ2ZzclczR1Bn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "【地方】國旅補助麗寶再加碼 點數免費玩樂園 | 青年日報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "【地方】國旅補助麗寶再加碼 點數免費玩樂園 | 青年日報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "適合親子出遊，建議出發前再確認開放時間與交通資訊。",
-      "published_at": "2026-08-27T10:39:41+00:00",
-      "collected_at": "2026-08-28T06:07:45.581505+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmigwnbvv95cuxotxk3qxvpsxbqzvnwatzocgtrbvhfw",
-      "title": "花蓮室內親子遊憩空間不足 魏嘉賢承諾將成功經驗推13鄉鎮",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOTXk3QXVPSXBqZVNwaTZOcGtrbVhfWHVkX1FYSWd5cWtJRTBQZ3hJeVllUEpmWVpLZFktdFUxdGNncUVjbHl4bGl4ZU5LQ3Q2SW15ZmVheVJXOFZCaC0wNVlHVnJqYU5PVF83bUkyOEpxNm45N1FmdGJ5Vzd2UXR5QlFXaml2MVA0b3dOSUNVMzFONFZWMG0zX1dTQkl1cXVsRHpnN01Fb21ORFo1RXNEekFYckxFck1NMjh3bWhOS25WVUtYVWk1YmZITjZQOXUtSzdJU2dUZURGY3ZzSV9fdnhFbDVMcHo3MW9zNnk4OEZRZzVjcXV0NGxnYjNHTWVUTlc1T3JfT0RKOUNwRDUzRkdPeVIyZjFrYXBWY0pQdnRSQXl6enl5RjkyUmVLYnNlUmYxOTF4RTF2bDZtOWxjV3JuYlprLThTQ2Q5WXcyREZaT3docHVNZE9zTndyck5Yd0hxNzllTFNBUjdCV1lsaHE1T0lCNFZqc1lIU09tRV93NWs?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOTXk3QXVPSXBqZVNwaTZOcGtrbVhfWHVkX1FYSWd5cWtJRTBQZ3hJeVllUEpmWVpLZFktdFUxdGNncUVjbHl4bGl4ZU5LQ3Q2SW15ZmVheVJXOFZCaC0wNVlHVnJqYU5PVF83bUkyOEpxNm45N1FmdGJ5Vzd2UXR5QlFXaml2MVA0b3dOSUNVMzFONFZWMG0zX1dTQkl1cXVsRHpnN01Fb21ORFo1RXNEekFYckxFck1NMjh3bWhOS25WVUtYVWk1YmZITjZQOXUtSzdJU2dUZURGY3ZzSV9fdnhFbDVMcHo3MW9zNnk4OEZRZzVjcXV0NGxnYjNHTWVUTlc1T3JfT0RKOUNwRDUzRkdPeVIyZjFrYXBWY0pQdnRSQXl6enl5RjkyUmVLYnNlUmYxOTF4RTF2bDZtOWxjV3JuYlprLThTQ2Q5WXcyREZaT3docHVNZE9zTndyck5Yd0hxNzllTFNBUjdCV1lsaHE1T0lCNFZqc1lIU09tRV93NWs?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "花蓮室內親子遊憩空間不足 魏嘉賢承諾將成功經驗推13鄉鎮。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "花蓮室內親子遊憩空間不足 魏嘉賢承諾將成功經驗推13鄉鎮。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "室內"
-      ],
-      "reason": "花蓮室內親子遊憩空間不足將獲改善，爸媽未來可期待更多雨備與遮陽選項。",
-      "published_at": "2026-08-27T08:59:49+00:00",
-      "collected_at": "2026-08-27T22:16:12.002072+00:00",
-      "query": "台灣 室內親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiigfbvv95cuxqbhhpwtljc0fqb1lrdwcysnlhslpzc",
-      "title": "花蓮室內親子遊憩空間不足 魏嘉賢承諾將成功經驗推13鄉鎮 - 政治新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHhPWTljc0FQb1lRdWcySnlHSlpzcnh1NnJ2bW5hN1FaNEN4UHdKbWF0RXh0YldhSlhLOUZoaHpYeEVDT3FuT1ZJa1BoSS00WWx6elo0Z0hVS0NIdjJmTXhsVTlNalRZV3hpQjU2SXF4cTkwbnNwWjdhVHRCVGZmNUNFOHpTaGxON0E?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHhPWTljc0FQb1lRdWcySnlHSlpzcnh1NnJ2bW5hN1FaNEN4UHdKbWF0RXh0YldhSlhLOUZoaHpYeEVDT3FuT1ZJa1BoSS00WWx6elo0Z0hVS0NIdjJmTXhsVTlNalRZV3hpQjU2SXF4cTkwbnNwWjdhVHRCVGZmNUNFOHpTaGxON0E?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "花蓮室內親子遊憩空間不足 魏嘉賢承諾將成功經驗推13鄉鎮 - 政治新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "花蓮室內親子遊憩空間不足 魏嘉賢承諾將成功經驗推13鄉鎮 - 政治新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。"
-      },
-      "source_name": "PChome Online 新聞",
-      "tags": [
-        "室內"
-      ],
-      "reason": "花蓮室內親子遊憩空間不足的新聞報導，反映家長對雨天備案室內場所的需求。",
-      "published_at": "2026-08-27T08:59:49+00:00",
-      "collected_at": "2026-08-30T00:20:37.513659+00:00",
-      "query": "台灣 週末親子 去哪裡"
     }
   ]
 }
