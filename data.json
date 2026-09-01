@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T19:09:03.914080+00:00",
+  "updated_at": "2026-09-01T01:18:22.527058+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -54,6 +54,32 @@
       "published_at": "2026-08-31T07:29:42+00:00",
       "collected_at": "2026-08-31T19:08:14.330778+00:00",
       "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmisefvx3lxtfbqbee2m1vnu0qtlwrja054og1lnmz2s",
+      "title": "媽祖主題遊樂園開幕！今夏台南新熱點 鹿耳門聖母廟徽親子園區",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqbEE2M1VNU0QtLWRja054OG1lNmZ2SW4zWHYxaFJXd3pqRDdtZlNrQWRmUlBOZ2tCYlRzVHh1cXdNblJlRFkxYw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqbEE2M1VNU0QtLWRja054OG1lNmZ2SW4zWHYxaFJXd3pqRDdtZlNrQWRmUlBOZ2tCYlRzVHh1cXdNblJlRFkxYw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "媽祖主題遊樂園開幕！今夏台南新熱點 鹿耳門聖母廟徽親子園區。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "媽祖主題遊樂園開幕！今夏台南新熱點 鹿耳門聖母廟徽親子園區。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "三立新聞網SETN.com",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "專為親子設計的遊樂園區，有遊樂設施能讓孩子盡情放電，是今夏台南新開幕的熱門景點。",
+      "published_at": "2026-08-31T03:27:42+00:00",
+      "collected_at": "2026-09-01T01:18:14.051061+00:00",
+      "query": "台灣 遊樂園 親子 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmihanbvv95cuxpwhbrum80owfwcmfgne8xnfjlsw9uw",
@@ -331,6 +357,32 @@
       "published_at": "2026-08-28T14:18:08+00:00",
       "collected_at": "2026-08-30T16:40:43.726876+00:00",
       "query": "台灣 室內親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmigwfbvv95cuxqd0rpylp1mhznsunvcjktzhpjewtin",
+      "title": "【地方】國旅補助麗寶再加碼 點數免費玩樂園 | 青年日報",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd0RPYlp1MHZnSUNvcjktZHpjeWtIN2ptdUFsNTJnanRzRnRxQU55Z0JaRFpWY2lDdGtvLWRvQkhFWW96WGllY1Fma2pYR1pLanVQOXdKRzZ1b3dqU3dfRjNVVHIwQ2lqeXQyeC1wdzRyUXUzUjhSaVVKbFR4RlIxbWpnMA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd0RPYlp1MHZnSUNvcjktZHpjeWtIN2ptdUFsNTJnanRzRnRxQU55Z0JaRFpWY2lDdGtvLWRvQkhFWW96WGllY1Fma2pYR1pLanVQOXdKRzZ1b3dqU3dfRjNVVHIwQ2lqeXQyeC1wdzRyUXUzUjhSaVVKbFR4RlIxbWpnMA?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "【地方】國旅補助麗寶再加碼 點數免費玩樂園 | 青年日報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "【地方】國旅補助麗寶再加碼 點數免費玩樂園 | 青年日報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "today.line.me",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "麗寶樂園設有適合幼童的探索樂園與摩天輪，全家可持補助點數免費暢遊，且園區設有遮陽休憩區與完善親子廁所，不怕孩子曬太陽或累壞家長。",
+      "published_at": "2026-08-28T12:52:32+00:00",
+      "collected_at": "2026-09-01T01:18:17.433287+00:00",
+      "query": "台灣 免費親子景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmivefvx3lxtfb5rwhemm1gbnromnvdsvdqevphqjzgt",
@@ -751,58 +803,6 @@
       "published_at": "2026-08-27T08:59:49+00:00",
       "collected_at": "2026-08-30T00:20:37.513659+00:00",
       "query": "台灣 週末親子 去哪裡"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmitkfvx3lxte5fehqyajjxntriquz5whozwjlzqxlod",
-      "title": "國旅補助 麗寶再加碼 點數免費玩樂園 住飯店每人不到700元",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5feHQyajJxNTRIQUZ5WHozWjlzQXlOdGtKVTZJMjNZVkZ5YWM3SzhqWmxCR0FpVU5tVmZ4WHFpQnk2SFo0N3FqYUhiV1BhUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5feHQyajJxNTRIQUZ5WHozWjlzQXlOdGtKVTZJMjNZVkZ5YWM3SzhqWmxCR0FpVU5tVmZ4WHFpQnk2SFo0N3FqYUhiV1BhUQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "國旅補助 麗寶再加碼 點數免費玩樂園 住飯店每人不到700元。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "國旅補助 麗寶再加碼 點數免費玩樂園 住飯店每人不到700元。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "TVBS新聞網",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "麗寶樂園擁有馬拉灣與探索世界兩大園區，刺激遊樂設施多樣且兒童遊戲區完善，非常適合帶小孩來盡情放電消耗體力，搭配國旅補助入住飯店每人不到700元，CP值高又好玩。",
-      "published_at": "2026-08-27T07:09:00+00:00",
-      "collected_at": "2026-08-30T16:40:48.885576+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte8wag40ne0zdv8wnli4se9frglsvetrc",
-      "title": "國旅補助麗寶再加碼！點數免費玩樂園、住飯店每人不到700元 | 民視新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8waG40NE0zdV8wNlI4SE9fRGlSVEtrcGczbHNaMnk0eF9oNTBLRnhMOE5aZHRhQ28tQjh6cWRha080SGtjRVo2OWxyUDRiUU9yc0dKV093?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8waG40NE0zdV8wNlI4SE9fRGlSVEtrcGczbHNaMnk0eF9oNTBLRnhMOE5aZHRhQ28tQjh6cWRha080SGtjRVo2OWxyUDRiUU9yc0dKV093?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "國旅補助麗寶再加碼！點數免費玩樂園、住飯店每人不到700元 | 民視新聞網。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "國旅補助麗寶再加碼！點數免費玩樂園、住飯店每人不到700元 | 民視新聞網。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "麗寶樂園結合主題樂園與渡假飯店，一次滿足玩樂與住宿需求，園區腹地大能讓孩子盡情放電，且有多種設施適合不同年齡層孩童。",
-      "published_at": "2026-08-27T06:09:31+00:00",
-      "collected_at": "2026-08-27T22:16:16.816507+00:00",
-      "query": "台灣 免費親子景點"
     }
   ]
 }
