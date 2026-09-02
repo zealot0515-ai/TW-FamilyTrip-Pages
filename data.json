@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T16:41:00.134438+00:00",
+  "updated_at": "2026-09-02T00:15:02.417626+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -133,6 +133,33 @@
       "reason": "古亭河濱公園遊戲場腹地寬廣、臨水岸步道適合推車，，白天孩子盡情放電、夜晚還能賞水岸夜景，一兼顧玩與觀景需求。",
       "published_at": "2026-09-01T01:15:00+00:00",
       "collected_at": "2026-09-01T16:40:25.192226+00:00",
+      "query": "台北 新北 桃園 親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte9uunftcu9ketjjrgjhz0pobu9oyzluv",
+      "title": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uUnFTcU9keTJJRGJHZ0pobU9OYzluVXc5UkREdHkyVHVlaWFQa0s0aUdiSXhpdDdsTjlGZzlFc3Q2WERHN2ZXdUppdDg5RnlJY3c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uUnFTcU9keTJJRGJHZ0pobU9OYzluVXc5UkREdHkyVHVlaWFQa0s0aUdiSXhpdDdsTjlGZzlFc3Q2WERHN2ZXdUppdDg5RnlJY3c?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "大自然",
+        "好玩"
+      ],
+      "reason": "河濱公園腹地遼闊且有水岸美景，孩子盡情放電之餘家長也能放鬆賞景，是白天夜晚皆適合的親子好去處。",
+      "published_at": "2026-09-01T01:15:00+00:00",
+      "collected_at": "2026-09-02T00:14:48.596236+00:00",
       "query": "台北 新北 桃園 親子景點"
     },
     {
@@ -701,6 +728,32 @@
       "query": "台灣 親子飯店 親子樂園"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmikwfbvv95cuxnafnfzdnmzkkxmvfibfdib1hytlpuu",
+      "title": "高雄親子遊樂園吸引45％外地客議會把關遊具安全與停車需求- 生活新聞- PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFNfZDNmZkkxMVFibFdib1hyTlpuUUp3WnRINUNNSUt5TmZWbldiT2F1c3RMcXhHeU5oUTlqa3hJZFFYVVVqOG96bnZuai0wTzVLVVlwUXUxeVE2NWVTUEZ6YUVYUlhwbm56Y3laOE5DcThNV0JvSHZlc1V6b1FzN2RkYlJNZE1oLV8yMjZKem1vSVU?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFNfZDNmZkkxMVFibFdib1hyTlpuUUp3WnRINUNNSUt5TmZWbldiT2F1c3RMcXhHeU5oUTlqa3hJZFFYVVVqOG96bnZuai0wTzVLVVlwUXUxeVE2NWVTUEZ6YUVYUlhwbm56Y3laOE5DcThNV0JvSHZlc1V6b1FzN2RkYlJNZE1oLV8yMjZKem1vSVU?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園吸引45％外地客議會把關遊具安全與停車需求- 生活新聞- PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園吸引45％外地客議會把關遊具安全與停車需求- 生活新聞- PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "高雄親子遊樂園吸引大量外地遊客，議會監督遊具安全與停車需求，顯示安全性與交通便利性受到重視。",
+      "published_at": "2026-08-28T06:43:57+00:00",
+      "collected_at": "2026-09-02T00:14:56.890605+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte1zq3rjas1paf94thbfei1ncja0vu9xz",
       "title": "高雄親子遊樂園區開幕近三週 議會考察盯遊具安全、人力及停車",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zQ3RjaS1paF94THBfei1NcjA0VU9XZl9EcE9QWkJEdUtGQmZpZGIxY19LTWJJUUdLZ1pCa1JnS2FMd0NwYzBSZVVoUmJJSWNJ?oc=5",
@@ -750,65 +803,6 @@
       "published_at": "2026-08-28T04:58:00+00:00",
       "collected_at": "2026-08-29T03:43:20.605773+00:00",
       "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiigfbvv95cuxnrfpxunpht1pvbxl1ahbdmzz3wkp5r",
-      "title": "走進草鴞的秘密家園！ 屏東親子農遊9月5日登場 - 旅遊新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRFpxUnphT1pvbXl1aHBDMzZ3Wkp5RWhGa0s5MHhxNE5yZjVua1NaRG9Yc19lZ2NYdUtYMk8tZkUzdkd3VFZlbjcxWVMwdjVDQW9TOU5jcnY5SWdwc2dMNkFTQU92X3p5NkQyQ0xYQ1QzUU1rMk9qYUhPVjNjdm02NUtaUllzZlFuMXc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRFpxUnphT1pvbXl1aHBDMzZ3Wkp5RWhGa0s5MHhxNE5yZjVua1NaRG9Yc19lZ2NYdUtYMk8tZkUzdkd3VFZlbjcxWVMwdjVDQW9TOU5jcnY5SWdwc2dMNkFTQU92X3p5NkQyQ0xYQ1QzUU1rMk9qYUhPVjNjdm02NUtaUllzZlFuMXc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "走進草鴞的秘密家園！ 屏東親子農遊9月5日登場 - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "走進草鴞的秘密家園！ 屏東親子農遊9月5日登場 - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "近距離認識保育類草鴞，結合農遊體驗可讓孩子接觸自然生態，寓教於樂。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "PChome Online 新聞",
-      "tags": [
-        "看動物",
-        "大自然"
-      ],
-      "reason": "近距離認識保育類草鴞，結合農遊體驗可讓孩子接觸自然生態，寓教於樂。",
-      "published_at": "2026-08-28T04:27:00+00:00",
-      "collected_at": "2026-08-28T22:20:21.907680+00:00",
-      "query": "台灣 動物農場 親子 景點"
-    },
-    {
-      "id": "https-news-nextapple-com-eattravel-20260828-d8eb7c4ec77f286e40a0e173cde4fc3a",
-      "title": "Klook暑假最後召集！訂房送行程4人房最低不到3千元　親子住玩一次搞定｜壹蘋新聞網",
-      "url": "https://news.nextapple.com/eattravel/20260828/D8EB7C4EC77F286E40A0E173CDE4FC3A",
-      "canonical_url": "https://news.nextapple.com/eattravel/20260828/D8EB7C4EC77F286E40A0E173CDE4FC3A",
-      "image_url": "https://static-cdn.nextapple.tw/prod/2026-08/D8EB7C4EC77F286E40A0E173CDE4FC3A/0272f7628077549dad508ab3b003e95a_1280.jpeg",
-      "images": [
-        "https://static-cdn.nextapple.tw/prod/2026-08/D8EB7C4EC77F286E40A0E173CDE4FC3A/0272f7628077549dad508ab3b003e95a_1280.jpeg",
-        "https://www.facebook.com/tr?id=1518019065889481&ev=PageView&noscript=1",
-        "https://static.nextapple.tw/web/layout/img/app11042.webp",
-        "https://static.nextapple.tw/web/layout/ad/pin.webp",
-        "https://static.nextapple.tw/web/layout/ad/beauty2026.webp",
-        "https://static.nextapple.tw/web/layout/ad/Focus%2BA.webp",
-        "https://static.nextapple.tw/web/layout/ad/election2026.webp",
-        "https://static.nextapple.tw/web/layout/img/breakingNews03.webp"
-      ],
-      "summary": "Klook暑假最後召集！訂房送行程4人房最低不到3千元　親子住玩一次搞定｜壹蘋新聞網。最新 焦點 熱門 娛樂時尚 生活 政治 社會 國際 財經股市 體育 壹蘋民調 火線話題 Focus+ 愛美 AI科技 地產王 市場交易 預售屋新屋開箱 律師解「房」 旅遊美食 車市 打詐 指標企業 壹蘋頭家 健康 購物 女神 10點強打 var intHoldNav = 15; 葉元之駁稱「10歲女童沒被性侵」 主播對嗆：道歉很難？國旅補助前房價微上漲 趙建銘爆「順母意」娶陳幸妤 弟堅持娶同學：不必再一個光采媳 低壓＋92W攪局！粉專示警：南部雨又要「下不停」 小學生性騷妙齡女！目擊者：下半身蹭另一女「邊蹭邊笑」 最高現省111元！超市量販週末好康 最低29元起開搶 買飲料送20顆鍋貼！四大超商優惠一次看 便當驚見普渡雞腿「有紅紅一個洞…」 店家回應惹人怒 超過3000人死亡失蹤！尼泊爾撐不住了 同意有限度國際救援 小學男童捷運性騷妙齡女！「抱我…還死命跟緊」警出手了 男游泳教練PO「嘟臉求親親＋環抱女童胸」 全網噁炸鍋！陳幸妤國中遭教官訓「陳水扁是壞人」 兒被家長嗆不歡迎 黃揚明：2026藍敗選在望！",
-      "analysis": {
-        "overview": "Klook暑假最後召集！訂房送行程4人房最低不到3千元　親子住玩一次搞定｜壹蘋新聞網。最新 焦點 熱門 娛樂時尚 生活 政治 社會 國際 財經股市 體育 壹蘋民調 火線話題 Focus+ 愛美 AI科技 地產王 市場交易 預售屋新屋開箱 律師解「房」 旅遊美食 車市 打詐 指標企業 壹蘋頭家 健康 購物 女神 10點強打 var intHoldNav = 15; 葉元之駁稱「10歲女童沒被性侵」 主播對嗆：道歉很難？國旅補助前房價微上漲 趙建銘爆「順母意」娶陳幸妤 弟堅持娶同學：不必再一個光采媳 低壓＋92W攪局！",
-        "pros": "Klook搭配飯店與體驗行程，4人房3000元有找，CP值高且行程一次搞定，爸媽省去規劃麻煩，小孩也能盡情放電。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "news.nextapple.com",
-      "tags": [
-        "好玩",
-        "放電"
-      ],
-      "reason": "Klook搭配飯店與體驗行程，4人房3000元有找，CP值高且行程一次搞定，爸媽省去規劃麻煩，小孩也能盡情放電。",
-      "published_at": "2026-08-28T03:00:00+00:00",
-      "collected_at": "2026-08-29T03:43:28.722175+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
     }
   ]
 }
