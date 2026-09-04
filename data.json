@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T16:25:52.879722+00:00",
+  "updated_at": "2026-09-04T00:07:35.516186+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -29,6 +29,31 @@
       "query": "台灣 親子放電 景點"
     },
     {
+      "id": "https-www-msn-com-zh-tw-news-other-e5-8f-b0-e9-90-b5-e9-ab-98-e9-9b-84-e6-a9-9f-",
+      "title": "台鐵高雄機廠變身免費親子樂園! 30項設施一次玩到瘋!",
+      "url": "https://www.msn.com/zh-tw/news/other/%E5%8F%B0%E9%90%B5%E9%AB%98%E9%9B%84%E6%A9%9F%E5%BB%A0%E8%AE%8A%E8%BA%AB%E5%85%8D%E8%B2%BB%E8%A6%AA%E5%AD%90%E6%A8%82%E5%9C%92-30%E9%A0%85%E8%A8%AD%E6%96%BD%E4%B8%80%E6%AC%A1%E7%8E%A9%E5%88%B0%E7%98%8B/vi-AA2btcA1",
+      "canonical_url": "https://www.msn.com/zh-tw/news/other/%E5%8F%B0%E9%90%B5%E9%AB%98%E9%9B%84%E6%A9%9F%E5%BB%A0%E8%AE%8A%E8%BA%AB%E5%85%8D%E8%B2%BB%E8%A6%AA%E5%AD%90%E6%A8%82%E5%9C%92-30%E9%A0%85%E8%A8%AD%E6%96%BD%E4%B8%80%E6%AC%A1%E7%8E%A9%E5%88%B0%E7%98%8B/vi-AA2btcA1",
+      "image_url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "台鐵高雄機廠變身免費親子樂園! 30項設施一次玩到瘋!。高雄又多了一個「免費」親子放電新去處！跟著睿家、小舜一起看看到底有哪些必玩設施！老廠房搖身一變，保留鐵道文化特色打造高雄首座半室內親子遊戲場不怕風吹日曬雨淋，大小朋友都能盡情玩！園區一次集結近30項遊樂設施📍網繩攀爬、抱石攀岩📍雲朵彈跳床、跑酷區📍滑步車、Pump Track賽道📍趣味籃球場、足球場特別的是，原本機廠的「門型天車」變身網繩攀爬裝置，鐵道元素也融入遊戲設計 ...",
+      "analysis": {
+        "overview": "台鐵高雄機廠變身免費親子樂園! 30項設施一次玩到瘋!。高雄又多了一個「免費」親子放電新去處！跟著睿家、小舜一起看看到底有哪些必玩設施！老廠房搖身一變，保留鐵道文化特色打造高雄首座半室內親子遊戲場不怕風吹日曬雨淋，大小朋友都能盡情玩！園區一次集結近30項遊樂設施📍網繩攀爬、抱石攀岩📍雲朵彈跳床、跑酷區📍滑步車、Pump Track賽道📍趣味籃球場、足球場特別的是，原本機廠的「門型天車」變身網繩攀爬裝置，鐵道元素也融入遊戲設計 ...",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "msn.com",
+      "tags": [
+        "放電",
+        "室內",
+        "好玩"
+      ],
+      "reason": "半室內空間不怕風吹日曬雨淋，雨天備案好去處，近30項設施免費暢玩，小孩放電超夠用。",
+      "published_at": "2026-09-02T23:33:40+00:00",
+      "collected_at": "2026-09-04T00:06:40.291134+00:00",
+      "query": "台灣 室內親子景點"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmitkfvx3lxtfawverncutnqtlottbfbv9bduzoqvlqt",
       "title": "中壢親子景點推薦｜桃園大江購物中心夏日繽紛嘉年華裝置藝術與購物美食一日遊",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwVERNcUtnQTlOTTBFbV9BdUZoQVlqTkhZbHd3aDVJelktV1VCN2lIMnF5aW9zQnBFQlZYOVlUN1lpYlRYTzc0MGhreXVPQQ?oc=5",
@@ -53,6 +78,32 @@
       "published_at": "2026-09-02T12:13:33+00:00",
       "collected_at": "2026-09-02T16:34:28.722232+00:00",
       "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte5sa0dnsvfxrvo5ejy5vznybdzhugnwr",
+      "title": "台北親子新景點＋1！古亭河濱遊戲場逾1200坪開放，玩彈跳床、攀爬架還能看新店溪夕陽",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Sa0dNSVFxRVo5ejY5VzNYbDZhUGNWRHE3MnZsQW5XdkxVMHVVZDRFdXhrQ2FPNkJaUUdXNmt4VkRaRnRjd2lMMlUzVFRpZjdld0NNdnRn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Sa0dNSVFxRVo5ejY5VzNYbDZhUGNWRHE3MnZsQW5XdkxVMHVVZDRFdXhrQ2FPNkJaUUdXNmt4VkRaRnRjd2lMMlUzVFRpZjdld0NNdnRn?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台北親子新景點＋1！古亭河濱遊戲場逾1200坪開放，玩彈跳床、攀爬架還能看新店溪夕陽。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台北親子新景點＋1！古亭河濱遊戲場逾1200坪開放，玩彈跳床、攀爬架還能看新店溪夕陽。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "逾1200坪寬廣空間搭配彈跳床、攀爬架等多元遊戲設施，讓孩子盡情放電，河濱還能賞夕陽，戶外踏青兼顧趣味與療癒。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "Mombaby 媽媽寶寶懷孕生活網",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "逾1200坪寬廣空間搭配彈跳床、攀爬架等多元遊戲設施，讓孩子盡情放電，河濱還能賞夕陽，戶外踏青兼顧趣味與療癒。",
+      "published_at": "2026-09-02T04:26:45+00:00",
+      "collected_at": "2026-09-04T00:06:55.465220+00:00",
+      "query": "台灣 親子放電 景點"
     },
     {
       "id": "https-www-mombaby-com-tw-articles-9937829",
@@ -385,6 +436,32 @@
       "query": "台灣 兒童遊戲場 新景點"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte8ztms2zvdysdz6vff5y0hkmkl4unbvm",
+      "title": "花蓮景點推薦45選！市區、親子、秘境景點懶人包，解鎖更多花蓮玩法",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zTms2ZVdySDZ6VFF5Y0hkMkl4UnBvMW9aV0NDbUg5T0ZWZUNTRFQtTUpwNWdXR3pNN3NoLTZSdmFRd0EyTl9KOTM5NGc2aHdSdmVTZg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zTms2ZVdySDZ6VFF5Y0hkMkl4UnBvMW9aV0NDbUg5T0ZWZUNTRFQtTUpwNWdXR3pNN3NoLTZSdmFRd0EyTl9KOTM5NGc2aHdSdmVTZg?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "花蓮景點推薦45選！市區、親子、秘境景點懶人包，解鎖更多花蓮玩法。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "花蓮景點推薦45選！市區、親子、秘境景點懶人包，解鎖更多花蓮玩法。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "花蓮擁有豐富的自然景觀與寬廣戶外空間，非常適合帶孩子放電奔跑，且多數景點腹地大、設施完善，親子家庭可以輕鬆安排一日行程。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "食尚玩家",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "花蓮擁有豐富的自然景觀與寬廣戶外空間，非常適合帶孩子放電奔跑，且多數景點腹地大、設施完善，親子家庭可以輕鬆安排一日行程。",
+      "published_at": "2026-08-31T08:00:00+00:00",
+      "collected_at": "2026-09-04T00:07:09.478737+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte9nn090mnvatjzsm0oxnkpjve8xukvyt",
       "title": "義大、麗寶輸了！全台最熱門遊樂園TOP 10冠軍是它「票價便宜、設施豐富多元」： 全家玩到不想走",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nN090MnVaTjZSM0oxNkpJVE8xUkVYTkY5NFNyVkkweDVZRVU1YUliMktuX3dRU0lNaV8wVnoxTVAwV1dpLVU3aVEwYU1QSk55?oc=5",
@@ -408,6 +485,32 @@
       "reason": "樂園設施多元且票價實惠，適合全家出動，孩子能盡情放電玩樂。",
       "published_at": "2026-08-31T07:29:42+00:00",
       "collected_at": "2026-08-31T19:08:14.330778+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiswjbvv95cuxnuthbntjis1lzwwfzdfy4r0vnvlb6s",
+      "title": "嘉義親子景點 寓教於樂親子旅遊 觀光工廠TOP7",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNUThBNTJIS1lZWWFZdFY4R0VNVlB6SldVWm5XTXo5Zk9MWFlCaG9kNTRiU3ROdmZtLV95Wko3TGpNX3F6NkhzUnMxSVJpRkhxZVFKcUFGMm4wNG5LX0MxZEJscmF4YVdPWnFZT1Z2SGNkNDVJVWRmVWdlUGcwTHZKNERHdXJWWDBJQmI2Mkd4a3FNZWI0R3p0UlJTSjBKdnFUd3hPZllFWXc4ang0SUt3MTR6N3ZiYi1tSUZVbTUyZUllZ21iWkk2SGpwdXdQUzNKMHZFVXJ2dWFDb0twaWtscFp5WmJ6MUNfTGdOQ2RCVUxlTVpxaC1wWUxoSDRUYk40U2Vza21Cc1BKdl9zUmM4NDBXTDgzM29NekhUU0k1ek1vTUM0ck4tX3AtVzZwTTJodnp3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNUThBNTJIS1lZWWFZdFY4R0VNVlB6SldVWm5XTXo5Zk9MWFlCaG9kNTRiU3ROdmZtLV95Wko3TGpNX3F6NkhzUnMxSVJpRkhxZVFKcUFGMm4wNG5LX0MxZEJscmF4YVdPWnFZT1Z2SGNkNDVJVWRmVWdlUGcwTHZKNERHdXJWWDBJQmI2Mkd4a3FNZWI0R3p0UlJTSjBKdnFUd3hPZllFWXc4ang0SUt3MTR6N3ZiYi1tSUZVbTUyZUllZ21iWkk2SGpwdXdQUzNKMHZFVXJ2dWFDb0twaWtscFp5WmJ6MUNfTGdOQ2RCVUxlTVpxaC1wWUxoSDRUYk40U2Vza21Cc1BKdl9zUmM4NDBXTDgzM29NekhUU0k1ek1vTUM0ck4tX3AtVzZwTTJodnp3?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "嘉義親子景點 寓教於樂親子旅遊 觀光工廠TOP7。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "嘉義親子景點 寓教於樂親子旅遊 觀光工廠TOP7。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "觀光工廠多為室內空間，設有空調與完善衛浴設施，雨天也能輕鬆遊玩，且每間工廠都有DIY體驗活動，讓孩子在玩樂中學習知識。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "室內",
+        "好玩"
+      ],
+      "reason": "觀光工廠多為室內空間，設有空調與完善衛浴設施，雨天也能輕鬆遊玩，且每間工廠都有DIY體驗活動，讓孩子在玩樂中學習知識。",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "collected_at": "2026-09-04T00:07:23.340979+00:00",
       "query": "台灣 親子景點 最新"
     },
     {
@@ -712,117 +815,6 @@
       "published_at": "2026-08-29T05:02:00+00:00",
       "collected_at": "2026-08-29T16:43:26.238031+00:00",
       "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiwkfvx3lxte44ugg3dnvlwkz2bjbeddzvtkt2cza5w",
-      "title": "台北古亭河濱遊戲場新開放！玩彈跳床、攀爬架　還能賞新店溪夕陽",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44UGg3dnVlWkZ2bjBEdDZvTkt2czA5WEFObkFiYWRiN2VfRnNDZlZTMUllbF9QcmxZYmctUUg0TGhmSjdmUzZ1UGZneG1fb1IxLXJvOGlENERtQdIBT0FVX3lxTE10VzlzZmtPX0pmS3ZqT0o2MUJiMUhlS1dOOURvZXl1QjE3XzMyTjNEVTQydjh4UzFQMWZEaXo2THlXZzBfeHhXdE1OWExEbVE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44UGg3dnVlWkZ2bjBEdDZvTkt2czA5WEFObkFiYWRiN2VfRnNDZlZTMUllbF9QcmxZYmctUUg0TGhmSjdmUzZ1UGZneG1fb1IxLXJvOGlENERtQdIBT0FVX3lxTE10VzlzZmtPX0pmS3ZqT0o2MUJiMUhlS1dOOURvZXl1QjE3XzMyTjNEVTQydjh4UzFQMWZEaXo2THlXZzBfeHhXdE1OWExEbVE?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台北古亭河濱遊戲場新開放！玩彈跳床、攀爬架　還能賞新店溪夕陽。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台北古亭河濱遊戲場新開放！玩彈跳床、攀爬架　還能賞新店溪夕陽。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "河濱遊戲場腹地寬廣，全新開放的彈跳床與攀爬架設施新穎安全，讓孩子盡情放電外，還能欣賞新店溪夕陽美景。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "ETtoday旅遊雲",
-      "tags": [
-        "放電",
-        "大自然"
-      ],
-      "reason": "河濱遊戲場腹地寬廣，全新開放的彈跳床與攀爬架設施新穎安全，讓孩子盡情放電外，還能欣賞新店溪夕陽美景。",
-      "published_at": "2026-08-29T03:12:00+00:00",
-      "collected_at": "2026-08-29T03:43:12.495467+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-n-yam-com-article-20260829184332",
-      "title": "白天不怕曬、晚上安心玩 夏末來新北特色公園陪孩子放電 | 蕃新聞",
-      "url": "https://n.yam.com/Article/20260829184332",
-      "canonical_url": "https://n.yam.com/Article/20260829184332",
-      "image_url": "https://ni.yam.com/20260829/1024x768-63f9b5f19781d5f3.jpg",
-      "images": [
-        "https://ni.yam.com/20260829/1024x768-63f9b5f19781d5f3.jpg",
-        "https://91postnews-media.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2026/08/%E4%BA%94%E8%82%A1%E5%8D%80%E9%AB%94%E5%81%A5%E5%85%AC%E5%9C%92%EF%BC%8C%E5%A4%9A%E5%85%83%E5%A4%9C%E9%96%93%E9%81%8B%E5%8B%95%E7%A9%BA%E9%96%93-1024x768.jpg",
-        "https://ni.yam.com/20260715/dq-260716-001.png",
-        "https://ni.yam.com/20260829/M2026082905-5d57fa53be577e4a.webp",
-        "https://ni.yam.com/20260827/S__2597033-fd62a404eecc57ed.jpg",
-        "https://ni.yam.com/20260825/065dc5a92b8a67eac7639d6910044558-e3aaffa4f312a076.jpg",
-        "https://ni.yam.com/20260827/30186-optimized-a83adbe75659665b.jpg",
-        "https://ni.yam.com/20260825/0.87--scaled-aa0d07be604df0be.jpg"
-      ],
-      "summary": "白天不怕曬、晚上安心玩 夏末來新北特色公園陪孩子放電 | 蕃新聞。【記者王志成／新北報導】 暑假進入尾聲，不妨把握開學前的親子時光，安排一場戶外放電之旅。新北市景觀處(二十九)日表示，特地精選兩處各具特色的公園，無論想避開白天烈日，或是在涼爽夜晚享受戶外休閒，都能找到適合全家同遊的好去處！板橋區「大漢橋下遊戲場」充分利用橋下空間打造遊憩場域，巨大的橋體提供良好的遮蔭效果，即使在炎熱的午後，也能減少陽光直射。園區設有滑梯、攀爬架、鞦韆等兒童遊戲設施，另配置高低單槓組、單人漫步機、單人健騎機及雙人肩關節康復器等體健設施，兼顧兒童遊戲及民眾休閒運動需求，是夏季戶外活動的好選擇。五股區「體健公園」則適合傍晚及夜間前往休憩。公園設有完善照明設施，夜間環境明亮舒適，園內除設有竹筍造型遊戲塔外，亦配置多項體健設施及步道，並結合新設置的天幕球場，提供多元運動空間。夏季夜間照明時間為十八時三十分至二十三時，實際開燈時間將依季節彈性調整。新北市景觀處長林俊德表示，公園透過既有樹蔭、遮陽設施及空間規劃提升使用舒適度，同時提醒天氣炎熱時應避免於正午高溫時段長時間活動，並適時補充水分。",
-      "analysis": {
-        "overview": "白天不怕曬、晚上安心玩 夏末來新北特色公園陪孩子放電 | 蕃新聞。【記者王志成／新北報導】 暑假進入尾聲，不妨把握開學前的親子時光，安排一場戶外放電之旅。新北市景觀處(二十九)日表示，特地精選兩處各具特色的公園，無論想避開白天烈日，或是在涼爽夜晚享受戶外休閒，都能找到適合全家同遊的好去處！板橋區「大漢橋下遊戲場」充分利用橋下空間打造遊憩場域，巨大的橋體提供良好的遮蔭效果，即使在炎熱的午後，也能減少陽光直射。園區設有滑梯、攀爬架、鞦韆等兒童遊戲設施，另配置高低單槓組、單人漫步機、單人健騎機及雙人肩關節康復器等體健設施",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "n.yam.com",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "大漢橋下遊戲場橋體遮蔭效果佳，夏季正午也能避免曬傷；體健公園夜間照明完善至23時，傍晚後涼爽時段带孩子放电剛好。兩處皆有滑梯、鞦韆、體健設施，兼顧兒童遊戲與家長運動需求，停車交通便利。",
-      "published_at": "2026-08-29T00:02:00+00:00",
-      "collected_at": "2026-08-29T16:43:33.009800+00:00",
-      "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte9vbwlmotm0zk1xv0c2dtm2clzuykx0a",
-      "title": "花蓮室內親子遊憩空間不足 魏嘉賢承諾將成功經驗推13鄉鎮",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vbWlMOTM0Zk1XV0c2dTM2clZUYkx0aUYyN1JSMzd1UjFmMjhxVE9fTjRxbHhnNUpyUkFEcUpxTFl3ZXpobTUxNnpoWE4yRE1hNWc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vbWlMOTM0Zk1XV0c2dTM2clZUYkx0aUYyN1JSMzd1UjFmMjhxVE9fTjRxbHhnNUpyUkFEcUpxTFl3ZXpobTUxNnpoWE4yRE1hNWc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "花蓮室內親子遊憩空間不足 魏嘉賢承諾將成功經驗推13鄉鎮。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "花蓮室內親子遊憩空間不足 魏嘉賢承諾將成功經驗推13鄉鎮。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "室內"
-      ],
-      "reason": "此為地方首長推動室內親子遊憩空間的政策規劃報導，非具體景點遊記，暂无实际地点推荐。",
-      "published_at": "2026-08-28T14:18:08+00:00",
-      "collected_at": "2026-08-30T16:40:43.726876+00:00",
-      "query": "台灣 室內親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmigwfbvv95cuxqd0rpylp1mhznsunvcjktzhpjewtin",
-      "title": "【地方】國旅補助麗寶再加碼 點數免費玩樂園 | 青年日報",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd0RPYlp1MHZnSUNvcjktZHpjeWtIN2ptdUFsNTJnanRzRnRxQU55Z0JaRFpWY2lDdGtvLWRvQkhFWW96WGllY1Fma2pYR1pLanVQOXdKRzZ1b3dqU3dfRjNVVHIwQ2lqeXQyeC1wdzRyUXUzUjhSaVVKbFR4RlIxbWpnMA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd0RPYlp1MHZnSUNvcjktZHpjeWtIN2ptdUFsNTJnanRzRnRxQU55Z0JaRFpWY2lDdGtvLWRvQkhFWW96WGllY1Fma2pYR1pLanVQOXdKRzZ1b3dqU3dfRjNVVHIwQ2lqeXQyeC1wdzRyUXUzUjhSaVVKbFR4RlIxbWpnMA?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "【地方】國旅補助麗寶再加碼 點數免費玩樂園 | 青年日報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "【地方】國旅補助麗寶再加碼 點數免費玩樂園 | 青年日報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "today.line.me",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "麗寶樂園設有適合幼童的探索樂園與摩天輪，全家可持補助點數免費暢遊，且園區設有遮陽休憩區與完善親子廁所，不怕孩子曬太陽或累壞家長。",
-      "published_at": "2026-08-28T12:52:32+00:00",
-      "collected_at": "2026-09-01T01:18:17.433287+00:00",
-      "query": "台灣 免費親子景點"
     }
   ]
 }
