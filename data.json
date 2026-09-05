@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T16:21:56.367124+00:00",
+  "updated_at": "2026-09-05T00:07:18.249906+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -158,6 +158,32 @@
       "query": "台灣 親子景點 最新"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmixefvx3lxte9wsglkt1ppa3pmm3pxx2e3ejbamufmn",
+      "title": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WSGlKT1pPa3pmM3pXX2E3ejBaMUFMNEtZckljaEh4Z21KY21XVENFOEl1ZHp3My1RVW9DVkRmMk9mQUtqRk1lekFsbWNqd2tKWWZEMjJseU5MYm9D0gFiQVVfeXFMT21rUkdCNThPX3JaQXZpU0FMRjEtUHlmR0hBd1NTZUJXdFhMRFV2Ti1XbVE4YkRpbENQOER1OUcyc245ODN2Y0FvS3cxYjNqTGRIQWJIWk9PQVZWeUg1N0cya1E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WSGlKT1pPa3pmM3pXX2E3ejBaMUFMNEtZckljaEh4Z21KY21XVENFOEl1ZHp3My1RVW9DVkRmMk9mQUtqRk1lekFsbWNqd2tKWWZEMjJseU5MYm9D0gFiQVVfeXFMT21rUkdCNThPX3JaQXZpU0FMRjEtUHlmR0hBd1NTZUJXdFhMRFV2Ti1XbVE4YkRpbENQOER1OUcyc245ODN2Y0FvS3cxYjNqTGRIQWJIWk9PQVZWeUg1N0cya1E?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "udn 女子漾",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "河濱公園腹地寬廣、兒童遊戲場嶄新有趣，帶孩子來盡情放電外還能欣賞水岸夜景，雨天建議可改至室內場館作為備案。",
+      "published_at": "2026-09-02T08:02:13+00:00",
+      "collected_at": "2026-09-05T00:07:00.478422+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte5sa0dnsvfxrvo5ejy5vznybdzhugnwr",
       "title": "台北親子新景點＋1！古亭河濱遊戲場逾1200坪開放，玩彈跳床、攀爬架還能看新店溪夕陽",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Sa0dNSVFxRVo5ejY5VzNYbDZhUGNWRHE3MnZsQW5XdkxVMHVVZDRFdXhrQ2FPNkJaUUdXNmt4VkRaRnRjd2lMMlUzVFRpZjdld0NNdnRn?oc=5",
@@ -242,6 +268,33 @@
       "published_at": "2026-09-01T17:00:00+00:00",
       "collected_at": "2026-09-02T16:34:36.138972+00:00",
       "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmis0fvx3lxtfbmynvsz19vrnfxcwxgm3g0mkthrtrmc",
+      "title": "高雄親子遊樂園區8月8日正式開幕 全國最大半室內、30項設施全面免費",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMYnVsZ19vRnFxcWxGM3g0MkthRTRmc0kzV3RuNWc2MVZvYkY3SFcweHBScS00THY2MXBkMHZsQ3VLWk5RdFI3LW1OUQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMYnVsZ19vRnFxcWxGM3g0MkthRTRmc0kzV3RuNWc2MVZvYkY3SFcweHBScS00THY2MXBkMHZsQ3VLWk5RdFI3LW1OUQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區8月8日正式開幕 全國最大半室內、30項設施全面免費。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區8月8日正式開幕 全國最大半室內、30項設施全面免費。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "樂聯網",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "半室內空間雨天也能暢玩，30項設施全面免費，高雄最新大型遊樂園是免費放電好去處。",
+      "published_at": "2026-09-01T13:15:27+00:00",
+      "collected_at": "2026-09-05T00:07:06.720228+00:00",
+      "query": "台灣 親子飯店 親子樂園"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmikafbvv95cuxpz3g4yzdfs09nakdzynj1vfrkqlg5n",
@@ -747,58 +800,6 @@
       "published_at": "2026-08-31T02:50:13+00:00",
       "collected_at": "2026-08-31T19:08:21.161134+00:00",
       "query": "台灣 週末親子 去哪裡"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmizwnbvv95cuxnt2tucmhrrwrlywi2blg2nep2dxy0r",
-      "title": "週末別再問要去哪！搭台北捷運解鎖有捷米的「數位印章」 貓纜 兒童新樂園玩樂兼集章抽大獎！",
-      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNT2tUcmhrRWRlYWI2blg2NEp2dXY0RzkycDF6UGtMajE3amVKUFdWVlpaNGQ4U1NKRzMtRGgxNnRCMGM1SnByRHR6Z1piQVdlTExoZG9ZMWw2Z3c5Z0hfYUZ2RDlYdldEb2IzWUVaZ0NDZnJIRlpud1RNQmxPd09Sd3g5LUJyZ21VQm14SGFUSVE0eDVlY2lHWElUUVBrcEF0MGFZVFVQYUduUlBZc09VTUo0UWFOVjdRdHV6ZXVqMG1vY1U5QkFnTlRTbFFIX2xPWjY2alhZSHZudXhOTE1IbVpsdHZ4RWxxZi1VandpVGE0bzQzbU5PTUtCSU5xd1ZuNHo3YW9TUkhjVmRYSTg0Y1o2dEdUN3dSVWxhcE1CTHdxNWY4WjF3cnk1QmpTNVY0WUc1NVdBQzU1V2NRUENra3V6ak8ydDk5QmRYcGNKSDVVNGJLS3U1cVR2NHdiTDVGLW1tVVZoWVZqUlR6U3NQUGtQLWsyUVAtVUFnblhqd2VtX0dFdVh0MUpiWTVRb29OdkFHMm5oR2U1bFlZRmM3aVlrRkYzV2YtSmE1U2FhZGdKc1YwZUhFdWQ5Um01eFRQdHlYd0NmSVRJbm5QSkIw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNT2tUcmhrRWRlYWI2blg2NEp2dXY0RzkycDF6UGtMajE3amVKUFdWVlpaNGQ4U1NKRzMtRGgxNnRCMGM1SnByRHR6Z1piQVdlTExoZG9ZMWw2Z3c5Z0hfYUZ2RDlYdldEb2IzWUVaZ0NDZnJIRlpud1RNQmxPd09Sd3g5LUJyZ21VQm14SGFUSVE0eDVlY2lHWElUUVBrcEF0MGFZVFVQYUduUlBZc09VTUo0UWFOVjdRdHV6ZXVqMG1vY1U5QkFnTlRTbFFIX2xPWjY2alhZSHZudXhOTE1IbVpsdHZ4RWxxZi1VandpVGE0bzQzbU5PTUtCSU5xd1ZuNHo3YW9TUkhjVmRYSTg0Y1o2dEdUN3dSVWxhcE1CTHdxNWY4WjF3cnk1QmpTNVY0WUc1NVdBQzU1V2NRUENra3V6ak8ydDk5QmRYcGNKSDVVNGJLS3U1cVR2NHdiTDVGLW1tVVZoWVZqUlR6U3NQUGtQLWsyUVAtVUFnblhqd2VtX0dFdVh0MUpiWTVRb29OdkFHMm5oR2U1bFlZRmM3aVlrRkYzV2YtSmE1U2FhZGdKc1YwZUhFdWQ5Um01eFRQdHlYd0NmSVRJbm5QSkIw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "週末別再問要去哪！搭台北捷運解鎖有捷米的「數位印章」 貓纜 兒童新樂園玩樂兼集章抽大獎！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "週末別再問要去哪！搭台北捷運解鎖有捷米的「數位印章」 貓纜 兒童新樂園玩樂兼集章抽大獎！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "兒童新樂園有多項遊樂設施可讓小孩盡情放電，加上捷運直達交通便利，結合數位印章集章遊戲增添出遊樂趣。",
-      "published_at": "2026-08-31T02:50:13+00:00",
-      "collected_at": "2026-09-02T16:34:54.007533+00:00",
-      "query": "台灣 週末親子 去哪裡"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte9xre40rkxwbddrq1nxwnbpr1nqnk52l",
-      "title": "內灣老街、城隍廟輸了！新竹最強景點TOP10冠軍是它，遊客讚迷你東京上野公園、 適合全家去玩",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xRE40RkxwbDdrQ1NxWnBPR1NQNk52LThjSGplT25UTmxYUnlUamhQdWhRaG1xYTI1Q2E5Tkh6ZmxIc3JIcWVWRTEwQVY2Q25T?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xRE40RkxwbDdrQ1NxWnBPR1NQNk52LThjSGplT25UTmxYUnlUamhQdWhRaG1xYTI1Q2E5Tkh6ZmxIc3JIcWVWRTEwQVY2Q25T?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "內灣老街、城隍廟輸了！新竹最強景點TOP10冠軍是它，遊客讚迷你東京上野公園、 適合全家去玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "內灣老街、城隍廟輸了！新竹最強景點TOP10冠軍是它，遊客讚迷你東京上野公園、 適合全家去玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "Storm.mg",
-      "tags": [
-        "大自然",
-        "放電"
-      ],
-      "reason": "被評為新竹最強景點冠軍，腹地寬廣如迷你上野公園，適合全家到此踏青放電。",
-      "published_at": "2026-08-30T21:30:00+00:00",
-      "collected_at": "2026-08-31T00:37:11.648884+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
     }
   ]
 }
