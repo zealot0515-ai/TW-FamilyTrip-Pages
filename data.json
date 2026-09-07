@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T23:55:02.976279+00:00",
+  "updated_at": "2026-09-07T17:45:19.357535+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -613,6 +613,32 @@
       "query": "台灣 免費親子景點"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmikafbvv95cuxnnjn5n3o4tvuzbkpknfnhr1zqyjgzq",
+      "title": "雲林免費觀光工廠 Top 3 親子一日遊這樣玩 - 消費新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNjN5N3o4TVUzbkpKNFNHR1ZQYjgzQ3NUSFI2VVdSaVJQaTZvLW42SjhycHpheEZkOVBaOG9Nd0FINDBjWldEOEVROFRpRXlWWjV4WFczQjhHUEluQktOY01qaGxhS0xGQW44dTRTMXc2UEIxMnBmNXRrSTJvaVVHVEtHT1VQaElPaVBQNWNiQW0?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNjN5N3o4TVUzbkpKNFNHR1ZQYjgzQ3NUSFI2VVdSaVJQaTZvLW42SjhycHpheEZkOVBaOG9Nd0FINDBjWldEOEVROFRpRXlWWjV4WFczQjhHUEluQktOY01qaGxhS0xGQW44dTRTMXc2UEIxMnBmNXRrSTJvaVVHVEtHT1VQaElPaVBQNWNiQW0?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "雲林免費觀光工廠 Top 3 親子一日遊這樣玩 - 消費新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "雲林免費觀光工廠 Top 3 親子一日遊這樣玩 - 消費新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "觀光工廠多為室內空間，有互動體驗與導覽解說，不受天氣影響，是雨天備案的好去處，小朋友能動手玩創意、大人也能輕鬆逛。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "好玩",
+        "室內"
+      ],
+      "reason": "觀光工廠多為室內空間，有互動體驗與導覽解說，不受天氣影響，是雨天備案的好去處，小朋友能動手玩創意、大人也能輕鬆逛。",
+      "published_at": "2026-09-01T04:08:14+00:00",
+      "collected_at": "2026-09-07T17:44:58.366900+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmi7gjbvv95cuxnalpsyzjgvvp5rlvumlf4ctvvm1rhz",
       "title": "國旅補助 麗寶再加碼點數免費玩樂園 住飯店每人不到700元",
       "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNalpSYzJGVVp5RlVuMlF4cTVVM1RhZVNlbkNpWkNtSV9fY3NBbVJnZUVqY3p2aV9FRUZlX1paYTItMDRBSTg5VlYzU05aV2N1Y2NsaGtHTnNidERhU3YyOFlyQmk0OEtjaGlpUUdnQU5HMS1ld3I1VFhPQ0oyaFBFa2RSM3pUd2xUTXg3Y2RUY3VWSmN6SjdXSVVGOFBpOUdELWRtRV8yb0hOS0tWOWVaREFSSVFMVUFBWDFYSmhCQ1BJYjFpRzFWcU5aNUZwVGRHXzNMTXZ6NXRBa2otc1NWbjZVc2JvUnNCcTNUVzBMOGhSYU5TcjEwQVg0YmdzNGJuRk9rVkIzZU9PZU5yS2J4Z2p3NUtIaGdJSVEzbVFMOWVheDE3Z2E1RHBjUVNTZ1BvZXNObHVpb2hIc2JjQ2U2OXFpRkQzZXplNktEOW9WdEw4U2E4aWx6T0g1aUNxTElieS1XdzNBWGJxVWU5Qmc?oc=5",
@@ -774,32 +800,6 @@
       "reason": "風景優美且腹地寬廣，適合全家出遊放電一整天，各年齡層都能盡興遊玩。",
       "published_at": "2026-09-01T02:00:00+00:00",
       "collected_at": "2026-09-01T16:40:15.110980+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiwefvx3lxte5es2vgeugytehpym1nexdyandpbe9pb",
-      "title": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ES2VGeUgyTEhpYm1NeXdyandPbE9pb1Mzc2JFdUMzcTBUb1E2TW56clQzWWx6SmlDRi1GYmlxNS1fRVg5WjVQcjBQS29TbVBiazlyUmNTalA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ES2VGeUgyTEhpYm1NeXdyandPbE9pb1Mzc2JFdUMzcTBUb1E2TW56clQzWWx6SmlDRi1GYmlxNS1fRVg5WjVQcjBQS29TbVBiazlyUmNTalA?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台北親子遊新景點！全新「古亭河濱公園兒童遊戲場」開放 白天放電、夜晚賞水岸美景。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "tromnimedia.com",
-      "tags": [
-        "放電",
-        "大自然"
-      ],
-      "reason": "古亭河濱公園腹地寬闊，擁有草地與水岸環境，孩子可盡情奔跑放電，晚間還能欣賞河濱夜景，是台北市區難得的親子踏青好去處。",
-      "published_at": "2026-09-01T01:32:12+00:00",
-      "collected_at": "2026-09-01T16:40:19.872306+00:00",
       "query": "台灣 親子景點 最新"
     }
   ]
