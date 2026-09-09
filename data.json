@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T16:40:55.536183+00:00",
+  "updated_at": "2026-09-09T00:15:43.019388+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -114,6 +114,38 @@
       "query": "台灣 親子放電 景點"
     },
     {
+      "id": "https-news-tvbs-com-tw-life-4019244",
+      "title": "「台版迪士尼」遊樂園倒閉熄燈　超過450項設施也撐不住",
+      "url": "https://news.tvbs.com.tw/life/4019244",
+      "canonical_url": "https://news.tvbs.com.tw/life/4019244",
+      "image_url": "https://news-images.tvbs.com.tw/api/v1/image/01a07fdf-77c2-7311-920f-3e1e4a5c1e89.jpg?t=16x9&c=0,0,1080,608&w=1200&h=675",
+      "images": [
+        "https://news-images.tvbs.com.tw/api/v1/image/01a07fdf-77c2-7311-920f-3e1e4a5c1e89.jpg?t=16x9&c=0,0,1080,608&w=1200&h=675",
+        "https://sb.scorecardresearch.com/p?c1=2&c2=18400300&cv=3.9.1&cj=1",
+        "https://news-images.tvbs.com.tw/api/v1/image/01a07fdf-77c2-7311-920f-3e1e4a5c1e89.jpg?w=1067&h=600&t=16x9&c=0",
+        "https://news-images.tvbs.com.tw/api/v1/image/01a07fdf-a983-73d0-9be0-e757896d4bf0.jpg?w=1024&h=1447",
+        "https://news-images.tvbs.com.tw/api/v1/image/019fcb95-61e6-7075-9371-d50bd2866fe4.jpg?w=1067&h=600&t=16x9&wp=l",
+        "https://news-images.tvbs.com.tw/api/v1/image/01a0744f-8b84-7245-b620-2b5e91e8a873.jpg?w=1067&h=600&t=16x9&wp=l",
+        "https://news-images.tvbs.com.tw/api/v1/image/01a07f31-ac10-7067-bd7f-b6d61602a4a4.jpg?w=1067&h=600&t=16x9&c=0",
+        "https://img.youtube.com/vi/wTMsFELILiI/maxresdefault.jpg?w=800&h=450"
+      ],
+      "summary": "「台版迪士尼」遊樂園倒閉熄燈　超過450項設施也撐不住。t.value:void 0,s={timeout:e==null?void 0:e.timeout};\"requestIdleCallback\"in window?g(c,s,{enumerable:!0,value:d}):c[s]=d;var l=(c,s,d)=>w(c,typeof s!c[p](e):void 0},d=t=>t.map(s),y=t=>typeof t!=\"object\"||t===null?this.isConnected)return;let e=(b=this.parentElement)==null?void 0:b.closest(\"astro-island[ssr]\");if(e){e.addEventListener(\"astro:hydrate\",this.hydrate,{once:!0});return}let n=this.querySelectorAll(\"astro-slot\"),r={},i=this.querySelectorAll(\"template[data-astro-template]\");for(let o of i){let a=o.closest(this.tagName);a!",
+      "analysis": {
+        "overview": "「台版迪士尼」遊樂園倒閉熄燈　超過450項設施也撐不住。t.value:void 0,s={timeout:e==null?void 0:e.timeout};\"requestIdleCallback\"in window?g(c,s,{enumerable:!0,value:d}):c[s]=d;var l=(c,s,d)=>w(c,typeof s!c[p](e):void 0},d=t=>t.map(s),y=t=>typeof t!=\"object\"||t===null?this.isConnected)re",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "news.tvbs.com.tw",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "該遊樂園已倒閉熄燈，不建議安排前往。",
+      "published_at": "2026-09-08T08:28:00+00:00",
+      "collected_at": "2026-09-09T00:15:12.323207+00:00",
+      "query": "台灣 免費親子景點"
+    },
+    {
       "id": "https-www-taisounds-com-news-content-94-287502",
       "title": "「台版不插電迪士尼」要消失了！桃園野趣森林突宣布11／30熄燈 | 旅遊飲食 - 太報 TaiSounds",
       "url": "https://www.taisounds.com/news/content/94/287502",
@@ -167,6 +199,33 @@
       "published_at": "2026-09-08T05:37:23+00:00",
       "collected_at": "2026-09-08T16:39:05.126893+00:00",
       "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiwkfvx3lxte1zbge2lxbkby1lz1vwszd0vwu2qjfkr",
+      "title": "桃園免費親子景點！廟宇變身互動遊樂場，用積木「自己蓋一座廟」、DIY金蝙蝠",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zbGE2LXBKby1LZ1VwSzd0VWU2QjFKRkpvc2ttNVNSTlh6bXVJTVRtSDV1dVNPYjkzQVUxMHVMNzM3dTRFOWFVazNCS3M2Y1RoSEZVSlNMVV8zd9IBWkFVX3lxTE1zbGE2LXBKby1LZ1VwSzd0VWU2QjFKRkpvc2ttNVNSTlh6bXVJTVRtSDV1dVNPYjkzQVUxMHVMNzM3dTRFOWFVazNCS3M2Y1RoSEZVSlNMVV8zdw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zbGE2LXBKby1LZ1VwSzd0VWU2QjFKRkpvc2ttNVNSTlh6bXVJTVRtSDV1dVNPYjkzQVUxMHVMNzM3dTRFOWFVazNCS3M2Y1RoSEZVSlNMVV8zd9IBWkFVX3lxTE1zbGE2LXBKby1LZ1VwSzd0VWU2QjFKRkpvc2ttNVNSTlh6bXVJTVRtSDV1dVNPYjkzQVUxMHVMNzM3dTRFOWFVazNCS3M2Y1RoSEZVSlNMVV8zdw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "桃園免費親子景點！廟宇變身互動遊樂場，用積木「自己蓋一座廟」、DIY金蝙蝠。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "桃園免費親子景點！廟宇變身互動遊樂場，用積木「自己蓋一座廟」、DIY金蝙蝠。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "廟宇變身互動遊樂場，提供積木與DIY金蝙蝠等體驗活動，室內空間雨天備案佳，免費入場小孩能盡情玩樂放電。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "食尚玩家",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "廟宇變身互動遊樂場，提供積木與DIY金蝙蝠等體驗活動，室內空間雨天備案佳，免費入場小孩能盡情玩樂放電。",
+      "published_at": "2026-09-08T04:28:00+00:00",
+      "collected_at": "2026-09-09T00:15:21.796592+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte1ybhjlntltslv5ned2wuheluo1wmtom",
@@ -243,6 +302,32 @@
       "published_at": "2026-09-08T04:02:00+00:00",
       "collected_at": "2026-09-08T16:39:49.476247+00:00",
       "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxnveryuejzbejuqvp0rwvdvmzqoex0n",
+      "title": "台南將軍親子景點！「飛沙崙公園」變身胡蘿蔔主題遊戲場！ - 旅遊新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVERYUEJzbEJuQVp0RWVDVmZQOEx0NUkzSU42dHluVjJVN3dTUmpNMVk1bDRmYW9PMEdtay10SlVaTW1Ha1JjUkJNUkJlRnFpRHc3V0NGaHdDbi0wM2lQUU9XazBvMVpuems3cUY2V3g2cGN2LTBEdXQzYWJVcEhtWklyRXd1bURTcGRZQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVERYUEJzbEJuQVp0RWVDVmZQOEx0NUkzSU42dHluVjJVN3dTUmpNMVk1bDRmYW9PMEdtay10SlVaTW1Ha1JjUkJNUkJlRnFpRHc3V0NGaHdDbi0wM2lQUU9XazBvMVpuems3cUY2V3g2cGN2LTBEdXQzYWJVcEhtWklyRXd1bURTcGRZQQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台南將軍親子景點！「飛沙崙公園」變身胡蘿蔔主題遊戲場！ - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台南將軍親子景點！「飛沙崙公園」變身胡蘿蔔主題遊戲場！ - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "胡蘿蔔主題遊戲場具有特色與吸引力，小孩能盡情跑跳放電，適合親子同樂。",
+      "published_at": "2026-09-08T00:00:00+00:00",
+      "collected_at": "2026-09-09T00:15:27.247764+00:00",
+      "query": "台灣 親子景點 最新"
     },
     {
       "id": "https-money-udn-com-money-story-122328-9741967",
@@ -742,82 +827,6 @@
       "published_at": "2026-09-04T03:34:04+00:00",
       "collected_at": "2026-09-08T00:25:52.535425+00:00",
       "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxqmdznaxc2ofbtbxh1mge0nky3mvzkr",
-      "title": "台北親子新景點開放！古亭河濱公園「水之三態」遊戲場登場 - 旅遊新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMDZNaXc2OFBtbXh1MGE0NkY3MVZKRzJhZENTLUtDSjh2M2taNUVuY0JWOEJwREc3OWhIYnV3dG4yUGtGSGdFaXpPelBMWkVGQXN2MEJXNGx2akk0QWlaMWpDQlNBeVRZWXR0TUhqVHlFdVBNT1Bmd0t1ZmU3ODloR2dWZDlDN2tWUlFIUw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMDZNaXc2OFBtbXh1MGE0NkY3MVZKRzJhZENTLUtDSjh2M2taNUVuY0JWOEJwREc3OWhIYnV3dG4yUGtGSGdFaXpPelBMWkVGQXN2MEJXNGx2akk0QWlaMWpDQlNBeVRZWXR0TUhqVHlFdVBNT1Bmd0t1ZmU3ODloR2dWZDlDN2tWUlFIUw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台北親子新景點開放！古亭河濱公園「水之三態」遊戲場登場 - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台北親子新景點開放！古亭河濱公園「水之三態」遊戲場登場 - 旅遊新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "PChome Online 新聞",
-      "tags": [
-        "放電",
-        "大自然"
-      ],
-      "reason": "河濱公園腹地寬廣，設有戲水遊戲場讓孩子盡情放電，且有寬闊草皮可供奔跑野餐，大自然環境愜意舒適。",
-      "published_at": "2026-09-03T00:00:00+00:00",
-      "collected_at": "2026-09-04T16:21:23.371716+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-www-msn-com-zh-tw-travel-e4-b8-80-e8-88-ac-e5-8f-b0-e9-90-b5-e9-ab-98-e9-9",
-      "title": "台鐵高雄機廠變身免費親子樂園! 30項設施一次玩到瘋!",
-      "url": "https://www.msn.com/zh-tw/travel/%E4%B8%80%E8%88%AC/%E5%8F%B0%E9%90%B5%E9%AB%98%E9%9B%84%E6%A9%9F%E5%BB%A0%E8%AE%8A%E8%BA%AB%E5%85%8D%E8%B2%BB%E8%A6%AA%E5%AD%90%E6%A8%82%E5%9C%92-30%E9%A0%85%E8%A8%AD%E6%96%BD%E4%B8%80%E6%AC%A1%E7%8E%A9%E5%88%B0%E7%98%8B/vi-AA2btcA1",
-      "canonical_url": "https://www.msn.com/zh-tw/travel/%E4%B8%80%E8%88%AC/%E5%8F%B0%E9%90%B5%E9%AB%98%E9%9B%84%E6%A9%9F%E5%BB%A0%E8%AE%8A%E8%BA%AB%E5%85%8D%E8%B2%BB%E8%A6%AA%E5%AD%90%E6%A8%82%E5%9C%92-30%E9%A0%85%E8%A8%AD%E6%96%BD%E4%B8%80%E6%AC%A1%E7%8E%A9%E5%88%B0%E7%98%8B/vi-AA2btcA1",
-      "image_url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "台鐵高雄機廠變身免費親子樂園! 30項設施一次玩到瘋!。高雄又多了一個「免費」親子放電新去處！跟著睿家、小舜一起看看到底有哪些必玩設施！老廠房搖身一變，保留鐵道文化特色打造高雄首座半室內親子遊戲場不怕風吹日曬雨淋，大小朋友都能盡情玩！園區一次集結近30項遊樂設施📍網繩攀爬、抱石攀岩📍雲朵彈跳床、跑酷區📍滑步車、Pump Track賽道📍趣味籃球場、足球場特別的是，原本機廠的「門型天車」變身網繩攀爬裝置，鐵道元素也融入遊戲設計 ...",
-      "analysis": {
-        "overview": "台鐵高雄機廠變身免費親子樂園! 30項設施一次玩到瘋!。高雄又多了一個「免費」親子放電新去處！跟著睿家、小舜一起看看到底有哪些必玩設施！老廠房搖身一變，保留鐵道文化特色打造高雄首座半室內親子遊戲場不怕風吹日曬雨淋，大小朋友都能盡情玩！園區一次集結近30項遊樂設施📍網繩攀爬、抱石攀岩📍雲朵彈跳床、跑酷區📍滑步車、Pump Track賽道📍趣味籃球場、足球場特別的是，原本機廠的「門型天車」變身網繩攀爬裝置，鐵道元素也融入遊戲設計 ...",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "msn.com",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "免費又好玩的室內遊戲場，不怕風吹日曬雨淋將近30項設施，孩子可以盡情放電，家長不用擔心天氣問題。",
-      "published_at": "2026-09-02T23:33:40+00:00",
-      "collected_at": "2026-09-03T16:25:21.130755+00:00",
-      "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-www-msn-com-zh-tw-news-other-e5-8f-b0-e9-90-b5-e9-ab-98-e9-9b-84-e6-a9-9f-",
-      "title": "台鐵高雄機廠變身免費親子樂園! 30項設施一次玩到瘋!",
-      "url": "https://www.msn.com/zh-tw/news/other/%E5%8F%B0%E9%90%B5%E9%AB%98%E9%9B%84%E6%A9%9F%E5%BB%A0%E8%AE%8A%E8%BA%AB%E5%85%8D%E8%B2%BB%E8%A6%AA%E5%AD%90%E6%A8%82%E5%9C%92-30%E9%A0%85%E8%A8%AD%E6%96%BD%E4%B8%80%E6%AC%A1%E7%8E%A9%E5%88%B0%E7%98%8B/vi-AA2btcA1",
-      "canonical_url": "https://www.msn.com/zh-tw/news/other/%E5%8F%B0%E9%90%B5%E9%AB%98%E9%9B%84%E6%A9%9F%E5%BB%A0%E8%AE%8A%E8%BA%AB%E5%85%8D%E8%B2%BB%E8%A6%AA%E5%AD%90%E6%A8%82%E5%9C%92-30%E9%A0%85%E8%A8%AD%E6%96%BD%E4%B8%80%E6%AC%A1%E7%8E%A9%E5%88%B0%E7%98%8B/vi-AA2btcA1",
-      "image_url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "台鐵高雄機廠變身免費親子樂園! 30項設施一次玩到瘋!。高雄又多了一個「免費」親子放電新去處！跟著睿家、小舜一起看看到底有哪些必玩設施！老廠房搖身一變，保留鐵道文化特色打造高雄首座半室內親子遊戲場不怕風吹日曬雨淋，大小朋友都能盡情玩！園區一次集結近30項遊樂設施📍網繩攀爬、抱石攀岩📍雲朵彈跳床、跑酷區📍滑步車、Pump Track賽道📍趣味籃球場、足球場特別的是，原本機廠的「門型天車」變身網繩攀爬裝置，鐵道元素也融入遊戲設計 ...",
-      "analysis": {
-        "overview": "台鐵高雄機廠變身免費親子樂園! 30項設施一次玩到瘋!。高雄又多了一個「免費」親子放電新去處！跟著睿家、小舜一起看看到底有哪些必玩設施！老廠房搖身一變，保留鐵道文化特色打造高雄首座半室內親子遊戲場不怕風吹日曬雨淋，大小朋友都能盡情玩！園區一次集結近30項遊樂設施📍網繩攀爬、抱石攀岩📍雲朵彈跳床、跑酷區📍滑步車、Pump Track賽道📍趣味籃球場、足球場特別的是，原本機廠的「門型天車」變身網繩攀爬裝置，鐵道元素也融入遊戲設計 ...",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "msn.com",
-      "tags": [
-        "放電",
-        "室內",
-        "好玩"
-      ],
-      "reason": "半室內空間不怕風吹日曬雨淋，雨天備案好去處，近30項設施免費暢玩，小孩放電超夠用。",
-      "published_at": "2026-09-02T23:33:40+00:00",
-      "collected_at": "2026-09-04T00:06:40.291134+00:00",
-      "query": "台灣 室內親子景點"
     }
   ]
 }
