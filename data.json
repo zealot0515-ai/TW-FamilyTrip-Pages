@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-09-09T16:39:40.396618+00:00",
+  "updated_at": "2026-09-10T00:15:28.546929+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiv0fvx3lxte5uwnhuumxkvdg3duhjmvrovg02dvpve",
+      "title": "和逸飯店·台南西門館攜手親子天下把閱讀變好玩！打造閱讀角及闖關主題房 中秋限定甜點故事屋登場",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uWnhUUmxkVDg3dUhJMVROVG02dVpVeDJkVEU2ZktfcXRDN1pTaWtUckhqMmFQNFBXVWdielQtTDlXN0RQS3Z6ZXl1RDlZWjMtUm0wVG1aUQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uWnhUUmxkVDg3dUhJMVROVG02dVpVeDJkVEU2ZktfcXRDN1pTaWtUckhqMmFQNFBXVWdielQtTDlXN0RQS3Z6ZXl1RDlZWjMtUm0wVG1aUQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "和逸飯店·台南西門館攜手親子天下把閱讀變好玩！打造閱讀角及闖關主題房 中秋限定甜點故事屋登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "和逸飯店·台南西門館攜手親子天下把閱讀變好玩！打造閱讀角及闖關主題房 中秋限定甜點故事屋登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "價格與房型差異大，親子設施也可能需預約。",
+        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "chtime.ikh.tw",
+      "tags": [
+        "好玩",
+        "室內"
+      ],
+      "reason": "飯店室內打造闖關主題房及甜點故事屋，讓孩子在安全的室內空間盡情體驗遊戲與DIY活動，雨天備案也適用。",
+      "published_at": "2026-09-09T12:38:24+00:00",
+      "collected_at": "2026-09-10T00:15:08.816635+00:00",
+      "query": "台灣 特色飯店 親子 房型"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmia0fvx3lxte1trdr4nfftdjjeetnxltbtmlbmr1lnb",
       "title": "雲林劍湖山再釋放利多飯店最高可享3200元優惠折扣沒有補助點數民眾憑旅宿業發票遊樂園門票33折！",
@@ -192,6 +218,32 @@
       "query": "台灣 免費親子景點"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmiykfvx3lxte5xv0d0sexjem5qajffvdr6ngzdamhvy",
+      "title": "【廟宇親子館】全新開幕！桃園親子景點｜八塊厝民俗藝術村免費參觀、體驗五大傳統工藝",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XV0d0SExjem5QajFfVDR6NGZDamhvY1lfSXVGSmFsWFNpX05rREJHSnMyR2N0QjY1aXdSdkZUYmdtT3lVdVptckpCS2dYaFVEVVgtck4ySlhpTWhjSGF5ck130gFiQVVfeXFMTldXR3RITGN6blBqMV9UNHo0ZkNqaG9jWV9JdUZKYWxYU2lfTmtEQkdKczJHY3RCNjVpd1J2RlRiZ21PeVV1Wm1ySkJLZ1hoVURVWC1yTjJKWGlNaGNIYXlyTXc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XV0d0SExjem5QajFfVDR6NGZDamhvY1lfSXVGSmFsWFNpX05rREJHSnMyR2N0QjY1aXdSdkZUYmdtT3lVdVptckpCS2dYaFVEVVgtck4ySlhpTWhjSGF5ck130gFiQVVfeXFMTldXR3RITGN6blBqMV9UNHo0ZkNqaG9jWV9JdUZKYWxYU2lfTmtEQkdKczJHY3RCNjVpd1J2RlRiZ21PeVV1Wm1ySkJLZ1hoVURVWC1yTjJKWGlNaGNIYXlyTXc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "【廟宇親子館】全新開幕！桃園親子景點｜八塊厝民俗藝術村免費參觀、體驗五大傳統工藝。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "【廟宇親子館】全新開幕！桃園親子景點｜八塊厝民俗藝術村免費參觀、體驗五大傳統工藝。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "udn 女子漾",
+      "tags": [
+        "室內",
+        "好玩"
+      ],
+      "reason": "室內空間雨天備案佳，可免費體驗傳統工藝適合學齡兒童，傳統文化元素能邊玩邊學。",
+      "published_at": "2026-09-09T02:48:24+00:00",
+      "collected_at": "2026-09-10T00:15:16.981330+00:00",
+      "query": "台灣 親子餐廳 景點"
+    },
+    {
       "id": "https-news-pchome-com-tw-living-hoomedia-20260909-index-78895196095579344009-htm",
       "title": "閱讀也能玩成一趟旅行　和逸台南西門館攜親子天下推親子共學體驗 - 生活新聞 - PChome Online 新聞",
       "url": "https://news.pchome.com.tw/living/hoomedia/20260909/index-78895196095579344009.html",
@@ -222,6 +274,38 @@
       "published_at": "2026-09-08T22:06:00+00:00",
       "collected_at": "2026-09-09T16:39:40.317060+00:00",
       "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-tw-news-yahoo-com-e5-8f-b0-e7-89-88-e8-bf-aa-e5-a3-ab-e5-b0-bc-e9-81-8a-e6",
+      "title": "「台版迪士尼」遊樂園宣布熄燈 大票家長不捨：可以別關嗎",
+      "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%89%88%E8%BF%AA%E5%A3%AB%E5%B0%BC-%E9%81%8A%E6%A8%82%E5%9C%92%E5%AE%A3%E5%B8%83%E7%86%84%E7%87%88-%E5%A4%A7%E7%A5%A8%E5%AE%B6%E9%95%B7%E4%B8%8D%E6%8D%A8-%E5%8F%AF%E4%BB%A5%E5%88%A5%E9%97%9C%E5%97%8E-012551937.html",
+      "canonical_url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%89%88%E8%BF%AA%E5%A3%AB%E5%B0%BC-%E9%81%8A%E6%A8%82%E5%9C%92%E5%AE%A3%E5%B8%83%E7%86%84%E7%87%88-%E5%A4%A7%E7%A5%A8%E5%AE%B6%E9%95%B7%E4%B8%8D%E6%8D%A8-%E5%8F%AF%E4%BB%A5%E5%88%A5%E9%97%9C%E5%97%8E-012551937.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/bf7ecf262b1e822c2f5d2e1c1227eee374fec1a5de5034b3ea49520e8e1e2831/lightyear_networkapi/resizefill_h48%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F23410720-d6cf-11ea-be77-dd09959d161f",
+      "images": [
+        "https://s.yimg.com/lo/mysterio/api/bf7ecf262b1e822c2f5d2e1c1227eee374fec1a5de5034b3ea49520e8e1e2831/lightyear_networkapi/resizefill_h48%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F23410720-d6cf-11ea-be77-dd09959d161f",
+        "https://s.yimg.com/lo/mysterio/api/FABD15A60A813A0365243724C94A6345A22878A0DC6CB9105891EF415F3C4B41/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F788693d2d87462b93065ba774ec15a24.jpg",
+        "https://s.yimg.com/lo/mysterio/api/DE81F048453C1D15404CC197FCD2D8A7CC9B93125E2B655484F39EF1FCE0BF2F/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fmirrormedia.mg%2F0398e0640fe635bb4bfcc05f70769c10.jpg",
+        "https://s.yimg.com/lo/mysterio/api/9E48F4A2D2EB0A07A0A5F03FA04D253406B834AB9F820236DD99529E214DB5F9/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fftvn.com.tw%2F32fd4e24666a39acf7cdb1d06b1573ba.jpg",
+        "https://s.yimg.com/lo/mysterio/api/49619970C7F31BA044B5C3358873763E62955E9544B840A00AECA106DAE74325/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fftvn_sports_106%2F0a6918ef8f24f53bc053e8c4867cea37.jpg",
+        "https://s.yimg.com/lo/mysterio/api/84EA2902D1D5E5B5DD6FD8C0EAA82DDF15791C23C8ED31A47B2DB4D478BA958E/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fftvn.com.tw%2F71df3e0a6ae047a60a79acf38fd9bfd8.jpg",
+        "https://s.yimg.com/lo/mysterio/api/B6BF388A7858FC302E36F3713853B9E7052C970B68125CF243AC959EDE1939C2/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftaisounds_com_380%2Fc1f7d495ea41a0388beaeaa7776952e0.jpg",
+        "https://s.yimg.com/lo/mysterio/api/DCC331DC7EE97A69E7537D349CEDEFBC859F1B1C856FF3AD83125F2092B6C03E/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Ffountmedia_io_269%2Fc0c051bbb412be803f223e540610026c"
+      ],
+      "summary": "「台版迪士尼」遊樂園宣布熄燈 大票家長不捨：可以別關嗎。首頁 新聞 股市 運動 TV 汽機車 購物中心 拍賣 氣象 App 下載 搜尋 登入 焦點 即時 折疊iPhone來了 娛樂影劇 國際 政治 社會地方 財經 運動 玩樂 品味 健康 遊戲3C AI 事件整理 更多專輯 焦點 AI 事件整理 Yahoo畫重點 熱門新聞 天氣 民調 專輯 合作媒體 即時 娛樂即時 國際即時 政治即時 社會即時 財經即時 生活即時 運動即時 科技即時 健康即時 折疊iPhone來了 新iPhone系列一次看 Apple Watch 怎麼選 蘋果新品懶人包 娛樂影劇 2026演唱會指南 Yahoo特派 日韓新聞 院線電影 追劇情報 啦啦隊女孩 星座運勢 國際 中港澳 亞澳 美洲 歐非 德國之聲 BBC中文 Yahoo國際通 政治 2026九合一選舉 Yahoo論壇 立法院直播 社會地方",
+      "analysis": {
+        "overview": "「台版迪士尼」遊樂園宣布熄燈 大票家長不捨：可以別關嗎。首頁 新聞 股市 運動 TV 汽機車 購物中心 拍賣 氣象 App 下載 搜尋 登入 焦點 即時 折疊iPhone來了 娛樂影劇 國際 政治 社會地方 財經 運動 玩樂 品味 健康 遊戲3C AI 事件整理 更多專輯 焦點 AI 事件整理 Yahoo畫重點 熱門新聞 天氣 民調 專輯 合作媒體 即時 娛樂即時 國際即時 政治即時 社會即時 財經即時 生活即時 運動即時 科技即時 健康即時 折疊iPhone來了 新iPhone系列一次看 Apple Watch ",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "tw.news.yahoo.com",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "該遊樂園已宣布歇業，不建議安排前往。",
+      "published_at": "2026-09-08T17:01:00+00:00",
+      "collected_at": "2026-09-10T00:15:28.478133+00:00",
+      "query": "台灣 遊樂園 親子 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte50etbrqw9ywewzquh0ukpswuzddwx3a",
@@ -757,85 +841,6 @@
       "reason": "新北觀光工廠多為室內空間，有冷氣且不受天氣影響，適合帶小孩進行手作體驗，既能放電又能學習新知識，雨天備案首選。",
       "published_at": "2026-09-05T13:10:12+00:00",
       "collected_at": "2026-09-06T15:28:04.066610+00:00",
-      "query": "台北 新北 桃園 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmi-afbvv95cuxqnjftvktqx2xtn2dkaerra3ptudlxw",
-      "title": "職引未來 新北觀光工廠親子體驗",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNjFtVktQX2xtN2dKaERra3pTUDlXWUdCbU9GWFBDU1p2VUtaU3NSUTRaemlycURrZEd4bHlMa3I0dnBITXN1Ry1ObmNlVU1EaThGVkYtQUpXSGlKTm9hYncxTktqbmdsQW1xRDBkSW9NWGVGU0pYcUNYRXoyYW1jczRIMzFUaFJreXJzTlBtNldZTzY5aVItOFVqYU04RUZUSHpudkJDSzZjQWtaRGlWY1E1c2ZhSFZpMkppUmxFbk03VnE4QXFXNUhnTl9HQ21BdnhFU3BIdEVzQ2w4TENpblFfeHhvNjRXYjd2S05wcmhDcDFNWHdBVkpKRWg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNjFtVktQX2xtN2dKaERra3pTUDlXWUdCbU9GWFBDU1p2VUtaU3NSUTRaemlycURrZEd4bHlMa3I0dnBITXN1Ry1ObmNlVU1EaThGVkYtQUpXSGlKTm9hYncxTktqbmdsQW1xRDBkSW9NWGVGU0pYcUNYRXoyYW1jczRIMzFUaFJreXJzTlBtNldZTzY5aVItOFVqYU04RUZUSHpudkJDSzZjQWtaRGlWY1E1c2ZhSFZpMkppUmxFbk03VnE4QXFXNUhnTl9HQ21BdnhFU3BIdEVzQ2w4TENpblFfeHhvNjRXYjd2S05wcmhDcDFNWHdBVkpKRWg?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "職引未來 新北觀光工廠親子體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "職引未來 新北觀光工廠親子體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "新北觀光工廠多為室內空間，提供親子DIY互動體驗，雨天備案免擔心。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "室內",
-        "好玩"
-      ],
-      "reason": "新北觀光工廠多為室內空間，提供親子DIY互動體驗，雨天備案免擔心。",
-      "published_at": "2026-09-05T12:48:35+00:00",
-      "collected_at": "2026-09-06T23:54:32.443497+00:00",
-      "query": "台北 新北 桃園 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5umkvzu1rezzr4qtbcx2dqr192wtc3u",
-      "title": "新北觀光工廠「職引未來探索派對」林口三井壓軸登場六大主題亮點一次體驗親子同樂探索產業魅力",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uMkVZU1REZzR4QTBCX2dQR192WTc3UVJJMVRlVlIwTXo2dkY2bXluNkVoaC1QZVFhUzYyTmRNaFNQQzJIcDNXN0RncG5BNjBkZnc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uMkVZU1REZzR4QTBCX2dQR192WTc3UVJJMVRlVlIwTXo2dkY2bXluNkVoaC1QZVFhUzYyTmRNaFNQQzJIcDNXN0RncG5BNjBkZnc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "新北觀光工廠「職引未來探索派對」林口三井壓軸登場六大主題亮點一次體驗親子同樂探索產業魅力。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "新北觀光工廠「職引未來探索派對」林口三井壓軸登場六大主題亮點一次體驗親子同樂探索產業魅力。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "在林口三井室內商場舉辦，有冷氣舒適且雨天備案無虞，附設停車場方便全家出遊，透過六大互動體驗區讓孩子實際探索產業知識兼具寓教於樂。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "室內",
-        "放電",
-        "好玩"
-      ],
-      "reason": "在林口三井室內商場舉辦，有冷氣舒適且雨天備案無虞，附設停車場方便全家出遊，透過六大互動體驗區讓孩子實際探索產業知識兼具寓教於樂。",
-      "published_at": "2026-09-05T10:06:00+00:00",
-      "collected_at": "2026-09-05T15:13:43.354728+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte5uclfxcvhwy0xhsg1fqvzpbmjvohlkd",
-      "title": "新北觀光工廠「職引未來」 林口三井登場親子體驗| 地方",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UclFXcVhWY0xHSG1FQVZpbmJvOHlkdkViLUNqaGQwTGNUY1owcXhXcW5wcHN0UlNvNTFkUFZIRFNEalF6LVJKSkxLX3lqU2s3X2JUbFNSNGI5Z2ZoZUpn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UclFXcVhWY0xHSG1FQVZpbmJvOHlkdkViLUNqaGQwTGNUY1owcXhXcW5wcHN0UlNvNTFkUFZIRFNEalF6LVJKSkxLX3lqU2s3X2JUbFNSNGI5Z2ZoZUpn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "新北觀光工廠「職引未來」 林口三井登場親子體驗| 地方。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "新北觀光工廠「職引未來」 林口三井登場親子體驗| 地方。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "觀光工廠位於林口三井室內商場，雨天備案好，且有多種職業體驗可讓小孩動手玩，爸媽逛街順便放電。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "中央社 CNA",
-      "tags": [
-        "室內",
-        "好玩"
-      ],
-      "reason": "觀光工廠位於林口三井室內商場，雨天備案好，且有多種職業體驗可讓小孩動手玩，爸媽逛街順便放電。",
-      "published_at": "2026-09-05T07:43:00+00:00",
-      "collected_at": "2026-09-05T15:13:48.015401+00:00",
       "query": "台北 新北 桃園 親子景點"
     }
   ]
