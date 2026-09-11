@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T16:24:51.276978+00:00",
+  "updated_at": "2026-09-11T00:10:41.821843+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -140,6 +140,32 @@
       "published_at": "2026-09-09T12:38:24+00:00",
       "collected_at": "2026-09-10T00:15:08.816635+00:00",
       "query": "台灣 特色飯店 親子 房型"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmipanbvv95cuxnnjzhdtz6cmtpvmzcm2hqq1rlqvewa",
+      "title": "閱讀也能玩成一趟旅行 和逸台南西門館攜親子天下推親子共學體驗",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNNjZHdTZ6cmtPVmZCM2hQQ1RlQVEwazVZVjRWZHdXUkt4Xy1nQTkwWW10Qzh1NWFkV1BMMnF2aGUzYTA2VzFNNFhvWTh3QlN4bVp0WncyNGpJMUVMUUZmbHRpbmo3VmFMMl9NRzM1NXpCbEozNjlwM0ZBU3RZbzVickp3UHRoMFdIQUtabm5GMEhRc19wc19XYXp2eHYxNGJWS0NUN0t4WnM2Q01fV2I1SWwzN2VUNlNvcmg1YlBHd2hRek00MklDRW9PRVNJX2YxSUNEYUtHaUJibnJYVzF3eFZfUi0xWjlBRUtXV3JUNnV5S19HdTUxcDUzSE56WWw1dXNjUFR1N2lGb2I0UkhtajJQUmFMUVVId0dpeVpUblBQWDhERWNROGF0TDBjZ3JPcmxYRXVGYTJjeEJLbUp6aWNqSHdCWXRyUlpQbnJtUW81TmRRNi1mdm9RaVJNWWNFajdUanFUcG1JN2dONFpRTFJiLTZ2eEUyUHd0TV93M3FPa0lja1pHMWJ6Z1BLZS1jZjMteEIzRGNhbkxkZm5SZmI5ZTY?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNNjZHdTZ6cmtPVmZCM2hQQ1RlQVEwazVZVjRWZHdXUkt4Xy1nQTkwWW10Qzh1NWFkV1BMMnF2aGUzYTA2VzFNNFhvWTh3QlN4bVp0WncyNGpJMUVMUUZmbHRpbmo3VmFMMl9NRzM1NXpCbEozNjlwM0ZBU3RZbzVickp3UHRoMFdIQUtabm5GMEhRc19wc19XYXp2eHYxNGJWS0NUN0t4WnM2Q01fV2I1SWwzN2VUNlNvcmg1YlBHd2hRek00MklDRW9PRVNJX2YxSUNEYUtHaUJibnJYVzF3eFZfUi0xWjlBRUtXV3JUNnV5S19HdTUxcDUzSE56WWw1dXNjUFR1N2lGb2I0UkhtajJQUmFMUVVId0dpeVpUblBQWDhERWNROGF0TDBjZ3JPcmxYRXVGYTJjeEJLbUp6aWNqSHdCWXRyUlpQbnJtUW81TmRRNi1mdm9RaVJNWWNFajdUanFUcG1JN2dONFpRTFJiLTZ2eEUyUHd0TV93M3FPa0lja1pHMWJ6Z1BLZS1jZjMteEIzRGNhbkxkZm5SZmI5ZTY?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "閱讀也能玩成一趟旅行 和逸台南西門館攜親子天下推親子共學體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "閱讀也能玩成一趟旅行 和逸台南西門館攜親子天下推親子共學體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "飯店室內空間舉辦親子共學活動，雨天備案無須擔心天氣，結合閱讀與體驗讓孩子在遊玩中學習，適合親子共同參與。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "Life 生活網",
+      "tags": [
+        "室內",
+        "好玩"
+      ],
+      "reason": "飯店室內空間舉辦親子共學活動，雨天備案無須擔心天氣，結合閱讀與體驗讓孩子在遊玩中學習，適合親子共同參與。",
+      "published_at": "2026-09-09T11:06:00+00:00",
+      "collected_at": "2026-09-11T00:10:41.753495+00:00",
+      "query": "台灣 親子旅遊 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmia0fvx3lxte1trdr4nfftdjjeetnxltbtmlbmr1lnb",
@@ -803,40 +829,6 @@
       "published_at": "2026-09-07T21:12:00+00:00",
       "collected_at": "2026-09-08T16:40:02.401094+00:00",
       "query": "台灣 親子餐廳 景點"
-    },
-    {
-      "id": "https-news-ebc-net-tw-news-living-570346",
-      "title": "「台版迪士尼」突宣布熄燈！最後營業日曝光｜東森新聞",
-      "url": "https://news.ebc.net.tw/news/living/570346",
-      "canonical_url": "https://news.ebc.net.tw/news/living/570346",
-      "image_url": "https://img.news.ebc.net.tw/EbcNews/news/2026/09/08/1788889290_24655.jpg",
-      "images": [
-        "https://img.news.ebc.net.tw/EbcNews/topic/2026/07/14/1784039503_67958.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/topic/2026/09/08/1788875644_71579.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/topic/2026/09/04/1788540870_66058.jpg",
-        "https://img-star.ebc.net.tw/ebcstar/topic/2026/09/08/1788826336_44551.jpg",
-        "https://img-star.ebc.net.tw/ebcstar/topic/2026/08/17/1786983011_46839.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/topic/2026/08/27/1787818214_10460.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/news/2026/09/08/1788889290_24655.jpg",
-        "https://img.news.ebc.net.tw/EbcNews/news/2026/09/08/1788885282_20188.jpg"
-      ],
-      "summary": "「台版迪士尼」突宣布熄燈！最後營業日曝光｜東森新聞。快訊 「爆紅輕奢行旅袋」明星私下都在揹！通勤旅行一包搞定 下載東森App，隨時掌握天下大小事！首頁 生活 加入為 Google 偏好來源 童年回憶走入歷史！知名親子樂園11月底熄燈 家長不捨 2026-09-08 17:38 實習編輯 林宣邑 聽新聞 桃園中壢親子景點「野趣森林」宣布營業至2026年11月30日。（圖／翻攝自野趣森林臉書） 桃園 中壢親子景點「野趣森林」宣布將於2026年11月30日結束營業，消息曝光後，不少家長直呼可惜。這座被網友封為「台版不插電迪士尼」的森林系 樂園 ，主打拒絕3C、親近自然，過去是不少家庭假日帶孩子放電、體驗戶外活動的熱門選擇，如今也將進入 歇業 倒數。「野趣森林」前身為「台灣地景花園」，由新團隊接手後重新規劃營運。園區占地約7公頃，設有超過450項水、陸、空冒險設施，主打沒有電動機械遊具，讓孩子透過雙手雙腳及身體協調力探索環境。園內設施包括人力空中飛車、半空踩踏單車鞦韆、巨型人力滾輪、森林吊橋、湖上划船及水上浮舟等，讓孩子能在自然環境中奔跑、挑戰，也讓大人找回童年遊樂的樂趣，成為不少家庭心中的親子放電勝地。",
-      "analysis": {
-        "overview": "「台版迪士尼」突宣布熄燈！最後營業日曝光｜東森新聞。快訊 「爆紅輕奢行旅袋」明星私下都在揹！通勤旅行一包搞定 下載東森App，隨時掌握天下大小事！首頁 生活 加入為 Google 偏好來源 童年回憶走入歷史！知名親子樂園11月底熄燈 家長不捨 2026-09-08 17:38 實習編輯 林宣邑 聽新聞 桃園中壢親子景點「野趣森林」宣布營業至2026年11月30日。（圖／翻攝自野趣森林臉書） 桃園 中壢親子景點「野趣森林」宣布將於2026年11月30日結束營業，消息曝光後，不少家長直呼可惜。這座被網友封為「台版不插電",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "news.ebc.net.tw",
-      "tags": [
-        "放電",
-        "大自然",
-        "好玩"
-      ],
-      "reason": "森林系園區占地7公頃、450項人力冒險設施，讓孩子遠離3C盡情放電，且11月底即將熄燈，家長可把握最後機會帶孩子體驗。",
-      "published_at": "2026-09-07T20:37:00+00:00",
-      "collected_at": "2026-09-08T16:40:15.737731+00:00",
-      "query": "台灣 親子放電 景點"
     }
   ]
 }
