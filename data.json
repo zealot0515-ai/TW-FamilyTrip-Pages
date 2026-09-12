@@ -1,8 +1,42 @@
 {
-  "updated_at": "2026-09-12T00:18:56.563450+00:00",
+  "updated_at": "2026-09-12T15:31:54.364260+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-tw-news-yahoo-com-e9-80-b1-e6-9c-ab-e5-8e-bb-e5-93-aa-e7-8e-a9-e5-b1-8f-e6",
+      "title": "週末去哪玩？屏東新豐親水公園開放戲水 免費入場",
+      "url": "https://tw.news.yahoo.com/%E9%80%B1%E6%9C%AB%E5%8E%BB%E5%93%AA%E7%8E%A9-%E5%B1%8F%E6%9D%B1%E6%96%B0%E8%B1%90%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92%E9%96%8B%E6%94%BE%E6%88%B2%E6%B0%B4-%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-011936664.html",
+      "canonical_url": "https://tw.news.yahoo.com/%E9%80%B1%E6%9C%AB%E5%8E%BB%E5%93%AA%E7%8E%A9-%E5%B1%8F%E6%9D%B1%E6%96%B0%E8%B1%90%E8%A6%AA%E6%B0%B4%E5%85%AC%E5%9C%92%E9%96%8B%E6%94%BE%E6%88%B2%E6%B0%B4-%E5%85%8D%E8%B2%BB%E5%85%A5%E5%A0%B4-011936664.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/735032c75005c2a77a51b01fc43aa79b0092474607adcb8d7834f711a27c1b13/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2Fd65fd5de3efef554beeb0302e100847d.jpg",
+      "images": [
+        "https://s.yimg.com/lo/mysterio/api/735032c75005c2a77a51b01fc43aa79b0092474607adcb8d7834f711a27c1b13/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2Fd65fd5de3efef554beeb0302e100847d.jpg",
+        "https://s.yimg.com/lo/mysterio/api/b427d047c0eed0397a2cc6c9b19dbbc82ef8492114d7a8bf053db43938b9ee5f/lightyear_networkapi/resizefill_h48%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-06%2Fddc518a0-410c-11f0-97f9-02e7ad2438c5",
+        "https://s.yimg.com/lo/mysterio/api/e6cdee852712fc6870367433308ab29ef5966870359529291c3069a6dc8f0647/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2Fd65fd5de3efef554beeb0302e100847d.jpg",
+        "https://s.yimg.com/lo/mysterio/api/32B0DB2A6B479E34B78FE14AFDFC0FB29FDFE9821557467BB2DBF6CE45E7AF17/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fvideo.videoland.com%2F3d5d61a1a8e8f436a102a80b39dadc75",
+        "https://s.yimg.com/lo/mysterio/api/39D1030CCC39E5E86F5B204B5D4C1D9F2A066D89A929F194F8A4987D29A772C5/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2Fe1a768b62b1ceeb62b657c9673ac2c59.jpg",
+        "https://s.yimg.com/lo/mysterio/api/A4E7427B0DE7604AC16848B9540779DCA8B7CA09156D95D1C6502C62D50548F4/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fftnn_com_tw_939%2F6f1e208aad92ef6feaa15479ece05896.jpg",
+        "https://s.yimg.com/lo/mysterio/api/B7B24CA97A913FB4259ADA3C3048EB4CE473313B510003148EC7EB274BEC168B/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F18313b30f4dde5248d7ee492aec28889.jpg",
+        "https://s.yimg.com/lo/mysterio/api/0FB51619BE9EDC23A1CA35090A13E94A3669228169A8B410916CF9A02A3BB8D8/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fmirrormedia.mg%2F641fa9014665d69c0838937536a90452.jpg"
+      ],
+      "summary": "週末去哪玩？屏東新豐親水公園開放戲水 免費入場。屏東新豐親水公園開放戲水 免費入場\",\"position\":3}]} Yahoo新聞 即時 週末去哪玩？曾經創下單日吸引2萬人次的屏東縣高樹鄉新豐親水公園戲水池，今（12）日將再度免費開放，時間從上午10點到下",
+      "analysis": {
+        "overview": "週末去哪玩？屏東新豐親水公園開放戲水 免費入場。屏東新豐親水公園開放戲水 免費入場\",\"position\":3}]} Yahoo新聞 即時 週末去哪玩？曾經創下單日吸引2萬人次的屏東縣高樹鄉新豐親水公園戲水池，今（12）日將再度免費開放，時間從上午10點到下",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "tw.news.yahoo.com",
+      "tags": [
+        "放電",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "免費開放的戲水公園，夏天帶小孩玩水消暑超讚，曾創單日2萬人次人潮，口碑有保證。",
+      "published_at": "2026-09-11T16:59:00+00:00",
+      "collected_at": "2026-09-12T15:31:24.996195+00:00",
+      "query": "台灣 週末親子 去哪裡"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiwkfvx3lxtfbqmzrnbxlrwhlyqwnozhm1d2ttavmxe",
       "title": "簽署特公盟承諾書！賴瑞隆推動10分鐘遊戲圈、涼感公園 打造高雄兒童友善城市",
@@ -630,6 +664,55 @@
       "query": "台灣 親子旅遊 最新"
     },
     {
+      "id": "https-www-msn-com-zh-tw-health-topic-e4-b8-ad-e9-83-a8-e9-9b-a8-e5-a4-a9-e8-a6-8",
+      "title": "中部雨天要去哪! 5大親子好去處，彰化新開幕親子空間，一票暢玩彈跳床、沙坑、積木牆",
+      "url": "https://www.msn.com/zh-tw/health/topic/%E4%B8%AD%E9%83%A8%E9%9B%A8%E5%A4%A9%E8%A6%81%E5%8E%BB%E5%93%AA-5%E5%A4%A7%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95-%E5%BD%B0%E5%8C%96%E6%96%B0%E9%96%8B%E5%B9%95%E8%A6%AA%E5%AD%90%E7%A9%BA%E9%96%93-%E4%B8%80%E7%A5%A8%E6%9A%A2%E7%8E%A9%E5%BD%88%E8%B7%B3%E5%BA%8A-%E6%B2%99%E5%9D%91-%E7%A9%8D%E6%9C%A8%E7%89%86/ar-AA2c3JU3",
+      "canonical_url": "https://www.msn.com/zh-tw/health/topic/%E4%B8%AD%E9%83%A8%E9%9B%A8%E5%A4%A9%E8%A6%81%E5%8E%BB%E5%93%AA-5%E5%A4%A7%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95-%E5%BD%B0%E5%8C%96%E6%96%B0%E9%96%8B%E5%B9%95%E8%A6%AA%E5%AD%90%E7%A9%BA%E9%96%93-%E4%B8%80%E7%A5%A8%E6%9A%A2%E7%8E%A9%E5%BD%88%E8%B7%B3%E5%BA%8A-%E6%B2%99%E5%9D%91-%E7%A9%8D%E6%9C%A8%E7%89%86/ar-AA2c3JU3",
+      "image_url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "中部雨天要去哪! 5大親子好去處，彰化新開幕親子空間，一票暢玩彈跳床、沙坑、積木牆。中部不少讓孩子流連忘返的博物館與觀光工廠，不論雨天或是日曬，都是全家出遊的最佳去處，以下推薦6個中部雨天去哪放電？從寓教於樂的博物館，到趣味好玩的遊樂場，每一個都讓大朋友小朋友還想再來一次呢！不論台灣中部有許多寓教於樂的主題體驗博物館和觀光工廠，讓人待上一整個下午都不是問題，無論是乳酪的製程、巧克力的知識、蛋捲的故事、釣魚的最佳手勢、或是單純讓自己腦洞大開，徜徉在幻覺與想像力之中， ...",
+      "analysis": {
+        "overview": "中部雨天要去哪! 5大親子好去處，彰化新開幕親子空間，一票暢玩彈跳床、沙坑、積木牆。中部不少讓孩子流連忘返的博物館與觀光工廠，不論雨天或是日曬，都是全家出遊的最佳去處，以下推薦6個中部雨天去哪放電？從寓教於樂的博物館，到趣味好玩的遊樂場，每一個都讓大朋友小朋友還想再來一次呢！不論台灣中部有許多寓教於樂的主題體驗博物館和觀光工廠，讓人待上一整個下午都不是問題，無論是乳酪的製程、巧克力的知識、蛋捲的故事、釣魚的最佳手勢、或是單純讓自己腦洞大開，徜徉在幻覺與想像力之中， ...",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "msn.com",
+      "tags": [
+        "放電",
+        "室內"
+      ],
+      "reason": "雨天備案室內空間，有彈跳床、沙坑、積木牆等多元設施，小孩可以盡情放電，家長也能輕鬆陪玩。",
+      "published_at": "2026-09-08T19:30:08+00:00",
+      "collected_at": "2026-09-12T15:31:33.926636+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-www-msn-com-zh-tw-lifestyle-other-e4-b8-ad-e9-83-a8-e9-9b-a8-e5-a4-a9-e8-a",
+      "title": "中部雨天要去哪! 5大親子好去處，彰化新開幕親子空間，一票暢玩彈跳床、沙坑、積木牆",
+      "url": "https://www.msn.com/zh-tw/lifestyle/other/%E4%B8%AD%E9%83%A8%E9%9B%A8%E5%A4%A9%E8%A6%81%E5%8E%BB%E5%93%AA-5%E5%A4%A7%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95-%E5%BD%B0%E5%8C%96%E6%96%B0%E9%96%8B%E5%B9%95%E8%A6%AA%E5%AD%90%E7%A9%BA%E9%96%93-%E4%B8%80%E7%A5%A8%E6%9A%A2%E7%8E%A9%E5%BD%88%E8%B7%B3%E5%BA%8A-%E6%B2%99%E5%9D%91-%E7%A9%8D%E6%9C%A8%E7%89%86/ar-AA2c3JU3",
+      "canonical_url": "https://www.msn.com/zh-tw/lifestyle/other/%E4%B8%AD%E9%83%A8%E9%9B%A8%E5%A4%A9%E8%A6%81%E5%8E%BB%E5%93%AA-5%E5%A4%A7%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95-%E5%BD%B0%E5%8C%96%E6%96%B0%E9%96%8B%E5%B9%95%E8%A6%AA%E5%AD%90%E7%A9%BA%E9%96%93-%E4%B8%80%E7%A5%A8%E6%9A%A2%E7%8E%A9%E5%BD%88%E8%B7%B3%E5%BA%8A-%E6%B2%99%E5%9D%91-%E7%A9%8D%E6%9C%A8%E7%89%86/ar-AA2c3JU3",
+      "image_url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "中部雨天要去哪! 5大親子好去處，彰化新開幕親子空間，一票暢玩彈跳床、沙坑、積木牆。中部不少讓孩子流連忘返的博物館與觀光工廠，不論雨天或是日曬，都是全家出遊的最佳去處，以下推薦6個中部雨天去哪放電？從寓教於樂的博物館，到趣味好玩的遊樂場，每一個都讓大朋友小朋友還想再來一次呢！不論台灣中部有許多寓教於樂的主題體驗博物館和觀光工廠，讓人待上一整個下午都不是問題，無論是乳酪的製程、巧克力的知識、蛋捲的故事、釣魚的最佳手勢、或是單純讓自己腦洞大開，徜徉在幻覺與想像力之中， ...",
+      "analysis": {
+        "overview": "中部雨天要去哪! 5大親子好去處，彰化新開幕親子空間，一票暢玩彈跳床、沙坑、積木牆。中部不少讓孩子流連忘返的博物館與觀光工廠，不論雨天或是日曬，都是全家出遊的最佳去處，以下推薦6個中部雨天去哪放電？從寓教於樂的博物館，到趣味好玩的遊樂場，每一個都讓大朋友小朋友還想再來一次呢！不論台灣中部有許多寓教於樂的主題體驗博物館和觀光工廠，讓人待上一整個下午都不是問題，無論是乳酪的製程、巧克力的知識、蛋捲的故事、釣魚的最佳手勢、或是單純讓自己腦洞大開，徜徉在幻覺與想像力之中， ...",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "msn.com",
+      "tags": [
+        "放電",
+        "室內",
+        "好玩"
+      ],
+      "reason": "雨天室內備案首選，彰化新開幕親子空間有彈跳床、沙坑、積木牆等設施，小孩盡情放電家長好輕鬆。",
+      "published_at": "2026-09-08T19:30:08+00:00",
+      "collected_at": "2026-09-12T15:31:46.453122+00:00",
+      "query": "台灣 室內親子景點"
+    },
+    {
       "id": "https-tw-news-yahoo-com-e5-8f-b0-e7-89-88-e8-bf-aa-e5-a3-ab-e5-b0-bc-e9-81-8a-e6",
       "title": "「台版迪士尼」遊樂園宣布熄燈 大票家長不捨：可以別關嗎",
       "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%89%88%E8%BF%AA%E5%A3%AB%E5%B0%BC-%E9%81%8A%E6%A8%82%E5%9C%92%E5%AE%A3%E5%B8%83%E7%86%84%E7%87%88-%E5%A4%A7%E7%A5%A8%E5%AE%B6%E9%95%B7%E4%B8%8D%E6%8D%A8-%E5%8F%AF%E4%BB%A5%E5%88%A5%E9%97%9C%E5%97%8E-012551937.html",
@@ -737,96 +820,6 @@
       "published_at": "2026-09-08T11:02:00+00:00",
       "collected_at": "2026-09-08T16:38:26.436167+00:00",
       "query": "台北 新北 桃園 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiyefvx3lxte1rukm5djmzdvnrqm9sx0k4v3zws2pks",
-      "title": "「台版不插電迪士尼」宣布熄燈！450項冒險設施倒數　不堪營運壓力...桃園遊樂園這天結束營業",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RUkM5djMzdVNRQm9SX0k4V3ZWS2pKSFJ5YjlQVEM0S0hqRzBncUNnZF9yT1lOU3NaajcyTE55Tjh5SHJiem5OLTZrZW55MFpPX2JrNHc2bXZTcXZXRUE2b9IBYEFVX3lxTE1RUkM5djMzdVNRQm9SX0k4V3ZWS2pKSFJ5YjlQVEM0S0hqRzBncUNnZF9yT1lOU3NaajcyTE55Tjh5SHJiem5OLTZrZW55MFpPX2JrNHc2bXZTcXZXRUE2bw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RUkM5djMzdVNRQm9SX0k4V3ZWS2pKSFJ5YjlQVEM0S0hqRzBncUNnZF9yT1lOU3NaajcyTE55Tjh5SHJiem5OLTZrZW55MFpPX2JrNHc2bXZTcXZXRUE2b9IBYEFVX3lxTE1RUkM5djMzdVNRQm9SX0k4V3ZWS2pKSFJ5YjlQVEM0S0hqRzBncUNnZF9yT1lOU3NaajcyTE55Tjh5SHJiem5OLTZrZW55MFpPX2JrNHc2bXZTcXZXRUE2bw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "「台版不插電迪士尼」宣布熄燈！450項冒險設施倒數　不堪營運壓力...桃園遊樂園這天結束營業。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "「台版不插電迪士尼」宣布熄燈！450項冒險設施倒數　不堪營運壓力...桃園遊樂園這天結束營業。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "鏡週刊Mirror Media",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "此園區宣布熄燈即將結束營業，家長帶小孩前往可能已來不及體驗450項冒險設施，建議另尋其他正常營運的遊樂園。",
-      "published_at": "2026-09-08T11:02:00+00:00",
-      "collected_at": "2026-09-10T16:24:51.201320+00:00",
-      "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-www-nownews-com-news-6873284",
-      "title": "台版「迪士尼」遊樂園11月熄燈！業者曝倒閉原因 免費玩到9月底 | 新奇網搜 | 生活 | NOWnews今日新聞",
-      "url": "https://www.nownews.com/news/6873284",
-      "canonical_url": "https://www.nownews.com/news/6873284",
-      "image_url": "https://media.nownews.com/nn_media/thumbnail/2025/10/1760083427912-7fe735c8dafa47ffaedc4e7295bbf945-1146x825.webp?unShow=false",
-      "images": [
-        "https://www.nownews.com/NOWnews/images/app-promote.webp",
-        "https://media.nownews.com/nn_media/thumbnail/2025/10/1760083427912-7fe735c8dafa47ffaedc4e7295bbf945-1146x825.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/09/1788855584543-c72801c7911748078bc39ad272d23799-500x707.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2025/10/1760083512168-478b16117ccf4966acc731ccce810bd1-500x370.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2025/10/1760083501318-69108325719f462d8db3c807245c9cd9-500x370.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/08/1787360051329-0c0131a28fd44887858b961d41842f77-500x375.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/08/1786921239242-d8edcbe394d245e29498bcba4b2818ea-500x294.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/09/1788505960156-e4411f7f042640689354ebb45993dfe8-500x374.webp?unShow=false"
-      ],
-      "summary": "台版「迪士尼」遊樂園11月熄燈！業者曝倒閉原因 免費玩到9月底 | 新奇網搜 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 潘毅 ／綜合報導 ▲桃園市中壢區超人氣親子景點「野趣森林」，近期震撼宣布，將於今年 11 月 30 日正式結束營業。（圖／記者賴禹妡攝） ✕ 被譽為「台版不插電迪士尼」的桃園市中壢區超人氣親子景點「野趣森林」，近期震撼宣布，將於今年 11 月 30 日正式結束營業。業者無奈坦言，由於扛不住大量公共免費設施的競爭與沉重的營運壓力，最終只能艱難地做出熄燈決定。野趣森林也因為週年活動一直到 9 月 30 日都是免費入場，可以把握最後機會前來朝聖。我是廣告 請繼續往下閱讀 --> 扛不住免費共融公園競爭！台版迪士尼無奈退場 位於桃園市中壢區的「野趣森林」前身為台灣地景花園，自 2025 年起由新團隊接手並擴大經營。占地高達 7 公頃的園區內，設有超過 450 項水陸空冒險設施，主打「沒有任何電動遊具」，鼓勵孩子透過身體協調力來探索自然，成為北部親子戶外放電的人氣首選。",
-      "analysis": {
-        "overview": "台版「迪士尼」遊樂園11月熄燈！業者曝倒閉原因 免費玩到9月底 | 新奇網搜 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 潘毅 ／綜合報導 ▲桃園市中壢區超人氣親子景點「野趣森林」，近期震撼宣布，將於今年 11 月 30 日正式結束營業。（圖／記者賴禹妡攝） ✕ 被譽為「台版不插電迪士尼」的桃園市中壢區超人氣親子景點「野趣森林」",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "nownews.com",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "佔地7公頃且有450項水陸空冒險設施，沒有電動遊具讓孩子盡情放電探索，同時免費入場到9月底可把握最後機會。",
-      "published_at": "2026-09-08T09:22:00+00:00",
-      "collected_at": "2026-09-08T16:38:38.258157+00:00",
-      "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-news-tvbs-com-tw-life-4019244",
-      "title": "「台版迪士尼」遊樂園倒閉熄燈　超過450項設施也撐不住",
-      "url": "https://news.tvbs.com.tw/life/4019244",
-      "canonical_url": "https://news.tvbs.com.tw/life/4019244",
-      "image_url": "https://news-images.tvbs.com.tw/api/v1/image/01a07fdf-77c2-7311-920f-3e1e4a5c1e89.jpg?t=16x9&c=0,0,1080,608&w=1200&h=675",
-      "images": [
-        "https://news-images.tvbs.com.tw/api/v1/image/01a07fdf-77c2-7311-920f-3e1e4a5c1e89.jpg?t=16x9&c=0,0,1080,608&w=1200&h=675",
-        "https://sb.scorecardresearch.com/p?c1=2&c2=18400300&cv=3.9.1&cj=1",
-        "https://news-images.tvbs.com.tw/api/v1/image/01a07fdf-77c2-7311-920f-3e1e4a5c1e89.jpg?w=1067&h=600&t=16x9&c=0",
-        "https://news-images.tvbs.com.tw/api/v1/image/01a07fdf-a983-73d0-9be0-e757896d4bf0.jpg?w=1024&h=1447",
-        "https://news-images.tvbs.com.tw/api/v1/image/019fcb95-61e6-7075-9371-d50bd2866fe4.jpg?w=1067&h=600&t=16x9&wp=l",
-        "https://news-images.tvbs.com.tw/api/v1/image/01a0744f-8b84-7245-b620-2b5e91e8a873.jpg?w=1067&h=600&t=16x9&wp=l",
-        "https://news-images.tvbs.com.tw/api/v1/image/01a07f31-ac10-7067-bd7f-b6d61602a4a4.jpg?w=1067&h=600&t=16x9&c=0",
-        "https://img.youtube.com/vi/wTMsFELILiI/maxresdefault.jpg?w=800&h=450"
-      ],
-      "summary": "「台版迪士尼」遊樂園倒閉熄燈　超過450項設施也撐不住。t.value:void 0,s={timeout:e==null?void 0:e.timeout};\"requestIdleCallback\"in window?g(c,s,{enumerable:!0,value:d}):c[s]=d;var l=(c,s,d)=>w(c,typeof s!c[p](e):void 0},d=t=>t.map(s),y=t=>typeof t!=\"object\"||t===null?this.isConnected)return;let e=(b=this.parentElement)==null?void 0:b.closest(\"astro-island[ssr]\");if(e){e.addEventListener(\"astro:hydrate\",this.hydrate,{once:!0});return}let n=this.querySelectorAll(\"astro-slot\"),r={},i=this.querySelectorAll(\"template[data-astro-template]\");for(let o of i){let a=o.closest(this.tagName);a!",
-      "analysis": {
-        "overview": "「台版迪士尼」遊樂園倒閉熄燈　超過450項設施也撐不住。t.value:void 0,s={timeout:e==null?void 0:e.timeout};\"requestIdleCallback\"in window?g(c,s,{enumerable:!0,value:d}):c[s]=d;var l=(c,s,d)=>w(c,typeof s!c[p](e):void 0},d=t=>t.map(s),y=t=>typeof t!=\"object\"||t===null?this.isConnected)re",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "news.tvbs.com.tw",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "該遊樂園已倒閉熄燈，不建議安排前往。",
-      "published_at": "2026-09-08T08:28:00+00:00",
-      "collected_at": "2026-09-09T00:15:12.323207+00:00",
-      "query": "台灣 免費親子景點"
     }
   ]
 }
