@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-09-15T00:38:42.159385+00:00",
+  "updated_at": "2026-09-15T16:59:05.850277+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiowjbvv95cuxpr0flegnlwv9irnznynbtzzhpdwtnw",
+      "title": "新北、桃園親子觀光工廠推薦日系點心DIY",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPR0FLeGNLWV9IRnZnYnBtZzhpdWtNWGx3Y3p4S3ZqMWVEOHd3TkRkY3QtQkZJc0dxdGJRWmJPcDhxZHl6cmdzSkZQR0J5eGlKN2dRRld5RkFYRUxUT2taUkdsZ1pwU2JnLUtaNWpPdTNVaGlZcVlSSHBxYzZYU28zd3hCbGtOdUphT0kxZi02cXc0aEhZZWlFcWtJMVRFV29jWVBLMGUycDd4dmtXTXRNSnJQdkZ1bXoyUFNUM3VmQ3BMM2FiaEdMNjhXalRpUU9tQi1LTDlEb3FSbExFV0o4UzJkVGVwaW82bm9jYVR2bTgyXzRXMUh4QW0zZ1pDTjAwRjJBcUtCR2p3MVQ2aUplZlg2Vk96N3lCcWl4Vi1QR2ZSWjQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPR0FLeGNLWV9IRnZnYnBtZzhpdWtNWGx3Y3p4S3ZqMWVEOHd3TkRkY3QtQkZJc0dxdGJRWmJPcDhxZHl6cmdzSkZQR0J5eGlKN2dRRld5RkFYRUxUT2taUkdsZ1pwU2JnLUtaNWpPdTNVaGlZcVlSSHBxYzZYU28zd3hCbGtOdUphT0kxZi02cXc0aEhZZWlFcWtJMVRFV29jWVBLMGUycDd4dmtXTXRNSnJQdkZ1bXoyUFNUM3VmQ3BMM2FiaEdMNjhXalRpUU9tQi1LTDlEb3FSbExFV0o4UzJkVGVwaW82bm9jYVR2bTgyXzRXMUh4QW0zZ1pDTjAwRjJBcUtCR2p3MVQ2aUplZlg2Vk96N3lCcWl4Vi1QR2ZSWjQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "新北、桃園親子觀光工廠推薦日系點心DIY。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "新北、桃園親子觀光工廠推薦日系點心DIY。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "日系點心DIY可讓孩子體驗手作樂趣，是雨天備案的室內親子活動好去處，家長可與孩子共同完成作品、留下難得回憶。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "好玩",
+        "室內"
+      ],
+      "reason": "日系點心DIY可讓孩子體驗手作樂趣，是雨天備案的室內親子活動好去處，家長可與孩子共同完成作品、留下難得回憶。",
+      "published_at": "2026-09-15T05:35:36+00:00",
+      "collected_at": "2026-09-15T16:59:00.081115+00:00",
+      "query": "台灣 親子景點 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte9zx0ffqlz6zexlceyyz3hdeddmyjloa",
       "title": "中市交通局打造「城市大旅行」 孩子開車遊台中趣學道安 | 台灣好新聞",
@@ -27,6 +53,32 @@
       "reason": "讓孩子體驗開車樂趣，結合交通安全教育，兼具玩樂與學習效果",
       "published_at": "2026-09-14T09:16:11+00:00",
       "collected_at": "2026-09-14T18:04:59.288334+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte1srnrisw5dlwtnmtl4sglfqwyxuk5rz",
+      "title": "中市交通局打造「城市大旅行」 孩子開車遊台中趣學道安",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sRnRISW5DLWtnMTl4SGlFQWYxUk5rZnNaRzBrSVBlRmZDZnVPYnJqdG84cmpYWXZlc3VpTVhqRzFSaUZXUXBTTDRvLWRVVGdNUUE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sRnRISW5DLWtnMTl4SGlFQWYxUk5rZnNaRzBrSVBlRmZDZnVPYnJqdG84cmpYWXZlc3VpTVhqRzFSaUZXUXBTTDRvLWRVVGdNUUE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "中市交通局打造「城市大旅行」 孩子開車遊台中趣學道安。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "中市交通局打造「城市大旅行」 孩子開車遊台中趣學道安。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "活動融合交通規則學習與趣味闖關體驗，讓孩子邊玩邊建立道安觀念，兼具教育意義與玩樂趣味，適合親子共同參與。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "活動融合交通規則學習與趣味闖關體驗，讓孩子邊玩邊建立道安觀念，兼具教育意義與玩樂趣味，適合親子共同參與。",
+      "published_at": "2026-09-14T08:55:00+00:00",
+      "collected_at": "2026-09-15T16:59:05.780879+00:00",
       "query": "台灣 親子旅遊 景點 公園"
     },
     {
@@ -761,65 +813,6 @@
       "published_at": "2026-09-09T06:00:00+00:00",
       "collected_at": "2026-09-09T16:38:40.534576+00:00",
       "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiv0fvx3lxte1stffrunnienrjdfzudllyvzhaekd2v",
-      "title": "免費玩到年底！貓空纜車、兒童新樂園、小巨蛋冰上樂園軍眷優惠，攜伴免門票",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sTFFrUnNienRJdFZUdllyVzhaekd2VnZ1XzUtSnFCRC1ldFc2Ukt1ZC1OVmQtX1d0Rmo3dDdVdGFXU0xsUXZ1anVhS1hrUm1aLVprNnNhNA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sTFFrUnNienRJdFZUdllyVzhaekd2VnZ1XzUtSnFCRC1ldFc2Ukt1ZC1OVmQtX1d0Rmo3dDdVdGFXU0xsUXZ1anVhS1hrUm1aLVprNnNhNA?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "免費玩到年底！貓空纜車、兒童新樂園、小巨蛋冰上樂園軍眷優惠，攜伴免門票。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "免費玩到年底！貓空纜車、兒童新樂園、小巨蛋冰上樂園軍眷優惠，攜伴免門票。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "食尚玩家",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "軍眷免費優惠讓家長省下大筆門票錢，兒童新樂園與冰上樂園室內設施雨天也能放電，貓空纜車視野開闘適合帶小孩體驗。",
-      "published_at": "2026-09-09T06:00:00+00:00",
-      "collected_at": "2026-09-11T16:28:52.940678+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-news-pchome-com-tw-living-focusnews-20260909-index-78892855325700302009-ht",
-      "title": "和逸飯店·台南西門館攜手親子天下 小行星集章玩到中秋甜點DIY - 生活新聞 - PChome Online 新聞",
-      "url": "https://news.pchome.com.tw/living/focusnews/20260909/index-78892855325700302009.html",
-      "canonical_url": "https://news.pchome.com.tw/living/focusnews/20260909/index-78892855325700302009.html",
-      "image_url": "https://news.pchome.com.tw/newsdata/living/focusnews/20260909/78892855325700302009_original.jpg",
-      "images": [
-        "https://news.pchome.com.tw/newsdata/living/focusnews/20260909/78892855325700302009_original.jpg",
-        "https://news.pchome.com.tw/img/air_smly2.png",
-        "https://news.pchome.com.tw/img/ico_locate.png",
-        "https://news.pchome.com.tw/img/air_smly1.png",
-        "https://news.pchome.com.tw/newsdata/living/focusnews/20260909/78892855325700302009.jpg",
-        "https://news.pchome.com.tw/newsdata/living/focusnews/20260909/78892855325700302009_1.jpg",
-        "https://news.pchome.com.tw/img/google_news_pc.jpg?v=20240812"
-      ],
-      "summary": "和逸飯店·台南西門館攜手親子天下 小行星集章玩到中秋甜點DIY - 生活新聞 - PChome Online 新聞。此次活動結合集章挑戰、主題住房、繪本共讀及甜點DIY，親子可一起完成能量寶石集章任務，入住互動闖關主題房，再跟著說故事姐姐走進繪本世界，親手製作中秋甜點，在玩樂與探索中享受兼具教育意義與歡樂回憶的親子假期。相關預訂及活動報名可洽06-702-6699。圖/和逸飯店·台南西門館推出「中秋甜點故事屋」中秋限定活動，攜手親子天下人氣繪本打造期間限定親子活動，由說故事姐姐帶領孩子走進金鼎獎作家哲也作品《來火龍家吃飯！圖片來源 / 和逸飯店·台南西門館。集章冒險結合互動住房，開啟親子閱讀探索之旅 和逸飯店·台南西門館即日起至10月31日，成為親子天下《樂樂小宇宙：能量寶石大作戰》全台指定集章據點之一，邀請大小朋友參加「小行星10周年集章任務」，蒐集專屬能量寶石印章。活動期間，只要在飯店完成加碼打卡任務，即可兌換限量好禮，包括卡通主題明信片、Cozzi KITCHÉN餐飲折價券及「玩樂1+1」優惠券。飯店也在集章區旁設置閱讀角，精選多款繪本供親子自由閱讀，掃描書籍QR Code還能線上收聽故事音檔，讓閱讀成為旅途中輕鬆又溫馨的親子時光。",
-      "analysis": {
-        "overview": "和逸飯店·台南西門館攜手親子天下 小行星集章玩到中秋甜點DIY - 生活新聞 - PChome Online 新聞。此次活動結合集章挑戰、主題住房、繪本共讀及甜點DIY，親子可一起完成能量寶石集章任務，入住互動闖關主題房，再跟著說故事姐姐走進繪本世界，親手製作中秋甜點，在玩樂與探索中享受兼具教育意義與歡樂回憶的親子假期。相關預訂及活動報名可洽06-702-6699。圖/和逸飯店·台南西門館推出「中秋甜點故事屋」中秋限定活動，攜手親子天下人氣繪本打造期間限定親子活動，由說故事姐姐帶領孩子走進金鼎獎作家哲也作品《來火龍",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "news.pchome.com.tw",
-      "tags": [
-        "室內",
-        "好玩"
-      ],
-      "reason": "飯店室內活動不受天氣影響，有專人帶領說故事和DIY體驗，雨天備案或炎夏躲在冷氣房裡也很合適，家長能輕鬆陪玩又兼顧教育意義。",
-      "published_at": "2026-09-09T05:35:00+00:00",
-      "collected_at": "2026-09-09T16:38:55.336558+00:00",
-      "query": "台灣 親子飯店 親子樂園"
     }
   ]
 }
