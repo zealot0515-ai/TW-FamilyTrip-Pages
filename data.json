@@ -1,8 +1,69 @@
 {
-  "updated_at": "2026-09-18T16:24:59.477394+00:00",
+  "updated_at": "2026-09-19T00:21:38.691763+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-www-marieclaire-com-tw-lifestyle-news-96011",
+      "title": "2000坪兒童樂園倒數開幕！「KidZania Taipei奇薩尼亞台北」降落南港LaLaport，50種職業體驗、星宇航空進駐",
+      "url": "https://www.marieclaire.com.tw/lifestyle/news/96011",
+      "canonical_url": "https://www.marieclaire.com.tw/lifestyle/news/96011",
+      "image_url": "https://ia.marieclaire.com.tw/assets/mc/202609/6AACF93940EA41789720889.jpeg",
+      "images": [
+        "https://ia.marieclaire.com.tw/assets/mc/202609/6AACF93940EA41789720889.jpeg",
+        "https://im.marieclaire.com.tw/s300c400h100b0webp100/assets/mc/202609/6A968B90E5AE21788251024.jpeg",
+        "https://ian.marieclaire.com.tw/assets/mc/202609/6AACF93940EA41789720889.jpeg?t=sc&w=1200%2C675&format=jpg",
+        "https://ian.marieclaire.com.tw/assets/mc/202609/6AACF8D7C2EE61789720791.png?t=auto&w=1200%2C675&format=jpg",
+        "https://ian.marieclaire.com.tw/assets/mc/202609/6AACF85328E3E1789720659.jpeg?t=auto&w=1200%2C675&format=jpg",
+        "https://ian.marieclaire.com.tw/assets/mc/202609/6AACF991BF4FA1789720977.jpeg?t=auto&w=1200%2C675&format=jpg",
+        "https://ian.marieclaire.com.tw/assets/mc/202609/6AACF9DA6F78B1789721050.png?t=auto&w=1200%2C675&format=jpg",
+        "https://ian.marieclaire.com.tw/assets/mc/202609/6AACFA30EE7BD1789721136.png?t=auto&w=1200%2C675&format=jpg"
+      ],
+      "summary": "2000坪兒童樂園倒數開幕！「KidZania Taipei奇薩尼亞台北」降落南港LaLaport，50種職業體驗、星宇航空進駐。SUBSCRIBE 站內搜尋 風格學院 會員登入 by Benny - 2026/09/19 更新 Text／PEI、Photo／KidZania 台北再添一座全新親子景點！全球知名兒童職業體驗樂園「KidZania奇薩尼亞」正式宣布進軍台灣，首座「KidZania Taipei奇薩尼亞台北」預計於2026年底開幕、進駐南港LaLaport。這座占地2000坪的兒童版真實城市中，規劃近50種職業體驗，從警察、消防員、醫師到機師通通有，更將推出全球獨家的「台灣限定隱藏版職業」；其中星宇航空也打造航空體驗，讓孩子從踏入園區的那一刻起，就展開一場充滿想像力的職業探索之旅。「KidZania Taipei奇薩尼亞台北」亮點搶先看 1999年發跡於墨西哥的 兒童職業體驗樂園「 KidZania 奇薩尼亞」，專為3~17歲孩童而生，以寓教於樂為核心，透過超擬真的城市設計，提供沉浸式的職業體驗樂趣，帶領孩童們在娛樂中探索新知、學習責任、培養獨立思考與團隊合作能力。",
+      "analysis": {
+        "overview": "2000坪兒童樂園倒數開幕！「KidZania Taipei奇薩尼亞台北」降落南港LaLaport，50種職業體驗、星宇航空進駐。SUBSCRIBE 站內搜尋 風格學院 會員登入 by Benny - 2026/09/19 更新 Text／PEI、Photo／KidZania 台北再添一座全新親子景點！全球知名兒童職業體驗樂園「KidZania奇薩尼亞」正式宣布進軍台灣，首座「KidZania Taipei奇薩尼亞台北」預計於2026年底開幕、進駐南港LaLaport。這座占地2000坪的兒童版真實城市中，規劃近5",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "marieclaire.com.tw",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "進駐LaLaport商場室內不怕日曬雨淋，2000坪超大空間與近50種職業體驗能讓孩子盡情放電探索，家長也有舒適的休憩區域。",
+      "published_at": "2026-09-18T17:00:00+00:00",
+      "collected_at": "2026-09-19T00:21:33.786108+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiyefvx3lxte0yu2nqrktxy3g2eghtd2pmn3vvdxzeu",
+      "title": "2000坪兒童樂園倒數開幕！「KidZania Taipei奇薩尼亞台北」降落南港LaLaport，50種職業體驗、星宇航空進駐",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yU2NqRktxY3g2eGhTd2pmN3VVdXZEUTlsTXJzTjZPUWtOM0xKdHZKZEZ4UE91Q2JqSlZFWGVZYWxQOFJIZTZGaGVhQjNnN1M2elQ0dFk3SUx5anhtMHBkQw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yU2NqRktxY3g2eGhTd2pmN3VVdXZEUTlsTXJzTjZPUWtOM0xKdHZKZEZ4UE91Q2JqSlZFWGVZYWxQOFJIZTZGaGVhQjNnN1M2elQ0dFk3SUx5anhtMHBkQw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "2000坪兒童樂園倒數開幕！「KidZania Taipei奇薩尼亞台北」降落南港LaLaport，50種職業體驗、星宇航空進駐。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "2000坪兒童樂園倒數開幕！「KidZania Taipei奇薩尼亞台北」降落南港LaLaport，50種職業體驗、星宇航空進駐。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Marie Claire 美麗佳人",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "室內 2000 坪大型兒童職業體驗樂園，雨天備案無負擔，50種模擬職業讓小孩盡情放電又富有教育意義。",
+      "published_at": "2026-09-18T16:51:25+00:00",
+      "collected_at": "2026-09-19T00:21:38.615595+00:00",
+      "query": "台灣 親子景點 最新"
+    },
     {
       "id": "https-n-yam-com-article-20260918687214",
       "title": "親子一齊來放電　「2026大直享樂生活節」9/19熱鬧登場 | 蕃新聞",
@@ -737,62 +798,6 @@
       "published_at": "2026-09-17T02:41:00+00:00",
       "collected_at": "2026-09-18T00:20:08.273784+00:00",
       "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-pchome-com-tw-public-kcg-20260917-index-78960920003342128016-html",
-      "title": "高雄親子遊樂園人氣旺 　公園處即時巡檢維護、志工加入共同守護 - 政府消息新聞 - PChome Online 新聞",
-      "url": "https://news.pchome.com.tw/public/kcg/20260917/index-78960920003342128016.html",
-      "canonical_url": "https://news.pchome.com.tw/public/kcg/20260917/index-78960920003342128016.html",
-      "image_url": "https://news.pchome.com.tw/img/pchome_news_fb.jpg",
-      "images": [
-        "https://news.pchome.com.tw/img/pchome_news_fb.jpg",
-        "https://news.pchome.com.tw/img/air_smly1.png",
-        "https://news.pchome.com.tw/img/ico_locate.png",
-        "https://news.pchome.com.tw/img/google_news_pc.jpg?v=20240812"
-      ],
-      "summary": "高雄親子遊樂園人氣旺 　公園處即時巡檢維護、志工加入共同守護 - 政府消息新聞 - PChome Online 新聞。公園處表示，依園區遊客人流分析，高雄市民約占56.4%，外縣市遊客約占43.6%，顯示園區對外縣市親子家庭也具有相當吸引力。外縣市遊客主要來自鄰近的屏東、台南，另有不少遊客遠從台中、新北及桃園等地前來，高雄親子遊樂園已逐漸展現跨縣市的遊憩吸引力。除了假日親子旅遊人潮，園區多元的遊憩環境也受到幼兒教育單位關注，陸續成為幼兒園安排戶外教學及團體活動的場所。孩子透過戶外活動、遊戲及同儕互動，在遊樂中探索、學習，也讓親子遊樂園的功能從休閒遊憩進一步延伸至兒童戶外學習與生活體驗。面對每日大量人潮及高頻率的設施使用，公園處持續強化巡檢及維護機制。園區管理團隊每日辦理設施巡查，如發現遊具故障或損壞，即進行安全管制並通知維修，原則上於當日或隔日完成修復，以最快速度恢復正常使用，降低對遊客的影響，維持園區安全及遊憩品質。在人力配置方面，目前園區平日約配置約10餘名管理人員，假日因應大量遊園人潮則增加至約20人，負責遊客引導、設施巡查、環境維護及遊園秩序等工作。",
-      "analysis": {
-        "overview": "高雄親子遊樂園人氣旺 　公園處即時巡檢維護、志工加入共同守護 - 政府消息新聞 - PChome Online 新聞。公園處表示，依園區遊客人流分析，高雄市民約占56.4%，外縣市遊客約占43.6%，顯示園區對外縣市親子家庭也具有相當吸引力。外縣市遊客主要來自鄰近的屏東、台南，另有不少遊客遠從台中、新北及桃園等地前來，高雄親子遊樂園已逐漸展現跨縣市的遊憩吸引力。除了假日親子旅遊人潮，園區多元的遊憩環境也受到幼兒教育單位關注，陸續成為幼兒園安排戶外教學及團體活動的場所。孩子透過戶外活動、遊戲及同儕互動，在遊樂中探索、",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "news.pchome.com.tw",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "園區有專人每日巡檢維護、假日配置約20名管理人員，安全維護機制完善，讓家長能放心讓孩子盡情放電遊玩。",
-      "published_at": "2026-09-17T02:40:00+00:00",
-      "collected_at": "2026-09-17T17:04:50.521832+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmicefvx3lxtfbkanrxzunfdep1u0xst1vfu0yxm3m3s",
-      "title": "週一也能玩了！ 高雄親子遊樂園區9/28起改休週二、三",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKanRxZUNFdEp1U0xST1VfU0YxM3M3SHR3cTJ6bDIwMzhBMUw3dU1pVDRtc0ttVkppS2RGUm5QRFdDNHk0djRybzJtbWtKQlRqaDRHVnBscThTRFpUQ19NcjFjYWh1WkJZOFIxdFZTSGPSAXBBVV95cUxQSmp0cWVDRXRKdVNMUk9VX1NGMTNzN0h0d3EyemwyMDM4QTFMN3VNaVQ0bXNLbVZKaUtkRlJuUERXQzR5NHY0cm8ybW1rSkJUamg0R1ZwbHE4U0RaVENfTXIxY2FodVpCWThSMXRWU0hj?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKanRxZUNFdEp1U0xST1VfU0YxM3M3SHR3cTJ6bDIwMzhBMUw3dU1pVDRtc0ttVkppS2RGUm5QRFdDNHk0djRybzJtbWtKQlRqaDRHVnBscThTRFpUQ19NcjFjYWh1WkJZOFIxdFZTSGPSAXBBVV95cUxQSmp0cWVDRXRKdVNMUk9VX1NGMTNzN0h0d3EyemwyMDM4QTFMN3VNaVQ0bXNLbVZKaUtkRlJuUERXQzR5NHY0cm8ybW1rSkJUamg0R1ZwbHE4U0RaVENfTXIxY2FodVpCWThSMXRWU0hj?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "週一也能玩了！ 高雄親子遊樂園區9/28起改休週二、三。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "週一也能玩了！ 高雄親子遊樂園區9/28起改休週二、三。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "自由時報",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "高雄親子遊樂園區讓小孩盡情放電，且更改休園日後週一也能入場，解決家長平日不知道帶孩子去哪的困擾。",
-      "published_at": "2026-09-17T02:08:50+00:00",
-      "collected_at": "2026-09-17T17:04:59.454351+00:00",
-      "query": "台灣 親子景點 最新"
     }
   ]
 }
