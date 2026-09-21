@@ -1,8 +1,60 @@
 {
-  "updated_at": "2026-09-20T16:07:25.141735+00:00",
+  "updated_at": "2026-09-21T00:17:41.213140+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmi5ajbvv95cuxqcneyvzi4djdvr2i3x2vmde9pcjkxe",
+      "title": "2026中秋連假高雄台南去哪玩？熱氣球、樂園優惠、市集與屏東親子活動",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQcnEyVzI4djdvR2I3X2VMdE9PcjkxeHE1M2VIZ3BiaDRjR0ZXSC13aWcwdlRWeEFQRkEzeW9jWm1IWkFPblFFLU5oaHAzNF82NEZqaXo3WkFNS3FramZzQ2ljRExPalYxZHIyYlloRTRvWXBGRzBkOUotMDRqSXBNY2VNV2x0U2NTUFNUaXdCNVRIM0NPTlR4VGZZZEpXYjZuSmlELWljcGtuUUltc2Vpd1ZkbXVSY0NGajdjVVI1Q1JKdEZ3Z3hSQnlHWUxZM0hHNG1SbjJCM1lqT1NHVGRpM2N4aElSVVdUT196eHlFUFdWel9sTVBhWHBiQjY0bzNzaU50R2NmN3gzaGUtR3FabFdDQzZjaDk1Q3pFXzBKWG1YMVk3V0NVeTlqUHNDdmFWLXF2SU85WUZiSnZEMERNaG5sRWhGcDBiaXVMT2dyZWI5a2Z1R1YtdFFKcFJzREFPU0I0bA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQcnEyVzI4djdvR2I3X2VMdE9PcjkxeHE1M2VIZ3BiaDRjR0ZXSC13aWcwdlRWeEFQRkEzeW9jWm1IWkFPblFFLU5oaHAzNF82NEZqaXo3WkFNS3FramZzQ2ljRExPalYxZHIyYlloRTRvWXBGRzBkOUotMDRqSXBNY2VNV2x0U2NTUFNUaXdCNVRIM0NPTlR4VGZZZEpXYjZuSmlELWljcGtuUUltc2Vpd1ZkbXVSY0NGajdjVVI1Q1JKdEZ3Z3hSQnlHWUxZM0hHNG1SbjJCM1lqT1NHVGRpM2N4aElSVVdUT196eHlFUFdWel9sTVBhWHBiQjY0bzNzaU50R2NmN3gzaGUtR3FabFdDQzZjaDk1Q3pFXzBKWG1YMVk3V0NVeTlqUHNDdmFWLXF2SU85WUZiSnZEMERNaG5sRWhGcDBiaXVMT2dyZWI5a2Z1R1YtdFFKcFJzREFPU0I0bA?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "2026中秋連假高雄台南去哪玩？熱氣球、樂園優惠、市集與屏東親子活動。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "2026中秋連假高雄台南去哪玩？熱氣球、樂園優惠、市集與屏東親子活動。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Life 生活網",
+      "tags": [
+        "好玩",
+        "放電"
+      ],
+      "reason": "中秋連假高雄台南樂園優惠與熱氣球等活動多元，可帶孩子放電又 fun 玩。",
+      "published_at": "2026-09-20T22:30:00+00:00",
+      "collected_at": "2026-09-21T00:17:07.904672+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte9fynbtd0jlsudqb0cxvll6bmhpd3ldw",
+      "title": "2026中秋連假高雄台南去哪玩？熱氣球、樂園優惠、市集與屏東親子活動",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fYnBtd0JLSUdqb0cxVll6bmhpd3lDWWRYRWEwMWtfMjAyVU5uRkJTV3c4Wmw2Rkt0N3pmcE5haHNFbTAxSWQ4MHB0Z21hQ3Y5dVE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fYnBtd0JLSUdqb0cxVll6bmhpd3lDWWRYRWEwMWtfMjAyVU5uRkJTV3c4Wmw2Rkt0N3pmcE5haHNFbTAxSWQ4MHB0Z21hQ3Y5dVE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "2026中秋連假高雄台南去哪玩？熱氣球、樂園優惠、市集與屏東親子活動。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "2026中秋連假高雄台南去哪玩？熱氣球、樂園優惠、市集與屏東親子活動。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "n.yam.com",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "樂園優惠搭配熱氣球與市集等多元活動，中秋連假全家出遊豐富又好玩，滿足不同年齡層孩童的玩樂需求。",
+      "published_at": "2026-09-20T22:30:00+00:00",
+      "collected_at": "2026-09-21T00:17:11.613606+00:00",
+      "query": "台南 高雄 屏東 親子景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmizefvx3lxte9fz0qwmjhdatjvuzjorvljukdkdkg0v",
       "title": "網路鬼故事？傳高雄親子樂園成廢墟 好過日：人聲鼎沸、30設施全運作",
@@ -763,81 +815,36 @@
       "query": "台灣 遊樂園 親子 最新"
     },
     {
-      "id": "https-news-google-com-rss-articles-cbmisefvx3lxte9cu1domw95v0g5dwhhrkzir1lxvm12m",
-      "title": "高雄親子遊樂園人氣旺 　9月28日起週一也能玩",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CU1dOMW95V0g5dWhHRkZIR1lXVm12MngyY19qZ0MxSXlhampCVmNCYmktdzFmYXdzbnZXSkRHYU9CUnJNcmkwN9IBTEFVX3lxTE84RWNjUkV5azYwY29oNW9abVZGVEhRNDZ1bG01Rmk3NDhZT2ZpX1ZaR2tudnE4bXBvQjNDOXY4bWdmLXM1Y0NTT2owSmk?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CU1dOMW95V0g5dWhHRkZIR1lXVm12MngyY19qZ0MxSXlhampCVmNCYmktdzFmYXdzbnZXSkRHYU9CUnJNcmkwN9IBTEFVX3lxTE84RWNjUkV5azYwY29oNW9abVZGVEhRNDZ1bG01Rmk3NDhZT2ZpX1ZaR2tudnE4bXBvQjNDOXY4bWdmLXM1Y0NTT2owSmk?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "id": "https-www-pinview-com-tw-news-62862-html",
+      "title": "高雄親子遊樂園人氣高　9/28起週一也能玩",
+      "url": "https://www.pinview.com.tw/News/62862.html",
+      "canonical_url": "https://www.pinview.com.tw/News/62862.html",
+      "image_url": "https://www.pinview.com.tw/Upload/Article/6aab729c9b8ed.jpg",
       "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        "https://www.pinview.com.tw/Upload/Banner/6aa9f80d86fb5.jpg",
+        "https://www.pinview.com.tw/Upload/Article/6aab729c9b8ed.jpg",
+        "https://www.pinview.com.tw/Upload/image/20260917/6aab72bae9e5e.jpg",
+        "https://www.pinview.com.tw/Upload/image/20260917/6aab72cd4ce22.jpg",
+        "https://www.pinview.com.tw/Upload/image/20260917/6aab72da954ec.png",
+        "https://www.pinview.com.tw/Upload/Article/6aae99d0c9bb4.jpg",
+        "https://www.pinview.com.tw/Upload/Article/6aae8f8bce1ad.jpg",
+        "https://www.pinview.com.tw/Upload/Article/6aae88237f596.jpg"
       ],
-      "summary": "高雄親子遊樂園人氣旺 　9月28日起週一也能玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "高雄親子遊樂園人氣高　9/28起週一也能玩。高雄親子遊樂園人氣高 9/28起週一也能玩 高雄親子遊樂園自8月8日開幕後人氣持續升溫，開幕前兩天即吸引約6.5萬人次入園，暑假期間平均每日約1.5萬人次，假日更達約2.4萬人次，除成為高雄親子家庭熱門遊憩去處，也吸引屏東、台南、台中、新北及桃園等地遊客專程到訪，逐漸成為南台灣親子旅遊新亮點。↑圖說：熱門遊具區吸引滿滿遊客人潮。（圖片來源：高雄市工務局提供） 高雄市政府工務局公園處表示，考量遊客需求及設施維護作業，自9月28日起調整高雄親子遊樂園休園保養日，由原本每週一、二休園，改為每週二、三休園；寒暑假期間則調整為每週三休園，讓民眾週一也能安排親子遊程，也可為即將到來的中秋連假增加休閒選擇。園區內「跑酷練習場」、「雲朵彈跳床」、「抱石攀岩場」及「天車網繩遊藝裝置」等熱門設施，均採分場次體驗，每場次遊玩10分鐘，每日上午11時55分至下午1時10分則進行午間維護。公園處指出，透過分流及定時清場機制，可兼顧遊憩安全與使用公平性。（圖片來源：高雄市工務局提供） 根據園區遊客人流分析，高雄市民約占56.4%，外縣市遊客約43.6%，其中以鄰近的屏東、台南為主，也有不少遊客從台中、新北及桃園等地前來，顯示園區已具跨縣市親子遊憩吸引力。",
       "analysis": {
-        "overview": "高雄親子遊樂園人氣旺 　9月28日起週一也能玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
+        "overview": "高雄親子遊樂園人氣高　9/28起週一也能玩。高雄親子遊樂園人氣高 9/28起週一也能玩 高雄親子遊樂園自8月8日開幕後人氣持續升溫，開幕前兩天即吸引約6.5萬人次入園，暑假期間平均每日約1.5萬人次，假日更達約2.4萬人次，除成為高雄親子家庭熱門遊憩去處，也吸引屏東、台南、台中、新北及桃園等地遊客專程到訪，逐漸成為南台灣親子旅遊新亮點。↑圖說：熱門遊具區吸引滿滿遊客人潮。（圖片來源：高雄市工務局提供） 高雄市政府工務局公園處表示，考量遊客需求及設施維護作業，自9月28日起調整高雄親子遊樂園休園保養日，由原本每週一、",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
       },
-      "source_name": "三立新聞",
+      "source_name": "pinview.com.tw",
       "tags": [
         "放電",
         "好玩"
       ],
-      "reason": "高雄親子遊樂園設施多元，孩子能盡情放電玩樂，且自9月28日起開放週一遊玩，方便家長彈性安排出遊時間。",
-      "published_at": "2026-09-17T05:49:00+00:00",
-      "collected_at": "2026-09-17T17:02:07.727480+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiykfvx3lxte4tr2cxd25wdktvq3e4nxjcc081wkrfw",
-      "title": "高雄親子遊樂園夯 　9／28起週也一能玩",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tR2cxd25WdktvQ3E4NXJCc081WkRfWWhjVFJXQnpRSDZ1QmM4QVEyVEVHQ2xHXzJFeVB6LWNhLUZ4Vl8yUFVjTXBiYm5xdVFzTGxQMDFpRndfRmM2ckxvNkl30gFiQVVfeXFMTi1HZzF3blZ2S29DcTg1ckJzTzVaRF9ZaGNUUldCelFINnVCYzhBUTJURUdDbEdfMkV5UHotY2EtRnhWXzJQVWNNcGJibnF1UXNMbFAwMWlGd19GYzZyTG82SXc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tR2cxd25WdktvQ3E4NXJCc081WkRfWWhjVFJXQnpRSDZ1QmM4QVEyVEVHQ2xHXzJFeVB6LWNhLUZ4Vl8yUFVjTXBiYm5xdVFzTGxQMDFpRndfRmM2ckxvNkl30gFiQVVfeXFMTi1HZzF3blZ2S29DcTg1ckJzTzVaRF9ZaGNUUldCelFINnVCYzhBUTJURUdDbEdfMkV5UHotY2EtRnhWXzJQVWNNcGJibnF1UXNMbFAwMWlGd19GYzZyTG82SXc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園夯 　9／28起週也一能玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園夯 　9／28起週也一能玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "鏡週刊Mirror Media",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "親子遊樂園提供多元設施讓孩子盡情放電，週末開放方便家長安排全家出遊行程。",
-      "published_at": "2026-09-17T05:49:00+00:00",
-      "collected_at": "2026-09-17T17:02:16.021576+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijwjbvv95cuxpbmnluk5flu9tufrtawtoymhjz3fta",
-      "title": "高雄親子遊樂園區9/28起改休週二、三 (圖)",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbmNlUk5fLU9TUFRTaWtOYmhJZ3FtampzbzhEMVJTMmtXZUVFT2hjei1BTlNmT2VHVHlUYUtDODZHZUVkdHdBZm9xQnVrVVdZc1puT2Ryb2s5NW8wZXJXcGdqa0NhdFBKVVZJOXExcXFHSnFlNDZlbTJVN0gtY0VKT245V0lhekxjMm9QVmxwb3d2NUFDakxlWnoxZG80UFl0MUduZVI2bW5xQkw0Qy1SNUFaR3JWbGJvSDF4NjJXNDVtN3M0alpIRTVJQTlIOE5EczFaTXZwUXNEcUtRR3ZHbTZkZVYzQWF2OFFCdGQyTE5ENG5KdWo0aE5JUnpVLUExclVWc2xwOS1kU3NjTWsw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbmNlUk5fLU9TUFRTaWtOYmhJZ3FtampzbzhEMVJTMmtXZUVFT2hjei1BTlNmT2VHVHlUYUtDODZHZUVkdHdBZm9xQnVrVVdZc1puT2Ryb2s5NW8wZXJXcGdqa0NhdFBKVVZJOXExcXFHSnFlNDZlbTJVN0gtY0VKT245V0lhekxjMm9QVmxwb3d2NUFDakxlWnoxZG80UFl0MUduZVI2bW5xQkw0Qy1SNUFaR3JWbGJvSDF4NjJXNDVtN3M0alpIRTVJQTlIOE5EczFaTXZwUXNEcUtRR3ZHbTZkZVYzQWF2OFFCdGQyTE5ENG5KdWo0aE5JUnpVLUExclVWc2xwOS1kU3NjTWsw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區9/28起改休週二、三 (圖)。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區9/28起改休週二、三 (圖)。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄親子遊樂園區提供多樣化遊樂設施，讓小孩盡情放電玩耍，是週末消耗孩子精力、釋放家長的好去處。",
-      "published_at": "2026-09-17T05:35:33+00:00",
-      "collected_at": "2026-09-17T17:02:36.985916+00:00",
+      "reason": "高雄全新親子樂園有多種體能設施如跑酷練習場、雲朵彈跳床能讓孩子盡情放電，且9/28起週一也開放，方便家長彈性安排行程。",
+      "published_at": "2026-09-17T05:55:00+00:00",
+      "collected_at": "2026-09-21T00:17:20.095585+00:00",
       "query": "台灣 親子飯店 親子樂園"
     }
   ]
