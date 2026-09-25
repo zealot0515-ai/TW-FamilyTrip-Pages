@@ -1,8 +1,89 @@
 {
-  "updated_at": "2026-09-25T00:33:54.273498+00:00",
+  "updated_at": "2026-09-25T17:11:26.821352+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte90otvidwfncdjeawzgbnbivti5dlvhr",
+      "title": "影／中秋連假首日麗寶樂園人氣旺 門票優惠、莎莉SALLY、萌動物吸客",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90OTVidWFNcDJEaWZGbnBIVTI5dlVHR2Q3R1BiZEc0eUFxTjhyMjNaTnBNRTBDc3l2T2p2T1Yycm1LcDBlTXgxMTZIaU9kQmRwX1E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90OTVidWFNcDJEaWZGbnBIVTI5dlVHR2Q3R1BiZEc0eUFxTjhyMjNaTnBNRTBDc3l2T2p2T1Yycm1LcDBlTXgxMTZIaU9kQmRwX1E?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "影／中秋連假首日麗寶樂園人氣旺 門票優惠、莎莉SALLY、萌動物吸客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "影／中秋連假首日麗寶樂園人氣旺 門票優惠、莎莉SALLY、萌動物吸客。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "動物互動與自然觀察能提高孩子參與感。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "出發前確認餵食、互動體驗與休園時間。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "看動物",
+        "好玩"
+      ],
+      "reason": "麗寶樂園有萌動物可近距離互動，加上門票優惠與大型停車場，既能讓孩子放電玩樂又省錢好停車，適合全家出遊。",
+      "published_at": "2026-09-25T09:08:00+00:00",
+      "collected_at": "2026-09-25T17:10:53.323744+00:00",
+      "query": "台南 高雄 屏東 親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmihgnbvv95cuxntmgxdwdkm0tidmfycgltyjbac0vmd",
+      "title": "親子同樂逛設計展 「桃園流・行工廠」DIY、超跑、氣墊fun樂園",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNTmgxdWdKM0tidmFycGltYjBac0VmdkQ3WlI3UDMtVF83R3dia01TcnhwSlZtY044eGJqWG1sN3VnUmFZZHVfdmxKVnk4T2xrUElGOTRjQ0tXLTdaYUdSYWN2RWJuTGxQTHJ3VEtjOHk3X3cyV1FEN19TYWtmVGVpTzJKZERCZXRFd3VhSmxBTllkYldVZURlSWtxOVN1VE1ldW1iTzJWcXhlYTVEU29HY0gwNmxMaU1fTVpaUmF5YkJUMGVqQnU4dmdqYnlpbUFuSkVHbFdqaXFxZ3NwREFVRlJZRlNNNGlpUi1qV2hSbDNmZEFsR1lwTzV6WkZVN3hyMXdUR1lwNXF4bUZLaC1GOHFTRFliOW9Xd2NIQVNKeFlCNmVPZWVCQjM4YlV6MEJRV2V3WFdOd216OEY1dU1CcXlzRHM3Yk1zY0czTnpuNmVpMHRYdUFjODNSLVhKSFNtNmU3MDVjUmFrTG4zWDVWUHFQTjNjcGF5U0FHSDRONm5JcUZYTHc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNTmgxdWdKM0tidmFycGltYjBac0VmdkQ3WlI3UDMtVF83R3dia01TcnhwSlZtY044eGJqWG1sN3VnUmFZZHVfdmxKVnk4T2xrUElGOTRjQ0tXLTdaYUdSYWN2RWJuTGxQTHJ3VEtjOHk3X3cyV1FEN19TYWtmVGVpTzJKZERCZXRFd3VhSmxBTllkYldVZURlSWtxOVN1VE1ldW1iTzJWcXhlYTVEU29HY0gwNmxMaU1fTVpaUmF5YkJUMGVqQnU4dmdqYnlpbUFuSkVHbFdqaXFxZ3NwREFVRlJZRlNNNGlpUi1qV2hSbDNmZEFsR1lwTzV6WkZVN3hyMXdUR1lwNXF4bUZLaC1GOHFTRFliOW9Xd2NIQVNKeFlCNmVPZWVCQjM4YlV6MEJRV2V3WFdOd216OEY1dU1CcXlzRHM3Yk1zY0czTnpuNmVpMHRYdUFjODNSLVhKSFNtNmU3MDVjUmFrTG4zWDVWUHFQTjNjcGF5U0FHSDRONm5JcUZYTHc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "親子同樂逛設計展 「桃園流・行工廠」DIY、超跑、氣墊fun樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "親子同樂逛設計展 「桃園流・行工廠」DIY、超跑、氣墊fun樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "台灣好新聞",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "氣墊樂園和DIY體驗讓小孩盡情放電，室內展區有冷氣舒適，下雨天也能玩得開心。",
+      "published_at": "2026-09-25T04:49:35+00:00",
+      "collected_at": "2026-09-25T17:11:00.487744+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxptzvwzl8td05uttg2wkozz2vkafu4q",
+      "title": "親子同樂逛設計展 「桃園流・行工廠」DIY、超跑、氣墊fun樂園 - 生活新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTzVwZl8td05uTTg2WkozZ2VkaFU4QnVIdG9Ka2FfWm9XUmsxR3ItN0R1TXM5bEhRc29aTDNQNzdZVmtTRTZneUNGWVVyOHNGUHc5cEpQaW9ZTFQyb1FVYl9fZGFvU19hNlhyT0Z2aWRPaW9oQVNxWHRsc2xrRTZVeGdvTGVicWFQdHZnaw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTzVwZl8td05uTTg2WkozZ2VkaFU4QnVIdG9Ka2FfWm9XUmsxR3ItN0R1TXM5bEhRc29aTDNQNzdZVmtTRTZneUNGWVVyOHNGUHc5cEpQaW9ZTFQyb1FVYl9fZGFvU19hNlhyT0Z2aWRPaW9oQVNxWHRsc2xrRTZVeGdvTGVicWFQdHZnaw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "親子同樂逛設計展 「桃園流・行工廠」DIY、超跑、氣墊fun樂園 - 生活新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "親子同樂逛設計展 「桃園流・行工廠」DIY、超跑、氣墊fun樂園 - 生活新聞 - PChome Online 新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "news.pchome.com.tw",
+      "tags": [
+        "放電",
+        "室內",
+        "好玩"
+      ],
+      "reason": "室內設計展有氣墊樂園可讓孩子盡情放電，雨天也能開心遊玩，DIY體驗還能寓教於樂。",
+      "published_at": "2026-09-25T04:14:00+00:00",
+      "collected_at": "2026-09-25T17:11:08.402075+00:00",
+      "query": "台灣 免費親子景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiwgfbvv95cuxnvhzqcuxxtk9wbzl3mxpveen1c3jgw",
       "title": "台灣親子遊必玩@臺北市立新樂園🎡✨",
@@ -107,6 +188,39 @@
       "published_at": "2026-09-24T07:53:43+00:00",
       "collected_at": "2026-09-24T17:11:07.111133+00:00",
       "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-news-pchome-com-tw-travel-sharelife-20260924-index-79020800036268216015-ht",
+      "title": "台中爸媽收藏！樂田公園遊戲場遮陽完工 10月再蓋陽光公廁 - 旅遊新聞 - PChome Online 新聞",
+      "url": "https://news.pchome.com.tw/travel/sharelife/20260924/index-79020800036268216015.html",
+      "canonical_url": "https://news.pchome.com.tw/travel/sharelife/20260924/index-79020800036268216015.html",
+      "image_url": "https://news.pchome.com.tw/newsdata/travel/sharelife/20260924/79020800036268216015_original.jpg",
+      "images": [
+        "https://news.pchome.com.tw/newsdata/travel/sharelife/20260924/79020800036268216015_original.jpg",
+        "https://news.pchome.com.tw/img/air_smly1.png",
+        "https://news.pchome.com.tw/img/ico_locate.png",
+        "https://news.pchome.com.tw/newsdata/travel/sharelife/20260924/79020800036268216015.jpg",
+        "https://news.pchome.com.tw/newsdata/travel/sharelife/20260924/79020800036268216015_1.jpg",
+        "https://news.pchome.com.tw/newsdata/travel/sharelife/20260924/79020800036268216015_2.jpg",
+        "https://news.pchome.com.tw/newsdata/travel/sharelife/20260924/79020800036268216015_3.jpg",
+        "https://news.pchome.com.tw/newsdata/travel/sharelife/20260924/79020800036268216015_4.jpg"
+      ],
+      "summary": "台中爸媽收藏！樂田公園遊戲場遮陽完工 10月再蓋陽光公廁 - 旅遊新聞 - PChome Online 新聞。Nintendo Switch、playstation PS5、Xbox、PC手遊、VR、Steam掌機等各平台最新上市、即將發售的遊戲推薦一次看！無論是免費、單機、多人遊戲、派對、射擊、格鬥、恐怖、休閒、戰略、益智、養成遊戲都幫你整理好了",
+      "analysis": {
+        "overview": "台中爸媽收藏！樂田公園遊戲場遮陽完工 10月再蓋陽光公廁 - 旅遊新聞 - PChome Online 新聞。Nintendo Switch、playstation PS5、Xbox、PC手遊、VR、Steam掌機等各平台最新上市、即將發售的遊戲推薦一次看！無論是免費、單機、多人遊戲、派對、射擊、格鬥、恐怖、休閒、戰略、益智、養成遊戲都幫你整理好了",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "news.pchome.com.tw",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "遮陽設施已完工，即使夏天也能舒適玩耍，即將新建的公廁更提升便利性，適合帶小孩來放電活動。",
+      "published_at": "2026-09-24T00:59:00+00:00",
+      "collected_at": "2026-09-25T17:11:16.314108+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxqewg5enrvbml5y0hwrgttdkiyoe1fa",
@@ -239,6 +353,39 @@
       "published_at": "2026-09-23T15:03:24+00:00",
       "collected_at": "2026-09-24T17:11:15.885428+00:00",
       "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-www-marieclaire-com-tw-lifestyle-travel-96071",
+      "title": "2026中秋節活動懶人包！全台8大限定玩法一次看，雙北烤肉、高雄熱氣球、宜蘭大湖免費入園",
+      "url": "https://www.marieclaire.com.tw/lifestyle/travel/96071",
+      "canonical_url": "https://www.marieclaire.com.tw/lifestyle/travel/96071",
+      "image_url": "https://ia.marieclaire.com.tw/assets/mc/202609/6AB23DCA6C2E61790066122.jpeg",
+      "images": [
+        "https://ia.marieclaire.com.tw/assets/mc/202609/6AB23DCA6C2E61790066122.jpeg",
+        "https://im.marieclaire.com.tw/s300c400h100b0webp100/assets/mc/202609/6A968B90E5AE21788251024.jpeg",
+        "https://ian.marieclaire.com.tw/assets/mc/202609/6AB23DCA6C2E61790066122.jpeg?t=sc&w=1200%2C675&format=jpg",
+        "https://ian.marieclaire.com.tw/assets/mc/202609/6AB23E11A1E251790066193.jpeg?t=auto&w=1200%2C675&format=jpg",
+        "https://ian.marieclaire.com.tw/assets/mc/202609/6AB23E7D7F9B01790066301.jpeg?t=auto&w=1200%2C675&format=jpg",
+        "https://ian.marieclaire.com.tw/assets/mc/202609/6AB23E77570731790066295.jpeg?t=auto&w=1200%2C675&format=jpg",
+        "https://ian.marieclaire.com.tw/assets/mc/202609/6AB23E44C9ADD1790066244.jpeg?t=auto&w=1200%2C675&format=jpg",
+        "https://ian.marieclaire.com.tw/assets/mc/202609/6AB23EE56C2441790066405.jpeg?t=auto&w=1200%2C675&format=jpg"
+      ],
+      "summary": "2026中秋節活動懶人包！全台8大限定玩法一次看，雙北烤肉、高雄熱氣球、宜蘭大湖免費入園。SUBSCRIBE 站內搜尋 風格學院 會員登入 by PEI 與 Benny - 2026/09/23 更新 Photo／DR 2026年中秋節連假4天到來，今年除了傳統的烤肉、賞月，全台各地都規劃不少限定節慶玩法，從河濱公園、市集、親子活動，到可愛熱氣球、音樂表演通通有。正在尋找中秋節應景活動的人，不妨收藏此文章，把全台8個活動資訊筆記起來，趁著連假安排一趟愜意小旅行。2026中秋節活動 不想跑太遠、又想保留中秋烤肉儀式感，雙北河濱公園就是相對方便的選擇。2026年中秋節檔期，台北、新北共有11處河濱場地開放民眾烤肉與野炊，讓市民親友能齊聚一堂圍爐歡慶。只要攜帶便利生火器具，民眾就可以白天騎單車、散步、帶孩子到遊戲場放電，傍晚後在涼爽河風與月光相伴下體驗戶外炭烤樂趣。中秋連假想逛市集、喝咖啡又不想舟車勞頓，可以至花博公園圓山園區，現場集結臺北市35處商圈、多達75個特色攤位，帶來在地美食、人氣店家、精彩演出、親子遊樂設施以及豐富抽獎活動，邀請大小朋友一起來吃、玩、買，感受商圈的魅力！",
+      "analysis": {
+        "overview": "2026中秋節活動懶人包！全台8大限定玩法一次看，雙北烤肉、高雄熱氣球、宜蘭大湖免費入園。SUBSCRIBE 站內搜尋 風格學院 會員登入 by PEI 與 Benny - 2026/09/23 更新 Photo／DR 2026年中秋節連假4天到來，今年除了傳統的烤肉、賞月，全台各地都規劃不少限定節慶玩法，從河濱公園、市集、親子活動，到可愛熱氣球、音樂表演通通有。正在尋找中秋節應景活動的人，不妨收藏此文章，把全台8個活動資訊筆記起來，趁著連假安排一趟愜意小旅行。2026中秋節活動 不想跑太遠、又想保留中秋烤肉儀式感",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "marieclaire.com.tw",
+      "tags": [
+        "好玩",
+        "放電"
+      ],
+      "reason": "河濱公園設有孩童遊戲場可放電，腹地寬廣適合全家烤肉賞月；花博圓山園區市集備有親子遊樂設施，連假安排一日出遊便利有趣。",
+      "published_at": "2026-09-23T08:28:00+00:00",
+      "collected_at": "2026-09-25T17:11:26.697998+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmixkfvx3lxte1umgpnn2xnym9xq2xzakrwqkpydxzyd",
@@ -703,147 +850,6 @@
       "published_at": "2026-09-20T00:46:02+00:00",
       "collected_at": "2026-09-23T16:58:03.898423+00:00",
       "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivefvx3lxtfbesetcr2pym1zqwksweggxbum0v053a",
-      "title": "週一也能玩了！高雄親子遊樂園區9月28日起改休週二、三",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBESEtCR2pyM1ZQWksweGgxbUM0V053amNqenFYSjhWcmNMRFlRTFN4OUNXYzUyWGt5YzRnVzlLV2lsM2ZlNGYwcVR3MDBndlh6SE02bw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBESEtCR2pyM1ZQWksweGgxbUM0V053amNqenFYSjhWcmNMRFlRTFN4OUNXYzUyWGt5YzRnVzlLV2lsM2ZlNGYwcVR3MDBndlh6SE02bw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "週一也能玩了！高雄親子遊樂園區9月28日起改休週二、三。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "週一也能玩了！高雄親子遊樂園區9月28日起改休週二、三。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "fion.ikh.tw",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄亲子游乐园调整休园日，平日也能带小朋友放电玩耍，设施专为亲子设计，适合释放孩童精力。",
-      "published_at": "2026-09-19T09:20:44+00:00",
-      "collected_at": "2026-09-19T15:53:08.498525+00:00",
-      "query": "台南 高雄 屏東 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiykfvx3lxte9xqudxx3dtdzj3ls02mjhvvznfythhy",
-      "title": "桃園遊戲場資訊一站掌握！「FUN遊桃園．玩公園」帶你開啟城市遊戲旅程",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xQUdXX3dtdzJ3LS02MjhvVzNfYThhYVFVVDZHbVpCNHM5WG9nZlh2dWY0WE1yV3plNlRDN19LbE9lWUNZYjh2d3FuYUVfRmp6TE5HbnZMZ3A4MG1BZUZfOEF3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xQUdXX3dtdzJ3LS02MjhvVzNfYThhYVFVVDZHbVpCNHM5WG9nZlh2dWY0WE1yV3plNlRDN19LbE9lWUNZYjh2d3FuYUVfRmp6TE5HbnZMZ3A4MG1BZUZfOEF3?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "桃園遊戲場資訊一站掌握！「FUN遊桃園．玩公園」帶你開啟城市遊戲旅程。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "桃園遊戲場資訊一站掌握！「FUN遊桃園．玩公園」帶你開啟城市遊戲旅程。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "新媒體經紀人",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "整合桃園各公園遊戲場資訊，方便家長快速查找適合孩童放電的戶外場地，城市公園多為平坦路面，推娃娃車也相對輕鬆。",
-      "published_at": "2026-09-19T02:58:06+00:00",
-      "collected_at": "2026-09-21T18:12:36.599401+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmitefvx3lxtfbtq2fpbklemec3bxv1oercoxduujvoe",
-      "title": "桃園360處公園一鍵查！工務局推遊戲場主題網站",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtQ2FpbklEMEc3bXV1OERCOXduUjVOeU4tdXVJX1RUUng0RUlFNDhsakJkSVVYYVhhTEN4d3RFWUNTcWFfbno1US0yUWQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtQ2FpbklEMEc3bXV1OERCOXduUjVOeU4tdXVJX1RUUng0RUlFNDhsakJkSVVYYVhhTEN4d3RFWUNTcWFfbno1US0yUWQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "桃園360處公園一鍵查！工務局推遊戲場主題網站。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "桃園360處公園一鍵查！工務局推遊戲場主題網站。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "桃園電子報",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "收錄桃園360座公園，可依遊戲場主題搜尋適合的戶外場地，讓孩子盡情奔跑放電，享受自然陽光與草地。",
-      "published_at": "2026-09-19T02:24:07+00:00",
-      "collected_at": "2026-09-19T15:53:14.155479+00:00",
-      "query": "台北 新北 桃園 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmisajbvv95cuxnwghwnvpadepxrtbime93lwlytk9tb",
-      "title": "桃園360處公園一鍵查！工務局推遊戲場主題網站",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNWGhWNVpadEpxRTBIME93LWlYTk9TbkNDdzFTUVVHWTRjU3I2SnBTcDRETHI2WDVhLUdXN2p0NFFCblU4SkJzejZJLUx6WVg1MnVQNGhGcTVVNkh5MmFkWmpYWkFkdFp4QUVfMkhFNDNTVVdGYWVfNmVUZUE2VVdWOGh3amIzc3ZKTU1wZmN5cXp4eDA0Nmw5M19DMldTUHZFVTg4YkNuMFRKdWlsdDlZbEZFaDFaOXpzM1I0bUlpajFLbmlmZmIyNlVtaHNsR2Z2TkFlUS13YmFzbFlzNm9aYkZ5Zm44Q0QzR29BZzhOTm9xOF92V09Scjl3dWpwZFpfLTI3bHhqb2VTODVORWZYdlZneEpvLURKZ21WYmNrVXpSekxseGUyQmxNV0FBblZm?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNWGhWNVpadEpxRTBIME93LWlYTk9TbkNDdzFTUVVHWTRjU3I2SnBTcDRETHI2WDVhLUdXN2p0NFFCblU4SkJzejZJLUx6WVg1MnVQNGhGcTVVNkh5MmFkWmpYWkFkdFp4QUVfMkhFNDNTVVdGYWVfNmVUZUE2VVdWOGh3amIzc3ZKTU1wZmN5cXp4eDA0Nmw5M19DMldTUHZFVTg4YkNuMFRKdWlsdDlZbEZFaDFaOXpzM1I0bUlpajFLbmlmZmIyNlVtaHNsR2Z2TkFlUS13YmFzbFlzNm9aYkZ5Zm44Q0QzR29BZzhOTm9xOF92V09Scjl3dWpwZFpfLTI3bHhqb2VTODVORWZYdlZneEpvLURKZ21WYmNrVXpSekxseGUyQmxNV0FBblZm?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "桃園360處公園一鍵查！工務局推遊戲場主題網站。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "桃園360處公園一鍵查！工務局推遊戲場主題網站。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "桃園整合360處公園資訊，家長可一鍵查詢就近的遊戲場，讓孩子盡情放電；公園多有大片草皮與自然環境，適合親子共遊踏青。",
-      "published_at": "2026-09-19T02:24:07+00:00",
-      "collected_at": "2026-09-22T16:58:16.732925+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-www-marieclaire-com-tw-lifestyle-news-96011",
-      "title": "2000坪兒童樂園倒數開幕！「KidZania Taipei奇薩尼亞台北」降落南港LaLaport，50種職業體驗、星宇航空進駐",
-      "url": "https://www.marieclaire.com.tw/lifestyle/news/96011",
-      "canonical_url": "https://www.marieclaire.com.tw/lifestyle/news/96011",
-      "image_url": "https://ia.marieclaire.com.tw/assets/mc/202609/6AACF93940EA41789720889.jpeg",
-      "images": [
-        "https://ia.marieclaire.com.tw/assets/mc/202609/6AACF93940EA41789720889.jpeg",
-        "https://im.marieclaire.com.tw/s300c400h100b0webp100/assets/mc/202609/6A968B90E5AE21788251024.jpeg",
-        "https://ian.marieclaire.com.tw/assets/mc/202609/6AACF93940EA41789720889.jpeg?t=sc&w=1200%2C675&format=jpg",
-        "https://ian.marieclaire.com.tw/assets/mc/202609/6AACF8D7C2EE61789720791.png?t=auto&w=1200%2C675&format=jpg",
-        "https://ian.marieclaire.com.tw/assets/mc/202609/6AACF85328E3E1789720659.jpeg?t=auto&w=1200%2C675&format=jpg",
-        "https://ian.marieclaire.com.tw/assets/mc/202609/6AACF991BF4FA1789720977.jpeg?t=auto&w=1200%2C675&format=jpg",
-        "https://ian.marieclaire.com.tw/assets/mc/202609/6AACF9DA6F78B1789721050.png?t=auto&w=1200%2C675&format=jpg",
-        "https://ian.marieclaire.com.tw/assets/mc/202609/6AACFA30EE7BD1789721136.png?t=auto&w=1200%2C675&format=jpg"
-      ],
-      "summary": "2000坪兒童樂園倒數開幕！「KidZania Taipei奇薩尼亞台北」降落南港LaLaport，50種職業體驗、星宇航空進駐。SUBSCRIBE 站內搜尋 風格學院 會員登入 by Benny - 2026/09/19 更新 Text／PEI、Photo／KidZania 台北再添一座全新親子景點！全球知名兒童職業體驗樂園「KidZania奇薩尼亞」正式宣布進軍台灣，首座「KidZania Taipei奇薩尼亞台北」預計於2026年底開幕、進駐南港LaLaport。這座占地2000坪的兒童版真實城市中，規劃近50種職業體驗，從警察、消防員、醫師到機師通通有，更將推出全球獨家的「台灣限定隱藏版職業」；其中星宇航空也打造航空體驗，讓孩子從踏入園區的那一刻起，就展開一場充滿想像力的職業探索之旅。「KidZania Taipei奇薩尼亞台北」亮點搶先看 1999年發跡於墨西哥的 兒童職業體驗樂園「 KidZania 奇薩尼亞」，專為3~17歲孩童而生，以寓教於樂為核心，透過超擬真的城市設計，提供沉浸式的職業體驗樂趣，帶領孩童們在娛樂中探索新知、學習責任、培養獨立思考與團隊合作能力。",
-      "analysis": {
-        "overview": "2000坪兒童樂園倒數開幕！「KidZania Taipei奇薩尼亞台北」降落南港LaLaport，50種職業體驗、星宇航空進駐。SUBSCRIBE 站內搜尋 風格學院 會員登入 by Benny - 2026/09/19 更新 Text／PEI、Photo／KidZania 台北再添一座全新親子景點！全球知名兒童職業體驗樂園「KidZania奇薩尼亞」正式宣布進軍台灣，首座「KidZania Taipei奇薩尼亞台北」預計於2026年底開幕、進駐南港LaLaport。這座占地2000坪的兒童版真實城市中，規劃近5",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "marieclaire.com.tw",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "進駐LaLaport商場室內不怕日曬雨淋，2000坪超大空間與近50種職業體驗能讓孩子盡情放電探索，家長也有舒適的休憩區域。",
-      "published_at": "2026-09-18T17:00:00+00:00",
-      "collected_at": "2026-09-19T00:21:33.786108+00:00",
-      "query": "台灣 親子放電 景點"
     }
   ]
 }
