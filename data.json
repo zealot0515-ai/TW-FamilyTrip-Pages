@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T16:24:15.430723+00:00",
+  "updated_at": "2026-09-27T00:36:46.341651+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -54,6 +54,39 @@
       "published_at": "2026-09-26T09:17:00+00:00",
       "collected_at": "2026-09-26T16:23:42.870251+00:00",
       "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-pchome-com-tw-living-taiwanhot-20260927-index-79046090008434221009-ht",
+      "title": "連假好去處！　走進北市水岸解鎖5種假期新玩法 - 生活新聞 - PChome Online 新聞",
+      "url": "https://news.pchome.com.tw/living/taiwanhot/20260927/index-79046090008434221009.html",
+      "canonical_url": "https://news.pchome.com.tw/living/taiwanhot/20260927/index-79046090008434221009.html",
+      "image_url": "https://news.pchome.com.tw/newsdata/living/taiwanhot/20260927/79046090008434221009_original.jpg",
+      "images": [
+        "https://news.pchome.com.tw/newsdata/living/taiwanhot/20260927/79046090008434221009_original.jpg",
+        "https://news.pchome.com.tw/img/air_smly2.png",
+        "https://news.pchome.com.tw/img/ico_locate.png",
+        "https://news.pchome.com.tw/img/air_smly1.png",
+        "https://news.pchome.com.tw/newsdata/living/taiwanhot/20260927/79046090008434221009.jpg",
+        "https://news.pchome.com.tw/newsdata/living/taiwanhot/20260927/79046090008434221009_1.jpg",
+        "https://news.pchome.com.tw/newsdata/living/taiwanhot/20260927/79046090008434221009_2.jpg",
+        "https://news.pchome.com.tw/newsdata/living/taiwanhot/20260927/79046090008434221009_3.jpg"
+      ],
+      "summary": "連假好去處！　走進北市水岸解鎖5種假期新玩法 - 生活新聞 - PChome Online 新聞。上班族 快訊 中秋雙北職棒女神開戰！不必長途跋涉，台北市水利處推薦5個景點口袋名單，從「親子放電、親水散步、生態賞鳥」到「單車漫遊」，讓市民在城市裡就可以輕鬆享受不一樣的中秋時光。小孩放電、大人放鬆一次滿足 中秋連假想帶孩子出門走走，就到古亭河濱兒童遊戲場。這座全新落成的遊戲場，甫於今年中完工開放。遊戲場以「水之三態」為設計概念，將固態、液態與氣態轉化為遊樂設施。象徵液態的「漣漪地景遊戲組」搭配彈跳床，讓孩子在跳躍間化身水花、盡情放電。還有「雲朵地景遊戲組」及「冰晶攀爬架」，孩子能跑、跳、攀爬探索水的不同樣貌。大人則能沿著新店溪畔漫步看夕陽，夜晚迎著微風賞月，全家都能找到最舒適的放鬆節奏。生態賞鳥、探索濕地 來一場市區微旅行 想把中秋過得更慢、更自然，社子島濕地更是好選擇。今年社子島濕地獲得首批「保育共生地（OECMs）」認證，擁有潮溝、沙洲、泥灘地及草澤等多樣棲地，兼顧防洪、生態保育與環境教育。中秋過後進入秋冬季，冬候鳥陸續來臺，連假星期六、日兩天，市民可前往社子島濕地解說小築，在志工導覽下認識濕地與季節鳥類，免出遠門，在臺北市區就能展開一趟深度微旅行。",
+      "analysis": {
+        "overview": "連假好去處！　走進北市水岸解鎖5種假期新玩法 - 生活新聞 - PChome Online 新聞。上班族 快訊 中秋雙北職棒女神開戰！不必長途跋涉，台北市水利處推薦5個景點口袋名單，從「親子放電、親水散步、生態賞鳥」到「單車漫遊」，讓市民在城市裡就可以輕鬆享受不一樣的中秋時光。小孩放電、大人放鬆一次滿足 中秋連假想帶孩子出門走走，就到古亭河濱兒童遊戲場。這座全新落成的遊戲場，甫於今年中完工開放。遊戲場以「水之三態」為設計概念，將固態、液態與氣態轉化為遊樂設施。象徵液態的「漣漪地景遊戲組」搭配彈跳床，讓孩子在跳躍間化",
+        "pros": "古亭河濱兒童遊戲場有新穎的彈跳床與攀爬設施，讓孩子在市區就能盡情放電；社子島濕地有專人導覽賞鳥，大人也能沿著河濱漫步賞夕陽，全家各取所需。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "news.pchome.com.tw",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "古亭河濱兒童遊戲場有新穎的彈跳床與攀爬設施，讓孩子在市區就能盡情放電；社子島濕地有專人導覽賞鳥，大人也能沿著河濱漫步賞夕陽，全家各取所需。",
+      "published_at": "2026-09-26T09:15:00+00:00",
+      "collected_at": "2026-09-27T00:36:46.264720+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte5omzjurdlix1ljsl8wstlvqme5chm3u",
@@ -794,40 +827,6 @@
       "published_at": "2026-09-20T14:49:08+00:00",
       "collected_at": "2026-09-20T16:05:54.872252+00:00",
       "query": "台灣 親子飯店 親子樂園"
-    },
-    {
-      "id": "https-www-nownews-com-news-6876596",
-      "title": "台版「迪士尼」遊樂園提前9/20停業！野趣森林嘆：免費就人潮爆滿 | 美食旅遊 | 生活 | NOWnews今日新聞",
-      "url": "https://www.nownews.com/news/6876596",
-      "canonical_url": "https://www.nownews.com/news/6876596",
-      "image_url": "https://media.nownews.com/nn_media/thumbnail/2025/10/1760083501318-69108325719f462d8db3c807245c9cd9-1146x848.webp?unShow=false",
-      "images": [
-        "https://www.nownews.com/NOWnews/images/app-promote.webp",
-        "https://media.nownews.com/nn_media/thumbnail/2025/10/1760083501318-69108325719f462d8db3c807245c9cd9-1146x848.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/09/1789884907914-980134f4825041518bce491a5952a872-500x707.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2025/10/1760083427912-7fe735c8dafa47ffaedc4e7295bbf945-500x360.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/09/1788610712079-1fc7b46d247949e09003bdd8c275756b-500x333.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/09/1788539841328-163fb742bc1c4688b4af20c2ca070186-500x334.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/09/1788686717353-d3d04dea4efe4f5cb6262fddd63ae746-500x333.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2021/05/1621083408098-ed32ad6bc4d24b8a8784240fedb11956-500x331.jpg?unShow=false"
-      ],
-      "summary": "台版「迪士尼」遊樂園提前9/20停業！野趣森林嘆：免費就人潮爆滿 | 美食旅遊 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 潘毅 ／綜合報導 ▲被譽為「台版不插電迪士尼」超人氣親子景點「野趣森林」，宣布今（20）日起正式停業。我是廣告 請繼續往下閱讀 --> 免費人潮就爆滿！台版迪士尼提前停業 「野趣森林」於9月18日在官方粉專表示，原定營業到11月30日，但因推出「免費玩到9月底」優惠後，導致周邊交通壅塞、造成民眾不便，還引發抗議，只好提前結束營業，最後營業日只到9月20日。「野趣森林」也感嘆表示：「收費就沒遊客，免費就遊客塞爆」，認為與其將時間耗在毫無前景的產業副業，不如全力回歸其他賺錢的本業，並感謝遊客一路以來的支持與愛護。▲「野趣森林」原定11月底停業，但隨著免費活動人潮爆滿，反而造成困擾，無奈宣布在今（20）日提前結束營業。（圖／野趣森林） 450 項不插電設施成絕響！",
-      "analysis": {
-        "overview": "台版「迪士尼」遊樂園提前9/20停業！野趣森林嘆：免費就人潮爆滿 | 美食旅遊 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 潘毅 ／綜合報導 ▲被譽為「台版不插電迪士尼」超人氣親子景點「野趣森林」，宣布今（20）日起正式停業。我是廣告 請繼續往下閱讀 --> 免費人潮就爆滿！台版迪士尼提前停業 「野趣森林」於9月18日在官方粉專",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "nownews.com",
-      "tags": [
-        "放電",
-        "大自然",
-        "好玩"
-      ],
-      "reason": "擁有450項不插電設施，孩子可盡情放電且遠離3C產品，森林環境寬敞舒適適合奔跑遊戲，雖然已停業但曾是非常適合親子踏青的戶外樂園。",
-      "published_at": "2026-09-20T07:17:00+00:00",
-      "collected_at": "2026-09-20T16:06:05.841942+00:00",
-      "query": "台灣 免費親子景點"
     }
   ]
 }
