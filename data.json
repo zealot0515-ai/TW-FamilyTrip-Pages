@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T16:58:43.327352+00:00",
+  "updated_at": "2026-09-28T00:46:43.735792+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -365,6 +365,33 @@
       "published_at": "2026-09-25T05:19:02+00:00",
       "collected_at": "2026-09-26T00:37:45.892571+00:00",
       "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbminajbvv95cuxntgvpavvdctfoa1qzug9xavfzvzrwv",
+      "title": "親子同樂逛設計展 「桃園流・行工廠」DIY、超跑、氣墊fun樂園",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNTGVPaVVDcTFoa1QzUG9xaVFZVzRwVDByV1JKVjBTNERJMHhRUzBXU0pXd2tzUWM3VzNIbExoaTNRQlRRZVRYM1hwR2lxY1IzWWZocmo2SHMxdGJsVkpGWWhkUkJOY1hTSTZ1Rjdwc3hzTVYxRzM1ZHpkblR5WllHUDE5cF9nUEkyZGtYMzlHZC1WdVc4Y2hqMHVLd1VzbHpqcFViYmFfQ1RhQmNIT3BFM0Nqa01nT0ZGMnRDZnI1RmNRZFllY181UzFFbXpMcnZwbUwwUFhrX0JuSC1BQTN0ZnJ1blNhRHZWYWxEZ1ZOdUtBeWNleUtVdng4TXJ5d0UwaXVON1RlaVFDNXhkSE9qNlotWGZtREttVmlJNA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNTGVPaVVDcTFoa1QzUG9xaVFZVzRwVDByV1JKVjBTNERJMHhRUzBXU0pXd2tzUWM3VzNIbExoaTNRQlRRZVRYM1hwR2lxY1IzWWZocmo2SHMxdGJsVkpGWWhkUkJOY1hTSTZ1Rjdwc3hzTVYxRzM1ZHpkblR5WllHUDE5cF9nUEkyZGtYMzlHZC1WdVc4Y2hqMHVLd1VzbHpqcFViYmFfQ1RhQmNIT3BFM0Nqa01nT0ZGMnRDZnI1RmNRZFllY181UzFFbXpMcnZwbUwwUFhrX0JuSC1BQTN0ZnJ1blNhRHZWYWxEZ1ZOdUtBeWNleUtVdng4TXJ5d0UwaXVON1RlaVFDNXhkSE9qNlotWGZtREttVmlJNA?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "親子同樂逛設計展 「桃園流・行工廠」DIY、超跑、氣墊fun樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "親子同樂逛設計展 「桃園流・行工廠」DIY、超跑、氣墊fun樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "氣墊fun樂園與超跑體驗區可讓孩子盡情放電，家長有座位休息；DIY手作則提供寓教於樂的室內活動選項，下雨天也有備案。",
+      "published_at": "2026-09-25T04:51:19+00:00",
+      "collected_at": "2026-09-28T00:46:43.662290+00:00",
+      "query": "台灣 親子旅遊 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmihgnbvv95cuxntmgxdwdkm0tidmfycgltyjbac0vmd",
@@ -802,40 +829,6 @@
       "published_at": "2026-09-22T03:04:14+00:00",
       "collected_at": "2026-09-22T16:57:33.550390+00:00",
       "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-www-storm-mg-lifestyle-11166341",
-      "title": "台灣又有新樂園！「園區超大佔地2000坪，高鐵捷運台鐵都可到」交通方便，開幕時間地點曝 | 李伊晴 | 風生活",
-      "url": "https://www.storm.mg/lifestyle/11166341",
-      "canonical_url": "https://www.storm.mg/lifestyle/11166341",
-      "image_url": "https://images.storm.mg/cloud/1d4a03ac7e4eaa7852db975f3821bbb8c5f85403.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2188217%2FYfFgZpzTpIEbkxo1cyA2OWJnpFz6dXCo820UlvLQ.png&g=sm&h=900&resize=fill&w=1600&format=jpg",
-      "images": [
-        "https://images.storm.mg/cloud/1d4a03ac7e4eaa7852db975f3821bbb8c5f85403.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2188217%2FYfFgZpzTpIEbkxo1cyA2OWJnpFz6dXCo820UlvLQ.png&g=sm&h=900&resize=fill&w=1600&format=jpg",
-        "https://images.storm.mg/cloud/7207adf92d8b230f9f8990654adbbd95141ed9cf.webp?url=https%3A%2F%2Fimage.cache.storm.mg%2Fstyles%2Fsmg-150x150-fp%2Fs3%2Fauthor%2Fimage%2F495835%2F20250324-010502_T495835_7285.jpg%3FMP91JH3d9AEtuKykFxxfJ4TOrWpQBwzu%26itok%3DZG-UUlja&g=sm&h=144&resize=fill&w=144",
-        "https://images.storm.mg/cloud/cb938a789571c4cfdb082303f2ac24637fcd4f5f.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2055668%2FRDIaN8vcc3srDjKaXxZmD6LTDkUeRaPFrtJ8nYQD.png&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/957dbc7bba4454211671fcd4df2e0af46de157d8.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2219524%2FTG61FWaZ2QzyWsBFoS6I9PxpetaZR678mqivKUfJ.jpg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/b8792c6d6faff58c879f7683584558159a8e645a.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2217542%2F8PMQwxo550sT3qgzHLCLLc0ZL6JIuoVSt7tDue6M.jpeg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/f160e016e1c3683c208fe52f25569c97197c910e.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2085539%2F097sK6aIfxKEsq3AmCJOvLpMfTjLY5OA3xNbr2t5.png&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/20dd111cdbe74050deb78adf4673032ba8b6156d.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2195847%2FbXhtJnV5OoY9HPv6PHwSXBkf59PvYZRuP1E9vd4r.jpg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/87bc8c8f243402e0578e90347da7dab6ab0dfa2b.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2215773%2FsvninG6ZUKvRU2oKFmXAT51gqPovkjlgzVHqxnn1.png&g=sm&h=400&resize=fill&w=400"
-      ],
-      "summary": "台灣又有新樂園！「園區超大佔地2000坪，高鐵捷運台鐵都可到」交通方便，開幕時間地點曝 | 李伊晴 | 風生活。全球知名的兒童職業體驗體驗品牌KidZania即將正式進駐台灣市場。這座在全球33個城市設有據點的超大型室內樂園，將全球第34座園區座落於台北市南港區的Mitsui Shopping Park LaLaport南港， 涵蓋5樓與6樓空間，室內總面積達約2000坪，規模相當於一座國際足球場或550個汽車停車格 。整體交通網絡銜接南港火車站與高鐵站， 旅客轉乘捷運板南線即可快速抵達，官方目前預計於2026年底正式開幕營運 。這座專為3歲至17歲兒童與青少年量身打造的模擬城市，核心特色在於高度擬真的社會運作環境。園區內部完整搭建了警察局、消防局與醫院等市政機能設施，並攜手國內外40個各行各業的知名領導品牌，提供接近50種涵蓋生活各面向的專業職業體驗。孩子們進入設施後將穿上專屬制服，親身走進具備真實商業場景的空間，實地理解不同崗位的工作流程。在經濟循環機制方面，孩童在園區內完成各項工作任務後，能夠領取到全球KidZania體系通用的專屬貨幣「kidZos」。",
-      "analysis": {
-        "overview": "台灣又有新樂園！「園區超大佔地2000坪，高鐵捷運台鐵都可到」交通方便，開幕時間地點曝 | 李伊晴 | 風生活。全球知名的兒童職業體驗體驗品牌KidZania即將正式進駐台灣市場。這座在全球33個城市設有據點的超大型室內樂園，將全球第34座園區座落於台北市南港區的Mitsui Shopping Park LaLaport南港， 涵蓋5樓與6樓空間，室內總面積達約2000坪，規模相當於一座國際足球場或550個汽車停車格 。整體交通網絡銜接南港火車站與高鐵站， 旅客轉乘捷運板南線即可快速抵達，官方目前預計於2026年底",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "storm.mg",
-      "tags": [
-        "室內",
-        "放電",
-        "好玩"
-      ],
-      "reason": "KidZania室內佔地2000坪空間寬敞，冷氣舒適雨天備案，銜接南港火車站與高鐵站交通超方便，3至17歲都能體驗近50種職業，家長可輕鬆陪玩或逛商場。",
-      "published_at": "2026-09-22T02:30:00+00:00",
-      "collected_at": "2026-09-22T16:57:43.660381+00:00",
-      "query": "台灣 室內親子景點"
     }
   ]
 }
