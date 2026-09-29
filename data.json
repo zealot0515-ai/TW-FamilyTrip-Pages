@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T19:41:16.114940+00:00",
+  "updated_at": "2026-09-29T01:58:05.281986+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -229,6 +229,39 @@
       "published_at": "2026-09-27T03:25:16+00:00",
       "collected_at": "2026-09-27T16:58:27.739984+00:00",
       "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-n-yam-com-article-20260927773069",
+      "title": "連假好去處！　走進北市水岸解鎖5種假期新玩法 | 蕃新聞",
+      "url": "https://n.yam.com/Article/20260927773069",
+      "canonical_url": "https://n.yam.com/Article/20260927773069",
+      "image_url": "https://ni.yam.com/20260927/medias-20260926-6ab790862b6b4-499cf6acd20b5717.jpeg",
+      "images": [
+        "https://ni.yam.com/20260927/medias-20260926-6ab790862b6b4-499cf6acd20b5717.jpeg",
+        "https://taiwanhot.net/cache/1309243/lgnw/medias-20260926-6ab790862b6b4.jpeg",
+        "https://www.taiwanhot.net/cache/1309238/lgnw/medias-20260926-6ab78fa2adcc4.jpeg",
+        "https://www.taiwanhot.net/cache/1309239/lgnw/medias-20260926-6ab78fa3162f4.jpeg",
+        "https://www.taiwanhot.net/cache/1309241/lgnw/medias-20260926-6ab78fa37aafd.jpeg",
+        "https://www.taiwanhot.net/cache/1309242/lgnw/medias-20260926-6ab79057617e3.jpeg",
+        "https://www.taiwanhot.net/cache/1309240/lgnw/medias-20260926-6ab78fa36b2ed.jpeg",
+        "https://ni.yam.com/20260715/dq-260716-001.png"
+      ],
+      "summary": "連假好去處！　走進北市水岸解鎖5種假期新玩法 | 蕃新聞。地方中心／台北報導 這個中秋連假不妨換個新玩法！不必長途跋涉，台北市水利處推薦5個景點口袋名單，從「親子放電、親水散步、生態賞鳥」到「單車漫遊」，讓市民在城市裡就可以輕鬆享受不一樣的中秋時光。小孩放電、大人放鬆一次滿足 中秋連假想帶孩子出門走走，就到古亭河濱兒童遊戲場。這座全新落成的遊戲場，甫於今年中完工開放。遊戲場以「水之三態」為設計概念，將固態、液態與氣態轉化為遊樂設施。象徵液態的「漣漪地景遊戲組」搭配彈跳床，讓孩子在跳躍間化身水花、盡情放電。還有「雲朵地景遊戲組」及「冰晶攀爬架」，孩子能跑、跳、攀爬探索水的不同樣貌。大人則能沿著新店溪畔漫步看夕陽，夜晚迎著微風賞月，全家都能找到最舒適的放鬆節奏。生態賞鳥、探索濕地 來一場市區微旅行 想把中秋過得更慢、更自然，社子島濕地更是好選擇。今年社子島濕地獲得首批「保育共生地（OECMs）」認證，擁有潮溝、沙洲、泥灘地及草澤等多樣棲地，兼顧防洪、生態保育與環境教育。中秋過後進入秋冬季，冬候鳥陸續來臺，連假星期六、日兩天，市民可前往社子島濕地解說小築，在志工導覽下認識濕地與季節鳥類，免出遠門，在臺北市區就能展開一趟深度微旅行。",
+      "analysis": {
+        "overview": "連假好去處！　走進北市水岸解鎖5種假期新玩法 | 蕃新聞。地方中心／台北報導 這個中秋連假不妨換個新玩法！不必長途跋涉，台北市水利處推薦5個景點口袋名單，從「親子放電、親水散步、生態賞鳥」到「單車漫遊」，讓市民在城市裡就可以輕鬆享受不一樣的中秋時光。小孩放電、大人放鬆一次滿足 中秋連假想帶孩子出門走走，就到古亭河濱兒童遊戲場。這座全新落成的遊戲場，甫於今年中完工開放。遊戲場以「水之三態」為設計概念，將固態、液態與氣態轉化為遊樂設施。象徵液態的「漣漪地景遊戲組」搭配彈跳床，讓孩子在跳躍間化身水花、盡情放電。還有「雲朵",
+        "pros": "古亭河濱兒童遊戲場以水之三態設計，有彈跳床、攀爬架等設施讓孩子盡情放電；社子島濕地有多樣棲地可賞鳥探索，家長可沿水岸漫步放鬆，兼具生態教育與休閒功能。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "n.yam.com",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "古亭河濱兒童遊戲場以水之三態設計，有彈跳床、攀爬架等設施讓孩子盡情放電；社子島濕地有多樣棲地可賞鳥探索，家長可沿水岸漫步放鬆，兼具生態教育與休閒功能。",
+      "published_at": "2026-09-26T23:15:00+00:00",
+      "collected_at": "2026-09-29T01:57:50.578332+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmidkfvx3lxte5fcfk1rvk3zm8zywdht2vlvhrjmf96r",
@@ -804,32 +837,6 @@
       "published_at": "2026-09-23T15:08:30+00:00",
       "collected_at": "2026-09-25T00:33:45.562421+00:00",
       "query": "台灣 特色飯店 親子 房型"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmixefvx3lxte4xuggzu2tkagvhuvflulltwvgtq29vn",
-      "title": "[嘉義景點]愛木村休閒觀光工廠｜嘉義親子景點推薦，五感認識木頭、互動遊戲、木製玩具一次玩",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xUGgzU2tkaGVHUVFlUlltWVgtQ29vNVNNb0ViRHp0elMzclJyaXNKZERYMkNybHVMdlFlSnJJdG4xMFc4T1A1NW5xc1BHWmU0ejFKZ3NOd3hadHdw0gFiQVVfeXFMTUVRaXVhUUlwZ3E0dEowczFOcnFsLTYzc3ktV0ZUcWVNa29PRWFXZ2dfOVZ0VVJBVlVUaUNNT29GYUNCdjlaellFY0JWVGtfUHdfaE5DX0UxYUpHUVZuaUY1TXc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xUGgzU2tkaGVHUVFlUlltWVgtQ29vNVNNb0ViRHp0elMzclJyaXNKZERYMkNybHVMdlFlSnJJdG4xMFc4T1A1NW5xc1BHWmU0ejFKZ3NOd3hadHdw0gFiQVVfeXFMTUVRaXVhUUlwZ3E0dEowczFOcnFsLTYzc3ktV0ZUcWVNa29PRWFXZ2dfOVZ0VVJBVlVUaUNNT29GYUNCdjlaellFY0JWVGtfUHdfaE5DX0UxYUpHUVZuaUY1TXc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "[嘉義景點]愛木村休閒觀光工廠｜嘉義親子景點推薦，五感認識木頭、互動遊戲、木製玩具一次玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "[嘉義景點]愛木村休閒觀光工廠｜嘉義親子景點推薦，五感認識木頭、互動遊戲、木製玩具一次玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "室內觀光工廠不受天氣影響，有互動遊戲和木製玩具可讓孩子盡情體驗，空間寬敞適合推車好逛。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "udn 女子漾",
-      "tags": [
-        "放電",
-        "室內"
-      ],
-      "reason": "室內觀光工廠不受天氣影響，有互動遊戲和木製玩具可讓孩子盡情體驗，空間寬敞適合推車好逛。",
-      "published_at": "2026-09-23T15:03:24+00:00",
-      "collected_at": "2026-09-23T16:57:45.777326+00:00",
-      "query": "台灣 親子景點 最新"
     }
   ]
 }
