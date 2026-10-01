@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T18:04:55.043938+00:00",
+  "updated_at": "2026-10-01T01:18:16.831773+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -418,6 +418,33 @@
       "query": "台北 新北 桃園 親子景點"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmiy0fvx3lxte51vk54eeqwqji3mfdmnmd5uvnlm3plr",
+      "title": "國慶連假親子旅遊首選！屏東海生館「夜宿-迷你解說員親子營」今年最後兩場，雙十優惠折1010元",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51Vk54eEQwQjI3MFdMNmd5UVNLM3pLRTRreDV4RE5TT1NQTWQxNzluVEE4QWZjdlR5WmhxNnphN1lSQnBEbTh2UnlLR2J3aGc0aDBBVVhmVk9fajd6TWlGaXBfVQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51Vk54eEQwQjI3MFdMNmd5UVNLM3pLRTRreDV4RE5TT1NQTWQxNzluVEE4QWZjdlR5WmhxNnphN1lSQnBEbTh2UnlLR2J3aGc0aDBBVVhmVk9fajd6TWlGaXBfVQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "國慶連假親子旅遊首選！屏東海生館「夜宿-迷你解說員親子營」今年最後兩場，雙十優惠折1010元。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "國慶連假親子旅遊首選！屏東海生館「夜宿-迷你解說員親子營」今年最後兩場，雙十優惠折1010元。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "海生館室內不受天氣影響，夜宿體驗能近距離觀察海洋生物入睡的難得畫面，國慶連假限定優惠1010元，是雨天或短假的優質親子備案。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "波新聞",
+      "tags": [
+        "好玩",
+        "室內",
+        "看動物"
+      ],
+      "reason": "海生館室內不受天氣影響，夜宿體驗能近距離觀察海洋生物入睡的難得畫面，國慶連假限定優惠1010元，是雨天或短假的優質親子備案。",
+      "published_at": "2026-09-30T07:08:51+00:00",
+      "collected_at": "2026-10-01T01:18:04.202538+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte83delstjhregxatnbhsdllrc1ndvfvb",
       "title": "六福村、九族不是第一！台灣最受關注主題樂園TOP10：冠軍水陸樂園一次玩遍、 親子設施超豐富",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83dElsTjhreGxaTnBhSDllRC1ndVFVbmxkRlFnOWJ4NWlTa2NJdWM2VlFSV1B1VTB2Z3FaQlFnODdxalV6RW1mUVFtOXFGUHNK?oc=5",
@@ -546,6 +573,32 @@
       "published_at": "2026-09-30T06:28:45+00:00",
       "collected_at": "2026-09-30T18:03:32.620694+00:00",
       "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiogjbvv95cuxnmkvxvk1emmfhaknoz280txpretjfd",
+      "title": "高雄親子遊樂園區中秋連假湧8萬人次 (圖)",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNMkVXVk1EMmFhakNoZ280TXpReTJfdzg3WlA2VE9tRGtlNUUzRzJYbU9lcjF6dklTUmVQaTNmNkI2MjBaNnNwRkVRSGQxcjJYVVVndFI5Zkg2SWZoTVQxaUlNWDhBTW5sNmNmQjBIWFB5YTdlTXRqQWllUkFQXzQ2bkJkaXBxUWFSTkJrQnBHRFROYWRVYjRKRHVlaTd0UzM1TGtGRmlMY291bW44NVd2WDBxRS1vWWk3WDEyZEtheUYyVmRGTU9SXzRVdGg1VDNqUjFHNm9aQnVHT3Q0LVZibEZVbE9hVHNuWi1JUlphUHVkZzFJOWE1aGNyUUdfTG5nWGVSZlEtV2pSNElNOHJSTkJDOFRMZUl1alZJSHJqQW9YZw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNMkVXVk1EMmFhakNoZ280TXpReTJfdzg3WlA2VE9tRGtlNUUzRzJYbU9lcjF6dklTUmVQaTNmNkI2MjBaNnNwRkVRSGQxcjJYVVVndFI5Zkg2SWZoTVQxaUlNWDhBTW5sNmNmQjBIWFB5YTdlTXRqQWllUkFQXzQ2bkJkaXBxUWFSTkJrQnBHRFROYWRVYjRKRHVlaTd0UzM1TGtGRmlMY291bW44NVd2WDBxRS1vWWk3WDEyZEtheUYyVmRGTU9SXzRVdGg1VDNqUjFHNm9aQnVHT3Q0LVZibEZVbE9hVHNuWi1JUlphUHVkZzFJOWE1aGNyUUdfTG5nWGVSZlEtV2pSNElNOHJSTkJDOFRMZUl1alZJSHJqQW9YZw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區中秋連假湧8萬人次 (圖)。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區中秋連假湧8萬人次 (圖)。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "高雄親子遊樂園區中秋連假湧入8萬人次，規模大、遊樂設施多元，適合帶小孩放電玩耍，人氣高表示體驗佳。",
+      "published_at": "2026-09-30T06:28:43+00:00",
+      "collected_at": "2026-10-01T01:18:10.178548+00:00",
+      "query": "台灣 親子飯店 親子樂園"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte5motm1wjk4rtzhm01moexud2xia2z4z",
@@ -768,60 +821,6 @@
       "published_at": "2026-09-29T04:54:57+00:00",
       "collected_at": "2026-09-30T18:04:43.794169+00:00",
       "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiggnbvv95cuxnlvvps1pwotfiblz1nw4yvnd0os1xm",
-      "title": "新北全新親子公園來了！土城媽祖田溜冰場轉型 預計年底完工",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNLVVpS1pwOTFiblZ1NW4yVnd0OS1XMlhCdnNOeWlTNjZTWnkzdV9pRV80WTNYYmlNaENac0hLT3F5a0xINnhjZk44bUhpUGFqTERkNW1nbmdoYS1RT0RldHVGT2MzSVpJbUQtLWo4dzhRSE9iekdISDM4OUZGWDJ4WGloa3NJUVFmWUhRMTc1WHV3WTBSQjFwMEZFYlNLcDRjZTNhNktEUGpwUFI4VFZtdmhNS0lYRWVLWHRlS0hzcWRtbElISWc3ZG5NZ19JMm1fN2t2YjA0M3ViQWFoSE90aVpPVlBNdWdUMnJIQl95cGEzcUNBOE4wXzJDRGRicklEOFZmUUJGY05VM1BhT1Z5WjRxZnNfcXpqTE9yODBIV2F2anpKMzFtRG9SRE14T2xtcXRaeTJaakF0ajVlNGJTQjJ5UVBpN09yaDdIRFVWaHBEcXg4a0Q0cmFreUt4ODdhV3ZocV9VVzdRekl3X0lvLW9SZ1N5VkZ5TTR0OTNxQVZHUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNLVVpS1pwOTFiblZ1NW4yVnd0OS1XMlhCdnNOeWlTNjZTWnkzdV9pRV80WTNYYmlNaENac0hLT3F5a0xINnhjZk44bUhpUGFqTERkNW1nbmdoYS1RT0RldHVGT2MzSVpJbUQtLWo4dzhRSE9iekdISDM4OUZGWDJ4WGloa3NJUVFmWUhRMTc1WHV3WTBSQjFwMEZFYlNLcDRjZTNhNktEUGpwUFI4VFZtdmhNS0lYRWVLWHRlS0hzcWRtbElISWc3ZG5NZ19JMm1fN2t2YjA0M3ViQWFoSE90aVpPVlBNdWdUMnJIQl95cGEzcUNBOE4wXzJDRGRicklEOFZmUUJGY05VM1BhT1Z5WjRxZnNfcXpqTE9yODBIV2F2anpKMzFtRG9SRE14T2xtcXRaeTJaakF0ajVlNGJTQjJ5UVBpN09yaDdIRFVWaHBEcXg4a0Q0cmFreUt4ODdhV3ZocV9VVzdRekl3X0lvLW9SZ1N5VkZ5TTR0OTNxQVZHUQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "新北全新親子公園來了！土城媽祖田溜冰場轉型 預計年底完工。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "新北全新親子公園來了！土城媽祖田溜冰場轉型 預計年底完工。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "由溜冰場轉型的全新親子公園，專為孩童設計的戶外活動空間，完工後可望成為土城地區親子放電的新去處。",
-      "published_at": "2026-09-28T16:00:00+00:00",
-      "collected_at": "2026-09-30T01:18:19.762653+00:00",
-      "query": "台北 新北 桃園 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmir0fvx3lxte94yxg0rfiyc1zfche4twvkvuxydg9lb",
-      "title": "教師節放假何處去 新北特色共融公園親子共遊趣",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94YXg0RFIyc1ZfcHE4TWVKVUxYdG9lbEdCU0VYX3RBTllpaUlOSHI5UWx2UnZxdWxMZHRCZUYxbUxLdlRMQ084?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94YXg0RFIyc1ZfcHE4TWVKVUxYdG9lbEdCU0VYX3RBTllpaUlOSHI5UWx2UnZxdWxMZHRCZUYxbUxLdlRMQ084?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "教師節放假何處去 新北特色共融公園親子共遊趣。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "教師節放假何處去 新北特色共融公園親子共遊趣。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "台灣新聞雲",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "新北特色共融公園擁有多元遊戲設施與寬闊草皮，孩子可盡情放電奔跑，戶外自然環境結合同遊休憩區，家長也能輕鬆陪玩放鬆。",
-      "published_at": "2026-09-28T14:14:24+00:00",
-      "collected_at": "2026-09-28T19:40:40.170958+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
     }
   ]
 }
