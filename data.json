@@ -1,8 +1,87 @@
 {
-  "updated_at": "2026-10-01T01:18:16.831773+00:00",
+  "updated_at": "2026-10-01T18:26:23.057756+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfbruwh0mlm3z2itthfqy1k5bevvmtfdy",
+      "title": "遠雄悅來大飯店連3年奪世界旅遊大獎 蟬聯台灣領先家庭度假村",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRUWh0MlM3Z2ItTHFQY1k5bEVVMTFDY0tjQXVnNVQ4R0ZqVjdNWkpRNlhtejlhWklLTUlZek8wSzBTTEI0NXhMV1ZseFMycTJsT3c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRUWh0MlM3Z2ItTHFQY1k5bEVVMTFDY0tjQXVnNVQ4R0ZqVjdNWkpRNlhtejlhWklLTUlZek8wSzBTTEI0NXhMV1ZseFMycTJsT3c?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "遠雄悅來大飯店連3年奪世界旅遊大獎 蟬聯台灣領先家庭度假村。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "遠雄悅來大飯店連3年奪世界旅遊大獎 蟬聯台灣領先家庭度假村。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "價格與房型差異大，親子設施也可能需預約。",
+        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "大自然",
+        "放電",
+        "好玩"
+      ],
+      "reason": "飯店位於花蓮山海之間，擁有自然環境與完善親子設施，適合帶小孩放电放风又可享受度假氛围。",
+      "published_at": "2026-10-01T12:19:00+00:00",
+      "collected_at": "2026-10-01T18:25:25.831507+00:00",
+      "query": "台灣 特色飯店 親子 房型"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmi3wjbvv95cuxqy2vkwgfbszltznnfzddrr0mwmmgtd",
+      "title": "中秋連假4天湧入8萬人次 高雄親子遊樂園區人氣持續升溫",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQY2VKWGFBSzlTZnNFZDdrR0MwMmgtd3l2dk02cmFsRG9mQzM2WVRXNC1fZEwxQnliX0ZNdVpwZjRQcnJSM0h3dEtaSDlHVjNiaFVOUDJSZTVLcmNPeVlFbTNPdXlGb2dyX2FoMmprbVhlTG52SkFYTnFDSU1mWlA2bzhaUWFwMG05eXdYMmN5Mm44MFA5RlpOWDRvS0RhZ3J6WE5GdmlnS0g3N3JpcWJnY0F3MENPYUgwdmNTSVpnMG45dmZINlExd0UyWW9mMlZuOXpVVXM5YmJSZnBLNk90R2d6Z3NadjhuSkpNSEdwdXlpOEtzeHNhdjd5a1hnREsyZ3paV19PRlZ3d0Uyb3dPQ3hkWEs4bTFKXzNYVUZqNmxWSnR6LVZyQ1ZwR1BDUDJxZVQyNXZNaG9qcmpwa21LejVxOUpoeks1N3MwZTNlaU5sMU01NmxQLW8wenFObVE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQY2VKWGFBSzlTZnNFZDdrR0MwMmgtd3l2dk02cmFsRG9mQzM2WVRXNC1fZEwxQnliX0ZNdVpwZjRQcnJSM0h3dEtaSDlHVjNiaFVOUDJSZTVLcmNPeVlFbTNPdXlGb2dyX2FoMmprbVhlTG52SkFYTnFDSU1mWlA2bzhaUWFwMG05eXdYMmN5Mm44MFA5RlpOWDRvS0RhZ3J6WE5GdmlnS0g3N3JpcWJnY0F3MENPYUgwdmNTSVpnMG45dmZINlExd0UyWW9mMlZuOXpVVXM5YmJSZnBLNk90R2d6Z3NadjhuSkpNSEdwdXlpOEtzeHNhdjd5a1hnREsyZ3paV19PRlZ3d0Uyb3dPQ3hkWEs4bTFKXzNYVUZqNmxWSnR6LVZyQ1ZwR1BDUDJxZVQyNXZNaG9qcmpwa21LejVxOUpoeks1N3MwZTNlaU5sMU01NmxQLW8wenFObVE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "中秋連假4天湧入8萬人次 高雄親子遊樂園區人氣持續升溫。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "中秋連假4天湧入8萬人次 高雄親子遊樂園區人氣持續升溫。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "報新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "中秋連假吸引8萬人次高人氣，遊樂設施齊全能讓孩子盡情放電，且多人造訪代表設施成熟、適合帶小孩出遊。",
+      "published_at": "2026-10-01T11:19:03+00:00",
+      "collected_at": "2026-10-01T18:25:32.719445+00:00",
+      "query": "台北 新北 桃園 親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmigwfbvv95cuxpcwhmevjvwmfiadlsm2fms3p4s1jnz",
+      "title": "海景、親子推薦！台灣2026度假飯店TO 10",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWhmeVJVWmFIaDlSM2FMS3p4S1JNZG5YWERUQ0lZZmRVdG9sY1lCSjFqY1VZbjdSb0pBNDMweXBqVmdrR2tGdTJKZjJNNlIwVlhxLVpHWnZRNGxnSjI5ZmxKMWZJSlFEcXFqZm5yeE1TR2FndTFUcVIyNmVVd1ktaTBwa9IBYkFVX3lxTFBHNDZ2Um44R2MyS1M5S1hVUVdJbEc1NW94UElyQVlRZG5xWVh2RGV1cl9aYmVncnBOS1hONUVhZUNlTC1zbXkxbTJrek9lV1FFbUx4SjBHYk5MUEgtME5GeGRn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWhmeVJVWmFIaDlSM2FMS3p4S1JNZG5YWERUQ0lZZmRVdG9sY1lCSjFqY1VZbjdSb0pBNDMweXBqVmdrR2tGdTJKZjJNNlIwVlhxLVpHWnZRNGxnSjI5ZmxKMWZJSlFEcXFqZm5yeE1TR2FndTFUcVIyNmVVd1ktaTBwa9IBYkFVX3lxTFBHNDZ2Um44R2MyS1M5S1hVUVdJbEc1NW94UElyQVlRZG5xWVh2RGV1cl9aYmVncnBOS1hONUVhZUNlTC1zbXkxbTJrek9lV1FFbUx4SjBHYk5MUEgtME5GeGRn?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "海景、親子推薦！台灣2026度假飯店TO 10。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "海景、親子推薦！台灣2026度假飯店TO 10。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "價格與房型差異大，親子設施也可能需預約。",
+        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "udn 女子漾",
+      "tags": [
+        "室內",
+        "好玩"
+      ],
+      "reason": "度假飯店通常設有兒童遊戲區或泳池，孩子能在安全環境中盡情放電，家長也能放鬆享受海景假期。",
+      "published_at": "2026-10-01T07:03:09+00:00",
+      "collected_at": "2026-10-01T18:25:44.384830+00:00",
+      "query": "台灣 親子景點 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte9azmdxz21lc3vpb1fmswjhmeg4tnfsd",
       "title": "高雄仁武橋下特色公園亮相！高鐵主題遊戲場好玩又好拍！",
@@ -54,6 +133,33 @@
       "published_at": "2026-09-30T15:03:52+00:00",
       "collected_at": "2026-09-30T18:00:14.461433+00:00",
       "query": "台灣 特色飯店 親子 房型"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmid0fvx3lxte9jqzvywgn5t1pry2touuf6emdialzjt",
+      "title": "屏東海生館國慶旅遊首選！夜宿-迷你解說員親子營最後2場限定折價逾千元 | 勁報",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jQzVyWGN5T1prY2toUUF6emdialZJTXR0ckhuUEFERjJuNEozR0FUcVVZQTVSMEZNYUhzdFpsMFBPd1F6X195MjFPMzNLQThnbHE4dkJOYWVMWmthSGlQRUJjdGE3OHBhZnJ1SlI0UHhLTlBsMkg4?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jQzVyWGN5T1prY2toUUF6emdialZJTXR0ckhuUEFERjJuNEozR0FUcVVZQTVSMEZNYUhzdFpsMFBPd1F6X195MjFPMzNLQThnbHE4dkJOYWVMWmthSGlQRUJjdGE3OHBhZnJ1SlI0UHhLTlBsMkg4?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "屏東海生館國慶旅遊首選！夜宿-迷你解說員親子營最後2場限定折價逾千元 | 勁報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "屏東海生館國慶旅遊首選！夜宿-迷你解說員親子營最後2場限定折價逾千元 | 勁報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "屏東海生館是室內景點，雨天備案也合適，迷你解說員活動能讓孩子近距離接觸海洋生物並學習知識，寓教於樂又具吸引力。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "看動物",
+        "好玩",
+        "室內"
+      ],
+      "reason": "屏東海生館是室內景點，雨天備案也合適，迷你解說員活動能讓孩子近距離接觸海洋生物並學習知識，寓教於樂又具吸引力。",
+      "published_at": "2026-09-30T14:32:20+00:00",
+      "collected_at": "2026-10-01T18:25:52.642756+00:00",
+      "query": "台灣 親子景點 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmivkfvx3lxtfayrlhzavpflxnnmxo1bw9mze9rahvms",
@@ -109,6 +215,37 @@
       "query": "台灣 免費親子景點"
     },
     {
+      "id": "https-news-pchome-com-tw-living-focusnews-20260930-index-79076366415693302009-ht",
+      "title": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫 - 生活新聞 - PChome Online 新聞",
+      "url": "https://news.pchome.com.tw/living/focusnews/20260930/index-79076366415693302009.html",
+      "canonical_url": "https://news.pchome.com.tw/living/focusnews/20260930/index-79076366415693302009.html",
+      "image_url": "https://news.pchome.com.tw/newsdata/living/focusnews/20260930/79076366415693302009_original.jpg",
+      "images": [
+        "https://news.pchome.com.tw/newsdata/living/focusnews/20260930/79076366415693302009_original.jpg",
+        "https://news.pchome.com.tw/img/air_smly2.png",
+        "https://news.pchome.com.tw/img/ico_locate.png",
+        "https://news.pchome.com.tw/newsdata/living/focusnews/20260930/79076366415693302009.jpg",
+        "https://news.pchome.com.tw/newsdata/living/focusnews/20260930/79076366415693302009_1.jpg",
+        "https://news.pchome.com.tw/img/google_news_pc.jpg?v=20240812"
+      ],
+      "summary": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫 - 生活新聞 - PChome Online 新聞。高雄親子遊樂園區中秋連假4天吸引約8萬人次入園，其中外縣市遊客約占55%，顯示園區不僅深受高雄在地親子家庭喜愛，也逐漸成為外縣市家庭到高雄旅遊的重要親子遊憩景點。公園處表示，園區自開園以來持續受到親子家庭關注，隨著設施及遊憩環境逐漸累積口碑，外縣市遊客比例也持續增加。本次中秋連假4天即吸引約8萬人次入園，平均每日約2萬人次，其中外縣市遊客約占55%，其中以新北市及台南市遊客各占11%最多，其次為桃園市7.5%、台北市7.1%，台中市及屏東縣則各占6.1%，顯示高雄親子遊樂園區已具備跨縣市旅遊吸引力，成為南台灣親子旅遊的新亮點。面對連假大量遊客及高頻率的設施使用，園區持續強化遊客引導、設施巡檢及環境維護，並透過分流管理及定期保養，兼顧遊客遊憩品質與設施使用安全，讓大小朋友都能安心遊玩。公園處提醒，近期園區人氣持續升溫，假日期間遊客較多，建議家長陪同孩童遊玩時，依照各項設施使用規定及現場工作人員引導正確使用遊具，並留意孩童遊憩安全。",
+      "analysis": {
+        "overview": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫 - 生活新聞 - PChome Online 新聞。高雄親子遊樂園區中秋連假4天吸引約8萬人次入園，其中外縣市遊客約占55%，顯示園區不僅深受高雄在地親子家庭喜愛，也逐漸成為外縣市家庭到高雄旅遊的重要親子遊憩景點。公園處表示，園區自開園以來持續受到親子家庭關注，隨著設施及遊憩環境逐漸累積口碑，外縣市遊客比例也持續增加。本次中秋連假4天即吸引約8萬人次入園，平均每日約2萬人次，其中外縣市遊客約占55%，其中以新北市及台南市遊客各占11%最多，其次為桃園市7.5%",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "news.pchome.com.tw",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "高雄親子遊樂園區吸引單日2萬人次且外縣市遊客逾55%，分流管理與定期保養兼顧遊憩品質與設施安全，是南台灣超人氣的放電勝地。",
+      "published_at": "2026-09-30T11:21:00+00:00",
+      "collected_at": "2026-10-01T18:26:01.350463+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfbwtufmcup2rxb2reu3ekk2nnfusjviv",
       "title": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWTUFMcUp2RXB2REU3ekk2NnFUSjViVF9DU1JmQXExUUFtZmtzV293OVZBRkxNSEFtMm00NEQxMnhXdktUZjVfYnVyNjZnYXlIMWfSAVJBVV95cUxQVk1BTHFKdkVwdkRFN3pJNjZxVEo1YlRfQ1NSZkFxMVFBbWZrc1dvdzlWQUZMTUhBbTJtNDREMTJ4V3ZLVGY1X2J1cjY2Z2F5SDFn?oc=5",
@@ -133,6 +270,32 @@
       "published_at": "2026-09-30T10:21:04+00:00",
       "collected_at": "2026-09-30T18:00:49.570772+00:00",
       "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxpa3rut01jwk9xn0e0v0jmmfrtndzsr",
+      "title": "高雄親子遊樂園區中秋連假4天湧入8萬人次人氣持續升溫- 生活新聞",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa3RuT01JWk9XN0E0V0JMMFRtNDZSRUpwWlBZQjVQUkhOWDRZdEcwVk1mZVhhdmdmWWlpTWJ6S05kVFNmZEpNUWxoQzhoUWdSOFhlR2pFa2xoRTJWU0dvUlNONkJvRmxNY0tSNDJPU25TNGRwMnMwNEtOS2xDU0JiTUQwZjY3REN1TkRjQw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa3RuT01JWk9XN0E0V0JMMFRtNDZSRUpwWlBZQjVQUkhOWDRZdEcwVk1mZVhhdmdmWWlpTWJ6S05kVFNmZEpNUWxoQzhoUWdSOFhlR2pFa2xoRTJWU0dvUlNONkJvRmxNY0tSNDJPU25TNGRwMnMwNEtOS2xDU0JiTUQwZjY3REN1TkRjQw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區中秋連假4天湧入8萬人次人氣持續升溫- 生活新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區中秋連假4天湧入8萬人次人氣持續升溫- 生活新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊樂園區設施多元，孩子可以盡情跑跳放電，家長也有休息區可陪同。",
+      "published_at": "2026-09-30T10:21:04+00:00",
+      "collected_at": "2026-10-01T18:26:09.949827+00:00",
+      "query": "台灣 免費親子景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte4wanvbtm9vdvm3dth4rew2merwuelcu",
@@ -445,6 +608,33 @@
       "query": "台灣 親子旅遊 最新"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte9juhpxrnrhetvgz0c1vuj6cvvsskzlv",
+      "title": "國慶連假親子旅遊首選！屏東海生館「夜宿-迷你解說員親子營」今年最後兩場，雙十優惠折1010元",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JUHpXRnRHeTVGZ0c1VUJ6cVVsSkZLVnp6OEJrbDRrS1pEenRha2FBY1ludzhReUlLV09wWDVkaDY3QVItbEthSVQ0RWUzRlNwNXc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JUHpXRnRHeTVGZ0c1VUJ6cVVsSkZLVnp6OEJrbDRrS1pEenRha2FBY1ludzhReUlLV09wWDVkaDY3QVItbEthSVQ0RWUzRlNwNXc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "國慶連假親子旅遊首選！屏東海生館「夜宿-迷你解說員親子營」今年最後兩場，雙十優惠折1010元。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "國慶連假親子旅遊首選！屏東海生館「夜宿-迷你解說員親子營」今年最後兩場，雙十優惠折1010元。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "屏東海生館室內不受天氣影響，可近距離接觸海洋生物且活動寓教於樂，是雨天備案首選，國慶連假還有優惠。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "看動物",
+        "好玩",
+        "室內"
+      ],
+      "reason": "屏東海生館室內不受天氣影響，可近距離接觸海洋生物且活動寓教於樂，是雨天備案首選，國慶連假還有優惠。",
+      "published_at": "2026-09-30T07:08:00+00:00",
+      "collected_at": "2026-10-01T18:26:16.178864+00:00",
+      "query": "台北 新北 桃園 親子景點"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte83delstjhregxatnbhsdllrc1ndvfvb",
       "title": "六福村、九族不是第一！台灣最受關注主題樂園TOP10：冠軍水陸樂園一次玩遍、 親子設施超豐富",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83dElsTjhreGxaTnBhSDllRC1ndVFVbmxkRlFnOWJ4NWlTa2NJdWM2VlFSV1B1VTB2Z3FaQlFnODdxalV6RW1mUVFtOXFGUHNK?oc=5",
@@ -625,202 +815,6 @@
       "published_at": "2026-09-30T06:28:00+00:00",
       "collected_at": "2026-09-30T18:03:39.875508+00:00",
       "query": "台南 高雄 屏東 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiiwfbvv95cuxoeezybwmybnjkz0zzumptvgdztknsl",
-      "title": "中秋連假4天湧入8萬人次 高雄親子遊樂園區人氣持續升溫",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeEZybWMybnJkZ0ZZUmptVGdZTkNSLTIxbkp2REtiZ0xCRS1XZ3dUMWdIOEkyLXZueFlUWEdlT3luQ0hqWENOLWl2bDhmOE5kc1JydFlHT19zODBHblN4aXN3T2hoOFJhaUhDNWNzNm1zbTRudlo4aXVXWUY5M1doWEpVSzVnSEt4OTZ3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeEZybWMybnJkZ0ZZUmptVGdZTkNSLTIxbkp2REtiZ0xCRS1XZ3dUMWdIOEkyLXZueFlUWEdlT3luQ0hqWENOLWl2bDhmOE5kc1JydFlHT19zODBHblN4aXN3T2hoOFJhaUhDNWNzNm1zbTRudlo4aXVXWUY5M1doWEpVSzVnSEt4OTZ3?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "中秋連假4天湧入8萬人次 高雄親子遊樂園區人氣持續升溫。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "中秋連假4天湧入8萬人次 高雄親子遊樂園區人氣持續升溫。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "kcg.gov.tw",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄超人氣親子遊樂園區，設施多元能讓孩子盡情放電玩耍，中秋連假吸引8萬人次驗證其好玩程度。",
-      "published_at": "2026-09-30T06:15:05+00:00",
-      "collected_at": "2026-09-30T18:03:52.134369+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-www-cdns-com-tw-articles-1467800",
-      "title": "中秋連假吸客8萬人次 高雄親子遊樂園人氣旺",
-      "url": "https://www.cdns.com.tw/articles/1467800",
-      "canonical_url": "https://www.cdns.com.tw/articles/1467800",
-      "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "中秋連假吸客8萬人次 高雄親子遊樂園人氣旺。本報綜合報導 高雄市親子遊樂園區中秋教師節連假四天吸引約八萬人次入園。工務局公園處三十公布統計數據指出，外縣市遊客約占五成五，以新北及台南遊客各占百分之十一最多，其次為桃園百分之七點五、台北百分之七點一，台中及屏東各占百分之六點一。公園處表示，園區自開園以來持續受到親子家庭關注，外縣市遊客比例也持續增加，逐漸成為外縣市遊客到高雄旅遊的重要親子遊憩景點。面對連假大量遊客及高頻率的設施使用，工務局 ...",
-      "analysis": {
-        "overview": "中秋連假吸客8萬人次 高雄親子遊樂園人氣旺。本報綜合報導 高雄市親子遊樂園區中秋教師節連假四天吸引約八萬人次入園。工務局公園處三十公布統計數據指出，外縣市遊客約占五成五，以新北及台南遊客各占百分之十一最多，其次為桃園百分之七點五、台北百分之七點一，台中及屏東各占百分之六點一。公園處表示，園區自開園以來持續受到親子家庭關注，外縣市遊客比例也持續增加，逐漸成為外縣市遊客到高雄旅遊的重要親子遊憩景點。面對連假大量遊客及高頻率的設施使用，工務局 ...",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "cdns.com.tw",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "遊樂設施完善且佔地寬闊，適合帶小孩盡情放電消耗體力；外縣市遊客佔55%可見知名度高，是連假期間高雄親子出遊的熱門首選。",
-      "published_at": "2026-09-30T05:31:00+00:00",
-      "collected_at": "2026-09-30T18:04:14.814841+00:00",
-      "query": "台南 高雄 屏東 親子景點"
-    },
-    {
-      "id": "https-n-yam-com-article-20260930120666",
-      "title": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫 | 蕃新聞",
-      "url": "https://n.yam.com/Article/20260930120666",
-      "canonical_url": "https://n.yam.com/Article/20260930120666",
-      "image_url": "https://ni.yam.com/20260930/1183060_0-68b1c81579b03f28.jpg",
-      "images": [
-        "https://ni.yam.com/20260930/1183060_0-68b1c81579b03f28.jpg",
-        "https://focusnews.com.tw/wp-content/uploads/2026/09/1183061_0-800x600.jpg",
-        "https://focusnews.com.tw/wp-content/uploads/2026/09/中秋連假4天湧入8萬人次-800x600.jpg",
-        "https://ni.yam.com/20260715/dq-260716-001.png",
-        "https://pronews.tw/wp-content/uploads/2026/09/5576696_2_1.jpg",
-        "https://ni.yam.com/20260917/6aab729c9b8ed-77d431f0a1e765ca.jpg",
-        "https://ni.yam.com/20260929/2026_09_29_1725262-cf849f09022dec20.jpeg",
-        "https://ni.yam.com/20260925/IMG_4893-ac69de516b707e1d.jpeg"
-      ],
-      "summary": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫 | 蕃新聞。【今傳媒/記者李祖東報導】 中秋連假人潮再創高峰！高雄親子遊樂園區中秋連假4天吸引約8萬人次入園，其中外縣市遊客約占55%，顯示園區不僅深受高雄在地親子家庭喜愛，也逐漸成為外縣市家庭到高雄旅遊的重要親子遊憩景點。公園處表示，園區自開園以來持續受到親子家庭關注，隨著設施及遊憩環境逐漸累積口碑，外縣市遊客比例也持續增加。本次中秋連假4天即吸引約8萬人次入園，平均每日約2萬人次，其中外縣市遊客約占55%，其中以新北市及台南市遊客各占11%最多，其次為桃園市7.5%、台北市7.1%，台中市及屏東縣則各占6.1%，顯示高雄親子遊樂園區已具備跨縣市旅遊吸引力，成為南台灣親子旅遊的新亮點。面對連假大量遊客及高頻率的設施使用，園區持續強化遊客引導、設施巡檢及環境維護，並透過分流管理及定期保養，兼顧遊客遊憩品質與設施使用安全，讓大小朋友都能安心遊玩。公園處提醒，近期園區人氣持續升溫，假日期間遊客較多，建議家長陪同孩童遊玩時，依照各項設施使用規定及現場工作人員引導正確使用遊具，並留意孩童遊憩安全。",
-      "analysis": {
-        "overview": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫 | 蕃新聞。【今傳媒/記者李祖東報導】 中秋連假人潮再創高峰！高雄親子遊樂園區中秋連假4天吸引約8萬人次入園，其中外縣市遊客約占55%，顯示園區不僅深受高雄在地親子家庭喜愛，也逐漸成為外縣市家庭到高雄旅遊的重要親子遊憩景點。公園處表示，園區自開園以來持續受到親子家庭關注，隨著設施及遊憩環境逐漸累積口碑，外縣市遊客比例也持續增加。本次中秋連假4天即吸引約8萬人次入園，平均每日約2萬人次，其中外縣市遊客約占55%，其中以新北市及台南市遊客各占11%最多，其次為桃園",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "n.yam.com",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "中秋連假單日湧入2萬人次，南台灣親子出遊新亮點，設施定期保養分流管理安全又盡興，孩子放電家長輕鬆。",
-      "published_at": "2026-09-30T03:21:00+00:00",
-      "collected_at": "2026-09-30T18:04:26.752763+00:00",
-      "query": "台南 高雄 屏東 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmibefvx3lxte0wmwjzr1zuzkzss1p1ympuv0lhbgvwn",
-      "title": "海景、親子推薦！台灣2026度假飯店TO 10",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wMWJzR1ZUZkZSS1p1YmpUV0lhbGVwNlpsWlpfb0tMZ2I5MzlvcENDQUdvMTJEcnVKYTNCR3hWRkQ1dDl4RW9TOFZ6MWFJd294WkFJM25Zam4tREpza0IxSWNRa04zVVZWSjdEQg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wMWJzR1ZUZkZSS1p1YmpUV0lhbGVwNlpsWlpfb0tMZ2I5MzlvcENDQUdvMTJEcnVKYTNCR3hWRkQ1dDl4RW9TOFZ6MWFJd294WkFJM25Zam4tREpza0IxSWNRa04zVVZWSjdEQg?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "海景、親子推薦！台灣2026度假飯店TO 10。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "海景、親子推薦！台灣2026度假飯店TO 10。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "truemii.chinatimes.com",
-      "tags": [
-        "好玩",
-        "室內",
-        "大自然"
-      ],
-      "reason": "海景度假飯店通常有專屬兒童遊戲區或泳池，室內空間舒適不怕天候影響，適合親子家庭放鬆度假",
-      "published_at": "2026-09-30T01:47:29+00:00",
-      "collected_at": "2026-09-30T18:04:30.435129+00:00",
-      "query": "台灣 室內親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte5fmllmu1b6mwlfutzqqkfkvm1guwkxu",
-      "title": "海景、親子推薦！台灣2026度假飯店TOP 10",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fMllMU1B6MWlfUTZQQkFkVm1GUWkxUEhSR0laSlN4QTBfZjFiYzF2VjJ2aUctdUthUWRtRl9KcnY2YVR2d3JNVGR1Y2ZkdzZj?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fMllMU1B6MWlfUTZQQkFkVm1GUWkxUEhSR0laSlN4QTBfZjFiYzF2VjJ2aUctdUthUWRtRl9KcnY2YVR2d3JNVGR1Y2ZkdzZj?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "海景、親子推薦！台灣2026度假飯店TOP 10。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "海景、親子推薦！台灣2026度假飯店TOP 10。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "UDN",
-      "tags": [
-        "室內",
-        "放電"
-      ],
-      "reason": "親子度假飯店提供室內遊戲空間與專屬活動，孩子可盡情放電玩樂，家長也能輕鬆度假，海景與完善設施兼具。",
-      "published_at": "2026-09-29T23:53:15+00:00",
-      "collected_at": "2026-09-30T01:18:01.593041+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-udn-com-news-story-7270-9784691",
-      "title": "海景、親子推薦！台灣2026度假飯店TOP 10 | 聯合新聞網",
-      "url": "https://udn.com/news/story/7270/9784691",
-      "canonical_url": "https://udn.com/news/story/7270/9784691",
-      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/30/35374446.jpg&M=1&s=Y&x=0&y=0&sw=1077&sh=718&exp=3600",
-      "images": [
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/30/35374446.jpg&M=1&s=Y&x=0&y=0&sw=1077&sh=718&exp=3600",
-        "https://sb.scorecardresearch.com/p?c1=2&c2=7390954&comscorekw=&cv=4.0.0&cj=1",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/author/photo/9677.png&w=100",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/30/35374446.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=718&sl=W&fw=930&exp=3600&w=930",
-        "https://2024-dailyview.s3.ap-northeast-1.amazonaws.com/shared_image/2026/9/caaf487871b21e20f71fc4880c87fb7f715a3151689003d9e68e4cf2a3d3dd08.webp",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/author/photo/9677.png",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/static/event/member/calender.png&nt=1",
-        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/26/35365581.jpg&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300&w=300"
-      ],
-      "summary": "海景、親子推薦！台灣2026度假飯店TOP 10 | 聯合新聞網。即時 要聞 快訊 85歲長者逛101丟愛馬仕包！內有7本存摺＋印章 賈永婕曝光結局 09:10 退場爭議／教師被欠薪56萬等2年 揭私校減薪救校陷阱 09:00 一早香醒！台灣2026度假飯店TOP 10 2026-09-30 07:53 DailyView網路溫度計／ 網路溫度計 DailyView 親子 示意圖／ChatGPT --> 贊助本文 --> 你的最愛是哪間？拉開窗簾就是山海，換上拖鞋走去泡湯，孩子已經在泳池玩到不肯上岸；晚餐吃完不用趕行程，只要慢慢走回房間，連手機都懶得拿起來。",
-      "analysis": {
-        "overview": "海景、親子推薦！台灣2026度假飯店TOP 10 | 聯合新聞網。即時 要聞 快訊 85歲長者逛101丟愛馬仕包！內有7本存摺＋印章 賈永婕曝光結局 09:10 退場爭議／教師被欠薪56萬等2年 揭私校減薪救校陷阱 09:00 一早香醒！台灣2026度假飯店TOP 10 2026-09-30 07:53 DailyView網路溫度計／ 網路溫度計 DailyView 親子 示意圖／ChatGPT --> 贊助本文 --> 你的最愛是哪間？拉開窗簾就是山海，換上拖鞋走去泡湯，孩子已經在泳池玩到不肯上岸；晚餐吃完不用趕",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "udn.com",
-      "tags": [
-        "室內",
-        "放電",
-        "大自然"
-      ],
-      "reason": "度假飯店提供室內泳池與溫泉設施，孩子可盡情放電，家長不必安排額外行程；部分飯店坐擁海景山色，讓全家在房內就能親近自然、放鬆身心。",
-      "published_at": "2026-09-29T10:52:00+00:00",
-      "collected_at": "2026-09-30T01:18:11.719947+00:00",
-      "query": "台灣 親子飯店 親子樂園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte9zm2pjcuvntxbzexjzswlyykuxn3fvw",
-      "title": "新北全新親子公園來了！土城媽祖田溜冰場轉型 預計年底完工",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zM2pJcUVNTXBzeXJzSWlYYkUxN3FVWWR0ZWk5ZEVUcVNVVGxjUFNzaEh1TE04NTBzYXdjS0k5V3FONGdrY1gxc3lvRWJtRHh0dXl4M3lFZ1ZOWXlwQzJr?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zM2pJcUVNTXBzeXJzSWlYYkUxN3FVWWR0ZWk5ZEVUcVNVVGxjUFNzaEh1TE04NTBzYXdjS0k5V3FONGdrY1gxc3lvRWJtRHh0dXl4M3lFZ1ZOWXlwQzJr?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "新北全新親子公園來了！土城媽祖田溜冰場轉型 預計年底完工。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "新北全新親子公園來了！土城媽祖田溜冰場轉型 預計年底完工。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "ShareLife 台灣旅行趣",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "土城媽祖田親子公園由舊溜冰場大改造，設置多樣遊戲設施，提供孩子盡情放電的空間，且公園腹地寬敞，家長可輕鬆陪玩監督。",
-      "published_at": "2026-09-29T04:54:57+00:00",
-      "collected_at": "2026-09-30T18:04:43.794169+00:00",
-      "query": "台灣 親子放電 景點"
     }
   ]
 }
