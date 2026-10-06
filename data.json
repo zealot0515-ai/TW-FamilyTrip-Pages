@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-10-06T02:18:45.884458+00:00",
+  "updated_at": "2026-10-06T18:22:34.722774+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmixefvx3lxte8tm01cbuxnzevqwuk4ykj6wm9usnqxa",
+      "title": "【好想兔海洋探險島】嘉義親子景點-全台唯一IP聯名親子樂園，2000坪超大空間大人小孩都玩翻",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tM01CbUxNZEVqWUk4YkJ6Wm9uSnQxa0h6YWpaTy1oXzgzLTl1QXpfb3J4QkIwQUNYb0kxeUI3bE9JcWVQMDdoNmhZbnVnVHBaVE5tTVVFM2FlWEh3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tM01CbUxNZEVqWUk4YkJ6Wm9uSnQxa0h6YWpaTy1oXzgzLTl1QXpfb3J4QkIwQUNYb0kxeUI3bE9JcWVQMDdoNmhZbnVnVHBaVE5tTVVFM2FlWEh3?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "【好想兔海洋探險島】嘉義親子景點-全台唯一IP聯名親子樂園，2000坪超大空間大人小孩都玩翻。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "【好想兔海洋探險島】嘉義親子景點-全台唯一IP聯名親子樂園，2000坪超大空間大人小孩都玩翻。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "卡優新聞網",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "2000坪超大空間，孩子能盡情奔跑放電，IP聯名主題增添童趣吸引力，室內樂園不受天氣影響，是雨天備案的好選擇。",
+      "published_at": "2026-10-06T07:33:59+00:00",
+      "collected_at": "2026-10-06T18:21:48.328765+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiwkfvx3lxte9ywxloalpzbkfmuwdfnti3zjlpexvzr",
+      "title": "南投親子景點「海盜村」無預警歇業！ 網錯愕：第一次知道",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YWXlOalpzbkFmUWdfNTI3ZjlPeXVZRi0yV1gwTXlURFJ4WEdKNHhrM3c4TnhuVXhPQnB4MHRtZXZ3Z19UTmNlYmFoejJiS21GYWhJUVBoekdmQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YWXlOalpzbkFmUWdfNTI3ZjlPeXVZRi0yV1gwTXlURFJ4WEdKNHhrM3c4TnhuVXhPQnB4MHRtZXZ3Z19UTmNlYmFoejJiS21GYWhJUVBoekdmQQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "南投親子景點「海盜村」無預警歇業！ 網錯愕：第一次知道。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "南投親子景點「海盜村」無預警歇業！ 網錯愕：第一次知道。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "景點已歇業，不建議前往。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "東森電視",
+      "tags": [
+        "放電"
+      ],
+      "reason": "景點已歇業，不建議前往。",
+      "published_at": "2026-10-06T07:20:00+00:00",
+      "collected_at": "2026-10-06T18:22:00.133598+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxtfbxsvgzczboohzvqujzymtpahrurenke",
+      "title": "「台灣知名樂園」無預警宣告熄燈！營業7年正式停業， 必訪親子景點走入歷史",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxSVgzczBOOHZVQUJZYmtpaHRuRENkeEtQQUxlM19LdEhLUXh4SU9pOWZ6UWkyWFc3NTFTM19JNHlWTllQaGFOODFoc1haVkpt?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxSVgzczBOOHZVQUJZYmtpaHRuRENkeEtQQUxlM19LdEhLUXh4SU9pOWZ6UWkyWFc3NTFTM19JNHlWTllQaGFOODFoc1haVkpt?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "「台灣知名樂園」無預警宣告熄燈！營業7年正式停業， 必訪親子景點走入歷史。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "「台灣知名樂園」無預警宣告熄燈！營業7年正式停業， 必訪親子景點走入歷史。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Storm.mg",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "該樂園已無預警熄燈走入歷史，不再開放，建議家長另尋其他親子景點。",
+      "published_at": "2026-10-06T04:55:17+00:00",
+      "collected_at": "2026-10-06T18:22:11.055096+00:00",
+      "query": "台灣 親子景點 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmixefvx3lxte56yzdhtmdtcdbpbkxazmxoofbylxdrb",
       "title": "麗寶樂園國慶、光復連假 18歲以下享免費入園",
@@ -290,6 +367,33 @@
       "query": "台灣 親子飯店 親子樂園"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte8tafrum0ljndjuquzhnelsqzz2uevps",
+      "title": "桃園珍珠海岸觀光宣傳片定角 陽光暖爸鳳小岳出演、掀親子旅遊新風潮 | 台灣好新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8taFRuM0lJNDJuQUZhNElsQzZ2UEVPSGItZEpKb1I3bnNSd3RIWWMybFRZaUhLVkZhdzUxY21EOEFrRGRFUl9wT0VQb1FtMEpUYWRrMTBB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8taFRuM0lJNDJuQUZhNElsQzZ2UEVPSGItZEpKb1I3bnNSd3RIWWMybFRZaUhLVkZhdzUxY21EOEFrRGRFUl9wT0VQb1FtMEpUYWRrMTBB?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "桃園珍珠海岸觀光宣傳片定角 陽光暖爸鳳小岳出演、掀親子旅遊新風潮 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "桃園珍珠海岸觀光宣傳片定角 陽光暖爸鳳小岳出演、掀親子旅遊新風潮 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "桃園珍珠海岸擁有寬廣沙灘與海岸線，孩子可以盡情玩沙踏浪放電，家長則能享受海風與自然景觀，是週末親子同樂的好去處。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "大自然",
+        "放電",
+        "好玩"
+      ],
+      "reason": "桃園珍珠海岸擁有寬廣沙灘與海岸線，孩子可以盡情玩沙踏浪放電，家長則能享受海風與自然景觀，是週末親子同樂的好去處。",
+      "published_at": "2026-10-03T06:53:45+00:00",
+      "collected_at": "2026-10-06T18:22:23.300384+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmixgnbvv95cuxpzkzvmvlhqwjrnhbqvuzvylvrsnfut",
       "title": "桃園珍珠海岸觀光宣傳片定角 陽光暖爸鳳小岳出演、掀親子旅遊新風潮",
       "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPZkZVMVlhQWJRNHBQVUZVYlVrSnFUTml4MlRpakVIYkFzQzgtYldkdG95THdqcXNvT2NoSnJBSU9zY3BYZGVMQVBNODhMV21NdEM2a1hqeXpRYnhyS0pKV00tZmFCdHdScC04QzBEbmpqbzdHa25HdDJFUWpzd2Fad21aTG5CSndPLVZGbVF0MHl4bkk5NDA3TGtscmtlcG9zVUJtX2dmZUZTNGhGQVlwcXN1VzlYSTk2T1p3Q1lCVXp3ZjNRRzJZeUhqMmZhcG5wSjJEeXpsNThCTDR1N2NyM040VnJIRFdMQ0N2aF8xdVlBa2VrOWlkVjR1aXlfVUVjNnhXNWllSHJDVGw4YkYzUnJoSFIydGxUVmpyQmNhdTg5dFRfamI4cFc3VU13OE84V2pHNldEX01XNDhQTHNCYzVKWWZUaGN3NUpLODlCVUt3aUtCUk1zbmthMGxNOURZWTdjbF9lOEZHNlNfb1F2VC1BMUM0XzNxUThmMUhSbG9XcXhreHJPM2k3eUh5YnUyS1diV0ZkazdYemJEQl9fWGlYbWtzMUttVlBBSVRzQ2FKZ2ctRTI0a1NiSVhkX1J1YmlVMi13?oc=5",
@@ -314,6 +418,32 @@
       "published_at": "2026-10-03T06:24:14+00:00",
       "collected_at": "2026-10-03T16:17:43.337880+00:00",
       "query": "台北 新北 桃園 親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmi6wnbvv95cuxonmntweu1tnrjdtf2ne9wqktibzryc",
+      "title": "桃園珍珠海岸觀光宣傳片定角 陽光暖爸鳳小岳出演、掀親子旅遊新風潮",
+      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxONmNTWEU1TnRJdTF2NE9wQktibzRycmlBVGtUNHI4bldhQzYtQ2NmOEhhekZlNWxnTWtPNnQ5TFpUYjhXWFhsSklCV1phOFFSZUpjQlVnS1Q1dC1nYk5CSkhKak1pUTNZOUxNZzFFN3lkd0FIam40Umg3U0thVEtwWTlkWjB2cnBNX0gyNkczZ0ZoNkY1cnF0bmREd1FQLWhhUHJ4UTdlZlRFV2VoZ2liWC03aWVSaDUzYnppZmhDaEJfUWIxdkRIYkNNdEh6ZmxFWTBWLWtUZEdZS2loSXZRc2d2NXZFTzhCb1liQzRUcloyZlZUVXFfWkxBTEN3MGhYOWNtdm5Va1BPVGR0b0VRNWVDMkV3UVN5eHhVQU9oeFVLaWJ3WFAta3laMzRmY1hydVhNM1JMNEFpNk9UTkR6bTJOeEotaDZJM2lkUHpQLWFaQ3JqcUpCQzNFRG9kV05xeHp4MW5RWFdueC02ZkhhM212TUNsWTFYQU4yVHZwaTllbTlmQ1VJYnlhbWV1SkpScE43ZUx4U2xQeHRicHBSQjF6QlhOdy1RNXNROTFVWG5xMGc1SzNPRHZfSkphaEh1cWRlLWpFb1E4aThyNUlKalA2UjZaOVcxcDlMUTgzbm1JMlRPZy1ZT1FFMA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxONmNTWEU1TnRJdTF2NE9wQktibzRycmlBVGtUNHI4bldhQzYtQ2NmOEhhekZlNWxnTWtPNnQ5TFpUYjhXWFhsSklCV1phOFFSZUpjQlVnS1Q1dC1nYk5CSkhKak1pUTNZOUxNZzFFN3lkd0FIam40Umg3U0thVEtwWTlkWjB2cnBNX0gyNkczZ0ZoNkY1cnF0bmREd1FQLWhhUHJ4UTdlZlRFV2VoZ2liWC03aWVSaDUzYnppZmhDaEJfUWIxdkRIYkNNdEh6ZmxFWTBWLWtUZEdZS2loSXZRc2d2NXZFTzhCb1liQzRUcloyZlZUVXFfWkxBTEN3MGhYOWNtdm5Va1BPVGR0b0VRNWVDMkV3UVN5eHhVQU9oeFVLaWJ3WFAta3laMzRmY1hydVhNM1JMNEFpNk9UTkR6bTJOeEotaDZJM2lkUHpQLWFaQ3JqcUpCQzNFRG9kV05xeHp4MW5RWFdueC02ZkhhM212TUNsWTFYQU4yVHZwaTllbTlmQ1VJYnlhbWV1SkpScE43ZUx4U2xQeHRicHBSQjF6QlhOdy1RNXNROTFVWG5xMGc1SzNPRHZfSkphaEh1cWRlLWpFb1E4aThyNUlKalA2UjZaOVcxcDlMUTgzbm1JMlRPZy1ZT1FFMA?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "桃園珍珠海岸觀光宣傳片定角 陽光暖爸鳳小岳出演、掀親子旅遊新風潮。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "桃園珍珠海岸觀光宣傳片定角 陽光暖爸鳳小岳出演、掀親子旅遊新風潮。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "桃園珍珠海岸擁有寬闊沙灘與海岸線，孩子可盡情奔跑戲水放電，親近大海自然環境。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "台灣好新聞",
+      "tags": [
+        "大自然",
+        "放電"
+      ],
+      "reason": "桃園珍珠海岸擁有寬闊沙灘與海岸線，孩子可盡情奔跑戲水放電，親近大海自然環境。",
+      "published_at": "2026-10-03T06:24:14+00:00",
+      "collected_at": "2026-10-06T18:22:34.644411+00:00",
+      "query": "台灣 親子景點 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte9usupbwudqd2dvbjvou1roy3rsuktmz",
@@ -685,143 +815,6 @@
       "published_at": "2026-09-30T15:03:52+00:00",
       "collected_at": "2026-09-30T18:00:14.461433+00:00",
       "query": "台灣 特色飯店 親子 房型"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmid0fvx3lxte9jqzvywgn5t1pry2touuf6emdialzjt",
-      "title": "屏東海生館國慶旅遊首選！夜宿-迷你解說員親子營最後2場限定折價逾千元 | 勁報",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jQzVyWGN5T1prY2toUUF6emdialZJTXR0ckhuUEFERjJuNEozR0FUcVVZQTVSMEZNYUhzdFpsMFBPd1F6X195MjFPMzNLQThnbHE4dkJOYWVMWmthSGlQRUJjdGE3OHBhZnJ1SlI0UHhLTlBsMkg4?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jQzVyWGN5T1prY2toUUF6emdialZJTXR0ckhuUEFERjJuNEozR0FUcVVZQTVSMEZNYUhzdFpsMFBPd1F6X195MjFPMzNLQThnbHE4dkJOYWVMWmthSGlQRUJjdGE3OHBhZnJ1SlI0UHhLTlBsMkg4?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "屏東海生館國慶旅遊首選！夜宿-迷你解說員親子營最後2場限定折價逾千元 | 勁報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "屏東海生館國慶旅遊首選！夜宿-迷你解說員親子營最後2場限定折價逾千元 | 勁報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "屏東海生館是室內景點，雨天備案也合適，迷你解說員活動能讓孩子近距離接觸海洋生物並學習知識，寓教於樂又具吸引力。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "看動物",
-        "好玩",
-        "室內"
-      ],
-      "reason": "屏東海生館是室內景點，雨天備案也合適，迷你解說員活動能讓孩子近距離接觸海洋生物並學習知識，寓教於樂又具吸引力。",
-      "published_at": "2026-09-30T14:32:20+00:00",
-      "collected_at": "2026-10-01T18:25:52.642756+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxtfayrlhzavpflxnnmxo1bw9mze9rahvms",
-      "title": "屏東海生館國慶旅遊首選！夜宿-迷你解說員親子營最後2場限定折價逾千元 | 勁報",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyRlhZaVpFLXNnMXo1bW9MZE9raHVMSzdlOWxPM0ZKQ2d6dkVBT0ZwSXJBdGxmaFF0My15M0prQW5NbHFGRFFEeHNJNWJOR3pkM3g5cXBn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyRlhZaVpFLXNnMXo1bW9MZE9raHVMSzdlOWxPM0ZKQ2d6dkVBT0ZwSXJBdGxmaFF0My15M0prQW5NbHFGRFFEeHNJNWJOR3pkM3g5cXBn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "屏東海生館國慶旅遊首選！夜宿-迷你解說員親子營最後2場限定折價逾千元 | 勁報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "屏東海生館國慶旅遊首選！夜宿-迷你解說員親子營最後2場限定折價逾千元 | 勁報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "屏東海生館是知名室內景點，全年冷氣舒適無論晴雨都適合，專屬親子營可讓小朋友近距離接觸海洋生物兼具教育意義，廁所乾淨設施完善。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "室內",
-        "看動物",
-        "放電"
-      ],
-      "reason": "屏東海生館是知名室內景點，全年冷氣舒適無論晴雨都適合，專屬親子營可讓小朋友近距離接觸海洋生物兼具教育意義，廁所乾淨設施完善。",
-      "published_at": "2026-09-30T14:25:53+00:00",
-      "collected_at": "2026-09-30T18:00:25.375503+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmi-gjbvv95cuxpylrvzvzzrjfmclb5vhzzmk1sdxzlr",
-      "title": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPYlRVZVZZRjFMclB5VHZzMk1SdXZLRWRQeTk2MjVwOGJjSV83a2xXNUxNSGhKTERsSVpqYjl2X0NTNEhpaUxYRC1VWVpkLThQRkd1OU80VGQySjRwOW11ZDltSmpYZXgxeFJYbmtPUWpQSFByOW1Gdzczb3VlMjUyNHpOTEcyQlNKY3NIeDVQbHE4Ul9rZkwtTEFvOS1oN0FOVEtCbmJYTGdMT043YmkzQTZYeEMzREZWWGw5bXppT1Q5VUFRZjZJZC1FYWNaQlQ5MEpDZW9kZVdSR1M0cmZ0SUpodnZCcVp1ZnlrSzFaYk5BUmtjdlNBWjYzdmY2Uzk1QVRSTmVTa1hLVzFNdmdkWElVbmdlMlloS2FjWjIxN0FZa2R0NG82RVAzQm5NZUZUTTRITlVSR2RTM1Q1RFd4QTROMF9WVndTQVV6Sm1STHBDOHpadDdpZ3hFZk5vY1VOLWNYMmFfWmNZM0RRWWFCaXkwSXhib0x5NlowdDZn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPYlRVZVZZRjFMclB5VHZzMk1SdXZLRWRQeTk2MjVwOGJjSV83a2xXNUxNSGhKTERsSVpqYjl2X0NTNEhpaUxYRC1VWVpkLThQRkd1OU80VGQySjRwOW11ZDltSmpYZXgxeFJYbmtPUWpQSFByOW1Gdzczb3VlMjUyNHpOTEcyQlNKY3NIeDVQbHE4Ul9rZkwtTEFvOS1oN0FOVEtCbmJYTGdMT043YmkzQTZYeEMzREZWWGw5bXppT1Q5VUFRZjZJZC1FYWNaQlQ5MEpDZW9kZVdSR1M0cmZ0SUpodnZCcVp1ZnlrSzFaYk5BUmtjdlNBWjYzdmY2Uzk1QVRSTmVTa1hLVzFNdmdkWElVbmdlMlloS2FjWjIxN0FZa2R0NG82RVAzQm5NZUZUTTRITlVSR2RTM1Q1RFd4QTROMF9WVndTQVV6Sm1STHBDOHpadDdpZ3hFZk5vY1VOLWNYMmFfWmNZM0RRWWFCaXkwSXhib0x5NlowdDZn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "行銷人",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "親子遊樂園有多元設施能讓小孩盡情放電，且中秋連假湧入8萬人次驗證其高人氣，是帶小孩放風消耗體力的好去處。",
-      "published_at": "2026-09-30T11:44:17+00:00",
-      "collected_at": "2026-09-30T18:00:30.662522+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmi3wjbvv95cuxqr0hrltzucm51v1dsekdilwlxukzzu",
-      "title": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQR0hRLTZucm51V1dsekdILWlxUkZzUmdnVzVDR3VsUzFSMGR3cG96d25ZTFBXdHNsbFdaN1hjejZXTWNma1lnYzlZZ2ZWdzZGR2NPQXBpalFpM3BzNURqeTdtRVR5VFNtLTdLcHJFRjdSYTJHYWRjd0xPLVNMbmtFZ05mdHo4UUxNYmxIZkx6X1dPZXA4RkNOTjFrSF9Cb2pwdmp6TTllaW5VU243b3FXSjQzZ3dRbkl1a3M1YjRGV00wUFRfVHQ2amdFNnRoUVYwa1dLUUdXcGU0X2d2bmJqZDBxUDEzUHF6WTZUUWhwa2dURXIxN3NzTWNiX1puTzk0X1lKQTVpTER3ZUpiMW9yNzlpWFhQakNEVDNEN2l4Ump4NVZsZVNkR3d4OWlORjdrV0RYRzlicDh1YXRBSl9xRWtrcGpSemh0bUVLamI5VEpkbXRrZDU3bThJNVFRU1k?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQR0hRLTZucm51V1dsekdILWlxUkZzUmdnVzVDR3VsUzFSMGR3cG96d25ZTFBXdHNsbFdaN1hjejZXTWNma1lnYzlZZ2ZWdzZGR2NPQXBpalFpM3BzNURqeTdtRVR5VFNtLTdLcHJFRjdSYTJHYWRjd0xPLVNMbmtFZ05mdHo4UUxNYmxIZkx6X1dPZXA4RkNOTjFrSF9Cb2pwdmp6TTllaW5VU243b3FXSjQzZ3dRbkl1a3M1YjRGV00wUFRfVHQ2amdFNnRoUVYwa1dLUUdXcGU0X2d2bmJqZDBxUDEzUHF6WTZUUWhwa2dURXIxN3NzTWNiX1puTzk0X1lKQTVpTER3ZUpiMW9yNzlpWFhQakNEVDNEN2l4Ump4NVZsZVNkR3d4OWlORjdrV0RYRzlicDh1YXRBSl9xRWtrcGpSemh0bUVLamI5VEpkbXRrZDU3bThJNVFRU1k?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "行銷人",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "專為親子設計的遊樂園區有多元遊樂設施能讓孩子盡情放電，且中秋連假人潮踴躍驗證其受歡迎程度，家長可放心安排出遊。",
-      "published_at": "2026-09-30T11:44:17+00:00",
-      "collected_at": "2026-10-03T01:13:17.500749+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-pchome-com-tw-living-focusnews-20260930-index-79076366415693302009-ht",
-      "title": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫 - 生活新聞 - PChome Online 新聞",
-      "url": "https://news.pchome.com.tw/living/focusnews/20260930/index-79076366415693302009.html",
-      "canonical_url": "https://news.pchome.com.tw/living/focusnews/20260930/index-79076366415693302009.html",
-      "image_url": "https://news.pchome.com.tw/newsdata/living/focusnews/20260930/79076366415693302009_original.jpg",
-      "images": [
-        "https://news.pchome.com.tw/newsdata/living/focusnews/20260930/79076366415693302009_original.jpg",
-        "https://news.pchome.com.tw/img/air_smly2.png",
-        "https://news.pchome.com.tw/img/ico_locate.png",
-        "https://news.pchome.com.tw/newsdata/living/focusnews/20260930/79076366415693302009.jpg",
-        "https://news.pchome.com.tw/newsdata/living/focusnews/20260930/79076366415693302009_1.jpg",
-        "https://news.pchome.com.tw/img/google_news_pc.jpg?v=20240812"
-      ],
-      "summary": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫 - 生活新聞 - PChome Online 新聞。高雄親子遊樂園區中秋連假4天吸引約8萬人次入園，其中外縣市遊客約占55%，顯示園區不僅深受高雄在地親子家庭喜愛，也逐漸成為外縣市家庭到高雄旅遊的重要親子遊憩景點。公園處表示，園區自開園以來持續受到親子家庭關注，隨著設施及遊憩環境逐漸累積口碑，外縣市遊客比例也持續增加。本次中秋連假4天即吸引約8萬人次入園，平均每日約2萬人次，其中外縣市遊客約占55%，其中以新北市及台南市遊客各占11%最多，其次為桃園市7.5%、台北市7.1%，台中市及屏東縣則各占6.1%，顯示高雄親子遊樂園區已具備跨縣市旅遊吸引力，成為南台灣親子旅遊的新亮點。面對連假大量遊客及高頻率的設施使用，園區持續強化遊客引導、設施巡檢及環境維護，並透過分流管理及定期保養，兼顧遊客遊憩品質與設施使用安全，讓大小朋友都能安心遊玩。公園處提醒，近期園區人氣持續升溫，假日期間遊客較多，建議家長陪同孩童遊玩時，依照各項設施使用規定及現場工作人員引導正確使用遊具，並留意孩童遊憩安全。",
-      "analysis": {
-        "overview": "高雄親子遊樂園區中秋連假4天湧入8萬人次 人氣持續升溫 - 生活新聞 - PChome Online 新聞。高雄親子遊樂園區中秋連假4天吸引約8萬人次入園，其中外縣市遊客約占55%，顯示園區不僅深受高雄在地親子家庭喜愛，也逐漸成為外縣市家庭到高雄旅遊的重要親子遊憩景點。公園處表示，園區自開園以來持續受到親子家庭關注，隨著設施及遊憩環境逐漸累積口碑，外縣市遊客比例也持續增加。本次中秋連假4天即吸引約8萬人次入園，平均每日約2萬人次，其中外縣市遊客約占55%，其中以新北市及台南市遊客各占11%最多，其次為桃園市7.5%",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "news.pchome.com.tw",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄親子遊樂園區吸引單日2萬人次且外縣市遊客逾55%，分流管理與定期保養兼顧遊憩品質與設施安全，是南台灣超人氣的放電勝地。",
-      "published_at": "2026-09-30T11:21:00+00:00",
-      "collected_at": "2026-10-01T18:26:01.350463+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
     }
   ]
 }
