@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T01:32:54.138553+00:00",
+  "updated_at": "2026-10-07T18:57:22.030865+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -28,6 +28,39 @@
       "published_at": "2026-10-07T01:00:00+00:00",
       "collected_at": "2026-10-07T01:32:24.014531+00:00",
       "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-tw-news-yahoo-com-e6-a1-83-e5-9c-92-e8-90-ac-e8-81-96-e5-9f-8e-e6-94-9c-e6",
+      "title": "桃園萬聖城攜手Snoopy　24日登場與親子度佳節",
+      "url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E8%90%AC%E8%81%96%E5%9F%8E%E6%94%9C%E6%89%8Bsnoopy-24%E6%97%A5%E7%99%BB%E5%A0%B4%E8%88%87%E8%A6%AA%E5%AD%90%E5%BA%A6%E4%BD%B3%E7%AF%80-072819176.html",
+      "canonical_url": "https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E8%90%AC%E8%81%96%E5%9F%8E%E6%94%9C%E6%89%8Bsnoopy-24%E6%97%A5%E7%99%BB%E5%A0%B4%E8%88%87%E8%A6%AA%E5%AD%90%E5%BA%A6%E4%BD%B3%E7%AF%80-072819176.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/c1e202dc08bdf102a48d8a19ef87f57d64068908b2fe0d2a515ede503f70cffa/lightyear_networkapi/resizefill_h48%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F3ac7fa10-0867-11eb-9fff-a572ef106b09",
+      "images": [
+        "https://s.yimg.com/lo/mysterio/api/c1e202dc08bdf102a48d8a19ef87f57d64068908b2fe0d2a515ede503f70cffa/lightyear_networkapi/resizefill_h48%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F3ac7fa10-0867-11eb-9fff-a572ef106b09",
+        "https://s.yimg.com/lo/mysterio/api/B517BFB52B380FC2F0071DAF78E158D92EF8FBFAEEE602CB28E910B5975F2D49/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fnewtalk.tw%2F25362e583ceeac1345fb09a14c219806.jpg",
+        "https://s.yimg.com/lo/mysterio/api/E02DA02E064DF55AF79D87840A1B6A1CF0C1392A7FB32C7F171167D60C48AB92/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsetn.com.tw%2Fccc56eb453f2e84b4ce225c70d96467d.jpg",
+        "https://s.yimg.com/lo/mysterio/api/0CD1CF9FB1694E3F1403A8444F972472F10B6095114B0088397C36F16E98014E/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fsetn.com.tw%2F126e7335ce3e0cdf8a0e790db087a60a.jpg",
+        "https://s.yimg.com/lo/mysterio/api/D5E441E13C65D7378B61EBA29FE70A43128E6BCF3CD572D0788D20F928DD9C24/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fftvn.com.tw%2F7ee5c811702cd30ea818a15100a50c27.jpg",
+        "https://s.yimg.com/lo/mysterio/api/5A7AD80D9313193CE15C8A84F7A2017356A4A400F93F0FA3624BC3A63C2A5065/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fftvn.com.tw%2Ffc2b1be3b8bcae4071f99420a1e22972.jpg",
+        "https://s.yimg.com/lo/mysterio/api/11A1E755FABDCAA1745FC6C571D30D2A56E5F550F68CA82771A39A6D77C26A4E/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fftvn.com.tw%2Fdf02e4b09861a23218438a6a60575b8c.jpg",
+        "https://s.yimg.com/lo/mysterio/api/A024DB5C5B3B5D76B8DF3E81ABC956A9A445DEA9F627CE22108C5BC6D9CEA634/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Ffountmedia_io_269%2Fd25ab1ab6ec45dd28786cb6b50934be4"
+      ],
+      "summary": "桃園萬聖城攜手Snoopy　24日登場與親子度佳節。\",\"headline\":\"桃園萬聖城攜手Snoopy 24日登場與親子度佳節\",\"image\":{\"@type\":\"ImageObjec",
+      "analysis": {
+        "overview": "桃園萬聖城攜手Snoopy　24日登場與親子度佳節。\",\"headline\":\"桃園萬聖城攜手Snoopy 24日登場與親子度佳節\",\"image\":{\"@type\":\"ImageObjec",
+        "pros": "戶外大型節慶活動空間開闊，小朋友可盡情跑跳消耗體力，且與Snoopy合作的主題裝置吸睛有趣，爸媽方便拍照打卡留念。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "tw.news.yahoo.com",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "戶外大型節慶活動空間開闊，小朋友可盡情跑跳消耗體力，且與Snoopy合作的主題裝置吸睛有趣，爸媽方便拍照打卡留念。",
+      "published_at": "2026-10-07T00:28:00+00:00",
+      "collected_at": "2026-10-07T18:57:07.638976+00:00",
+      "query": "台北 新北 桃園 親子景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmixefvx3lxte8tm01cbuxnzevqwuk4ykj6wm9usnqxa",
@@ -192,6 +225,34 @@
       "published_at": "2026-10-05T00:48:12+00:00",
       "collected_at": "2026-10-07T01:32:32.495309+00:00",
       "query": "台灣 動物農場 親子 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmijwfbvv95cuxpnxnfzemtwf9wsvjnykletvzntmrsd",
+      "title": "宜蘭「星夢森林劇場」獲親子農場社群聲量冠軍 結合萌寵與手作轉型深度體驗",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXNfZEMtWF9WSVJNYklETVZnTmRSdXlCd1VJRHVWNDNxWldCbXNQM2taTmN2QWQtai1kWGdBLVpHM0ZGRUt2Z3RQMTFnSktyR1YxTDZhZFc2dktaXzFXelBEdUh5aVVGcTVkZGJ2QlB1RUFLdVhXTlhIb1JfV1VOSTJ4RkxXUW9zT3pEODlDQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXNfZEMtWF9WSVJNYklETVZnTmRSdXlCd1VJRHVWNDNxWldCbXNQM2taTmN2QWQtai1kWGdBLVpHM0ZGRUt2Z3RQMTFnSktyR1YxTDZhZFc2dktaXzFXelBEdUh5aVVGcTVkZGJ2QlB1RUFLdVhXTlhIb1JfV1VOSTJ4RkxXUW9zT3pEODlDQQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "宜蘭「星夢森林劇場」獲親子農場社群聲量冠軍 結合萌寵與手作轉型深度體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "宜蘭「星夢森林劇場」獲親子農場社群聲量冠軍 結合萌寵與手作轉型深度體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "放電",
+        "看動物",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "農場以萌寵互動聞名，小朋友可近距離接觸動物釋放精力，手作體驗也能讓孩子專注參與，家長可放心讓孩子盡情探索而不無聊。",
+      "published_at": "2026-10-05T00:47:51+00:00",
+      "collected_at": "2026-10-07T18:57:16.713653+00:00",
+      "query": "台灣 親子農場 景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte1puzjkdknjotlloe1tvxlptwhkmdr6v",
@@ -772,58 +833,6 @@
       "published_at": "2026-10-01T12:19:00+00:00",
       "collected_at": "2026-10-01T18:25:25.831507+00:00",
       "query": "台灣 特色飯店 親子 房型"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmi3wjbvv95cuxqy2vkwgfbszltznnfzddrr0mwmmgtd",
-      "title": "中秋連假4天湧入8萬人次 高雄親子遊樂園區人氣持續升溫",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQY2VKWGFBSzlTZnNFZDdrR0MwMmgtd3l2dk02cmFsRG9mQzM2WVRXNC1fZEwxQnliX0ZNdVpwZjRQcnJSM0h3dEtaSDlHVjNiaFVOUDJSZTVLcmNPeVlFbTNPdXlGb2dyX2FoMmprbVhlTG52SkFYTnFDSU1mWlA2bzhaUWFwMG05eXdYMmN5Mm44MFA5RlpOWDRvS0RhZ3J6WE5GdmlnS0g3N3JpcWJnY0F3MENPYUgwdmNTSVpnMG45dmZINlExd0UyWW9mMlZuOXpVVXM5YmJSZnBLNk90R2d6Z3NadjhuSkpNSEdwdXlpOEtzeHNhdjd5a1hnREsyZ3paV19PRlZ3d0Uyb3dPQ3hkWEs4bTFKXzNYVUZqNmxWSnR6LVZyQ1ZwR1BDUDJxZVQyNXZNaG9qcmpwa21LejVxOUpoeks1N3MwZTNlaU5sMU01NmxQLW8wenFObVE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQY2VKWGFBSzlTZnNFZDdrR0MwMmgtd3l2dk02cmFsRG9mQzM2WVRXNC1fZEwxQnliX0ZNdVpwZjRQcnJSM0h3dEtaSDlHVjNiaFVOUDJSZTVLcmNPeVlFbTNPdXlGb2dyX2FoMmprbVhlTG52SkFYTnFDSU1mWlA2bzhaUWFwMG05eXdYMmN5Mm44MFA5RlpOWDRvS0RhZ3J6WE5GdmlnS0g3N3JpcWJnY0F3MENPYUgwdmNTSVpnMG45dmZINlExd0UyWW9mMlZuOXpVVXM5YmJSZnBLNk90R2d6Z3NadjhuSkpNSEdwdXlpOEtzeHNhdjd5a1hnREsyZ3paV19PRlZ3d0Uyb3dPQ3hkWEs4bTFKXzNYVUZqNmxWSnR6LVZyQ1ZwR1BDUDJxZVQyNXZNaG9qcmpwa21LejVxOUpoeks1N3MwZTNlaU5sMU01NmxQLW8wenFObVE?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "中秋連假4天湧入8萬人次 高雄親子遊樂園區人氣持續升溫。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "中秋連假4天湧入8萬人次 高雄親子遊樂園區人氣持續升溫。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "報新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "中秋連假吸引8萬人次高人氣，遊樂設施齊全能讓孩子盡情放電，且多人造訪代表設施成熟、適合帶小孩出遊。",
-      "published_at": "2026-10-01T11:19:03+00:00",
-      "collected_at": "2026-10-01T18:25:32.719445+00:00",
-      "query": "台北 新北 桃園 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmigwfbvv95cuxpcwhmevjvwmfiadlsm2fms3p4s1jnz",
-      "title": "海景、親子推薦！台灣2026度假飯店TO 10",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWhmeVJVWmFIaDlSM2FMS3p4S1JNZG5YWERUQ0lZZmRVdG9sY1lCSjFqY1VZbjdSb0pBNDMweXBqVmdrR2tGdTJKZjJNNlIwVlhxLVpHWnZRNGxnSjI5ZmxKMWZJSlFEcXFqZm5yeE1TR2FndTFUcVIyNmVVd1ktaTBwa9IBYkFVX3lxTFBHNDZ2Um44R2MyS1M5S1hVUVdJbEc1NW94UElyQVlRZG5xWVh2RGV1cl9aYmVncnBOS1hONUVhZUNlTC1zbXkxbTJrek9lV1FFbUx4SjBHYk5MUEgtME5GeGRn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWhmeVJVWmFIaDlSM2FMS3p4S1JNZG5YWERUQ0lZZmRVdG9sY1lCSjFqY1VZbjdSb0pBNDMweXBqVmdrR2tGdTJKZjJNNlIwVlhxLVpHWnZRNGxnSjI5ZmxKMWZJSlFEcXFqZm5yeE1TR2FndTFUcVIyNmVVd1ktaTBwa9IBYkFVX3lxTFBHNDZ2Um44R2MyS1M5S1hVUVdJbEc1NW94UElyQVlRZG5xWVh2RGV1cl9aYmVncnBOS1hONUVhZUNlTC1zbXkxbTJrek9lV1FFbUx4SjBHYk5MUEgtME5GeGRn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "海景、親子推薦！台灣2026度假飯店TO 10。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "海景、親子推薦！台灣2026度假飯店TO 10。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "udn 女子漾",
-      "tags": [
-        "室內",
-        "好玩"
-      ],
-      "reason": "度假飯店通常設有兒童遊戲區或泳池，孩子能在安全環境中盡情放電，家長也能放鬆享受海景假期。",
-      "published_at": "2026-10-01T07:03:09+00:00",
-      "collected_at": "2026-10-01T18:25:44.384830+00:00",
-      "query": "台灣 親子景點 最新"
     }
   ]
 }
