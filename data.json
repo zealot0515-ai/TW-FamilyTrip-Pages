@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T18:51:32.195243+00:00",
+  "updated_at": "2026-10-09T02:10:49.037491+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -80,6 +80,29 @@
       "published_at": "2026-10-07T23:00:00+00:00",
       "collected_at": "2026-10-08T18:51:06.764310+00:00",
       "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-www-bella-tw-articles-design-gadget-60415-taoyuan-top-five-new-landmarks-a",
+      "title": "桃園五大景點新地標：全台保存最完整「忠烈祠暨神社文化園區」登場",
+      "url": "https://www.bella.tw/articles/design&gadget/60415/taoyuan-top-five-new-landmarks-attractions",
+      "canonical_url": "https://www.bella.tw/articles/design&gadget/60415/taoyuan-top-five-new-landmarks-attractions",
+      "image_url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "桃園五大景點新地標：全台保存最完整「忠烈祠暨神社文化園區」登場。近年桃園持續打造兼具文化、藝文、生態與親子休閒特色的城市空間，從全台保存最完整的日治時代神社「桃園忠烈祠暨神社文化園區」、擁有豐富生態資源的「大湳森林公園」，到「桃園市立圖書館埔頂分館暨親子館」、「桃園市立美術館」，以及「蘆竹區五酒桶山自然遊憩場」，都是值得你親自造訪。",
+      "analysis": {
+        "overview": "桃園五大景點新地標：全台保存最完整「忠烈祠暨神社文化園區」登場。近年桃園持續打造兼具文化、藝文、生態與親子休閒特色的城市空間，從全台保存最完整的日治時代神社「桃園忠烈祠暨神社文化園區」、擁有豐富生態資源的「大湳森林公園」，到「桃園市立圖書館埔頂分館暨親子館」、「桃園市立美術館」，以及「蘆竹區五酒桶山自然遊憩場」，都是值得你親自造訪。",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "bella.tw",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "神社文化園區為全台保存最完整日式神社，可讓孩子體驗文化歷史氛圍，五大景點包含圖書館親子館與自然遊憩場選擇多元。",
+      "published_at": "2026-10-07T17:00:00+00:00",
+      "collected_at": "2026-10-09T02:10:37.813485+00:00",
+      "query": "台北 新北 桃園 親子景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmixkfvx3lxte5bzu9swk9lbhbhatrmwlbpdxe5tknut",
@@ -800,40 +823,6 @@
       "published_at": "2026-10-03T05:55:00+00:00",
       "collected_at": "2026-10-03T16:18:12.615984+00:00",
       "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-tvbs-com-tw-travel-4029423",
-      "title": "住進去就不想出門！全台10大度假飯店出爐　親子、海景全都有",
-      "url": "https://news.tvbs.com.tw/travel/4029423",
-      "canonical_url": "https://news.tvbs.com.tw/travel/4029423",
-      "image_url": "https://news-images.tvbs.com.tw/api/v1/image/01a0f036-c5d7-723d-9013-21116d39a056.jpg?t=16x9&c=0,0,1200,675&w=1200&h=675",
-      "images": [
-        "https://news-images.tvbs.com.tw/api/v1/image/01a0f036-c5d7-723d-9013-21116d39a056.jpg?t=16x9&c=0,0,1200,675&w=1200&h=675",
-        "https://sb.scorecardresearch.com/p?c1=2&c2=18400300&cv=3.9.1&cj=1",
-        "https://news-images.tvbs.com.tw/api/v1/outreaches/default?version=20260915",
-        "https://news-images.tvbs.com.tw/api/v1/image/01a0f036-c5d7-723d-9013-21116d39a056.jpg?w=1067&h=600&t=16x9&c=0",
-        "https://news-images.tvbs.com.tw/api/v1/image/01a0f02d-f523-723e-9bf1-d064cd92efc5.jpg?w=1067&h=600&t=16x9&c=0",
-        "https://news-images.tvbs.com.tw/api/v1/image/01a0f02f-7641-70eb-8cc7-6729a93d2934.jpg?w=1067&h=600&t=16x9&c=0",
-        "https://news-images.tvbs.com.tw/api/v1/image/01a0f031-0002-73b3-b471-3c635d6c272d.jpg?w=1067&h=600&t=16x9&c=0",
-        "https://news-images.tvbs.com.tw/api/v1/image/01a0f032-1044-7067-b90a-d55de830cb9a.jpg?w=1067&h=600&t=16x9&c=0"
-      ],
-      "summary": "住進去就不想出門！全台10大度假飯店出爐　親子、海景全都有。t.value:void 0,s={timeout:e==null?void 0:e.timeout};\"requestIdleCallback\"in window?g(a,s,{enumerable:!0,value:c}):a[s]=c;var l=(a,s,c)=>w(a,typeof s!a[p](e):void 0},c=t=>t.map(s),y=t=>typeof t!=\"object\"||t===null?this.isConnected)return;let e=(b=this.parentElement)==null?void 0:b.closest(\"astro-island[ssr]\");if(e){e.addEventListener(\"astro:hydrate\",this.hydrate,{once:!0});return}let r=this.querySelectorAll(\"astro-slot\"),n={},d=this.querySelectorAll(\"template[data-astro-template]\");for(let o of d){let i=o.closest(this.tagName);i!",
-      "analysis": {
-        "overview": "住進去就不想出門！全台10大度假飯店出爐　親子、海景全都有。t.value:void 0,s={timeout:e==null?void 0:e.timeout};\"requestIdleCallback\"in window?g(a,s,{enumerable:!0,value:c}):a[s]=c;var l=(a,s,c)=>w(a,typeof s!a[p](e):void 0},c=t=>t.map(s),y=t=>typeof t!=\"object\"||t===null?this.isConnected)",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "news.tvbs.com.tw",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "度假飯店提供多元設施與大片腹地，孩子可以盡情奔跑放電，家長也能放鬆享受，適合全家窩在飯店內度過悠閒假期。",
-      "published_at": "2026-10-02T15:00:00+00:00",
-      "collected_at": "2026-10-03T01:12:44.913831+00:00",
-      "query": "台灣 親子飯店 親子樂園"
     }
   ]
 }
