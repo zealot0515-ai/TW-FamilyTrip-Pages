@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-10-09T18:22:11.285424+00:00",
+  "updated_at": "2026-10-10T01:45:35.399580+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmia0fvx3lxte8zu1hznky4ckhxdmlwz3ddck9ytk5yz",
+      "title": "麗寶樂園推免費優惠 慶連假",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zU1hzNkY4ckhXdmlWZ3dDck9yTk5yZXlFbVcyRXhqZ3pHbEw1MzBUU3JOeDdkSU9uVk1BUGs4NGYtOGZWV1JNYkVJazZFVF9FdXE1QXBJa0xCazFPYXlsYk1XVU5Ibm5WNnE4?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zU1hzNkY4ckhXdmlWZ3dDck9yTk5yZXlFbVcyRXhqZ3pHbEw1MzBUU3JOeDdkSU9uVk1BUGs4NGYtOGZWV1JNYkVJazZFVF9FdXE1QXBJa0xCazFPYXlsYk1XVU5Ibm5WNnE4?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "麗寶樂園推免費優惠 慶連假。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "麗寶樂園推免費優惠 慶連假。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "中時新聞網",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "麗寶樂園擁有豐富遊樂設施，孩子可盡情放電奔跑，連假還有免費優惠，是親子出遊的好去處。",
+      "published_at": "2026-10-09T20:10:00+00:00",
+      "collected_at": "2026-10-10T01:45:27.779961+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
     {
       "id": "https-www-msn-com-zh-tw-news-living-e5-8d-87-e7-b4-9a-e8-bd-89-e5-9e-8b-e6-b7-b1",
       "title": "升級轉型深度旅遊景點 美濃客家庄教學農場鄉土體驗最佳去處",
@@ -802,40 +828,6 @@
       "published_at": "2026-10-04T03:15:00+00:00",
       "collected_at": "2026-10-04T16:51:24.037922+00:00",
       "query": "台灣 雨天 親子 室內 景點"
-    },
-    {
-      "id": "https-www-storm-mg-lifestyle-11169398",
-      "title": "台灣有新樂園要來了！「占地超大2000坪、捷運台鐵都可到」交通停車方便，開幕時間地點曝 | 蔡惠芯 | 風生活",
-      "url": "https://www.storm.mg/lifestyle/11169398",
-      "canonical_url": "https://www.storm.mg/lifestyle/11169398",
-      "image_url": "https://images.storm.mg/cloud/1d4a03ac7e4eaa7852db975f3821bbb8c5f85403.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2188217%2FYfFgZpzTpIEbkxo1cyA2OWJnpFz6dXCo820UlvLQ.png&g=sm&h=900&resize=fill&w=1600&format=jpg",
-      "images": [
-        "https://images.storm.mg/cloud/1d4a03ac7e4eaa7852db975f3821bbb8c5f85403.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2188217%2FYfFgZpzTpIEbkxo1cyA2OWJnpFz6dXCo820UlvLQ.png&g=sm&h=900&resize=fill&w=1600&format=jpg",
-        "https://images.storm.mg/cloud/71d72107494275eacfe0884c237f27fbdf7d8562.webp?url=https%3A%2F%2Fimage.cache.storm.mg%2Fstyles%2Fsmg-150x150-fp%2Fs3%2Fdefault_images%2Fdefault_author_1.png%3Fitok%3DwlNRUDRB&g=sm&h=144&resize=fill&w=144",
-        "https://images.storm.mg/cloud/fa319417cb8947279ebd220b60e743104cceeb2e.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2039452%2F20250416-014050_U8719_M1047320_6a84.jpg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/0edd5b2a73bdc9f7cda67feca64d493c4885305a.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2159232%2FUafy0uMOCGhY4avop0cGnRq93PVzsAmseuMZRZO3.jpg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/f9c3d513dc6d8338ffc354e7d38737a8d5fdaf91.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2225561%2FYTJFBdYoUJE0HFcDYvaGGmgmSERyUoiBqLTtylMN.jpg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/2da97f7d8e3c2fb06c0dbc0e4a41f19e2b8c3a5f.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2066325%2FaxImien0R3turx6VfvU9OWrXJMGpTn9wG2CfThSM.jpg&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/4ab027047814989aa3466fe7b9c62530b9f5bafc.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2223914%2Fd8ADD3bIkHgeJdJxSlkvXWi6mvnySddWby7nvhwG.png&g=sm&h=400&resize=fill&w=400",
-        "https://images.storm.mg/cloud/ab19aaf63f2498e3987d29759029e9f02e08f86f.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F1988224%2F20240122-060154_U4040_M927626_bd00.jpg&g=sm&h=400&resize=fill&w=400"
-      ],
-      "summary": "台灣有新樂園要來了！「占地超大2000坪、捷運台鐵都可到」交通停車方便，開幕時間地點曝 | 蔡惠芯 | 風生活。風靡全球 33 座城市、台灣家長赴日旅遊必訪的兒童職業體驗樂園「KidZania 奇薩尼亞」， 正式宣布台灣首間據點「KidZania Taipei 奇薩尼亞台北」預計於 2026 年底在 Mitsui Shopping Park LaLaport 南港 5 樓盛大開幕。台灣也因此成為全球第 34 個迎來 KidZania 進駐的國家與城市，未來爸媽不必再遠赴日本或海外，在台北就能帶孩子體驗最道地的沉浸式微型社會與職業探索。「KidZania Taipei 奇薩尼亞台北」占地高達 2,000 坪，相當於一座國際足球場大小。園區內維持全天候藍天白雲景觀，並將日常生活中的銀行、超市、醫院、街道與交通號誌，全數以專屬兒童視角的「1/4 縮小比例」高度還原。街道上甚至會有實際行進的公車穿梭，孩童穿梭園區時必須如同在真實城市中遵守交通號誌與走斑馬線。透過極具真實感的沉浸式街景，讓孩子在角色扮演過程中，自然而然建立交通安全意識與對都市運作機制的基礎認識。",
-      "analysis": {
-        "overview": "台灣有新樂園要來了！「占地超大2000坪、捷運台鐵都可到」交通停車方便，開幕時間地點曝 | 蔡惠芯 | 風生活。風靡全球 33 座城市、台灣家長赴日旅遊必訪的兒童職業體驗樂園「KidZania 奇薩尼亞」， 正式宣布台灣首間據點「KidZania Taipei 奇薩尼亞台北」預計於 2026 年底在 Mitsui Shopping Park LaLaport 南港 5 樓盛大開幕。台灣也因此成為全球第 34 個迎來 KidZania 進駐的國家與城市，未來爸媽不必再遠赴日本或海外，在台北就能帶孩子體驗最道地的沉浸式",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "storm.mg",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "KidZania Taipei 占地 2000 坪超大室內空間，全天候不受天候影響，配合捷運台鐵直達與商場停車方便，是雨天備案與攜帶推車友善的優質室內放電好去處。",
-      "published_at": "2026-10-03T07:11:00+00:00",
-      "collected_at": "2026-10-03T16:17:28.891894+00:00",
-      "query": "台灣 親子景點 最新"
     }
   ]
 }
