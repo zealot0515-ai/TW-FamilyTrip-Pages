@@ -1,8 +1,60 @@
 {
-  "updated_at": "2026-10-12T01:19:56.822073+00:00",
+  "updated_at": "2026-10-12T21:16:51.379417+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmijgzbvv95cuxqmlm2s0nzsux1a3myrm1sngfcml83w",
+      "title": "嗨玩十月連假｜2026全台樂園最強優惠｜萬聖節活動懶人包看這篇｜六福村打卡史努比萌翻、麗寶樂園慶雙十！1大1小親子套票千元有找",
+      "url": "https://news.google.com/rss/articles/CBMijgZBVV95cUxQMlM2S0NZSUx1a3MyRm1SNGFCMl83WHh1cHB6ekJtOWJRcG04OE0yMExDYVVfQUpXOEFUQ1BPTlh0cE9SLXo3UkpITVJJeXhpTFFPOTNpQ0RvNDNPWWFLS2staXZSTzhVMV91ZU5NMkRJbktxREl1SFh6QnZuVUZqeEkwM1ExajJ2N2dCTWhzeWpqaG1JZ0pVRlEtUnJQQ09DTkRsNFNzb2FDNDBlaWt6VkpSMWd4S3RvQ2g1cEFLcTd4ZjFubDVmNEx4bzlsRW9hUklLZlpHTTNHS2FmWTI5VG51dTR6M3NwakFkeGlWOHVEcW80eUl0dDhCWHRCWUpqS0ZuM0J2b2tueVMwNUtEVnJVamNGSzdveU1EZVVoXy10Ml8zT1E4cUZRQlAyenVVX2hlRXFDRUEzdEo4TzNxd3ZURTFvbGRPOVViS1did0s0ekVCYlR0cHc3RjZMZDI2UXhSbGZKOWppR3llV2MxWDJKaDFRMEJka2o0OTFEaXpIbWU1U3YtdVRNdlRBdFVvY1lXcjlFVmpCc2NhTS1tVmQyeW12eWhoeEVpUWd3eE9aSmh1U1lPSW5Yb29RcjY5TmxmTkp0a2lCUzJJbEpacW5FNUszb2JlM3dSZWx5ZjlzQmVJeDVyMEo4RzFZNzhtaGgxWDBhQ0NKd0ptenZVUnZSNWFqUHFEZ3ZvbXBJelc1T25YRVBHWXF3QmhsOEt0cU51RjdnX3A0NXpablhuSGppWEZwaXM1ZGNlRDV4OHVhdkZwc3JqTF9lR2xGX0JkbmN4UVA3SzVyZGd3WTZJXzRJY00tSzJRVUtGVmtHc2ZuVEliSkJyUjJzc2p5S1NXc0dsdldNRUo2WUJhWElpRlUxWF9lcklEWWNuWXR2LW5HZE9LQXpZM1l4MWhXeEtuSzZYVkozYVJZUWdicERKenRHMUVGc3lTTDFSQW9QY1kzcGNSOVU5dTJWVlExdGpYY19DWDJDbWlDRncwaVM2NTlHQlp6VHoxc2ZWRmlZUlFCUllmMFA0OXpNX2pjUQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijgZBVV95cUxQMlM2S0NZSUx1a3MyRm1SNGFCMl83WHh1cHB6ekJtOWJRcG04OE0yMExDYVVfQUpXOEFUQ1BPTlh0cE9SLXo3UkpITVJJeXhpTFFPOTNpQ0RvNDNPWWFLS2staXZSTzhVMV91ZU5NMkRJbktxREl1SFh6QnZuVUZqeEkwM1ExajJ2N2dCTWhzeWpqaG1JZ0pVRlEtUnJQQ09DTkRsNFNzb2FDNDBlaWt6VkpSMWd4S3RvQ2g1cEFLcTd4ZjFubDVmNEx4bzlsRW9hUklLZlpHTTNHS2FmWTI5VG51dTR6M3NwakFkeGlWOHVEcW80eUl0dDhCWHRCWUpqS0ZuM0J2b2tueVMwNUtEVnJVamNGSzdveU1EZVVoXy10Ml8zT1E4cUZRQlAyenVVX2hlRXFDRUEzdEo4TzNxd3ZURTFvbGRPOVViS1did0s0ekVCYlR0cHc3RjZMZDI2UXhSbGZKOWppR3llV2MxWDJKaDFRMEJka2o0OTFEaXpIbWU1U3YtdVRNdlRBdFVvY1lXcjlFVmpCc2NhTS1tVmQyeW12eWhoeEVpUWd3eE9aSmh1U1lPSW5Yb29RcjY5TmxmTkp0a2lCUzJJbEpacW5FNUszb2JlM3dSZWx5ZjlzQmVJeDVyMEo4RzFZNzhtaGgxWDBhQ0NKd0ptenZVUnZSNWFqUHFEZ3ZvbXBJelc1T25YRVBHWXF3QmhsOEt0cU51RjdnX3A0NXpablhuSGppWEZwaXM1ZGNlRDV4OHVhdkZwc3JqTF9lR2xGX0JkbmN4UVA3SzVyZGd3WTZJXzRJY00tSzJRVUtGVmtHc2ZuVEliSkJyUjJzc2p5S1NXc0dsdldNRUo2WUJhWElpRlUxWF9lcklEWWNuWXR2LW5HZE9LQXpZM1l4MWhXeEtuSzZYVkozYVJZUWdicERKenRHMUVGc3lTTDFSQW9QY1kzcGNSOVU5dTJWVlExdGpYY19DWDJDbWlDRncwaVM2NTlHQlp6VHoxc2ZWRmlZUlFCUllmMFA0OXpNX2pjUQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "嗨玩十月連假｜2026全台樂園最強優惠｜萬聖節活動懶人包看這篇｜六福村打卡史努比萌翻、麗寶樂園慶雙十！1大1小親子套票千元有找。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "嗨玩十月連假｜2026全台樂園最強優惠｜萬聖節活動懶人包看這篇｜六福村打卡史努比萌翻、麗寶樂園慶雙十！1大1小親子套票千元有找。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "主題樂園有多元遊樂設施能讓小孩盡情放電，且十月連假推出1大1小千元有找的優惠套票，省錢又盡興。",
+      "published_at": "2026-10-12T12:21:23+00:00",
+      "collected_at": "2026-10-12T21:16:15.861800+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte5xzvlawlc4dglusndrovo3ms1gn1jtu",
+      "title": "台灣又有新樂園來了！「2000坪規模超大、捷運台鐵都能到」停車吃飯很方便， 開幕地點時間曝",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XZVlaWlc4dGlUSndROVo3MS1GN1JtUjM2My1rWjFJejFRTnJySXJDam1FUTFqV3pOaWNNekY4UkNITVFVXzJ5T1ZKR2ZhNkw2?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XZVlaWlc4dGlUSndROVo3MS1GN1JtUjM2My1rWjFJejFRTnJySXJDam1FUTFqV3pOaWNNekY4UkNITVFVXzJ5T1ZKR2ZhNkw2?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台灣又有新樂園來了！「2000坪規模超大、捷運台鐵都能到」停車吃飯很方便， 開幕地點時間曝。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台灣又有新樂園來了！「2000坪規模超大、捷運台鐵都能到」停車吃飯很方便， 開幕地點時間曝。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "風傳媒",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "2000坪超大空間提供孩子盡情跑跳放電，且交通便利（捷運台鐵可達）加上停車方便、用餐選項多元，解決家長出遊的交通與用餐痛點。",
+      "published_at": "2026-10-12T01:30:00+00:00",
+      "collected_at": "2026-10-12T21:16:24.262529+00:00",
+      "query": "台灣 親子景點 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiokfvx3lxte9yatlkunpwywnbwepduffwvthwb2lyu",
       "title": "林皆興考察高雄機廠親子遊樂園區 汲取多元遊憩設施與全齡共融空間規劃經驗",
@@ -80,6 +132,59 @@
       "published_at": "2026-10-10T16:00:00+00:00",
       "collected_at": "2026-10-11T17:41:38.111890+00:00",
       "query": "台灣 親子飯店 親子樂園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiwkfvx3lxte12bhvqmxvhlujtnen3dgzxaxftzfhwd",
+      "title": "30元一票玩兩館！台北高CP值親子室內景點，看恐龍化石、美拍希臘宮殿",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12bHVqMXVHLUJTNEN3dGZxaXFtZFhWdnkzTktmWjFEQUI3Q3pSMlY1akVZQ3FRU1lVeEhpY00xYVdOR0lYVkxOMWpqbmZnUGxzUnh2aWRDeGtLd9IBWkFVX3lxTE12bHVqMXVHLUJTNEN3dGZxaXFtZFhWdnkzTktmWjFEQUI3Q3pSMlY1akVZQ3FRU1lVeEhpY00xYVdOR0lYVkxOMWpqbmZnUGxzUnh2aWRDeGtLdw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12bHVqMXVHLUJTNEN3dGZxaXFtZFhWdnkzTktmWjFEQUI3Q3pSMlY1akVZQ3FRU1lVeEhpY00xYVdOR0lYVkxOMWpqbmZnUGxzUnh2aWRDeGtLd9IBWkFVX3lxTE12bHVqMXVHLUJTNEN3dGZxaXFtZFhWdnkzTktmWjFEQUI3Q3pSMlY1akVZQ3FRU1lVeEhpY00xYVdOR0lYVkxOMWpqbmZnUGxzUnh2aWRDeGtLdw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "30元一票玩兩館！台北高CP值親子室內景點，看恐龍化石、美拍希臘宮殿。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "30元一票玩兩館！台北高CP值親子室內景點，看恐龍化石、美拍希臘宮殿。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "食尚玩家",
+      "tags": [
+        "室內",
+        "好玩",
+        "放電"
+      ],
+      "reason": "室內景點雨天備案無壓力，門票僅30元可暢玩兩館，小朋友可近距離看恐龍化石並在希臘宮殿風格造景拍美照，CP值高又殺記憶體。",
+      "published_at": "2026-10-09T23:00:00+00:00",
+      "collected_at": "2026-10-12T21:16:30.880996+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivefvx3lxtfbxmmmxr0fswuwylw9yatlmae9qt0uzs",
+      "title": "30元一票玩兩館！台北高CP值親子室內景點，看恐龍化石、美拍希臘宮殿",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxMmMxR0FSWUwyLW9yaTlmaE9QT0UzSVMzcDIxc2RsZ3N1eDR4TVBXTmNLUFo1Z1F3TEVWeTgzSDNoWWljTkNJcDNEOVVKa2xDM0piTtIBWkFVX3lxTE12bHVqMXVHLUJTNEN3dGZxaXFtZFhWdnkzTktmWjFEQUI3Q3pSMlY1akVZQ3FRU1lVeEhpY00xYVdOR0lYVkxOMWpqbmZnUGxzUnh2aWRDeGtLdw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxMmMxR0FSWUwyLW9yaTlmaE9QT0UzSVMzcDIxc2RsZ3N1eDR4TVBXTmNLUFo1Z1F3TEVWeTgzSDNoWWljTkNJcDNEOVVKa2xDM0piTtIBWkFVX3lxTE12bHVqMXVHLUJTNEN3dGZxaXFtZFhWdnkzTktmWjFEQUI3Q3pSMlY1akVZQ3FRU1lVeEhpY00xYVdOR0lYVkxOMWpqbmZnUGxzUnh2aWRDeGtLdw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "30元一票玩兩館！台北高CP值親子室內景點，看恐龍化石、美拍希臘宮殿。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "30元一票玩兩館！台北高CP值親子室內景點，看恐龍化石、美拍希臘宮殿。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "食尚玩家",
+      "tags": [
+        "室內",
+        "好玩"
+      ],
+      "reason": "30元門票暢玩兩館CP值超高，恐龍化石能吸引小孩目光且室內不受天氣影響，是雨天備案好去處。",
+      "published_at": "2026-10-09T23:00:00+00:00",
+      "collected_at": "2026-10-12T21:16:34.962121+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmia0fvx3lxte8zu1hznky4ckhxdmlwz3ddck9ytk5yz",
@@ -719,123 +824,6 @@
       "published_at": "2026-10-05T05:00:00+00:00",
       "collected_at": "2026-10-11T01:00:45.328163+00:00",
       "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-n-yam-com-article-20261005965646",
-      "title": "宜蘭「星夢森林劇場」獲親子農場社群聲量冠軍 結合萌寵與手作轉型深度體驗 | 蕃新聞",
-      "url": "https://n.yam.com/Article/20261005965646",
-      "canonical_url": "https://n.yam.com/Article/20261005965646",
-      "image_url": "https://ni.yam.com/20261005/20261005084659_S_22282373_0-18b769a059424db7.jpg",
-      "images": [
-        "https://ni.yam.com/20261005/20261005084659_S_22282373_0-18b769a059424db7.jpg",
-        "https://www.lifetoutiao.news/wp-content/uploads/2026/10/20261005084659_S_22282373_0.jpg",
-        "https://www.lifetoutiao.news/wp-content/uploads/2026/10/20261005084719_S_22282371_0.jpg",
-        "https://www.lifetoutiao.news/wp-content/uploads/2026/10/20261005084730_S_22282372_0.jpg",
-        "https://imagedelivery.net/UYQOTZcPn8gGeaNtnHVGeg/e52215ad-a246-405d-b78b-e67537e70e00/public",
-        "https://ni.yam.com/20261005/20261005085322_1_0-74c4a4c148160d5b.jpg",
-        "https://ni.yam.com/20261005/20261005084126_14-scaled-0bdd0f5bd9b86383.jpg",
-        "https://ni.yam.com/20261005/155be881-adc2-43a2-8e48-ca403dcfd393-6f9c4970b21937eb.jpeg"
-      ],
-      "summary": "宜蘭「星夢森林劇場」獲親子農場社群聲量冠軍 結合萌寵與手作轉型深度體驗 | 蕃新聞。旅遊中心/綜合報導 近日於育兒機構舉辦的親子農場票選中，位於宜蘭的「星夢森林劇場」脫穎而出，奪下社群聲量第一名。該園區不僅以水豚、梅花鹿、羊駝及狐獴等近距離動物互動吸引遊客，近年更積極推動「親子手作課程」，將農場體驗從單純的觀賞餵食，轉型為強調家庭共同參與的深度旅遊。隨著國內親子農場日益增加，市場同質性漸高。星夢森林劇場表示，為了做出品牌差異化，園區開始將「親子手作」納入體驗核心。過往家長在農場多半扮演拍照紀錄的角色，透過引入手作課程，父母能與孩子坐下來共同討論、創作，將對自然與動物的觀察延伸至實體作品，藉此提升家庭客群的參與感，並拉長遊客在園區的停留時間。這種從「看動物」進化為「共同完成作品」的互動模式，成功帶動了遊客在社群平台上的自主分享。家長們樂於在網路上發布孩子探索自然與手作成果的照片及短影音，這些由家庭自然產生的內容長期累積下，形成了實質的網路口碑，也成為星夢森林劇場此次在親子社群票選中奪得聲量冠軍的關鍵指標。展望未來，星夢森林劇場規劃持續深化「動物互動、自然教育、親子創作」三大元素。",
-      "analysis": {
-        "overview": "宜蘭「星夢森林劇場」獲親子農場社群聲量冠軍 結合萌寵與手作轉型深度體驗 | 蕃新聞。旅遊中心/綜合報導 近日於育兒機構舉辦的親子農場票選中，位於宜蘭的「星夢森林劇場」脫穎而出，奪下社群聲量第一名。該園區不僅以水豚、梅花鹿、羊駝及狐獴等近距離動物互動吸引遊客，近年更積極推動「親子手作課程」，將農場體驗從單純的觀賞餵食，轉型為強調家庭共同參與的深度旅遊。隨著國內親子農場日益增加，市場同質性漸高。星夢森林劇場表示，為了做出品牌差異化，園區開始將「親子手作」納入體驗核心。過往家長在農場多半扮演拍照紀錄的角色，透過引入手作課",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "n.yam.com",
-      "tags": [
-        "看動物",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "近距離接觸水豚、羊駝、梅花鹿等多種萌寵，小朋友可盡情探索與動物互動的樂趣；結合手作課程讓家長與孩子共同完成作品，寓教於樂又能留下難得的親子回憶。",
-      "published_at": "2026-10-05T01:47:00+00:00",
-      "collected_at": "2026-10-06T02:18:32.667265+00:00",
-      "query": "台灣 動物農場 親子 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijwnbvv95cuxnnfrzvtjvykpfv21wdvdxcezwn1rua",
-      "title": "宜蘭「星夢森林劇場」獲親子農場社群聲量冠軍 結合萌寵與手作轉型深度體驗",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNNFRZVTJVYkpFV21wdVdXcEZwN1RUa05RUUdFQzFydkg5M3hUSGY2dXZpTWhZVHFrRGNjUjh2MzBfVFM2MU5rbjVGWkVBUVdyMk5LUElzS0QzLXpHSGl2Ty1zWUZTN0dWaHk5WFByWVVwVFBHaEVpR01lYXBfVzR0ODFlZC13VkRWTGVCdmdwR0RrZGFzQV9JUEhXLWVNX0pZakVleEl6c05ITU1McHM4eGtrMGtVNzI5ZENzTEV5Qm1HR3BVSWt6N1hWQTVlY01lZjlyU3I5YjFybmlmejVjZ3NlQlpSS1FLVi1MSnlGS2M3ZnZOSFBWaGpnQzFJN2tfMjBSenZHWEVmeFhZcmVDbzRac0lCME16YjhvekU3MVVwRk9EMkRmck9SRjh3UkU0ZkZmUlJkeDBKV1d2OFhfZzlTU1pmNVpqZVR6R1RhOW5lWEFQWjdTblBlQlVWdVVrUkN5M2w0eExFY2c4OVE3UUdlNHJhTG9kTENoblY4c1BHd2pNRzdhYzg0QWItQlU?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNNFRZVTJVYkpFV21wdVdXcEZwN1RUa05RUUdFQzFydkg5M3hUSGY2dXZpTWhZVHFrRGNjUjh2MzBfVFM2MU5rbjVGWkVBUVdyMk5LUElzS0QzLXpHSGl2Ty1zWUZTN0dWaHk5WFByWVVwVFBHaEVpR01lYXBfVzR0ODFlZC13VkRWTGVCdmdwR0RrZGFzQV9JUEhXLWVNX0pZakVleEl6c05ITU1McHM4eGtrMGtVNzI5ZENzTEV5Qm1HR3BVSWt6N1hWQTVlY01lZjlyU3I5YjFybmlmejVjZ3NlQlpSS1FLVi1MSnlGS2M3ZnZOSFBWaGpnQzFJN2tfMjBSenZHWEVmeFhZcmVDbzRac0lCME16YjhvekU3MVVwRk9EMkRmck9SRjh3UkU0ZkZmUlJkeDBKV1d2OFhfZzlTU1pmNVpqZVR6R1RhOW5lWEFQWjdTblBlQlVWdVVrUkN5M2w0eExFY2c4OVE3UUdlNHJhTG9kTENoblY4c1BHd2pNRzdhYzg0QWItQlU?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "宜蘭「星夢森林劇場」獲親子農場社群聲量冠軍 結合萌寵與手作轉型深度體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "宜蘭「星夢森林劇場」獲親子農場社群聲量冠軍 結合萌寵與手作轉型深度體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "放電",
-        "看動物",
-        "好玩"
-      ],
-      "reason": "結合療癒萌寵互動與手作體驗，提供多樣化深度玩法，讓孩子盡情放電同時學習成長。",
-      "published_at": "2026-10-05T00:48:12+00:00",
-      "collected_at": "2026-10-07T01:32:32.495309+00:00",
-      "query": "台灣 動物農場 親子 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijwfbvv95cuxpnxnfzemtwf9wsvjnykletvzntmrsd",
-      "title": "宜蘭「星夢森林劇場」獲親子農場社群聲量冠軍 結合萌寵與手作轉型深度體驗",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXNfZEMtWF9WSVJNYklETVZnTmRSdXlCd1VJRHVWNDNxWldCbXNQM2taTmN2QWQtai1kWGdBLVpHM0ZGRUt2Z3RQMTFnSktyR1YxTDZhZFc2dktaXzFXelBEdUh5aVVGcTVkZGJ2QlB1RUFLdVhXTlhIb1JfV1VOSTJ4RkxXUW9zT3pEODlDQQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXNfZEMtWF9WSVJNYklETVZnTmRSdXlCd1VJRHVWNDNxWldCbXNQM2taTmN2QWQtai1kWGdBLVpHM0ZGRUt2Z3RQMTFnSktyR1YxTDZhZFc2dktaXzFXelBEdUh5aVVGcTVkZGJ2QlB1RUFLdVhXTlhIb1JfV1VOSTJ4RkxXUW9zT3pEODlDQQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "宜蘭「星夢森林劇場」獲親子農場社群聲量冠軍 結合萌寵與手作轉型深度體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "宜蘭「星夢森林劇場」獲親子農場社群聲量冠軍 結合萌寵與手作轉型深度體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "PChome Online 新聞",
-      "tags": [
-        "放電",
-        "看動物",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "農場以萌寵互動聞名，小朋友可近距離接觸動物釋放精力，手作體驗也能讓孩子專注參與，家長可放心讓孩子盡情探索而不無聊。",
-      "published_at": "2026-10-05T00:47:51+00:00",
-      "collected_at": "2026-10-07T18:57:16.713653+00:00",
-      "query": "台灣 親子農場 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte1puzjkdknjotlloe1tvxlptwhkmdr6v",
-      "title": "宜蘭「星夢森林劇場」獲親子農場社群聲量冠軍 結合萌寵與手作轉型深度體驗",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PUzJkdkNJOTlLOE1tVXlPTWhKMDR6VG0wX3dsTURJWnZzdS1jTGt5X3RFWFNGMWctNThYc2pOV2tJZFdhajNTOFJaVlUwZ3NETVE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PUzJkdkNJOTlLOE1tVXlPTWhKMDR6VG0wX3dsTURJWnZzdS1jTGt5X3RFWFNGMWctNThYc2pOV2tJZFdhajNTOFJaVlUwZ3NETVE?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "宜蘭「星夢森林劇場」獲親子農場社群聲量冠軍 結合萌寵與手作轉型深度體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "宜蘭「星夢森林劇場」獲親子農場社群聲量冠軍 結合萌寵與手作轉型深度體驗。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "看動物",
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "農場結合超萌寵物互動與DIY手作，大片自然環境適合讓孩子盡情奔跑放電，兼具寓教於樂的體驗價值。",
-      "published_at": "2026-10-05T00:47:00+00:00",
-      "collected_at": "2026-10-06T02:18:45.806694+00:00",
-      "query": "台灣 親子農場 景點"
     }
   ]
 }
