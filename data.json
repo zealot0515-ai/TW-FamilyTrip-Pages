@@ -1,8 +1,108 @@
 {
-  "updated_at": "2026-10-13T03:03:07.074566+00:00",
+  "updated_at": "2026-10-13T19:17:27.298539+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmilgnbvv95cuxqtkrcbktqwde3ngrgqzz4vejxufnab",
+      "title": "議員建議設高雄市立兒童樂園 陳其邁：任內做好選地分析調查",
+      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQTkRCbktqWDE3NGRGQzZ4VEJXUFNabjFXN1k0d2VQa25uQ0hXX3JNb1VHMWJVSXdFaWdqdlRQRmxtNi1FMHU4WTJNb3ZwYzFzNFo5V3FqcEVnYV9QcUlTUkMxUWJRMk51Und1RWhiMmxiMFAyY0RkTHVhVUxqMzAzQUlVRTBTQS1aY19LV0RmN1N0bW1QNG9qSXpiN1RJMVAwcGkwblVIQ0tOaGIzSGllNHNnQVVlcDhuclppRVRQN1Z3eXN3ZjdBZlFDODFIR2VzOXEzdnNGOW0wSms3WnBnOFlCUGdhNm5xYkhZZUIzNzNPTlh5MnV2ZmVkNlF3Z1lXN1FubGhSdVUxVDM3X1RiemVfTWViNzFGZno4MW56TUlPMUdQNmJlai1pZnBRRlpWVGxuM2NReHBSRGdsaTYxdHl3S0dpUldKRWczRlRKLUx6Z3VkYThlY1VCQkhxZlR6cWNfZTlWWk1kbjBXdUlGOWxDT3NYa1RKSzVfdjRtM2tQX1lVTU9JS3AyeTR2VGJlOWU4VlpB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQTkRCbktqWDE3NGRGQzZ4VEJXUFNabjFXN1k0d2VQa25uQ0hXX3JNb1VHMWJVSXdFaWdqdlRQRmxtNi1FMHU4WTJNb3ZwYzFzNFo5V3FqcEVnYV9QcUlTUkMxUWJRMk51Und1RWhiMmxiMFAyY0RkTHVhVUxqMzAzQUlVRTBTQS1aY19LV0RmN1N0bW1QNG9qSXpiN1RJMVAwcGkwblVIQ0tOaGIzSGllNHNnQVVlcDhuclppRVRQN1Z3eXN3ZjdBZlFDODFIR2VzOXEzdnNGOW0wSms3WnBnOFlCUGdhNm5xYkhZZUIzNzNPTlh5MnV2ZmVkNlF3Z1lXN1FubGhSdVUxVDM3X1RiemVfTWViNzFGZno4MW56TUlPMUdQNmJlai1pZnBRRlpWVGxuM2NReHBSRGdsaTYxdHl3S0dpUldKRWczRlRKLUx6Z3VkYThlY1VCQkhxZlR6cWNfZTlWWk1kbjBXdUlGOWxDT3NYa1RKSzVfdjRtM2tQX1lVTU9JS3AyeTR2VGJlOWU4VlpB?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "議員建議設高雄市立兒童樂園 陳其邁：任內做好選地分析調查。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "議員建議設高雄市立兒童樂園 陳其邁：任內做好選地分析調查。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "台灣好新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為政策建議新聞報導，非實際景點，目前高雄尚未有市立兒童樂園，不建議作為親子踏青目的地。",
+      "published_at": "2026-10-13T16:09:35+00:00",
+      "collected_at": "2026-10-13T19:16:44.760275+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiggnbvv95cuxnmvpymgexadbqq1q5n1bknenpnkzut",
+      "title": "議員建議設高雄市立兒童樂園 陳其邁：任內做好選地分析調查",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNMVpYMGExaDBqQ1Q5N1BkNENPNkZuTi1OaWZ2RENSR00zUEI1THFNY1NHaXF5eV93ZTlOejhsOVhDV2hiSkJnS3gyaVRNUTlZRVlSSDVydUoxQ2NMT09SM0Flb0RWbzJxMkNHTU50VE5tdVpDajIyVjhTRk9sVS15dlQyX1BsbkQwWjduZ1hYOGxKY1N5OXFTZWpiczBfT0RWMjlUNGVBMmFHVThoYmFqOHoyUlJyTFItbjFXbjMyTi1oYTFqSTdKc09VTDlSMHZBMk9FUjZONkZxdjhFTExxSGRuZm9aOVE0aVYzWTg1c3RHbmtNbUpZLVVvSWRoMXpKN3JuSFFIT3hwMHVoZTJycV9WMXgyYWdVdWtsaFJsTWtNVW0wR1YwRS1xY2c5WWtBdjY0ek1UZWlOX0JZYUxPR1VlTHZfcFkyVkpqbGhfbzdPdGRzVkVTbDVhMmpzRGwyeklpVzQ1UGFoM01jNDhPVHF4NktKaTNxQzhYT2Ytb1UwZw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNMVpYMGExaDBqQ1Q5N1BkNENPNkZuTi1OaWZ2RENSR00zUEI1THFNY1NHaXF5eV93ZTlOejhsOVhDV2hiSkJnS3gyaVRNUTlZRVlSSDVydUoxQ2NMT09SM0Flb0RWbzJxMkNHTU50VE5tdVpDajIyVjhTRk9sVS15dlQyX1BsbkQwWjduZ1hYOGxKY1N5OXFTZWpiczBfT0RWMjlUNGVBMmFHVThoYmFqOHoyUlJyTFItbjFXbjMyTi1oYTFqSTdKc09VTDlSMHZBMk9FUjZONkZxdjhFTExxSGRuZm9aOVE0aVYzWTg1c3RHbmtNbUpZLVVvSWRoMXpKN3JuSFFIT3hwMHVoZTJycV9WMXgyYWdVdWtsaFJsTWtNVW0wR1YwRS1xY2c5WWtBdjY0ek1UZWlOX0JZYUxPR1VlTHZfcFkyVkpqbGhfbzdPdGRzVkVTbDVhMmpzRGwyeklpVzQ1UGFoM01jNDhPVHF4NktKaTNxQzhYT2Ytb1UwZw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "議員建議設高雄市立兒童樂園 陳其邁：任內做好選地分析調查。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "議員建議設高雄市立兒童樂園 陳其邁：任內做好選地分析調查。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Life 生活網",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為政治新聞報導，內容為議員提議與選址分析計畫，非實際景點介紹，無法作為親子踏青推薦。",
+      "published_at": "2026-10-13T16:07:00+00:00",
+      "collected_at": "2026-10-13T19:16:57.484386+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte80vndwumzza2p4nxnjrmhgdhnhuunzm",
+      "title": "高雄市立兒童樂園選址三選一？陳其邁允任內完成評估調查",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80VndwUmZza2p4NXNJRmhGdHNHUUNzM19CRXF3MzBvS3NYSXhzb3RNSWNiS0RfdmdkTkUwWTNNLUo1XzhIRXJ6REwwZVpRbTg1Q2c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80VndwUmZza2p4NXNJRmhGdHNHUUNzM19CRXF3MzBvS3NYSXhzb3RNSWNiS0RfdmdkTkUwWTNNLUo1XzhIRXJ6REwwZVpRbTg1Q2c?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄市立兒童樂園選址三選一？陳其邁允任內完成評估調查。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "高雄市立兒童樂園選址三選一？陳其邁允任內完成評估調查。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "高雄市正規劃中的市立兒童樂園，未來可提供兒童專屬遊憩設施，但目前仍在選址階段，尚未開放，建議關注後續進度再安排行程。",
+      "published_at": "2026-10-13T08:15:00+00:00",
+      "collected_at": "2026-10-13T19:17:07.860801+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivwnbvv95cuxnnutwdxvqrfbmac1ha0zjze1jodjlq",
+      "title": "高雄市立兒童樂園選址三選一？陳其邁允任內完成評估調查",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNNUtWdXVqRFBMaC1ha0ZjZE1jODJLQVI1NlNoVTNfMzViS1hZWFJWLURIS21WZnBPOE9YQ1dYNnlmSm52clhlWFpuQmpNV1hNNTJNajQwVVVjcHhnMk00WmlULUU2eV9RY2JsUjdkYUFQbWRmUXJ4NU9jNERQdjhfRmNweWFRcGNGeExwV05BakU5X2wzLU1mcjNHTVhsVkJwTmdLUHdscVJBNUo1cWdtMWk3VVZZNV9EMS1ZdktTeHM0enpMbjIyVzdrNmVGZm1nZFBzcjhHWWh3MC1NQW1zdWFkc0xNbGVJU0pWb181VmtzbEdqSk5qa2ZadEQxS2hYYW5USWM4MzJUbUcyaXNWUHpFcU1PWEtNUU1DbXRrMlJrY1NtQmtpSXJRVkktWXloekt3NnVoNFh0YXlXU3ZYUlZKMm9tYVdGangwSzZ1TFVQWGdRejBxZkJfelozMzBpdHVWcjdkYS1zYTVhSmN1bTJtUW9LazVoTDFDR2QtSHQ4M3piUGFZNVdjdW1iWjRVcDNzajUwYmJyVGVjUmFxTHpqdTFqc3ItUVVmT3hOM0JtOFJJMjRtaklSbkVNanM?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNNUtWdXVqRFBMaC1ha0ZjZE1jODJLQVI1NlNoVTNfMzViS1hZWFJWLURIS21WZnBPOE9YQ1dYNnlmSm52clhlWFpuQmpNV1hNNTJNajQwVVVjcHhnMk00WmlULUU2eV9RY2JsUjdkYUFQbWRmUXJ4NU9jNERQdjhfRmNweWFRcGNGeExwV05BakU5X2wzLU1mcjNHTVhsVkJwTmdLUHdscVJBNUo1cWdtMWk3VVZZNV9EMS1ZdktTeHM0enpMbjIyVzdrNmVGZm1nZFBzcjhHWWh3MC1NQW1zdWFkc0xNbGVJU0pWb181VmtzbEdqSk5qa2ZadEQxS2hYYW5USWM4MzJUbUcyaXNWUHpFcU1PWEtNUU1DbXRrMlJrY1NtQmtpSXJRVkktWXloekt3NnVoNFh0YXlXU3ZYUlZKMm9tYVdGangwSzZ1TFVQWGdRejBxZkJfelozMzBpdHVWcjdkYS1zYTVhSmN1bTJtUW9LazVoTDFDR2QtSHQ4M3piUGFZNVdjdW1iWjRVcDNzajUwYmJyVGVjUmFxTHpqdTFqc3ItUVVmT3hOM0JtOFJJMjRtaklSbkVNanM?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄市立兒童樂園選址三選一？陳其邁允任內完成評估調查。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "高雄市立兒童樂園選址三選一？陳其邁允任內完成評估調查。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Life 生活網",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為高雄市兒童樂園選址政策新聞，非景點介紹文章，缺乏實際地點、設施及適合親子與否的資訊，無法提供推薦理由。",
+      "published_at": "2026-10-13T08:07:05+00:00",
+      "collected_at": "2026-10-13T19:17:11.922530+00:00",
+      "query": "台灣 親子景點 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmijgzbvv95cuxqmlm2s0nzsux1a3myrm1sngfcml83w",
       "title": "嗨玩十月連假｜2026全台樂園最強優惠｜萬聖節活動懶人包看這篇｜六福村打卡史努比萌翻、麗寶樂園慶雙十！1大1小親子套票千元有找",
@@ -27,6 +127,32 @@
       "reason": "主題樂園有多元遊樂設施能讓小孩盡情放電，且十月連假推出1大1小千元有找的優惠套票，省錢又盡興。",
       "published_at": "2026-10-12T12:21:23+00:00",
       "collected_at": "2026-10-12T21:16:15.861800+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmihwzbvv95cuxqvgffynhyogp4u00zqzlvzhiwcjveq",
+      "title": "嗨玩十月連假｜2026全台樂園最強優惠｜萬聖節活動懶人包看這篇｜六福村打卡史努比萌翻、麗寶樂園慶雙十！1大1小親子套票千元有找",
+      "url": "https://news.google.com/rss/articles/CBMihwZBVV95cUxQVGFfYnhYOGp4U00zQzlVZHIwcjVEQ015NEFSYXpxVUZNU3V4anNRSEc0cWVyLUxaT3ZVYWFYUEhYOFhUNGYwWHg3UGFpSkhPVUIwR01EYjA1SmQwY1JRZ080YnRoRWhWUzdqbVprUXVJMVAzMFFWcDRiUWhYREFzMDlzMWo2YzFxV1JJekh2QmJZSWZpZ2p6Rlo2bk1EM1pEdFVRUnN2empMSnpoVHBhX0dNbFlleUJmNjBtdndwRXVwYVhQN2IwRXRyRElha2ZYckVqaTZPY2FYeDhxZzZiQ0k1RUFnREY2c0tjRXEtZmhFQ2R4ZmR5NDRzejZSOXNWbVNEa1JxU29tNVR5MEJnQkYtRU5zUkFVOXpuNmNkeFNrTzQwZ0ZHWTktSDI5b2hYX3g3ZUNPNHc3ZWFFYjNNazlza1FMbnU1bTktM252OGhUb3JLTXQ1Yjl4MWNfYXRPVG9wSGVDVVBvd2JqQnhjZGFoUTdoU3ZEcUhtM3E1UnUyR2FTUWUtT29Mem5obm9DTTFpWGhYSEJRZk83QzFxYnA4TFJYTWZIZ0RxN3NKUlZqaWJNSjVfRUExdlJOSWcyTXlrdU5hWDFhWmE4S1o2NE9xSnBId3ZUWDRIQlpLUmx0eGkwRUE3dlpBRXZhNmpELTd3WnlzbUo5N2lJMnpLVTc1U1V6a2FIYnFmZmtkRzR2akcxSlVtUzBTWDZXXzBYYTRtYm80ekVWMktwWnVQdEJPU2djREItOGFxcjhhd01YUEF1bFBPc3hKSEsyd09QcmlCTV9Sc3BZZ3NnS1VsR241b0d4d2hhdnptTUR5NklkN2Q4SmJDamowb2t0azRtTGhkT2RPeWZYTWdyUDVsaDFlenU0c1dWVTNmSkhvNXpxRmV6NEpDek0tLXdxY2N0dHhENmlhNDB3c01PMTZYc3JUZ3BLd3BkcjA2Ui1SX0xTRnBvX0d6eHZfWkhHV0ZhSHJCS0ZaZVFLWXlpY2NKaHhpRGJUaER0WWt3RkR1ZTVncGlOTERV?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihwZBVV95cUxQVGFfYnhYOGp4U00zQzlVZHIwcjVEQ015NEFSYXpxVUZNU3V4anNRSEc0cWVyLUxaT3ZVYWFYUEhYOFhUNGYwWHg3UGFpSkhPVUIwR01EYjA1SmQwY1JRZ080YnRoRWhWUzdqbVprUXVJMVAzMFFWcDRiUWhYREFzMDlzMWo2YzFxV1JJekh2QmJZSWZpZ2p6Rlo2bk1EM1pEdFVRUnN2empMSnpoVHBhX0dNbFlleUJmNjBtdndwRXVwYVhQN2IwRXRyRElha2ZYckVqaTZPY2FYeDhxZzZiQ0k1RUFnREY2c0tjRXEtZmhFQ2R4ZmR5NDRzejZSOXNWbVNEa1JxU29tNVR5MEJnQkYtRU5zUkFVOXpuNmNkeFNrTzQwZ0ZHWTktSDI5b2hYX3g3ZUNPNHc3ZWFFYjNNazlza1FMbnU1bTktM252OGhUb3JLTXQ1Yjl4MWNfYXRPVG9wSGVDVVBvd2JqQnhjZGFoUTdoU3ZEcUhtM3E1UnUyR2FTUWUtT29Mem5obm9DTTFpWGhYSEJRZk83QzFxYnA4TFJYTWZIZ0RxN3NKUlZqaWJNSjVfRUExdlJOSWcyTXlrdU5hWDFhWmE4S1o2NE9xSnBId3ZUWDRIQlpLUmx0eGkwRUE3dlpBRXZhNmpELTd3WnlzbUo5N2lJMnpLVTc1U1V6a2FIYnFmZmtkRzR2akcxSlVtUzBTWDZXXzBYYTRtYm80ekVWMktwWnVQdEJPU2djREItOGFxcjhhd01YUEF1bFBPc3hKSEsyd09QcmlCTV9Sc3BZZ3NnS1VsR241b0d4d2hhdnptTUR5NklkN2Q4SmJDamowb2t0azRtTGhkT2RPeWZYTWdyUDVsaDFlenU0c1dWVTNmSkhvNXpxRmV6NEpDek0tLXdxY2N0dHhENmlhNDB3c01PMTZYc3JUZ3BLd3BkcjA2Ui1SX0xTRnBvX0d6eHZfWkhHV0ZhSHJCS0ZaZVFLWXlpY2NKaHhpRGJUaER0WWt3RkR1ZTVncGlOTERV?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "嗨玩十月連假｜2026全台樂園最強優惠｜萬聖節活動懶人包看這篇｜六福村打卡史努比萌翻、麗寶樂園慶雙十！1大1小親子套票千元有找。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+      "analysis": {
+        "overview": "嗨玩十月連假｜2026全台樂園最強優惠｜萬聖節活動懶人包看這篇｜六福村打卡史努比萌翻、麗寶樂園慶雙十！1大1小親子套票千元有找。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "樂園設施多元可讓小孩盡情放電玩耍，且有推出優惠親子套票，連假出遊高CP值。",
+      "published_at": "2026-10-12T12:21:23+00:00",
+      "collected_at": "2026-10-13T19:17:21.451239+00:00",
       "query": "台灣 遊樂園 親子 最新"
     },
     {
@@ -690,140 +816,6 @@
       "published_at": "2026-10-06T07:33:59+00:00",
       "collected_at": "2026-10-06T18:21:48.328765+00:00",
       "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiwkfvx3lxte9ywxloalpzbkfmuwdfnti3zjlpexvzr",
-      "title": "南投親子景點「海盜村」無預警歇業！ 網錯愕：第一次知道",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YWXlOalpzbkFmUWdfNTI3ZjlPeXVZRi0yV1gwTXlURFJ4WEdKNHhrM3c4TnhuVXhPQnB4MHRtZXZ3Z19UTmNlYmFoejJiS21GYWhJUVBoekdmQQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YWXlOalpzbkFmUWdfNTI3ZjlPeXVZRi0yV1gwTXlURFJ4WEdKNHhrM3c4TnhuVXhPQnB4MHRtZXZ3Z19UTmNlYmFoejJiS21GYWhJUVBoekdmQQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "南投親子景點「海盜村」無預警歇業！ 網錯愕：第一次知道。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "南投親子景點「海盜村」無預警歇業！ 網錯愕：第一次知道。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "景點已歇業，不建議前往。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "東森電視",
-      "tags": [
-        "放電"
-      ],
-      "reason": "景點已歇業，不建議前往。",
-      "published_at": "2026-10-06T07:20:00+00:00",
-      "collected_at": "2026-10-06T18:22:00.133598+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-www-msn-com-zh-tw-health-topic-e5-9c-8b-e6-85-b6-e9-80-a3-e5-81-87-e8-ae-8",
-      "title": "國慶連假變天！低溫下探16度、三颱免驚！「親子出遊避雨、避塞車」這樣走",
-      "url": "https://www.msn.com/zh-tw/health/topic/%E5%9C%8B%E6%85%B6%E9%80%A3%E5%81%87%E8%AE%8A%E5%A4%A9-%E4%BD%8E%E6%BA%AB%E4%B8%8B%E6%8E%A216%E5%BA%A6-%E4%B8%89%E9%A2%B1%E5%85%8D%E9%A9%9A-%E8%A6%AA%E5%AD%90%E5%87%BA%E9%81%8A%E9%81%BF%E9%9B%A8-%E9%81%BF%E5%A1%9E%E8%BB%8A-%E9%80%99%E6%A8%A3%E8%B5%B0/ar-AA2dTQ3l",
-      "canonical_url": "https://www.msn.com/zh-tw/health/topic/%E5%9C%8B%E6%85%B6%E9%80%A3%E5%81%87%E8%AE%8A%E5%A4%A9-%E4%BD%8E%E6%BA%AB%E4%B8%8B%E6%8E%A216%E5%BA%A6-%E4%B8%89%E9%A2%B1%E5%85%8D%E9%A9%9A-%E8%A6%AA%E5%AD%90%E5%87%BA%E9%81%8A%E9%81%BF%E9%9B%A8-%E9%81%BF%E5%A1%9E%E8%BB%8A-%E9%80%99%E6%A8%A3%E8%B5%B0/ar-AA2dTQ3l",
-      "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "國慶連假變天！低溫下探16度、三颱免驚！「親子出遊避雨、避塞車」這樣走。最近新聞出現「三颱共舞」讓許多規劃連假帶孩子出門的爸媽心驚膽跳，免驚！氣象專家與氣象署指出，海面上的颱風距離台灣非常遙遠，對台灣並沒有直接影響。真正影響連假天氣的，是持續發威的東北季風。受輻射冷卻影響，清晨全台平地最低溫可能降至 16 度左右。」 這篇專為親子家庭打造的「國慶出遊避雨與照護攻略」，幫爸媽們一次鎖定最佳旅遊去處！",
-      "analysis": {
-        "overview": "國慶連假變天！低溫下探16度、三颱免驚！「親子出遊避雨、避塞車」這樣走。最近新聞出現「三颱共舞」讓許多規劃連假帶孩子出門的爸媽心驚膽跳，免驚！氣象專家與氣象署指出，海面上的颱風距離台灣非常遙遠，對台灣並沒有直接影響。真正影響連假天氣的，是持續發威的東北季風。受輻射冷卻影響，清晨全台平地最低溫可能降至 16 度左右。」 這篇專為親子家庭打造的「國慶出遊避雨與照護攻略」，幫爸媽們一次鎖定最佳旅遊去處！",
-        "pros": "提供避雨避塞車攻略，針對連假變天提供雨天備案建議，幫助爸媽解決帶小孩出遊最頭疼的天氣與交通問題。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "msn.com",
-      "tags": [
-        "好玩",
-        "室內"
-      ],
-      "reason": "提供避雨避塞車攻略，針對連假變天提供雨天備案建議，幫助爸媽解決帶小孩出遊最頭疼的天氣與交通問題。",
-      "published_at": "2026-10-06T06:38:24+00:00",
-      "collected_at": "2026-10-09T18:22:11.162197+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxtfbxsvgzczboohzvqujzymtpahrurenke",
-      "title": "「台灣知名樂園」無預警宣告熄燈！營業7年正式停業， 必訪親子景點走入歷史",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxSVgzczBOOHZVQUJZYmtpaHRuRENkeEtQQUxlM19LdEhLUXh4SU9pOWZ6UWkyWFc3NTFTM19JNHlWTllQaGFOODFoc1haVkpt?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxSVgzczBOOHZVQUJZYmtpaHRuRENkeEtQQUxlM19LdEhLUXh4SU9pOWZ6UWkyWFc3NTFTM19JNHlWTllQaGFOODFoc1haVkpt?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "「台灣知名樂園」無預警宣告熄燈！營業7年正式停業， 必訪親子景點走入歷史。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "「台灣知名樂園」無預警宣告熄燈！營業7年正式停業， 必訪親子景點走入歷史。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Storm.mg",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "該樂園已無預警熄燈走入歷史，不再開放，建議家長另尋其他親子景點。",
-      "published_at": "2026-10-06T04:55:17+00:00",
-      "collected_at": "2026-10-06T18:22:11.055096+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmixefvx3lxte56yzdhtmdtcdbpbkxazmxoofbylxdrb",
-      "title": "麗寶樂園國慶、光復連假 18歲以下享免費入園",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56YzdHTmdtcDBPbkxaZmxoOFByLXdrbGxSYjFqQjI3TG9iYm1nT0haMTQ4Z2pqNjIxOF9ZMVlLQXpVVlBlbG1oSURjeDljUFUtbUNIMXFQSlZfMklI?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56YzdHTmdtcDBPbkxaZmxoOFByLXdrbGxSYjFqQjI3TG9iYm1nT0haMTQ4Z2pqNjIxOF9ZMVlLQXpVVlBlbG1oSURjeDljUFUtbUNIMXFQSlZfMklI?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "麗寶樂園國慶、光復連假 18歲以下享免費入園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "麗寶樂園國慶、光復連假 18歲以下享免費入園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "卡優新聞網",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "18歲以下免費入園優惠，省下大筆門票錢，遊樂設施多元能讓孩子盡情放電，連假出遊CP值高。",
-      "published_at": "2026-10-05T08:18:13+00:00",
-      "collected_at": "2026-10-06T02:18:18.754995+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-supertaste-tvbs-com-tw-kids-361813",
-      "title": "高雄全新景點！全台唯一「高鐵主題公園」嗨玩溜滑梯，周邊順遊漫畫彩繪巷 | 食尚玩家",
-      "url": "https://supertaste.tvbs.com.tw/kids/361813",
-      "canonical_url": "https://supertaste.tvbs.com.tw/kids/361813",
-      "image_url": "https://supertaste-asset.tvbs.com.tw/images/01a1257fe62e70ac934d1fcbcc556d7e.jpg",
-      "images": [
-        "https://supertaste-asset.tvbs.com.tw/images/01a1257fe62e70ac934d1fcbcc556d7e.jpg",
-        "https://sb.scorecardresearch.com/p?c1=2&c2=18400300&cv=3.6&cj=1",
-        "https://supertaste-images.tvbs.com.tw/?url=https%3A%2F%2Fsupertaste-asset.tvbs.com.tw%2Fimages%2F019a533432287185a0918eb5df90c928.jpg&w=100&q=75",
-        "https://supertaste-images.tvbs.com.tw/?url=https%3A%2F%2Fsupertaste-asset.tvbs.com.tw%2Fimages%2F01a1257fe62e70ac934d1fcbcc556d7e.jpg&w=1440&q=75",
-        "https://supertaste-images.tvbs.com.tw/?url=https%3A%2F%2Fsupertaste-asset.tvbs.com.tw%2Flegacy%2F2022supertaste%2Fuploads%2Fplayer%2F20210107110157-ad30c3ca.jpg&w=1440&q=75",
-        "https://supertaste-images.tvbs.com.tw/?url=https%3A%2F%2Fsupertaste-asset.tvbs.com.tw%2Fimages%2F01a125c6cc7073bd9260fdd39db6c392.jpg&w=1440&q=75",
-        "https://supertaste-images.tvbs.com.tw/?url=https%3A%2F%2Fsupertaste-asset.tvbs.com.tw%2Fimages%2F01a125c6cc8b730f8854b27115fc0160.jpg&w=1440&q=75",
-        "https://supertaste-images.tvbs.com.tw/?url=https%3A%2F%2Fsupertaste-asset.tvbs.com.tw%2Fimages%2F01a125c6cca4733bb12f67532b182465.jpg&w=1440&q=75"
-      ],
-      "summary": "高雄全新景點！全台唯一「高鐵主題公園」嗨玩溜滑梯，周邊順遊漫畫彩繪巷 | 食尚玩家。這座「仁武高鐵橋下帶狀公園」是目前全台唯一以「高鐵」為主題打造的特色公園，有高鐵列車造型的溜滑梯遊具，小朋友愛玩的鞦韆、攀爬架都有，綠地空間還能遛毛小孩散步！食尚小編加碼推薦附近的隱藏版打卡景點「後安彩繪巷」，有超過50部漫畫、卡通、電影角色大集合！趕緊一起來看看吧～ 下載食尚APP，天天免費抽大獎！奶茶第２杯半價 連鎖門市 TEA TOP 第一味 去領取 烏龍麵85折 連鎖門市 無冬WOODONG烏龍麵所 去領取 更多優惠 「仁武高鐵橋下帶狀公園」地點位於高雄仁武區中正路往後安方向，就在架高的高鐵軌道下方，公園 佔地超過５公頃，巧妙活化雜草叢生閒置的 橋下空間，將其變成可供民眾散步運動、遛小孩及寵物的新去處。公園裡最吸睛的亮點，就是有座「 高鐵主題特色遊戲場」，除了有溜滑梯等遊樂設施，還有滑步車道、健體設施，另有設置毛小孩專屬的寵物公園，滿足各種族群的使用需求。小朋友一見到就嗨翻的「飛車過山滑梯組」，整個遊具設計成高鐵列車的造型，列車頭尾有多個出入口，可以透過爬樓梯、爬格子進到列車內部，裡面是鏤空的，可以讓小朋友穿梭在裡頭探險，車身設置了３道磨石子溜滑梯，滑道不算太短，能讓小朋友玩得開心。",
-      "analysis": {
-        "overview": "高雄全新景點！全台唯一「高鐵主題公園」嗨玩溜滑梯，周邊順遊漫畫彩繪巷 | 食尚玩家。這座「仁武高鐵橋下帶狀公園」是目前全台唯一以「高鐵」為主題打造的特色公園，有高鐵列車造型的溜滑梯遊具，小朋友愛玩的鞦韆、攀爬架都有，綠地空間還能遛毛小孩散步！食尚小編加碼推薦附近的隱藏版打卡景點「後安彩繪巷」，有超過50部漫畫、卡通、電影角色大集合！趕緊一起來看看吧～ 下載食尚APP，天天免費抽大獎！奶茶第２杯半價 連鎖門市 TEA TOP 第一味 去領取 烏龍麵85折 連鎖門市 無冬WOODONG烏龍麵所 去領取 更多優惠 「仁武",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "supertaste.tvbs.com.tw",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "全台唯一高鐵列車造型溜滑梯吸睛好拍，佔地5公頃空間寬敞且設施多元，讓小孩盡情放電。",
-      "published_at": "2026-10-05T05:00:00+00:00",
-      "collected_at": "2026-10-11T01:00:45.328163+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
     }
   ]
 }
