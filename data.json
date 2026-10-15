@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-10-14T17:11:00.649022+00:00",
+  "updated_at": "2026-10-15T00:31:38.588436+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmirefvx3lxte02cfriqwzzenzfufbqytezbhbwmwzrw",
+      "title": "秋遊台中后里環保公園 綠地如茵好風光 親子同遊享受悠閒秋日時光",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE02cFRIQWZzenZfUFBQYTEzbHBWMWZrWHI5cjJ5VWpveGtES2JvS29oMzdBS1NzaUVtemNOMi1Ma1p1NW5F?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE02cFRIQWZzenZfUFBQYTEzbHBWMWZrWHI5cjJ5VWpveGtES2JvS29oMzdBS1NzaUVtemNOMi1Ma1p1NW5F?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "秋遊台中后里環保公園 綠地如茵好風光 親子同遊享受悠閒秋日時光。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "秋遊台中后里環保公園 綠地如茵好風光 親子同遊享受悠閒秋日時光。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "全國旅遊時報",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "寬闊綠地適合孩子奔跑放電，公園設有乾淨廁所與便利停車，秋季涼爽時光全家出遊最舒適。",
+      "published_at": "2026-10-14T23:09:00+00:00",
+      "collected_at": "2026-10-15T00:31:20.749197+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte9lt0p3rzfiugqwa3vja3boulp2dgyxa",
       "title": "高雄首座兒童樂園落腳大寮？李雨庭力推捷運站周邊 陳其邁：短期很好選擇",
@@ -112,6 +138,57 @@
       "published_at": "2026-10-14T02:41:45+00:00",
       "collected_at": "2026-10-14T17:10:13.997711+00:00",
       "query": "台灣 週末親子 去哪裡"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiigfbvv95cuxptzezsdhsczvmounramj4yjzgvlplc",
+      "title": "田珍綺提花蓮休閒場域政見倡特色公園、親子館及活化既有場館- 政治新聞",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTzEzSDhSczVmOUNRamJ4YjZGVlplcHdXa0NnZUxGZTdHMzdsLVNjMzdmb1FfVFp0RExaVWxzRjRoSldRSDFDZzFQaEw4dkozZVVVdE15b09KYk5JT3dDcldjMW9OZ2NxNHNSWmVCejlxXzU5Y1FkSDNkaDJ6anpfQ0R0RXk1SnFKbVE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTzEzSDhSczVmOUNRamJ4YjZGVlplcHdXa0NnZUxGZTdHMzdsLVNjMzdmb1FfVFp0RExaVWxzRjRoSldRSDFDZzFQaEw4dkozZVVVdE15b09KYk5JT3dDcldjMW9OZ2NxNHNSWmVCejlxXzU5Y1FkSDNkaDJ6anpfQ0R0RXk1SnFKbVE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "田珍綺提花蓮休閒場域政見倡特色公園、親子館及活化既有場館- 政治新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "田珍綺提花蓮休閒場域政見倡特色公園、親子館及活化既有場館- 政治新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "放電"
+      ],
+      "reason": "政策倡議興建特色公園與親子館，提供孩子放電場所，具體地點與設施待規劃後確認。",
+      "published_at": "2026-10-14T02:41:45+00:00",
+      "collected_at": "2026-10-15T00:31:30.216337+00:00",
+      "query": "台灣 雨天 親子 室內 景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxooezhvvl1z0thaxvvrvhvsvhfntdmx",
+      "title": "彰化伸港「什股探索之森」開工！獨特樹屋遊戲場引爆期待- 旅遊新聞",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOEZHVVl1Z0thaXVVRVhvSVhFNTdmX2k0MFY0WU1lTUNwX2dURnNEUHRFNjBFM3dEYmk3NlZ1cjE5b05YNUQ0N0FQZmx6azgtWWNpeklYUW5OMUw3MnluX3c1TUttY1E0ckl4dEl6b0pjR3lMVjhUVFNCMDAxSURNd0hJQjZ4WjRrRHc1SA?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOEZHVVl1Z0thaXVVRVhvSVhFNTdmX2k0MFY0WU1lTUNwX2dURnNEUHRFNjBFM3dEYmk3NlZ1cjE5b05YNUQ0N0FQZmx6azgtWWNpeklYUW5OMUw3MnluX3c1TUttY1E0ckl4dEl6b0pjR3lMVjhUVFNCMDAxSURNd0hJQjZ4WjRrRHc1SA?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "彰化伸港「什股探索之森」開工！獨特樹屋遊戲場引爆期待- 旅遊新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "彰化伸港「什股探索之森」開工！獨特樹屋遊戲場引爆期待- 旅遊新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "雖為新建工程尚未開放，但以森林探索與樹屋遊戲場為主題，屬大自然與放電類型，待正式開放後可列為口袋名單。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "大自然",
+        "放電"
+      ],
+      "reason": "雖為新建工程尚未開放，但以森林探索與樹屋遊戲場為主題，屬大自然與放電類型，待正式開放後可列為口袋名單。",
+      "published_at": "2026-10-14T00:00:00+00:00",
+      "collected_at": "2026-10-15T00:31:38.431384+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte9zumr1zzgycwjmt2itulflugthtfpgd",
@@ -719,84 +796,6 @@
       "published_at": "2026-10-09T06:19:13+00:00",
       "collected_at": "2026-10-09T18:21:20.618479+00:00",
       "query": "台灣 親子農場 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxqskxpavfru1l4x0vqrwo2x3rla1f4y",
-      "title": "雙十國慶連假第一天 麗寶樂園渡假區湧進人潮",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSkxpaVFRU1l4X0VQRWo2X3RLa1F4YmZZRENjMkZfeDluTVJQTVl0b0xoMnJ5bFlfMEhjNGhweUE4R3B6MTRUTTJuLWs4aVVGeGp4UzFMNVNuVEFlVGlCaG0td3M0TXdTazR5T1FhaWhUa0tyRjc2V3VZeWhMaUwzNTdGeEhjaWdMU0VQcQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSkxpaVFRU1l4X0VQRWo2X3RLa1F4YmZZRENjMkZfeDluTVJQTVl0b0xoMnJ5bFlfMEhjNGhweUE4R3B6MTRUTTJuLWs4aVVGeGp4UzFMNVNuVEFlVGlCaG0td3M0TXdTazR5T1FhaWhUa0tyRjc2V3VZeWhMaUwzNTdGeEhjaWdMU0VQcQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "雙十國慶連假第一天 麗寶樂園渡假區湧進人潮。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "雙十國慶連假第一天 麗寶樂園渡假區湧進人潮。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "麗寶樂園渡假區有多元遊樂設施，能讓小孩盡情放電，且園區腹地大、設施完善，適合全家同樂一整天。",
-      "published_at": "2026-10-09T06:19:13+00:00",
-      "collected_at": "2026-10-11T17:41:42.561791+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-cts-com-tw-cts-general-202610-202610093087960-html",
-      "title": "雙十國慶連假開跑！ 台北兒童新樂園湧親子人潮",
-      "url": "https://news.cts.com.tw/cts/general/202610/202610093087960.html",
-      "canonical_url": "https://news.cts.com.tw/cts/general/202610/202610093087960.html",
-      "image_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "雙十國慶連假開跑！ 台北兒童新樂園湧親子人潮。雙十連假的第一天，台北市士林區的兒童新樂園一早湧入排隊人潮，不少親子客到場玩樂。同樣在台北市的天文館，除了推出DIY手作書籤，和聽說故事等內容外，在國慶日當天還有免費入場的優惠。自來水園區，也推出開放，地下水宮殿導覽，讓民眾參觀。",
-      "analysis": {
-        "overview": "雙十國慶連假開跑！ 台北兒童新樂園湧親子人潮。雙十連假的第一天，台北市士林區的兒童新樂園一早湧入排隊人潮，不少親子客到場玩樂。同樣在台北市的天文館，除了推出DIY手作書籤，和聽說故事等內容外，在國慶日當天還有免費入場的優惠。自來水園區，也推出開放，地下水宮殿導覽，讓民眾參觀。",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "news.cts.com.tw",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "室內主題樂園不受天氣影響，設施多元適合各年齡層孩童盡情放電，且多數遊具皆有身高與年齡分級，家長可放心讓孩子獨立遊玩減輕陪伴壓力。",
-      "published_at": "2026-10-09T05:50:00+00:00",
-      "collected_at": "2026-10-09T18:21:39.584975+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmicefvx3lxtfbzulg2q3pyrtrpc1feyud1d3pdedhxv",
-      "title": "雙十國慶連假開跑！ 台北兒童新樂園湧親子人潮- 綜合",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZUlg2Q3pyRTRpc1FEYUd1d3pDeDhXVHdsZjZ4QUN0OUNPYnlCNkdZQ3FTNGpnMzgtclhubEljanRmZVVJalZTWmdsY2ZtcldHSl9RSHhXMnBPYU9tSUk5M3ZBNGlaSUx3blhWbkNrVVY?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZUlg2Q3pyRTRpc1FEYUd1d3pDeDhXVHdsZjZ4QUN0OUNPYnlCNkdZQ3FTNGpnMzgtclhubEljanRmZVVJalZTWmdsY2ZtcldHSl9RSHhXMnBPYU9tSUk5M3ZBNGlaSUx3blhWbkNrVVY?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "雙十國慶連假開跑！ 台北兒童新樂園湧親子人潮- 綜合。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "雙十國慶連假開跑！ 台北兒童新樂園湧親子人潮- 綜合。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "華視新聞網",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "台北兒童新樂園是專為兒童設計的遊樂園，各項設施符合安全規範且動線清晰，讓小孩盡情放電玩樂無後顧之憂。",
-      "published_at": "2026-10-09T04:50:00+00:00",
-      "collected_at": "2026-10-09T18:21:47.628454+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
     }
   ]
 }
