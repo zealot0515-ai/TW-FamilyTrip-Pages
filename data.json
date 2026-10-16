@@ -1,8 +1,61 @@
 {
-  "updated_at": "2026-10-16T00:26:05.092740+00:00",
+  "updated_at": "2026-10-16T16:38:58.464917+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmit0fvx3lxtfb1zgvvwexfuwlbdlfqt1y2s2n6cdvru",
+      "title": "打造全台最大原民文化遊樂園 高雄TAKAO豐潮10/17-18衛武營盛大登場",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1ZGVVWExfUWlBdlFqT1Y2S2N6cDVrUnRBX05aVE8zZ0JjaDJjS1VkSVJUOHRMZGx6a2xxZkp4NEVCX3lDd1J1YVZHT0R0WFU?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1ZGVVWExfUWlBdlFqT1Y2S2N6cDVrUnRBX05aVE8zZ0JjaDJjS1VkSVJUOHRMZGx6a2xxZkp4NEVCX3lDd1J1YVZHT0R0WFU?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "打造全台最大原民文化遊樂園 高雄TAKAO豐潮10/17-18衛武營盛大登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "打造全台最大原民文化遊樂園 高雄TAKAO豐潮10/17-18衛武營盛大登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "天天上新聞",
+      "tags": [
+        "放電",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "衛武營腹地廣大有大片草皮與開放空間，適合帶小孩跑跳放電，且為戶外場域能近距離接觸原民文化體驗。",
+      "published_at": "2026-10-16T14:07:17+00:00",
+      "collected_at": "2026-10-16T16:38:52.777287+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5owjj5bfrla3p2qtzvvvdud2nmwk5bm",
+      "title": "彰化大城追風公園正式啟用 斥資2,200萬元打造交通主題共融遊戲場",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OWjJ5bFRla3p2QTZvVVdUd2NmWk5BM0owbl9GZEg4b2NFWnFyOHZ6aHhZRWR6UEZINkdISEJ6SUJKQUR6YlZvRzdycWxLQzU5ZUE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OWjJ5bFRla3p2QTZvVVdUd2NmWk5BM0owbl9GZEg4b2NFWnFyOHZ6aHhZRWR6UEZINkdISEJ6SUJKQUR6YlZvRzdycWxLQzU5ZUE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "彰化大城追風公園正式啟用 斥資2,200萬元打造交通主題共融遊戲場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "彰化大城追風公園正式啟用 斥資2,200萬元打造交通主題共融遊戲場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "斥資2,200萬打造的交通主題共融遊戲場，設施新穎多元，可讓小孩體驗多種交通主題遊具盡情放電，新啟用環境整潔舒適。",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "collected_at": "2026-10-16T16:38:58.383896+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmixkfvx3lxtfa1y014bxhwde43zjviqmd3dtntmglwe",
       "title": "宜蘭親子新景點來了！砸4200萬打造2座特色遊戲場「三星蔥遊戲塔超吸睛」",
@@ -736,59 +789,6 @@
       "published_at": "2026-10-12T12:21:23+00:00",
       "collected_at": "2026-10-12T21:16:15.861800+00:00",
       "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmihwzbvv95cuxqvgffynhyogp4u00zqzlvzhiwcjveq",
-      "title": "嗨玩十月連假｜2026全台樂園最強優惠｜萬聖節活動懶人包看這篇｜六福村打卡史努比萌翻、麗寶樂園慶雙十！1大1小親子套票千元有找",
-      "url": "https://news.google.com/rss/articles/CBMihwZBVV95cUxQVGFfYnhYOGp4U00zQzlVZHIwcjVEQ015NEFSYXpxVUZNU3V4anNRSEc0cWVyLUxaT3ZVYWFYUEhYOFhUNGYwWHg3UGFpSkhPVUIwR01EYjA1SmQwY1JRZ080YnRoRWhWUzdqbVprUXVJMVAzMFFWcDRiUWhYREFzMDlzMWo2YzFxV1JJekh2QmJZSWZpZ2p6Rlo2bk1EM1pEdFVRUnN2empMSnpoVHBhX0dNbFlleUJmNjBtdndwRXVwYVhQN2IwRXRyRElha2ZYckVqaTZPY2FYeDhxZzZiQ0k1RUFnREY2c0tjRXEtZmhFQ2R4ZmR5NDRzejZSOXNWbVNEa1JxU29tNVR5MEJnQkYtRU5zUkFVOXpuNmNkeFNrTzQwZ0ZHWTktSDI5b2hYX3g3ZUNPNHc3ZWFFYjNNazlza1FMbnU1bTktM252OGhUb3JLTXQ1Yjl4MWNfYXRPVG9wSGVDVVBvd2JqQnhjZGFoUTdoU3ZEcUhtM3E1UnUyR2FTUWUtT29Mem5obm9DTTFpWGhYSEJRZk83QzFxYnA4TFJYTWZIZ0RxN3NKUlZqaWJNSjVfRUExdlJOSWcyTXlrdU5hWDFhWmE4S1o2NE9xSnBId3ZUWDRIQlpLUmx0eGkwRUE3dlpBRXZhNmpELTd3WnlzbUo5N2lJMnpLVTc1U1V6a2FIYnFmZmtkRzR2akcxSlVtUzBTWDZXXzBYYTRtYm80ekVWMktwWnVQdEJPU2djREItOGFxcjhhd01YUEF1bFBPc3hKSEsyd09QcmlCTV9Sc3BZZ3NnS1VsR241b0d4d2hhdnptTUR5NklkN2Q4SmJDamowb2t0azRtTGhkT2RPeWZYTWdyUDVsaDFlenU0c1dWVTNmSkhvNXpxRmV6NEpDek0tLXdxY2N0dHhENmlhNDB3c01PMTZYc3JUZ3BLd3BkcjA2Ui1SX0xTRnBvX0d6eHZfWkhHV0ZhSHJCS0ZaZVFLWXlpY2NKaHhpRGJUaER0WWt3RkR1ZTVncGlOTERV?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMihwZBVV95cUxQVGFfYnhYOGp4U00zQzlVZHIwcjVEQ015NEFSYXpxVUZNU3V4anNRSEc0cWVyLUxaT3ZVYWFYUEhYOFhUNGYwWHg3UGFpSkhPVUIwR01EYjA1SmQwY1JRZ080YnRoRWhWUzdqbVprUXVJMVAzMFFWcDRiUWhYREFzMDlzMWo2YzFxV1JJekh2QmJZSWZpZ2p6Rlo2bk1EM1pEdFVRUnN2empMSnpoVHBhX0dNbFlleUJmNjBtdndwRXVwYVhQN2IwRXRyRElha2ZYckVqaTZPY2FYeDhxZzZiQ0k1RUFnREY2c0tjRXEtZmhFQ2R4ZmR5NDRzejZSOXNWbVNEa1JxU29tNVR5MEJnQkYtRU5zUkFVOXpuNmNkeFNrTzQwZ0ZHWTktSDI5b2hYX3g3ZUNPNHc3ZWFFYjNNazlza1FMbnU1bTktM252OGhUb3JLTXQ1Yjl4MWNfYXRPVG9wSGVDVVBvd2JqQnhjZGFoUTdoU3ZEcUhtM3E1UnUyR2FTUWUtT29Mem5obm9DTTFpWGhYSEJRZk83QzFxYnA4TFJYTWZIZ0RxN3NKUlZqaWJNSjVfRUExdlJOSWcyTXlrdU5hWDFhWmE4S1o2NE9xSnBId3ZUWDRIQlpLUmx0eGkwRUE3dlpBRXZhNmpELTd3WnlzbUo5N2lJMnpLVTc1U1V6a2FIYnFmZmtkRzR2akcxSlVtUzBTWDZXXzBYYTRtYm80ekVWMktwWnVQdEJPU2djREItOGFxcjhhd01YUEF1bFBPc3hKSEsyd09QcmlCTV9Sc3BZZ3NnS1VsR241b0d4d2hhdnptTUR5NklkN2Q4SmJDamowb2t0azRtTGhkT2RPeWZYTWdyUDVsaDFlenU0c1dWVTNmSkhvNXpxRmV6NEpDek0tLXdxY2N0dHhENmlhNDB3c01PMTZYc3JUZ3BLd3BkcjA2Ui1SX0xTRnBvX0d6eHZfWkhHV0ZhSHJCS0ZaZVFLWXlpY2NKaHhpRGJUaER0WWt3RkR1ZTVncGlOTERV?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "嗨玩十月連假｜2026全台樂園最強優惠｜萬聖節活動懶人包看這篇｜六福村打卡史努比萌翻、麗寶樂園慶雙十！1大1小親子套票千元有找。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
-      "analysis": {
-        "overview": "嗨玩十月連假｜2026全台樂園最強優惠｜萬聖節活動懶人包看這篇｜六福村打卡史努比萌翻、麗寶樂園慶雙十！1大1小親子套票千元有找。「Google 新聞」匯集了世界各地的新聞來源，為您提供最新、最完整的時事報導。",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "樂園設施多元可讓小孩盡情放電玩耍，且有推出優惠親子套票，連假出遊高CP值。",
-      "published_at": "2026-10-12T12:21:23+00:00",
-      "collected_at": "2026-10-13T19:17:21.451239+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbminanbvv95cuxpv3dkrwrldhewz29kqvdlnnhrwg1bs",
-      "title": "宜蘭景點 全台唯一白狐狸休閒農場「遛遛三星」 親子同遊打卡新去處",
-      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPV3dkRWRldHEwZ29KQVdLNnhRWG1BSWhPT3pmNlZ5aVJLdmU3VUNkTVFVM1pKWDRUZG4zTUxhNF9TbkozSDFjbW9Hc0p5VjZ2TGJ6NXN6aTFiRmhLMWlzbkJuLVhnYlZEMWZMOEdzUGU4V1ZTTkZwWC1DelhyMTFzWGtJYmhNUzNfcENuMnBVS2dhX2Fhc01MN25KcVc4SHRhS0VCZ3RLWnhsY09vSEFuUGFVcXBwZC1NcDlYbzRab0JmN3d0Y1NfLVp4RGpqMC1IZEJCOEFrTVNkaWE4SmxpWnlXNjVKSUxhQlJRSmxYWFZ1aUhFeDg0eTZ0THdIeHE1NUhQVG5CYmRIRzgta2drMXg3VGJHaXd2YmZoYno4QlROQWVldUVJUUFFN3hZVlNjTmg5S3Jod012dExCVXBWLUswdzVucVhhMVF2N1hVWkJ4cVN2Wkx5N240TDhTM3lwYjh4NS12SG9pLUE5MXpUeDVFQi1nNkx1d3BZanF6VmNKRVZFeGlNc1VYckwtQlpTeWxDMnhPaHJCeFdE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPV3dkRWRldHEwZ29KQVdLNnhRWG1BSWhPT3pmNlZ5aVJLdmU3VUNkTVFVM1pKWDRUZG4zTUxhNF9TbkozSDFjbW9Hc0p5VjZ2TGJ6NXN6aTFiRmhLMWlzbkJuLVhnYlZEMWZMOEdzUGU4V1ZTTkZwWC1DelhyMTFzWGtJYmhNUzNfcENuMnBVS2dhX2Fhc01MN25KcVc4SHRhS0VCZ3RLWnhsY09vSEFuUGFVcXBwZC1NcDlYbzRab0JmN3d0Y1NfLVp4RGpqMC1IZEJCOEFrTVNkaWE4SmxpWnlXNjVKSUxhQlJRSmxYWFZ1aUhFeDg0eTZ0THdIeHE1NUhQVG5CYmRIRzgta2drMXg3VGJHaXd2YmZoYno4QlROQWVldUVJUUFFN3hZVlNjTmg5S3Jod012dExCVXBWLUswdzVucVhhMVF2N1hVWkJ4cVN2Wkx5N240TDhTM3lwYjh4NS12SG9pLUE5MXpUeDVFQi1nNkx1d3BZanF6VmNKRVZFeGlNc1VYckwtQlpTeWxDMnhPaHJCeFdE?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "宜蘭景點 全台唯一白狐狸休閒農場「遛遛三星」 親子同遊打卡新去處。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "宜蘭景點 全台唯一白狐狸休閒農場「遛遛三星」 親子同遊打卡新去處。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "動物互動與自然觀察能提高孩子參與感。",
-        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "看動物",
-        "大自然",
-        "放電"
-      ],
-      "reason": "全台唯一白狐狸農場，能近距離接觸可愛白狐互動，大自然環境空間寬廣，適合帶小孩跑跳放電。",
-      "published_at": "2026-10-12T07:00:00+00:00",
-      "collected_at": "2026-10-16T00:25:46.625721+00:00",
-      "query": "台灣 親子農場 景點"
     }
   ]
 }
