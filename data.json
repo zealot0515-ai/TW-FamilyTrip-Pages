@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-10-16T16:38:58.464917+00:00",
+  "updated_at": "2026-10-17T00:29:38.366447+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmia0fvx3lxte5nwth2ckfwcfdjqmr0dc1dekzlbwu4a",
+      "title": "高雄親子遊樂園區周邊道路 挨批爛",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NWTh2ckFWcFdjQmR0dC1DekZLbWU4aWtIVHRSc0Qwd29mUVRnZGFVWUl1QUFLUXkzU0dXUzZDc25XRDRNNXl4TEVvcEpYSGV4VVphS1JWc2lpT2VtNTZSZTRJNzlQZDRqUEhV?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NWTh2ckFWcFdjQmR0dC1DekZLbWU4aWtIVHRSc0Qwd29mUVRnZGFVWUl1QUFLUXkzU0dXUzZDc25XRDRNNXl4TEVvcEpYSGV4VVphS1JWc2lpT2VtNTZSZTRJNzlQZDRqUEhV?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子遊樂園區周邊道路 挨批爛。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子遊樂園區周邊道路 挨批爛。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "中時新聞網",
+      "tags": [
+        "放電"
+      ],
+      "reason": "周邊道路挨批爛，交通與停車不便，帶小孩前往需注意路況。",
+      "published_at": "2026-10-16T20:10:00+00:00",
+      "collected_at": "2026-10-17T00:29:25.348027+00:00",
+      "query": "台灣 親子景點 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmit0fvx3lxtfb1zgvvwexfuwlbdlfqt1y2s2n6cdvru",
       "title": "打造全台最大原民文化遊樂園 高雄TAKAO豐潮10/17-18衛武營盛大登場",
@@ -57,6 +82,32 @@
       "query": "台灣 兒童遊戲場 新景點"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxnadvpav9px19sved1n2i1evlyr3djx",
+      "title": "新北免費放電新去處！公司田溪水岸公園開放 親子必收藏！",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDVPaV9PX19sVEd1N2I1eVlyR3dJX0lhWWlRcm1oMzJaTUJMTjBKRzVXSjJCZXRLUW84ZGFoQkR3NVJMZUZneDlfT29yTjQ0SElheVdlRVlVLWpkUkNiRHBLQS1ycEV5eHJ4WGJ2OWhqN29TZGtqczgtWF9GUzdrVWNLUDU2Q0pxRGN4dQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDVPaV9PX19sVEd1N2I1eVlyR3dJX0lhWWlRcm1oMzJaTUJMTjBKRzVXSjJCZXRLUW84ZGFoQkR3NVJMZUZneDlfT29yTjQ0SElheVdlRVlVLWpkUkNiRHBLQS1ycEV5eHJ4WGJ2OWhqN29TZGtqczgtWF9GUzdrVWNLUDU2Q0pxRGN4dQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "新北免費放電新去處！公司田溪水岸公園開放 親子必收藏！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "新北免費放電新去處！公司田溪水岸公園開放 親子必收藏！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "新北免費水岸公園地點寬敞，溪畔步道平緩好推車，孩子能盡情跑跳放電，親子踏青好去處。",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "collected_at": "2026-10-17T00:29:30.395679+00:00",
+      "query": "台灣 親子放電 景點"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmixkfvx3lxtfa1y014bxhwde43zjviqmd3dtntmglwe",
       "title": "宜蘭親子新景點來了！砸4200萬打造2座特色遊戲場「三星蔥遊戲塔超吸睛」",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1Y014bXhWdE43ZjViQmd3dTNTMGlwekRqT1ZpblhoanU0NXdIUVRQeFZGUURFN0tZN1cxMm5UeUlHYVR5TWM3Y2ktMXJVQjlOSlZrRXRvUV9wVFI5QVE?oc=5",
@@ -82,6 +133,31 @@
       "published_at": "2026-10-15T10:23:00+00:00",
       "collected_at": "2026-10-16T00:24:39.983817+00:00",
       "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmi5gjbvv95cuxomhbfbeliuvjrbjjhwlj0qu5gytjxe",
+      "title": "高雄將迎來市立兒童樂園？陳其邁推3可行地點評估中",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOMHBFbEliUVJrbjJhWlJ0QU5GYTJXeTR2dWxLYXFJTVRBQWQzVjdDb0pCTzVOM2pwU3BTaUFsNkwzUFl0R2JWOFNSQkNCQ0FfeWFvRFBsWTV5ZTdxdG83Q1pqa1BETFRhVmZyclQxaVNISHVIZVNvbC1jcHR4WXM1RTVMOUdsSkZZbVpEd25Jb200NnUxVTZVM1E2RFlaRlluZzJtVFVrc2FORmlUY010SEN4NTk1WWZEaHcwUGVZQkFpYmY4UUcwRlBnNWROTDJPNmpMYVhCcThqcEVYUTBIWXh0d2tDY2JSTi1tdHNmVlZZV2J6OEJRaUkxbFp6RlFRaHhHMHN0M0dfYXRoS3Z6alRzenlicmd0NmlyQmk3UlN5eWxVZXQ4U1FkMDRUd09GMVZtX3drcXNDWDFyYW5QTzV4N0dxZmt5ZDg5U2xXdUNWaFljVkVuZVZHV1hvMG9jc3p1ODd3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOMHBFbEliUVJrbjJhWlJ0QU5GYTJXeTR2dWxLYXFJTVRBQWQzVjdDb0pCTzVOM2pwU3BTaUFsNkwzUFl0R2JWOFNSQkNCQ0FfeWFvRFBsWTV5ZTdxdG83Q1pqa1BETFRhVmZyclQxaVNISHVIZVNvbC1jcHR4WXM1RTVMOUdsSkZZbVpEd25Jb200NnUxVTZVM1E2RFlaRlluZzJtVFVrc2FORmlUY010SEN4NTk1WWZEaHcwUGVZQkFpYmY4UUcwRlBnNWROTDJPNmpMYVhCcThqcEVYUTBIWXh0d2tDY2JSTi1tdHNmVlZZV2J6OEJRaUkxbFp6RlFRaHhHMHN0M0dfYXRoS3Z6alRzenlicmd0NmlyQmk3UlN5eWxVZXQ4U1FkMDRUd09GMVZtX3drcXNDWDFyYW5QTzV4N0dxZmt5ZDg5U2xXdUNWaFljVkVuZVZHV1hvMG9jc3p1ODd3?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄將迎來市立兒童樂園？陳其邁推3可行地點評估中。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄將迎來市立兒童樂園？陳其邁推3可行地點評估中。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "台灣好新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "此為新聞報導高雄市府規劃興建兒童樂園之政策進度，非實際可遊玩之景點，建議等待正式開放後再納入推薦。",
+      "published_at": "2026-10-15T10:07:39+00:00",
+      "collected_at": "2026-10-17T00:29:38.251525+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
     },
     {
       "id": "https-www-travelnews-tw-news-e8-98-87-e6-be-b3-e4-b8-89-e6-98-9f-e7-89-b9-e8-89-",
@@ -710,85 +786,6 @@
       "published_at": "2026-10-13T08:07:05+00:00",
       "collected_at": "2026-10-16T00:25:35.034851+00:00",
       "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijwnbvv95cuxndvf0x3rwemoyt3fxsmtuqlvxehbie",
-      "title": "彰化伸港公兒四公園「什股探索之森」開工 打造海線全齡共融特色遊戲場",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNdVF0X3RWemoyT3FXSmtUQlVxeHBieEpYckhZU2dKRFlLaGVHNy02cC0xVjFwRTZjTUVtb1l1d2ZUcWJaTkozdHJ1UlF0U2lheVF2MGZEOHFpOE1oYUNVUTFhU1lGNjMyOWZla3dwSDdhZ3RxeVNyUFNKSUdXV1NfZjBoTl83UmdWcklRZlp6Uk9lN3lkSXlCUHdVdEhySGJXTDN4NTlLdkhtR3RwR05lQU1tdXhnMFZtWjZkRFBLczRqSFBtcGNxVHduSnBkVXplc3YtdmdKY0hUb01kcWJGaDVveWVMV1g5TVVEYjJvWkVOQm9ycnNwV216aWxmUUM5NjhkUi1Lbm9JTHdfcWhYMVZ3ZHRZXzlZdFhQMERWQU01SUdWRHlTRXczY3daQlAteWdzZ3pSNXlKRE01ajhYTDZEOUxIZTF3Ymd1R1VyNG1ZRXJ1cWpwU1dSUmpQcVg5ME5OVkhtekZfN1liSkoxcjJ3d1RNbE1OQlRfMGNWNnRYU0E2Vm1fWDlsUk43eHM?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNdVF0X3RWemoyT3FXSmtUQlVxeHBieEpYckhZU2dKRFlLaGVHNy02cC0xVjFwRTZjTUVtb1l1d2ZUcWJaTkozdHJ1UlF0U2lheVF2MGZEOHFpOE1oYUNVUTFhU1lGNjMyOWZla3dwSDdhZ3RxeVNyUFNKSUdXV1NfZjBoTl83UmdWcklRZlp6Uk9lN3lkSXlCUHdVdEhySGJXTDN4NTlLdkhtR3RwR05lQU1tdXhnMFZtWjZkRFBLczRqSFBtcGNxVHduSnBkVXplc3YtdmdKY0hUb01kcWJGaDVveWVMV1g5TVVEYjJvWkVOQm9ycnNwV216aWxmUUM5NjhkUi1Lbm9JTHdfcWhYMVZ3ZHRZXzlZdFhQMERWQU01SUdWRHlTRXczY3daQlAteWdzZ3pSNXlKRE01ajhYTDZEOUxIZTF3Ymd1R1VyNG1ZRXJ1cWpwU1dSUmpQcVg5ME5OVkhtekZfN1liSkoxcjJ3d1RNbE1OQlRfMGNWNnRYU0E2Vm1fWDlsUk43eHM?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "彰化伸港公兒四公園「什股探索之森」開工 打造海線全齡共融特色遊戲場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "彰化伸港公兒四公園「什股探索之森」開工 打造海線全齡共融特色遊戲場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "放電",
-        "大自然"
-      ],
-      "reason": "海線首座全齡共融遊戲場，設置戶外溜滑梯、攀爬架等設施，孩子可盡情放電；公園腹地寬闊，適合帶孩童到此奔跑遊戲、呼吸海線新鮮空氣。",
-      "published_at": "2026-10-13T03:58:47+00:00",
-      "collected_at": "2026-10-14T01:13:52.653869+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte9mrxdwsnhdv0zxrmvnrtg5q2frtklqq",
-      "title": "宜蘭景點 全台唯一白狐狸休閒農場「遛遛三星」 親子同遊打卡新去處",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MRXdWSnhDV0ZxRmVnRTg5Q2FRTklQQllHbGJ0dUp4Z21rQXJSOXQ0ODNBNXJwZjduczVzdTFFbU9IWGQ4Q0ZBUFloaHZfWTZSZHc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MRXdWSnhDV0ZxRmVnRTg5Q2FRTklQQllHbGJ0dUp4Z21rQXJSOXQ0ODNBNXJwZjduczVzdTFFbU9IWGQ4Q0ZBUFloaHZfWTZSZHc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "宜蘭景點 全台唯一白狐狸休閒農場「遛遛三星」 親子同遊打卡新去處。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "宜蘭景點 全台唯一白狐狸休閒農場「遛遛三星」 親子同遊打卡新去處。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "動物互動與自然觀察能提高孩子參與感。",
-        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "看動物",
-        "放電",
-        "好玩"
-      ],
-      "reason": "全台唯一白狐狸農場互動體驗，能近距離餵食可愛白狐，孩子玩得開心大人好拍照打卡，戶外空間適合帶小孩放電踏青。",
-      "published_at": "2026-10-13T03:47:00+00:00",
-      "collected_at": "2026-10-16T00:25:40.239128+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijgzbvv95cuxqmlm2s0nzsux1a3myrm1sngfcml83w",
-      "title": "嗨玩十月連假｜2026全台樂園最強優惠｜萬聖節活動懶人包看這篇｜六福村打卡史努比萌翻、麗寶樂園慶雙十！1大1小親子套票千元有找",
-      "url": "https://news.google.com/rss/articles/CBMijgZBVV95cUxQMlM2S0NZSUx1a3MyRm1SNGFCMl83WHh1cHB6ekJtOWJRcG04OE0yMExDYVVfQUpXOEFUQ1BPTlh0cE9SLXo3UkpITVJJeXhpTFFPOTNpQ0RvNDNPWWFLS2staXZSTzhVMV91ZU5NMkRJbktxREl1SFh6QnZuVUZqeEkwM1ExajJ2N2dCTWhzeWpqaG1JZ0pVRlEtUnJQQ09DTkRsNFNzb2FDNDBlaWt6VkpSMWd4S3RvQ2g1cEFLcTd4ZjFubDVmNEx4bzlsRW9hUklLZlpHTTNHS2FmWTI5VG51dTR6M3NwakFkeGlWOHVEcW80eUl0dDhCWHRCWUpqS0ZuM0J2b2tueVMwNUtEVnJVamNGSzdveU1EZVVoXy10Ml8zT1E4cUZRQlAyenVVX2hlRXFDRUEzdEo4TzNxd3ZURTFvbGRPOVViS1did0s0ekVCYlR0cHc3RjZMZDI2UXhSbGZKOWppR3llV2MxWDJKaDFRMEJka2o0OTFEaXpIbWU1U3YtdVRNdlRBdFVvY1lXcjlFVmpCc2NhTS1tVmQyeW12eWhoeEVpUWd3eE9aSmh1U1lPSW5Yb29RcjY5TmxmTkp0a2lCUzJJbEpacW5FNUszb2JlM3dSZWx5ZjlzQmVJeDVyMEo4RzFZNzhtaGgxWDBhQ0NKd0ptenZVUnZSNWFqUHFEZ3ZvbXBJelc1T25YRVBHWXF3QmhsOEt0cU51RjdnX3A0NXpablhuSGppWEZwaXM1ZGNlRDV4OHVhdkZwc3JqTF9lR2xGX0JkbmN4UVA3SzVyZGd3WTZJXzRJY00tSzJRVUtGVmtHc2ZuVEliSkJyUjJzc2p5S1NXc0dsdldNRUo2WUJhWElpRlUxWF9lcklEWWNuWXR2LW5HZE9LQXpZM1l4MWhXeEtuSzZYVkozYVJZUWdicERKenRHMUVGc3lTTDFSQW9QY1kzcGNSOVU5dTJWVlExdGpYY19DWDJDbWlDRncwaVM2NTlHQlp6VHoxc2ZWRmlZUlFCUllmMFA0OXpNX2pjUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijgZBVV95cUxQMlM2S0NZSUx1a3MyRm1SNGFCMl83WHh1cHB6ekJtOWJRcG04OE0yMExDYVVfQUpXOEFUQ1BPTlh0cE9SLXo3UkpITVJJeXhpTFFPOTNpQ0RvNDNPWWFLS2staXZSTzhVMV91ZU5NMkRJbktxREl1SFh6QnZuVUZqeEkwM1ExajJ2N2dCTWhzeWpqaG1JZ0pVRlEtUnJQQ09DTkRsNFNzb2FDNDBlaWt6VkpSMWd4S3RvQ2g1cEFLcTd4ZjFubDVmNEx4bzlsRW9hUklLZlpHTTNHS2FmWTI5VG51dTR6M3NwakFkeGlWOHVEcW80eUl0dDhCWHRCWUpqS0ZuM0J2b2tueVMwNUtEVnJVamNGSzdveU1EZVVoXy10Ml8zT1E4cUZRQlAyenVVX2hlRXFDRUEzdEo4TzNxd3ZURTFvbGRPOVViS1did0s0ekVCYlR0cHc3RjZMZDI2UXhSbGZKOWppR3llV2MxWDJKaDFRMEJka2o0OTFEaXpIbWU1U3YtdVRNdlRBdFVvY1lXcjlFVmpCc2NhTS1tVmQyeW12eWhoeEVpUWd3eE9aSmh1U1lPSW5Yb29RcjY5TmxmTkp0a2lCUzJJbEpacW5FNUszb2JlM3dSZWx5ZjlzQmVJeDVyMEo4RzFZNzhtaGgxWDBhQ0NKd0ptenZVUnZSNWFqUHFEZ3ZvbXBJelc1T25YRVBHWXF3QmhsOEt0cU51RjdnX3A0NXpablhuSGppWEZwaXM1ZGNlRDV4OHVhdkZwc3JqTF9lR2xGX0JkbmN4UVA3SzVyZGd3WTZJXzRJY00tSzJRVUtGVmtHc2ZuVEliSkJyUjJzc2p5S1NXc0dsdldNRUo2WUJhWElpRlUxWF9lcklEWWNuWXR2LW5HZE9LQXpZM1l4MWhXeEtuSzZYVkozYVJZUWdicERKenRHMUVGc3lTTDFSQW9QY1kzcGNSOVU5dTJWVlExdGpYY19DWDJDbWlDRncwaVM2NTlHQlp6VHoxc2ZWRmlZUlFCUllmMFA0OXpNX2pjUQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "嗨玩十月連假｜2026全台樂園最強優惠｜萬聖節活動懶人包看這篇｜六福村打卡史努比萌翻、麗寶樂園慶雙十！1大1小親子套票千元有找。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "嗨玩十月連假｜2026全台樂園最強優惠｜萬聖節活動懶人包看這篇｜六福村打卡史努比萌翻、麗寶樂園慶雙十！1大1小親子套票千元有找。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "主題樂園有多元遊樂設施能讓小孩盡情放電，且十月連假推出1大1小千元有找的優惠套票，省錢又盡興。",
-      "published_at": "2026-10-12T12:21:23+00:00",
-      "collected_at": "2026-10-12T21:16:15.861800+00:00",
-      "query": "台灣 遊樂園 親子 最新"
     }
   ]
 }
