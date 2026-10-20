@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T18:43:46.402856+00:00",
+  "updated_at": "2026-10-20T01:05:38.630138+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -389,6 +389,39 @@
       "published_at": "2026-10-16T14:00:59+00:00",
       "collected_at": "2026-10-18T15:52:24.169165+00:00",
       "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-pchome-com-tw-travel-sharelife-20261016-index-79210880059119216015-ht",
+      "title": "新北免費放電新去處！公司田溪水岸公園開放　親子必收藏！ - 旅遊新聞 - PChome Online 新聞",
+      "url": "https://news.pchome.com.tw/travel/sharelife/20261016/index-79210880059119216015.html",
+      "canonical_url": "https://news.pchome.com.tw/travel/sharelife/20261016/index-79210880059119216015.html",
+      "image_url": "https://news.pchome.com.tw/newsdata/travel/sharelife/20261016/79210880059119216015_original.jpg",
+      "images": [
+        "https://news.pchome.com.tw/newsdata/travel/sharelife/20261016/79210880059119216015_original.jpg",
+        "https://news.pchome.com.tw/img/air_smly1.png",
+        "https://news.pchome.com.tw/img/ico_locate.png",
+        "https://news.pchome.com.tw/newsdata/travel/sharelife/20261016/79210880059119216015.jpg",
+        "https://news.pchome.com.tw/newsdata/travel/sharelife/20261016/79210880059119216015_1.jpg",
+        "https://news.pchome.com.tw/newsdata/travel/sharelife/20261016/79210880059119216015_2.jpg",
+        "https://news.pchome.com.tw/newsdata/travel/sharelife/20261016/79210880059119216015_3.jpg",
+        "https://news.pchome.com.tw/newsdata/travel/sharelife/20261016/79210880059119216015_4.jpg"
+      ],
+      "summary": "新北免費放電新去處！公司田溪水岸公園開放　親子必收藏！ - 旅遊新聞 - PChome Online 新聞。上班族 快訊 蔣萬安談AI願景 凌濤：有不怕得罪人的勇氣 日本H3火箭搭載探測器升空 挑戰全球首度火星衛星採樣 美科技股反彈 市場憂AI業者借貸成本高影響獲利 費半終止連8黑AI股反彈 法人：台股守穩看外資動向 const marquee = document.querySelector('#marquee_con'); const scrollDistance = 60; // 向上滾動的距離 const scrollSpeed = 300; // 滾動速度，單位毫秒 const pauseDuration = 4000; // 暫停時長，單位毫秒 let isScrolling = false; function scrollMarquee() { if (!isScrolling) { isScrolli",
+      "analysis": {
+        "overview": "新北免費放電新去處！公司田溪水岸公園開放　親子必收藏！ - 旅遊新聞 - PChome Online 新聞。上班族 快訊 蔣萬安談AI願景 凌濤：有不怕得罪人的勇氣 日本H3火箭搭載探測器升空 挑戰全球首度火星衛星採樣 美科技股反彈 市場憂AI業者借貸成本高影響獲利 費半終止連8黑AI股反彈 法人：台股守穩看外資動向 const marquee = document.querySelector('#marquee_con'); const scrollDistance = 60; // 向上滾動的距離 const ",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "news.pchome.com.tw",
+      "tags": [
+        "放電",
+        "大自然"
+      ],
+      "reason": "公司田溪水岸公園為新北免費開放的新景點，溪畔步道平緩好推車，腹地寬廣適合孩童奔跑放電，家長可順便漫步休憩。",
+      "published_at": "2026-10-16T01:00:00+00:00",
+      "collected_at": "2026-10-20T01:05:38.541706+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5owjj5bfrla3p2qtzvvvdud2nmwk5bm",
@@ -795,32 +828,6 @@
       "published_at": "2026-10-14T13:27:00+00:00",
       "collected_at": "2026-10-14T17:09:38.200551+00:00",
       "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmi2gnbvv95cuxqs2v1m19jwkfnbghjvedqrwzzrug4d",
-      "title": "高雄首座兒童樂園落腳大寮？李雨庭力推捷運站周邊 陳其邁：短期很好選擇",
-      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQS2V1M19jWkFnbGhJVEdqRWZZRUg4dk1KMHdWajZKMWtKZVhyVWE3ZTMyNFlVblZheVFqbHMwdUd1WXhtQlotdDUwNENVSGlEeW5yeDZ3SzhsOTk0UjNjdU91QXJja1ljb0lLRkZHWnFxa29UZ3NUX2Zjc0F4N0J1RFpWbzZ6NklHdWNVbWZvNmhOQlNFcG9KOGVYRXg0WUxYOFVvdVR0OVNlREtVRkQ1ZlkyZFVfNHh3aUVWeVkxeFVQWTUtWXRhZEJqaWxmSXpMZ2k2VmRGc2x6M1FsQnpRTDZpUVJ0ME5QU1J4SGhZQ1R6M2RnQTU1RW9LNVB5Nkh2dHV3UVlSaXh0TlRpZTROQ0pvZVBkN25RU1YyanctZUltbEZMNG9ibTVJWkpMcEZFLWpKV3MwZ25BRUJOQm1Kd2tiOEU0VDNFWTdoTlg5NHJRbFdOQ2c4OU1PTjAtSDI1MmNOeDNFSTBiSnlOcnZWd1YxYzlMa2dZX0JHZmVTdndmeko5b2d6NWFQcFFod25XMUJrS3ctVDZRcEpqc1BIU0JrcTJpMXRxVkM0b2hNU1JrSGhrMGFhNnpxdFhSY2pOTWlWbDg2bHRtWDk2cjRUaExSRHU0bXMzdFE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQS2V1M19jWkFnbGhJVEdqRWZZRUg4dk1KMHdWajZKMWtKZVhyVWE3ZTMyNFlVblZheVFqbHMwdUd1WXhtQlotdDUwNENVSGlEeW5yeDZ3SzhsOTk0UjNjdU91QXJja1ljb0lLRkZHWnFxa29UZ3NUX2Zjc0F4N0J1RFpWbzZ6NklHdWNVbWZvNmhOQlNFcG9KOGVYRXg0WUxYOFVvdVR0OVNlREtVRkQ1ZlkyZFVfNHh3aUVWeVkxeFVQWTUtWXRhZEJqaWxmSXpMZ2k2VmRGc2x6M1FsQnpRTDZpUVJ0ME5QU1J4SGhZQ1R6M2RnQTU1RW9LNVB5Nkh2dHV3UVlSaXh0TlRpZTROQ0pvZVBkN25RU1YyanctZUltbEZMNG9ibTVJWkpMcEZFLWpKV3MwZ25BRUJOQm1Kd2tiOEU0VDNFWTdoTlg5NHJRbFdOQ2c4OU1PTjAtSDI1MmNOeDNFSTBiSnlOcnZWd1YxYzlMa2dZX0JHZmVTdndmeko5b2d6NWFQcFFod25XMUJrS3ctVDZRcEpqc1BIU0JrcTJpMXRxVkM0b2hNU1JrSGhrMGFhNnpxdFhSY2pOTWlWbDg2bHRtWDk2cjRUaExSRHU0bXMzdFE?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄首座兒童樂園落腳大寮？李雨庭力推捷運站周邊 陳其邁：短期很好選擇。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄首座兒童樂園落腳大寮？李雨庭力推捷運站周邊 陳其邁：短期很好選擇。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "高雄大寮區規劃中的首座兒童樂園，位於捷運站周邊交通便利，若有草地空間可提供孩童盡情玩耍放電。",
-      "published_at": "2026-10-14T13:24:38+00:00",
-      "collected_at": "2026-10-14T17:09:52.147146+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
     }
   ]
 }
