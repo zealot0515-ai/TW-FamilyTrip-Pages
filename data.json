@@ -1,8 +1,63 @@
 {
-  "updated_at": "2026-10-22T00:42:18.691358+00:00",
+  "updated_at": "2026-10-22T17:10:35.524447+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte1vn0vluuxzzmqxvnb4t2prv0mtawrmd",
+      "title": "高雄親子萬聖節攻略！免費入園、動物遊行、創意手作一次收",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vN0VlUUxzZmQxVnB4T2prV0MtaWRmdDRtUzFUQktwRXlRUDNBWjQtdURlc2oxTnp1YmJQRUtPMEVIU01pWjFUM1FVeWs1WDJtTmdtNUlwcGpSNkswYWQ0?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vN0VlUUxzZmQxVnB4T2prV0MtaWRmdDRtUzFUQktwRXlRUDNBWjQtdURlc2oxTnp1YmJQRUtPMEVIU01pWjFUM1FVeWs1WDJtTmdtNUlwcGpSNkswYWQ0?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄親子萬聖節攻略！免費入園、動物遊行、創意手作一次收。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄親子萬聖節攻略！免費入園、動物遊行、創意手作一次收。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "動物互動與自然觀察能提高孩子參與感。",
+        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
+        "tips": "出發前確認餵食、互動體驗與休園時間。"
+      },
+      "source_name": "ShareLife 台灣旅行趣",
+      "tags": [
+        "放電",
+        "看動物",
+        "好玩",
+        "室內"
+      ],
+      "reason": "活動結合動物遊行與創意手作，讓小孩有參與感，也能消耗體力並作為雨天備案。免費入園可減輕家長安排親子出遊的預算壓力。",
+      "published_at": "2026-10-22T11:44:30+00:00",
+      "collected_at": "2026-10-22T17:09:53.156721+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmibefvx3lxte5tq281uuzmb2lfunpwoujwdtvqwulsw",
+      "title": "百年古蹟變親子遊樂園！滬尾小學校禮堂3周年免費體驗懷舊童玩- 瘋台灣",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tQ281UUZmb2lFUnpwOUJwdTVqWUlSWENSaXdJT0t5enUxUFF4djluLTI2M3hTMkctSHRyNzcyM3lkUWdmMzJQa2NhUWlsUVZCRllhZGFrVWpaaHNTSms3Sm1zRG9YekFSN0h5Mg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tQ281UUZmb2lFUnpwOUJwdTVqWUlSWENSaXdJT0t5enUxUFF4djluLTI2M3hTMkctSHRyNzcyM3lkUWdmMzJQa2NhUWlsUVZCRllhZGFrVWpaaHNTSms3Sm1zRG9YekFSN0h5Mg?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "百年古蹟變親子遊樂園！滬尾小學校禮堂3周年免費體驗懷舊童玩- 瘋台灣。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "百年古蹟變親子遊樂園！滬尾小學校禮堂3周年免費體驗懷舊童玩- 瘋台灣。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "觸mii",
+      "tags": [
+        "好玩",
+        "室內",
+        "放電"
+      ],
+      "reason": "百年古蹟校園結合懷舊童玩，適合帶孩子一起體驗與探索，活動內容有趣又能達到放電效果。位於校舍禮堂內，適合作為下雨天的備案，且目前提供免費體驗，預算負擔較低。",
+      "published_at": "2026-10-22T06:33:56+00:00",
+      "collected_at": "2026-10-22T17:09:55.968340+00:00",
+      "query": "台灣 親子景點 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmivkfvx3lxtfbtejfeee5wewp1ec1koutquhpprxzit",
       "title": "全台首座性教育遊戲場在新北！「性平不小室」連英國學者都來朝聖 | TVBS",
@@ -189,6 +244,31 @@
       "query": "台灣 遊樂園 親子 最新"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5otthwnzlhtgj5rllab0pxtwnhngx5a",
+      "title": "高雄最新親子景點 「台鐵機廠親子遊樂園」免門票 開箱全台最大室內兒童樂園",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OTThwNzlHTGJ5Rllab0pxTWNHNGx5ankzSmJaekM1b3VJMEZBZ2VWTXF3RDI3VUVVZ0d5RENUM1ZSZERobXBtVnBaR1A1SGRJbnc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OTThwNzlHTGJ5Rllab0pxTWNHNGx5ankzSmJaekM1b3VJMEZBZ2VWTXF3RDI3VUVVZ0d5RENUM1ZSZERobXBtVnBaR1A1SGRJbnc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄最新親子景點 「台鐵機廠親子遊樂園」免門票 開箱全台最大室內兒童樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄最新親子景點 「台鐵機廠親子遊樂園」免門票 開箱全台最大室內兒童樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "全台最大室內兒童樂園，適合孩子跑跳、攀爬與消耗體力，也能作為下雨天的備案。免門票特色可降低親子出遊成本，玩樂空間據稱為全台最大。",
+      "published_at": "2026-10-20T04:31:13+00:00",
+      "collected_at": "2026-10-22T17:09:58.273658+00:00",
+      "query": "台灣 週末親子 去哪裡"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmix0fvx3lxtfa4ddf0tw1cd1vyq3rksnjsq1v5am9fr",
       "title": "搶光復連假人潮！麗寶18歲以下免費、六福村599元 樂園優惠懶人包",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4dDF0TW1Cd1VYQ3RKSnJsQ1V5am9fRXdoVmMweW9RM01oanVCMlRZQ3J5azlvVmdqWWpDNHhYZEIxZ1J4X1ZHZGhfdnNQbEd6eVFySWJsZ01QNHQ3d1o0?oc=5",
@@ -212,6 +292,33 @@
       "reason": "樂園設施多元豐富，刺激又好玩的遊樂設施能讓小孩盡情放電，家長可趁連假優惠省荷包，是全家出遊的好選擇。",
       "published_at": "2026-10-20T03:19:17+00:00",
       "collected_at": "2026-10-20T17:03:11.486401+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5qqnzwcfl2awvladk3vejxulpxbe9jm",
+      "title": "大立空中樂園10月特別企劃 空中辦桌吃出獨特的高雄回憶",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qQnZwcFl2aWVlaDk3VEJxUlpxbE9jMmJPLV9wc0x1LUx5VmRwakx4dVVxajBYZE05aVdoX2ktY0lFY2FDdE5oR0lqQUtyb3hxUHc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qQnZwcFl2aWVlaDk3VEJxUlpxbE9jMmJPLV9wc0x1LUx5VmRwakx4dVVxajBYZE05aVdoX2ktY0lFY2FDdE5oR0lqQUtyb3hxUHc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "大立空中樂園10月特別企劃 空中辦桌吃出獨特的高雄回憶。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "大立空中樂園10月特別企劃 空中辦桌吃出獨特的高雄回憶。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "放電",
+        "室內",
+        "好玩"
+      ],
+      "reason": "「空中辦桌」把用餐變成高空主題體驗，適合帶小孩在室內參加特殊活動、釋放活力。仍建議事先確認活動年齡限制、餐點與座位安排，以及兒童活動時段。",
+      "published_at": "2026-10-19T09:57:05+00:00",
+      "collected_at": "2026-10-22T17:10:21.924333+00:00",
       "query": "台灣 遊樂園 親子 最新"
     },
     {
@@ -239,6 +346,33 @@
       "published_at": "2026-10-19T09:06:00+00:00",
       "collected_at": "2026-10-19T18:42:50.971313+00:00",
       "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmi1wnbvv95cuxqcnnybkrvtmptx3jyttjxnfnrwgtqn",
+      "title": "高雄最新親子景點 「台鐵機廠親子遊樂園」免門票 開箱全台最大室內兒童樂園",
+      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQcnNYbkRVTmptX3JYTTJXNFNrWGtqNjU4dHRVbFZDbjJTTDU5MERVci1hN0h3RGx6d0lYSkJkMWNNWWxHS3N0NHdIRklmcGVZaFh1d2RuWjlvZUpETUhLYkhRV2dmdVlNTUVHNTNZRnNLY3loWjN6Ujk0M1ZuOTI4cHFrWW9jM2dNQVVZU2t2dHN1aEkxdjdKQmhMbzBWTGk0dEJnZnBabkU4Tkd1aHliWFJvRHN5cnBIellBZXZDOE1OMEVOdWtlb0l1QWV5a2RtMk1za2t1ZVN6TURvdGs4S1NqdXUyNGVPUWpXWEZpZnRQck9ZdEdTY1Q4LUs3ck9ZRlhXSTRLV1EwTnVPSzAwQTNBOUc2MmR6LXE3Z3FrajFwcXVYRXl0M2Y4WFdYLUQ2TmN5aVdGMk1Vc0pqNUZHRXFDa1dtRmpGZjI0SUdVM0VRcUtkTXQxeFA3amtHV2FoWWpDYzMySy1UdFJ4a2wxTEs4NXB5LVV6T0dCVzlfUGhwRjJLTFpJUXF4eUtxNUZ0U19WdS1ISXk1ZzVXVTkxd3c1QVJidEtBbkRhUnVRMzN3bTZnYkdydWR5WEhLb1RpU0U5YjlDRmx5T2RKWEQzaVMtRWw3dFk?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQcnNYbkRVTmptX3JYTTJXNFNrWGtqNjU4dHRVbFZDbjJTTDU5MERVci1hN0h3RGx6d0lYSkJkMWNNWWxHS3N0NHdIRklmcGVZaFh1d2RuWjlvZUpETUhLYkhRV2dmdVlNTUVHNTNZRnNLY3loWjN6Ujk0M1ZuOTI4cHFrWW9jM2dNQVVZU2t2dHN1aEkxdjdKQmhMbzBWTGk0dEJnZnBabkU4Tkd1aHliWFJvRHN5cnBIellBZXZDOE1OMEVOdWtlb0l1QWV5a2RtMk1za2t1ZVN6TURvdGs4S1NqdXUyNGVPUWpXWEZpZnRQck9ZdEdTY1Q4LUs3ck9ZRlhXSTRLV1EwTnVPSzAwQTNBOUc2MmR6LXE3Z3FrajFwcXVYRXl0M2Y4WFdYLUQ2TmN5aVdGMk1Vc0pqNUZHRXFDa1dtRmpGZjI0SUdVM0VRcUtkTXQxeFA3amtHV2FoWWpDYzMySy1UdFJ4a2wxTEs4NXB5LVV6T0dCVzlfUGhwRjJLTFpJUXF4eUtxNUZ0U19WdS1ISXk1ZzVXVTkxd3c1QVJidEtBbkRhUnVRMzN3bTZnYkdydWR5WEhLb1RpU0U5YjlDRmx5T2RKWEQzaVMtRWw3dFk?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "高雄最新親子景點 「台鐵機廠親子遊樂園」免門票 開箱全台最大室內兒童樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "高雄最新親子景點 「台鐵機廠親子遊樂園」免門票 開箱全台最大室內兒童樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "全台最大室內兒童樂園適合孩子跑跳、玩遊戲並消耗體力，且免門票，親子預算負擔較低。遇到雨天或炎熱天氣時，也是不受天候影響的踏青備案。",
+      "published_at": "2026-10-19T07:00:00+00:00",
+      "collected_at": "2026-10-22T17:10:27.411129+00:00",
+      "query": "台灣 親子景點 最新"
     },
     {
       "id": "https-www-msn-com-zh-tw-news-other-e8-a6-aa-e5-ad-90-e9-bd-8a-e9-a8-8e-e6-9d-b1-",
@@ -678,144 +812,6 @@
       "published_at": "2026-10-16T14:00:59+00:00",
       "collected_at": "2026-10-18T15:52:24.169165+00:00",
       "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte1huk55ndfzmge0enfstjlysmniwkd3n",
-      "title": "打造全台最大原民文化遊樂園 高雄TAKAO豐潮10/17-18衛武營盛大登場",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hUk55NDFzMGE0enFSTjlySmNiWkd3N0RNZEExcFloc1dDRHl4a0VKUjRhZ3k5S0dhcHM5V2dsVmtvUGtucW83LUpSMUUwUm82TGc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hUk55NDFzMGE0enFSTjlySmNiWkd3N0RNZEExcFloc1dDRHl4a0VKUjRhZ3k5S0dhcHM5V2dsVmtvUGtucW83LUpSMUUwUm82TGc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "打造全台最大原民文化遊樂園 高雄TAKAO豐潮10/17-18衛武營盛大登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "打造全台最大原民文化遊樂園 高雄TAKAO豐潮10/17-18衛武營盛大登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "衛武營腹地遼闊有草皮可供孩童跑跳，本次原民文化遊樂園活動設計多項互動體驗攤位，讓孩子邊玩邊認識原民文化兼具教育意義。",
-      "published_at": "2026-10-16T14:00:00+00:00",
-      "collected_at": "2026-10-21T00:37:43.555907+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-pchome-com-tw-travel-sharelife-20261016-index-79210880059119216015-ht",
-      "title": "新北免費放電新去處！公司田溪水岸公園開放　親子必收藏！ - 旅遊新聞 - PChome Online 新聞",
-      "url": "https://news.pchome.com.tw/travel/sharelife/20261016/index-79210880059119216015.html",
-      "canonical_url": "https://news.pchome.com.tw/travel/sharelife/20261016/index-79210880059119216015.html",
-      "image_url": "https://news.pchome.com.tw/newsdata/travel/sharelife/20261016/79210880059119216015_original.jpg",
-      "images": [
-        "https://news.pchome.com.tw/newsdata/travel/sharelife/20261016/79210880059119216015_original.jpg",
-        "https://news.pchome.com.tw/img/air_smly1.png",
-        "https://news.pchome.com.tw/img/ico_locate.png",
-        "https://news.pchome.com.tw/newsdata/travel/sharelife/20261016/79210880059119216015.jpg",
-        "https://news.pchome.com.tw/newsdata/travel/sharelife/20261016/79210880059119216015_1.jpg",
-        "https://news.pchome.com.tw/newsdata/travel/sharelife/20261016/79210880059119216015_2.jpg",
-        "https://news.pchome.com.tw/newsdata/travel/sharelife/20261016/79210880059119216015_3.jpg",
-        "https://news.pchome.com.tw/newsdata/travel/sharelife/20261016/79210880059119216015_4.jpg"
-      ],
-      "summary": "新北免費放電新去處！公司田溪水岸公園開放　親子必收藏！ - 旅遊新聞 - PChome Online 新聞。上班族 快訊 蔣萬安談AI願景 凌濤：有不怕得罪人的勇氣 日本H3火箭搭載探測器升空 挑戰全球首度火星衛星採樣 美科技股反彈 市場憂AI業者借貸成本高影響獲利 費半終止連8黑AI股反彈 法人：台股守穩看外資動向 const marquee = document.querySelector('#marquee_con'); const scrollDistance = 60; // 向上滾動的距離 const scrollSpeed = 300; // 滾動速度，單位毫秒 const pauseDuration = 4000; // 暫停時長，單位毫秒 let isScrolling = false; function scrollMarquee() { if (!isScrolling) { isScrolli",
-      "analysis": {
-        "overview": "新北免費放電新去處！公司田溪水岸公園開放　親子必收藏！ - 旅遊新聞 - PChome Online 新聞。上班族 快訊 蔣萬安談AI願景 凌濤：有不怕得罪人的勇氣 日本H3火箭搭載探測器升空 挑戰全球首度火星衛星採樣 美科技股反彈 市場憂AI業者借貸成本高影響獲利 費半終止連8黑AI股反彈 法人：台股守穩看外資動向 const marquee = document.querySelector('#marquee_con'); const scrollDistance = 60; // 向上滾動的距離 const ",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "news.pchome.com.tw",
-      "tags": [
-        "放電",
-        "大自然"
-      ],
-      "reason": "公司田溪水岸公園為新北免費開放的新景點，溪畔步道平緩好推車，腹地寬廣適合孩童奔跑放電，家長可順便漫步休憩。",
-      "published_at": "2026-10-16T01:00:00+00:00",
-      "collected_at": "2026-10-20T01:05:38.541706+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5owjj5bfrla3p2qtzvvvdud2nmwk5bm",
-      "title": "彰化大城追風公園正式啟用 斥資2,200萬元打造交通主題共融遊戲場",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OWjJ5bFRla3p2QTZvVVdUd2NmWk5BM0owbl9GZEg4b2NFWnFyOHZ6aHhZRWR6UEZINkdISEJ6SUJKQUR6YlZvRzdycWxLQzU5ZUE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OWjJ5bFRla3p2QTZvVVdUd2NmWk5BM0owbl9GZEg4b2NFWnFyOHZ6aHhZRWR6UEZINkdISEJ6SUJKQUR6YlZvRzdycWxLQzU5ZUE?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "彰化大城追風公園正式啟用 斥資2,200萬元打造交通主題共融遊戲場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "彰化大城追風公園正式啟用 斥資2,200萬元打造交通主題共融遊戲場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "斥資2,200萬打造的交通主題共融遊戲場，設施新穎多元，可讓小孩體驗多種交通主題遊具盡情放電，新啟用環境整潔舒適。",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "collected_at": "2026-10-16T16:38:58.383896+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxnadvpav9px19sved1n2i1evlyr3djx",
-      "title": "新北免費放電新去處！公司田溪水岸公園開放 親子必收藏！",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDVPaV9PX19sVEd1N2I1eVlyR3dJX0lhWWlRcm1oMzJaTUJMTjBKRzVXSjJCZXRLUW84ZGFoQkR3NVJMZUZneDlfT29yTjQ0SElheVdlRVlVLWpkUkNiRHBLQS1ycEV5eHJ4WGJ2OWhqN29TZGtqczgtWF9GUzdrVWNLUDU2Q0pxRGN4dQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDVPaV9PX19sVEd1N2I1eVlyR3dJX0lhWWlRcm1oMzJaTUJMTjBKRzVXSjJCZXRLUW84ZGFoQkR3NVJMZUZneDlfT29yTjQ0SElheVdlRVlVLWpkUkNiRHBLQS1ycEV5eHJ4WGJ2OWhqN29TZGtqczgtWF9GUzdrVWNLUDU2Q0pxRGN4dQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "新北免費放電新去處！公司田溪水岸公園開放 親子必收藏！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "新北免費放電新去處！公司田溪水岸公園開放 親子必收藏！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "PChome Online 新聞",
-      "tags": [
-        "放電",
-        "大自然"
-      ],
-      "reason": "新北免費水岸公園地點寬敞，溪畔步道平緩好推車，孩子能盡情跑跳放電，親子踏青好去處。",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "collected_at": "2026-10-17T00:29:30.395679+00:00",
-      "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte1hr2xneerpvvd1cwv6devwohd1eu5gt",
-      "title": "三星蔥、海洋風 宜蘭打造特色兒童遊戲場",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hR2xneERPVVd1cWV6dEVWOHd1eU5GTVVtbVBtUkNfRnk3Vm80TEVtdEhtc2J4Wkh1UnJseFpBeTQ2WnJ6bWNJVzBWcTFaQlZq0gFWQVVfeXFMUEFzcGpGVVQ4c2F0MVNYOHhCVDRFTXRfckpGZVVvbkY5anIzUUp2REM1YjNxUUVYM2Y3cGNpaklGNERnU1k5STVidEttdGF0eW93QjBkSHc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hR2xneERPVVd1cWV6dEVWOHd1eU5GTVVtbVBtUkNfRnk3Vm80TEVtdEhtc2J4Wkh1UnJseFpBeTQ2WnJ6bWNJVzBWcTFaQlZq0gFWQVVfeXFMUEFzcGpGVVQ4c2F0MVNYOHhCVDRFTXRfckpGZVVvbkY5anIzUUp2REM1YjNxUUVYM2Y3cGNpaklGNERnU1k5STVidEttdGF0eW93QjBkSHc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "三星蔥、海洋風 宜蘭打造特色兒童遊戲場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "三星蔥、海洋風 宜蘭打造特色兒童遊戲場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "宜蘭打造特色兒童遊戲場，以三星蔥與海洋風為主題，戶外空間寬敞讓孩子盡情跑跳放電，特色遊具設計富有教育意義適合親子同樂。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "UDN",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "宜蘭打造特色兒童遊戲場，以三星蔥與海洋風為主題，戶外空間寬敞讓孩子盡情跑跳放電，特色遊具設計富有教育意義適合親子同樂。",
-      "published_at": "2026-10-15T16:00:00+00:00",
-      "collected_at": "2026-10-19T18:43:23.137638+00:00",
-      "query": "宜蘭 花蓮 台東 親子景點"
     }
   ]
 }
