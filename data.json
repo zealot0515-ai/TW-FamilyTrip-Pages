@@ -1,8 +1,59 @@
 {
-  "updated_at": "2026-10-23T00:40:26.150965+00:00",
+  "updated_at": "2026-10-23T17:06:22.434247+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmixkfvx3lxtfbbww9yqxffumjfbwfdavmxz195mvbcn",
+      "title": "台南五星飯店住宿殺到21折！香格里拉雙人房3,899元起、家庭房省近3.7萬元，豪華閣加700元升等",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBWW9YQXFfUmJFbWFDaVMxZ195MVBCNnYyMTJIWUFLbEVDNGlaaFZINnZpQ2RUV3diOWR3VEwxOV9mcWw0VTc2MmZ1am1pYkxtZ3VwcFUtLUhxak90S2c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBWW9YQXFfUmJFbWFDaVMxZ195MVBCNnYyMTJIWUFLbEVDNGlaaFZINnZpQ2RUV3diOWR3VEwxOV9mcWw0VTc2MmZ1am1pYkxtZ3VwcFUtLUhxak90S2c?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台南五星飯店住宿殺到21折！香格里拉雙人房3,899元起、家庭房省近3.7萬元，豪華閣加700元升等。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台南五星飯店住宿殺到21折！香格里拉雙人房3,899元起、家庭房省近3.7萬元，豪華閣加700元升等。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "價格與房型差異大，親子設施也可能需預約。",
+        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "WalkerLand 窩客島",
+      "tags": [
+        "室內"
+      ],
+      "reason": "遇到下雨或不想安排戶外行程時，五星飯店可作為親子旅遊的室內備案。家庭房空間較充裕，且目前價格優惠，適合想兼顧住宿品質與預算的家庭。",
+      "published_at": "2026-10-23T11:00:00+00:00",
+      "collected_at": "2026-10-23T17:06:13.188749+00:00",
+      "query": "台灣 特色飯店 親子 房型"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmibkfvx3lxtfb2xzb5edfvn3jrbc00z2xvdvprtw10e",
+      "title": "屏東恆春共融遊戲場髒亂、遊具損壞 鎮公所將全面整頓",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2XzB5eDFVN3JRbC00Z2xVdVpRTW10eUkxZ0czRzNKSEh2bTJIWFVrTDVpZkZEZEZ2c0hvSjZ6RmNON1pFeHMyVDI0aFRtMmE5RkstSm1rbEpnOVhXb2IxalBFajQ5MG1tRlJoSzhn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2XzB5eDFVN3JRbC00Z2xVdVpRTW10eUkxZ0czRzNKSEh2bTJIWFVrTDVpZkZEZEZ2c0hvSjZ6RmNON1pFeHMyVDI0aFRtMmE5RkstSm1rbEpnOVhXb2IxalBFajQ5MG1tRlJoSzhn?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "屏東恆春共融遊戲場髒亂、遊具損壞 鎮公所將全面整頓。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "屏東恆春共融遊戲場髒亂、遊具損壞 鎮公所將全面整頓。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "中時新聞網",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "共融遊戲場原本適合親子放電與活動，但目前環境髒亂、部分遊具損壞，帶小孩前往須特別留意安全。建議待鎮公所全面整頓後再安排前往，使用前也應確認設施狀況與環境衛生。",
+      "published_at": "2026-10-23T07:44:38+00:00",
+      "collected_at": "2026-10-23T17:06:16.283581+00:00",
+      "query": "台南 高雄 屏東 親子景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte1vn0vluuxzzmqxvnb4t2prv0mtawrmd",
       "title": "高雄親子萬聖節攻略！免費入園、動物遊行、創意手作一次收",
@@ -346,6 +397,33 @@
       "published_at": "2026-10-19T09:06:00+00:00",
       "collected_at": "2026-10-19T18:42:50.971313+00:00",
       "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmirkfvx3lxte9wbgnkqzlpbuf0t0lzcthkdlhnzjv3n",
+      "title": "「城市大冒險」風禾公園登場張碩芳攜手青年親子共創幸福桃園",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9wbGNkQzlPbUF0T0lzcThKdlhnZjV3N0JzUnpycWlsUEJIWkNSTE5jRzVlRGxPREYwYW5mRy1nbW41ZHVEaHc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9wbGNkQzlPbUF0T0lzcThKdlhnZjV3N0JzUnpycWlsUEJIWkNSTE5jRzVlRGxPREYwYW5mRy1nbW41ZHVEaHc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "「城市大冒險」風禾公園登場張碩芳攜手青年親子共創幸福桃園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "「城市大冒險」風禾公園登場張碩芳攜手青年親子共創幸福桃園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "台灣新聞雲報",
+      "tags": [
+        "放電",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "「城市大冒險」結合戶外探索與親子共創，適合讓小孩在風禾公園跑動、參與活動，消耗體力並增加與家長的互動。活動集中在同一座公園，方便家長安排親子踏青行程。",
+      "published_at": "2026-10-19T08:30:36+00:00",
+      "collected_at": "2026-10-23T17:06:19.825342+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmi1wnbvv95cuxqcnnybkrvtmptx3jyttjxnfnrwgtqn",
@@ -734,84 +812,6 @@
       "published_at": "2026-10-16T20:10:00+00:00",
       "collected_at": "2026-10-17T00:29:25.348027+00:00",
       "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiiajbvv95cuxnuxvpdekxdezhn1fzz2rjunfdthjte",
-      "title": "高雄親子遊樂園區周邊道路 挨批爛",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUXVPdEkxdEZhN1FZZ2RJUnFDTHJteGdKZ3BQWDNRcGpnUXRENDdsUUdrLWpKWGhJT2sybUFWWUp5TlE5TmdkZEttZWdHcFdGMk5NMy1kQk9BN2piMDczSjk5OHI3YnpaRW51S2kzcUo3VGxIWXBWREd5VzRNenRMcEpIazdncjlnR3p1SjRfS2k0cE5tSVdZdk9BNUphUzllaEZkMDFxNFhkUlpqRmlwbFRiUDd4NU11WnM1MU5JSlRjUUcxUkFhTlZkMlluZ25aZFZteVQ5VVNtcEM0QzlHdjFfczgzanhnb2E5YWc5M0dDQll1aHZkYVYtY25CbjdMc1R3Si1COW8?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUXVPdEkxdEZhN1FZZ2RJUnFDTHJteGdKZ3BQWDNRcGpnUXRENDdsUUdrLWpKWGhJT2sybUFWWUp5TlE5TmdkZEttZWdHcFdGMk5NMy1kQk9BN2piMDczSjk5OHI3YnpaRW51S2kzcUo3VGxIWXBWREd5VzRNenRMcEpIazdncjlnR3p1SjRfS2k0cE5tSVdZdk9BNUphUzllaEZkMDFxNFhkUlpqRmlwbFRiUDd4NU11WnM1MU5JSlRjUUcxUkFhTlZkMlluZ25aZFZteVQ5VVNtcEM0QzlHdjFfczgzanhnb2E5YWc5M0dDQll1aHZkYVYtY25CbjdMc1R3Si1COW8?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區周邊道路 挨批爛。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區周邊道路 挨批爛。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "此為負面新聞報導，非景點推薦文章，內容批評高雄親子遊樂園區周邊道路品質惡劣。",
-      "published_at": "2026-10-16T20:10:00+00:00",
-      "collected_at": "2026-10-18T15:52:21.381051+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmit0fvx3lxtfb1zgvvwexfuwlbdlfqt1y2s2n6cdvru",
-      "title": "打造全台最大原民文化遊樂園 高雄TAKAO豐潮10/17-18衛武營盛大登場",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1ZGVVWExfUWlBdlFqT1Y2S2N6cDVrUnRBX05aVE8zZ0JjaDJjS1VkSVJUOHRMZGx6a2xxZkp4NEVCX3lDd1J1YVZHT0R0WFU?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1ZGVVWExfUWlBdlFqT1Y2S2N6cDVrUnRBX05aVE8zZ0JjaDJjS1VkSVJUOHRMZGx6a2xxZkp4NEVCX3lDd1J1YVZHT0R0WFU?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "打造全台最大原民文化遊樂園 高雄TAKAO豐潮10/17-18衛武營盛大登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "打造全台最大原民文化遊樂園 高雄TAKAO豐潮10/17-18衛武營盛大登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "天天上新聞",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "衛武營腹地廣大有大片草皮與開放空間，適合帶小孩跑跳放電，且為戶外場域能近距離接觸原民文化體驗。",
-      "published_at": "2026-10-16T14:07:17+00:00",
-      "collected_at": "2026-10-16T16:38:52.777287+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5kb0t2skcttc10nndmn25oak03qlbgq",
-      "title": "打造全台最大原民文化遊樂園 高雄TAKAO豐潮10/17-18衛武營盛大登場",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kb0t2SkctTC10NndMN25Oak03QlBGQ0d1YmNoU194cTdNR2tURGc1M1FYQ3E5bFJFRU10dkNva2xnbFZQQzhQeDU1OXpXdHJZYkHSAVJBVV95cUxOZG9LdkpHLUwtdDZ3TDduTmpNN0JQRkNHdWJjaFNfeHE3TUdrVERnNTNRWENxOWxSRUVNdHZDb2tsZ2xWUEM4UHg1NTl6V3RyWWJB?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kb0t2SkctTC10NndMN25Oak03QlBGQ0d1YmNoU194cTdNR2tURGc1M1FYQ3E5bFJFRU10dkNva2xnbFZQQzhQeDU1OXpXdHJZYkHSAVJBVV95cUxOZG9LdkpHLUwtdDZ3TDduTmpNN0JQRkNHdWJjaFNfeHE3TUdrVERnNTNRWENxOWxSRUVNdHZDb2tsZ2xWUEM4UHg1NTl6V3RyWWJB?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "打造全台最大原民文化遊樂園 高雄TAKAO豐潮10/17-18衛武營盛大登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "打造全台最大原民文化遊樂園 高雄TAKAO豐潮10/17-18衛武營盛大登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "今傳媒 JNEWS",
-      "tags": [
-        "好玩",
-        "大自然"
-      ],
-      "reason": "衛武營腹地廣大、活動多元，孩子可體驗原民文化、參與互動攤位與表演，兼具玩樂與學習，且有完善廁所與遮蔭設施。",
-      "published_at": "2026-10-16T14:00:59+00:00",
-      "collected_at": "2026-10-18T15:52:24.169165+00:00",
-      "query": "台灣 遊樂園 親子 最新"
     }
   ]
 }
