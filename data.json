@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-10-24T00:42:37.173704+00:00",
+  "updated_at": "2026-10-24T15:56:30.946854+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte93autlz3fnoup3tlq4dtlrevnptfziz",
+      "title": "南投別只會去清境農場、九族文化村輸了！167萬人都去1景點玩：風景絕美行程豐富，適合全家出遊| 王浩三| 風生活",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93aUtlZ3FNOUp3TlQ4dTlReVNPTFZiZXhucVdfVVlWS2VpdXNrVGJoQUREWW9ZUVNxR3dTRGhzVXQzdFltWGZURm51ejZXS3BD?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93aUtlZ3FNOUp3TlQ4dTlReVNPTFZiZXhucVdfVVlWS2VpdXNrVGJoQUREWW9ZUVNxR3dTRGhzVXQzdFltWGZURm51ejZXS3BD?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "南投別只會去清境農場、九族文化村輸了！167萬人都去1景點玩：風景絕美行程豐富，適合全家出遊| 王浩三| 風生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "南投別只會去清境農場、九族文化村輸了！167萬人都去1景點玩：風景絕美行程豐富，適合全家出遊| 王浩三| 風生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "動物互動與自然觀察能提高孩子參與感。",
+        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
+        "tips": "出發前確認餵食、互動體驗與休園時間。"
+      },
+      "source_name": "風傳媒",
+      "tags": [
+        "放電",
+        "大自然",
+        "好玩"
+      ],
+      "reason": "景點風景絕美且行程豐富，適合全家安排半日以上的踏青遊玩。戶外探索與豐富體驗能讓小孩有足夠活動空間，也讓家長不必再額外設計多個親子景點。",
+      "published_at": "2026-10-24T02:30:00+00:00",
+      "collected_at": "2026-10-24T15:56:27.223054+00:00",
+      "query": "台灣 親子景點 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmixkfvx3lxtfbbww9yqxffumjfbwfdavmxz195mvbcn",
       "title": "台南五星飯店住宿殺到21折！香格里拉雙人房3,899元起、家庭房省近3.7萬元，豪華閣加700元升等",
@@ -787,31 +814,6 @@
       "published_at": "2026-10-17T02:01:00+00:00",
       "collected_at": "2026-10-18T00:03:01.535172+00:00",
       "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmia0fvx3lxte5nwth2ckfwcfdjqmr0dc1dekzlbwu4a",
-      "title": "高雄親子遊樂園區周邊道路 挨批爛",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NWTh2ckFWcFdjQmR0dC1DekZLbWU4aWtIVHRSc0Qwd29mUVRnZGFVWUl1QUFLUXkzU0dXUzZDc25XRDRNNXl4TEVvcEpYSGV4VVphS1JWc2lpT2VtNTZSZTRJNzlQZDRqUEhV?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NWTh2ckFWcFdjQmR0dC1DekZLbWU4aWtIVHRSc0Qwd29mUVRnZGFVWUl1QUFLUXkzU0dXUzZDc25XRDRNNXl4TEVvcEpYSGV4VVphS1JWc2lpT2VtNTZSZTRJNzlQZDRqUEhV?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄親子遊樂園區周邊道路 挨批爛。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄親子遊樂園區周邊道路 挨批爛。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "中時新聞網",
-      "tags": [
-        "放電"
-      ],
-      "reason": "周邊道路挨批爛，交通與停車不便，帶小孩前往需注意路況。",
-      "published_at": "2026-10-16T20:10:00+00:00",
-      "collected_at": "2026-10-17T00:29:25.348027+00:00",
-      "query": "台灣 親子景點 最新"
     }
   ]
 }
