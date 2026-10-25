@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-10-25T00:20:34.420720+00:00",
+  "updated_at": "2026-10-25T16:18:11.361434+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmio0fvx3lxte1ftu5xzejbztd1bxvjslpaoxjkzu5vw",
+      "title": "Google Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1fTU5xZEJBZTd1bXVJSlpaOXJKZU5VWFcweWtGdlVDczFsdEtidi0zLVIyYnExY2RJQWlV?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1fTU5xZEJBZTd1bXVJSlpaOXJKZU5VWFcweWtGdlVDczFsdEtidi0zLVIyYnExY2RJQWlV?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+      "analysis": {
+        "overview": "Google Noticias。Amplia cobertura actualizada de noticias, agregada a partir de fuentes de noticias de todo el mundo por Google Noticias",
+        "pros": "頁面僅顯示 Google 新聞彙整，缺少景點、親子設施與交通資訊，無法確認適合踏青或作為雨天備案，建議先查看原文內容再評估。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "Howl.Link",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "頁面僅顯示 Google 新聞彙整，缺少景點、親子設施與交通資訊，無法確認適合踏青或作為雨天備案，建議先查看原文內容再評估。",
+      "published_at": "2026-10-25T14:17:35+00:00",
+      "collected_at": "2026-10-25T16:18:06.446110+00:00",
+      "query": "台灣 親子放電 景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte93autlz3fnoup3tlq4dtlrevnptfziz",
       "title": "南投別只會去清境農場、九族文化村輸了！167萬人都去1景點玩：風景絕美行程豐富，適合全家出遊| 王浩三| 風生活",
@@ -773,40 +798,6 @@
       "published_at": "2026-10-18T03:00:00+00:00",
       "collected_at": "2026-10-21T17:11:31.809660+00:00",
       "query": "台灣 親子飯店 親子樂園"
-    },
-    {
-      "id": "https-www-contentplatform-info-articles-538450-168-966",
-      "title": "親子齊騎東后豐！台中自行車嘉年華熱鬧登場夯 串聯東勢、石岡、后里體驗鐵道風光與山城慢活 | 報新聞 Mega News",
-      "url": "https://www.contentplatform.info/articles/538450/168-966/",
-      "canonical_url": "https://www.contentplatform.info/articles/538450/168-966",
-      "image_url": "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/02/21155112/meganews-banner01.jpg",
-      "images": [
-        "https://d16ad5czovw3en.cloudfront.net/wp-content/uploads/2026/02/21155112/meganews-banner01.jpg",
-        "https://metanews.topo.com.tw/wp-content/uploads/2026/10/%E8%A6%AA%E5%AD%90%E9%BD%8A%E9%A8%8E%E6%9D%B1%E5%90%8E%E8%B1%90%E5%98%89%E5%B9%B4%E8%8F%AF-1024x576-1.png",
-        "https://www.taichung.gov.tw/media/1479252/%E5%A4%A7%E5%B0%8F%E6%9C%8B%E5%8F%8B%E9%96%8B%E5%BF%83%E9%A0%98%E5%8F%96%E5%AE%8C%E9%A8%8E%E8%AD%89%E6%9B%B8.jpg",
-        "https://www.taichung.gov.tw/media/1479250/%E7%B2%BE%E5%BD%A9%E8%A1%A8%E6%BC%94%E5%90%B8%E5%BC%95%E6%B0%91%E7%9C%BE%E7%9B%AE%E5%85%89.jpg",
-        "https://www.taichung.gov.tw/media/1479255/%E6%97%A5%E6%9C%AC%E8%B2%B4%E8%B3%93%E5%8F%83%E8%88%87%E8%87%AA%E8%A1%8C%E8%BB%8A%E9%A8%8E%E6%97%85.jpg",
-        "https://www.taichung.gov.tw/media/1479254/%E5%A4%A7%E5%90%88%E7%85%A71.jpg",
-        "https://www.taichung.gov.tw/media/1479253/%E5%A4%A7%E5%90%88%E7%85%A7.jpg",
-        "https://www.taichung.gov.tw/media/1479256/%E7%A9%BF%E6%A2%AD%E6%9D%B1%E5%90%8E%E8%B1%90%E7%B6%93%E5%85%B8%E6%99%AF%E9%BB%9E-%E6%84%9F%E5%8F%97%E5%8F%B0%E4%B8%AD%E5%B1%B1%E5%9F%8E%E7%8D%A8%E7%89%B9%E9%AD%85%E5%8A%9B.jpg"
-      ],
-      "summary": "親子齊騎東后豐！台中自行車嘉年華熱鬧登場夯 串聯東勢、石岡、后里體驗鐵道風光與山城慢活 | 報新聞 Mega News。報新聞/中部特派員鄒志中報導 秋高氣爽的十月，正是適合全家出遊的絕佳季節。第10屆台中自行車嘉年華2026年10月17日在台中市東勢區獨角仙生態公園熱鬧開騎，數百組親子家庭與車友齊聚，沿著東豐自行車綠廊與后豐鐵馬道一路前行，途經石岡旅客服務中心，最終抵達后里馬場，享受一場融合鐵道風光、山林綠意與親子同樂的悠閒單車時光。台中市觀旅局長陳美秀表示，希望藉由一年一度的活動，鼓勵更多家庭與好友走出戶外，用最慢、最自在的節奏，重新認識台中山城的美。本次活動以東豐自行車綠廊及后豐鐵馬道為主軸，全線串聯東勢、石岡、后里三區，沿途處處可見舊鐵道遺址與自然景觀交織的獨特風貌。車友們從獨角仙生態公園出發，騎經充滿懷舊氣息的零蛋月台，再穿越花梁鋼橋與九號隧道，大甲溪潺潺流水與兩旁濃密綠意一路相伴。無論是第一次挑戰中長距離的親子家庭，或是熟悉路線的資深車友，都能依自己的節奏停留拍照、休憩聊天，感受山城不同時段的光影變化。對許多家長而言，與孩子一起完成全程，不只是身體的運動，更是共享假日、累積共同回憶的珍貴小旅行。",
-      "analysis": {
-        "overview": "親子齊騎東后豐！台中自行車嘉年華熱鬧登場夯 串聯東勢、石岡、后里體驗鐵道風光與山城慢活 | 報新聞 Mega News。報新聞/中部特派員鄒志中報導 秋高氣爽的十月，正是適合全家出遊的絕佳季節。第10屆台中自行車嘉年華2026年10月17日在台中市東勢區獨角仙生態公園熱鬧開騎，數百組親子家庭與車友齊聚，沿著東豐自行車綠廊與后豐鐵馬道一路前行，途經石岡旅客服務中心，最終抵達后里馬場，享受一場融合鐵道風光、山林綠意與親子同樂的悠閒單車時光。台中市觀旅局長陳美秀表示，希望藉由一年一度的活動，鼓勵更多家庭與好友走出戶外，用",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "contentplatform.info",
-      "tags": [
-        "放電",
-        "大自然",
-        "好玩"
-      ],
-      "reason": "全線平坦好騎、沿線自然景觀豐富，適合親子一起完成中長距離單車挑戰，共享假日回憶。",
-      "published_at": "2026-10-17T02:56:00+00:00",
-      "collected_at": "2026-10-17T15:34:05.943037+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
     }
   ]
 }
