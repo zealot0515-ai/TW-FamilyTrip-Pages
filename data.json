@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T00:23:27.513435+00:00",
+  "updated_at": "2026-10-26T18:40:40.045988+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -533,6 +533,33 @@
       "query": "台灣 親子景點 最新"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmizefvx3lxtfb2y1jpuv9ivmzcnklbqzd6mxo5ywfzw",
+      "title": "空中兒童樂園「辦桌」 高雄百貨搞創意獲熱烈回應",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2Y1JPUV9iVmZCNklBQzd6MXo5YWFzWUNxemV6VnBLQ2Y2YkZ5a3VyT1ZmZFZiX05Bektob18tNGprX2lqMDh2ME1ZYVBjWm1Ubzg0cDhvRWVvQkJiRXRpMUdNRUnSAWpBVV95cUxOWDVlZFRfRkhKR2swamc0YWZCT2Q3ZmVfenQ3ODFIOXVZdl94SmZRbG9kNmRPTUZpeEVORkYxVUJXaC1yVzlhbTdiZ0JYUmJCVVFqcGRTdGtUNGZaSHdPUmNMOGlDVWpQMzZn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2Y1JPUV9iVmZCNklBQzd6MXo5YWFzWUNxemV6VnBLQ2Y2YkZ5a3VyT1ZmZFZiX05Bektob18tNGprX2lqMDh2ME1ZYVBjWm1Ubzg0cDhvRWVvQkJiRXRpMUdNRUnSAWpBVV95cUxOWDVlZFRfRkhKR2swamc0YWZCT2Q3ZmVfenQ3ODFIOXVZdl94SmZRbG9kNmRPTUZpeEVORkYxVUJXaC1yVzlhbTdiZ0JYUmJCVVFqcGRTdGtUNGZaSHdPUmNMOGlDVWpQMzZn?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "空中兒童樂園「辦桌」 高雄百貨搞創意獲熱烈回應。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "空中兒童樂園「辦桌」 高雄百貨搞創意獲熱烈回應。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "自由時報",
+      "tags": [
+        "放電",
+        "室內",
+        "好玩"
+      ],
+      "reason": "百貨內的兒童樂園適合孩子活動放電，文章提到以「辦桌」創意玩法吸引參與。遇到雨天時也有室內空間可玩，但建議出發前確認場地開放與年齡限制。",
+      "published_at": "2026-10-19T06:51:13+00:00",
+      "collected_at": "2026-10-26T18:40:37.362183+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
       "id": "https-www-msn-com-zh-tw-news-other-e8-a6-aa-e5-ad-90-e9-bd-8a-e9-a8-8e-e6-9d-b1-",
       "title": "親子齊騎東后豐 第10屆台中自行車嘉年華熱鬧登場",
       "url": "https://www.msn.com/zh-tw/news/other/%E8%A6%AA%E5%AD%90%E9%BD%8A%E9%A8%8E%E6%9D%B1%E5%90%8E%E8%B1%90-%E7%AC%AC10%E5%B1%86%E5%8F%B0%E4%B8%AD%E8%87%AA%E8%A1%8C%E8%BB%8A%E5%98%89%E5%B9%B4%E8%8F%AF%E7%86%B1%E9%AC%A7%E7%99%BB%E5%A0%B4/ar-AA2fxHgY",
@@ -775,31 +802,6 @@
       "published_at": "2026-10-18T03:00:00+00:00",
       "collected_at": "2026-10-18T15:52:04.915119+00:00",
       "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmia0fvx3lxte9mlxuyekizdjrtmjfrqvv6uw9ou1nie",
-      "title": "高雄觀光品牌2-1》演唱會與遊樂園客群發威 疫後創555億觀光效益",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mLXUyekIzdjRTMjFrQVV6UW9oU1NIeC1NZ0tyd3ZXLXE4MVZac0FmemVRZTFQbFRRVkpYd3VIZ29SX2JJVXdTbDl5cEtZdldIYU1wSjhyV1FuZzFnckNJb0RGdE41dVdKZlBJ0gFwQVVfeXFMTVNmcUZFclhLcjhyaFBPcVJ1RWpMLTZLZUgxcFNqNEJHWDAxajU3OWlMSHB2Z1pUZVZfVDBnVFNqMklTa1pQbEVuNmxkV1E3Z0YtcFluRDZQeTI2SWpyZzVzc2JaVEpuN3BmakpjZHA4Qw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mLXUyekIzdjRTMjFrQVV6UW9oU1NIeC1NZ0tyd3ZXLXE4MVZac0FmemVRZTFQbFRRVkpYd3VIZ29SX2JJVXdTbDl5cEtZdldIYU1wSjhyV1FuZzFnckNJb0RGdE41dVdKZlBJ0gFwQVVfeXFMTVNmcUZFclhLcjhyaFBPcVJ1RWpMLTZLZUgxcFNqNEJHWDAxajU3OWlMSHB2Z1pUZVZfVDBnVFNqMklTa1pQbEVuNmxkV1E3Z0YtcFluRDZQeTI2SWpyZzVzc2JaVEpuN3BmakpjZHA4Qw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄觀光品牌2-1》演唱會與遊樂園客群發威 疫後創555億觀光效益。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄觀光品牌2-1》演唱會與遊樂園客群發威 疫後創555億觀光效益。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "自由時報",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "此類旅遊報導涉及高雄大型演唱會與遊樂園資訊，可作為安排親子出遊高雄的參考依據，但建議家長仍需依據孩童年齡與體力挑選適合設施與行程節奏。",
-      "published_at": "2026-10-18T03:00:00+00:00",
-      "collected_at": "2026-10-18T15:52:12.990453+00:00",
-      "query": "台灣 親子飯店 親子樂園"
     }
   ]
 }
