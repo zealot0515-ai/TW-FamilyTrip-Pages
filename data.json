@@ -1,8 +1,36 @@
 {
-  "updated_at": "2026-10-25T16:18:11.361434+00:00",
+  "updated_at": "2026-10-26T00:23:27.513435+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmigwfbvv95cuxqodftemdwwmrzzew3revhu2tku1vra",
+      "title": "[台東景點]米國學校｜關山親子順遊景點！彩繪稻田、認識關山米、餵動物、必吃碗公飯",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODFTemdwWmRZZEw3REVhU2tKU1VraWd1bER6aHBWUmRUbUJfTEduVm5BZm9BWVlqbmZNR1M5ODdnRE1wTzBjZkloX01KM2FLZU1DcTR1SW83bXE5VW9mZmplWC1VZHkxV2JpVGt6QXhaVzVETkY3Um5RTi1aaEkxQUc2d9IBYkFVX3lxTE5YOFJiTE9kZ1ZEVGNGaTIzekdmdHBnUmg3NGRMVkloU3dyNTdfWnEzMGJxZV9JUV9RUlFLemlDU3RBMy1QU2daSzM4d1lJYTU2NG90c0xiYnFFbko0d1lWZ3VR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODFTemdwWmRZZEw3REVhU2tKU1VraWd1bER6aHBWUmRUbUJfTEduVm5BZm9BWVlqbmZNR1M5ODdnRE1wTzBjZkloX01KM2FLZU1DcTR1SW83bXE5VW9mZmplWC1VZHkxV2JpVGt6QXhaVzVETkY3Um5RTi1aaEkxQUc2d9IBYkFVX3lxTE5YOFJiTE9kZ1ZEVGNGaTIzekdmdHBnUmg3NGRMVkloU3dyNTdfWnEzMGJxZV9JUV9RUlFLemlDU3RBMy1QU2daSzM4d1lJYTU2NG90c0xiYnFFbko0d1lWZ3VR?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "[台東景點]米國學校｜關山親子順遊景點！彩繪稻田、認識關山米、餵動物、必吃碗公飯。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "[台東景點]米國學校｜關山親子順遊景點！彩繪稻田、認識關山米、餵動物、必吃碗公飯。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "動物互動與自然觀察能提高孩子參與感。",
+        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
+        "tips": "出發前確認餵食、互動體驗與休園時間。"
+      },
+      "source_name": "udn 女子漾",
+      "tags": [
+        "大自然",
+        "看動物",
+        "好玩",
+        "放電"
+      ],
+      "reason": "結合彩繪稻田、米食體驗與餵動物活動，孩子能透過走訪與互動認識關山米，適合安排戶外放電及親子輕旅行。",
+      "published_at": "2026-10-25T15:16:20+00:00",
+      "collected_at": "2026-10-26T00:23:27.402385+00:00",
+      "query": "台灣 免費親子景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmio0fvx3lxte1ftu5xzejbztd1bxvjslpaoxjkzu5vw",
       "title": "Google Noticias",
@@ -771,32 +799,6 @@
       "reason": "此類旅遊報導涉及高雄大型演唱會與遊樂園資訊，可作為安排親子出遊高雄的參考依據，但建議家長仍需依據孩童年齡與體力挑選適合設施與行程節奏。",
       "published_at": "2026-10-18T03:00:00+00:00",
       "collected_at": "2026-10-18T15:52:12.990453+00:00",
-      "query": "台灣 親子飯店 親子樂園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmizefvx3lxtfbmc0ldbjhxtwpcvvhpmuozdv9snwnhy",
-      "title": "高雄觀光品牌2-1》演唱會與遊樂園客群發威 疫後創555億觀光效益",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMc0lDbjhXTWpCVVhpMUozdV9sNWNhYS1EZ0hVQ1ZCb0g5d2VpV0RSdndxZnpQZkdseXlpbHpJeHctTnFZR0VjcjN5U0RpSWpJQ1FmVEdrdkJacnhDZERXLVA2ZnTSAWpBVV95cUxPcURrNE43Tl9CWkZvSm80MVlMb0xCYVR5ZFQ5cXBVMHJINzNoWm9DMi1QQTdmOE8xejZDeUJOanhYbmVFc1JGeGxFNkhXSU5wLS1OWHVFYnlMVWw5SnA4czBrSkgxdzhzejdR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMc0lDbjhXTWpCVVhpMUozdV9sNWNhYS1EZ0hVQ1ZCb0g5d2VpV0RSdndxZnpQZkdseXlpbHpJeHctTnFZR0VjcjN5U0RpSWpJQ1FmVEdrdkJacnhDZERXLVA2ZnTSAWpBVV95cUxPcURrNE43Tl9CWkZvSm80MVlMb0xCYVR5ZFQ5cXBVMHJINzNoWm9DMi1QQTdmOE8xejZDeUJOanhYbmVFc1JGeGxFNkhXSU5wLS1OWHVFYnlMVWw5SnA4czBrSkgxdzhzejdR?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄觀光品牌2-1》演唱會與遊樂園客群發威 疫後創555億觀光效益。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄觀光品牌2-1》演唱會與遊樂園客群發威 疫後創555億觀光效益。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "自由時報",
-      "tags": [
-        "好玩",
-        "放電"
-      ],
-      "reason": "文章聚焦遊樂園與演唱會帶動的旅遊效益，適合安排親子行程。園區與活動可讓小孩盡情玩耍、消耗體力，家長也能獲得多元的娛樂選擇。",
-      "published_at": "2026-10-18T03:00:00+00:00",
-      "collected_at": "2026-10-21T17:11:31.809660+00:00",
       "query": "台灣 親子飯店 親子樂園"
     }
   ]
