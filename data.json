@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T01:28:56.171964+00:00",
+  "updated_at": "2026-10-27T18:00:12.269986+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -460,6 +460,32 @@
       "query": "台灣 遊樂園 親子 最新"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxtfbowlozt2y5ukzmq3lmmmdybtzjbhzuv",
+      "title": "光復節連假玩樂園省荷包 六福村599元、麗寶18歲以下免費",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoWlozT2Y5UkZmQ3lmMmdYbTZjbHZUV2poZks0eG5nMnhzQVRGeGlhajA0cmVSSTB0U3ZPSzNGOTRKWms5U1NHOUpqbkxQY0Rv0gFWQVVfeXFMT3lzZjdlNXJ1YktIYVpLaUxpYVcyNUd1WERwOFdfR3VjMjhkNjJ1dExJQ0VsZnR6UlBJSEdjeFBITHJ3ZnRVdC1ubHN4Q2pIcEh5UXZOQ3c?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoWlozT2Y5UkZmQ3lmMmdYbTZjbHZUV2poZks0eG5nMnhzQVRGeGlhajA0cmVSSTB0U3ZPSzNGOTRKWms5U1NHOUpqbkxQY0Rv0gFWQVVfeXFMT3lzZjdlNXJ1YktIYVpLaUxpYVcyNUd1WERwOFdfR3VjMjhkNjJ1dExJQ0VsZnR6UlBJSEdjeFBITHJ3ZnRVdC1ubHN4Q2pIcEh5UXZOQ3c?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "光復節連假玩樂園省荷包 六福村599元、麗寶18歲以下免費。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "光復節連假玩樂園省荷包 六福村599元、麗寶18歲以下免費。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "UDN",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "主題樂園遊樂設施適合帶孩子放電，且連假票價優惠可降低家庭支出。麗寶主打18歲以下免費，出發前仍須確認優惠適用日期與入園條件。",
+      "published_at": "2026-10-20T02:20:14+00:00",
+      "collected_at": "2026-10-27T18:00:12.180843+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5qqnzwcfl2awvladk3vejxulpxbe9jm",
       "title": "大立空中樂園10月特別企劃 空中辦桌吃出獨特的高雄回憶",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qQnZwcFl2aWVlaDk3VEJxUlpxbE9jMmJPLV9wc0x1LUx5VmRwakx4dVVxajBYZE05aVdoX2ktY0lFY2FDdE5oR0lqQUtyb3hxUHc?oc=5",
@@ -784,32 +810,6 @@
       "reason": "墾丁大灣擁有寬闊沙灘，孩子可盡情奔跑玩沙釋放精力，邊玩邊親近海洋自然環境。",
       "published_at": "2026-10-18T07:46:00+00:00",
       "collected_at": "2026-10-18T15:51:54.971935+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiignbvv95cuxntxhganhawfj5znzit182av9stwxwu",
-      "title": "高雄觀光品牌2-1》演唱會與遊樂園客群發威 疫後創555億觀光效益",
-      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNTXhGanhaWFJ5ZnZiT182aV9sTWxwUEtjeXk3ZU9yeXVyaTBRTS1IWjFpSW4xcTdXQXdYek9LeDQ5YUo5ZG14SVJ4TGItck50QWRfNWpUd3RwRUdnWFFSdlFNSlZTTXFSZy1kcUdfYWZBU2h6UTdYSTRqV2tqM2JTNkhwZk9waFlKbWJOTm55Q0REZ0JabjlWTHUwVmFuRTNRR0FtVFlvZVdhSXJQU2NTTjBZTFV2bVpJeUtrYTNOR3NkU3RJZ1RIQ1d3TVJOMFZ0d2d4QWI0SXZfaUZ1cEYtd21MZlJPWm91SEFJNl85U3AycGVQSV9GUkp1bHZ0WXpwLXlBYkRKRVRGRDRXMEdzM3ZZS3ZvRm1zS2pobjhwdGRJTzFNU2ZsZ294anB3ZGtJemZZVWlVdGNONjVJZk9XY2pUYi1la29RUE41dm5zZmFTdXRXM1ZmQ3pBR0lCS0h3VHNrMXRSTndVS0VFbGNFbEZhYVFGdDVKdU1oRXF3aGtSQ01NSGRZM3dR?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNTXhGanhaWFJ5ZnZiT182aV9sTWxwUEtjeXk3ZU9yeXVyaTBRTS1IWjFpSW4xcTdXQXdYek9LeDQ5YUo5ZG14SVJ4TGItck50QWRfNWpUd3RwRUdnWFFSdlFNSlZTTXFSZy1kcUdfYWZBU2h6UTdYSTRqV2tqM2JTNkhwZk9waFlKbWJOTm55Q0REZ0JabjlWTHUwVmFuRTNRR0FtVFlvZVdhSXJQU2NTTjBZTFV2bVpJeUtrYTNOR3NkU3RJZ1RIQ1d3TVJOMFZ0d2d4QWI0SXZfaUZ1cEYtd21MZlJPWm91SEFJNl85U3AycGVQSV9GUkp1bHZ0WXpwLXlBYkRKRVRGRDRXMEdzM3ZZS3ZvRm1zS2pobjhwdGRJTzFNU2ZsZ294anB3ZGtJemZZVWlVdGNONjVJZk9XY2pUYi1la29RUE41dm5zZmFTdXRXM1ZmQ3pBR0lCS0h3VHNrMXRSTndVS0VFbGNFbEZhYVFGdDVKdU1oRXF3aGtSQ01NSGRZM3dR?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄觀光品牌2-1》演唱會與遊樂園客群發威 疫後創555億觀光效益。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄觀光品牌2-1》演唱會與遊樂園客群發威 疫後創555億觀光效益。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "文章聚焦演唱會與遊樂園帶動的觀光客群，遊樂園活動適合安排親子行程，讓小孩透過遊玩消耗體力。若搭配演唱會，更能豐富孩子的行程選擇，但出發前仍須確認各設施的年齡限制與現場管制。",
-      "published_at": "2026-10-18T03:07:26+00:00",
-      "collected_at": "2026-10-25T00:20:23.090887+00:00",
       "query": "台灣 遊樂園 親子 最新"
     }
   ]
