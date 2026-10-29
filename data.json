@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T18:20:45.225385+00:00",
+  "updated_at": "2026-10-29T01:48:24.762932+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -351,6 +351,33 @@
       "published_at": "2026-10-21T16:06:15+00:00",
       "collected_at": "2026-10-22T00:41:35.844659+00:00",
       "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiwefvx3lxte0zqlrdvfjltm9lmthrzwrxr0e3nkdun",
+      "title": "大立空中樂園攜手金葉摸油湯 席開高空辦桌重現高雄人童年記憶",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zQlRDVFJlTm9lMThrZWRxR0E3NkdUNHhfSWI5ZW95bElSVHlVbE5pU0ZzSUlBQ1pVVEppV0YycFotOUlpd3BBMldiVVF5YldfQnAwMU9Wa2E?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zQlRDVFJlTm9lMThrZWRxR0E3NkdUNHhfSWI5ZW95bElSVHlVbE5pU0ZzSUlBQ1pVVEppV0YycFotOUlpd3BBMldiVVF5YldfQnAwMU9Wa2E?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "大立空中樂園攜手金葉摸油湯 席開高空辦桌重現高雄人童年記憶。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "大立空中樂園攜手金葉摸油湯 席開高空辦桌重現高雄人童年記憶。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "福爾摩沙時報",
+      "tags": [
+        "放電",
+        "好玩",
+        "室內"
+      ],
+      "reason": "結合遊樂設施與高空辦桌活動，孩子可以放電、大人也能一起參與，適合安排成輕鬆的親子行程。位於商場內，遇上雨天也有備案，但前往前宜確認場館的推車動線與餐點座位安排。",
+      "published_at": "2026-10-20T15:53:45+00:00",
+      "collected_at": "2026-10-29T01:48:12.133206+00:00",
+      "query": "台灣 遊樂園 親子 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmivefvx3lxte5zelhhawhxs3zubmw1u2g5q3dkrnzfy",
@@ -773,33 +800,6 @@
       "published_at": "2026-10-19T04:47:23+00:00",
       "collected_at": "2026-10-19T18:42:56.323490+00:00",
       "query": "台灣 特色飯店 親子 房型"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmixefvx3lxte9rcgfotxjqb2diruf4as15rglqmk5ka",
-      "title": "【福容大飯店福隆】新北貢寮親子住宿推薦！海洋探險主題房、遊戲室、泳池、海洋溫泉、海水浴場兩天一夜",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcGFOTXJqb2diRUF4aS15RGlqMk5Ka3hmdHBGVzRRVmxlWTl0RUl0Uy12QmQxc0NPc3pmaURGU19tUzdzVnFyQzAwQW5nblphYWlZeE56NjRSNzVX0gFiQVVfeXFMTXhmYUhUME5PYmlkazFXZWxGWGp1UmN4dzJGR254QXBwZ2dGamtDNzlQZ21iWDJTSGlXR3hpcUl3NnZXczg3Ym9GLXRFMjEzdWxLTDJ6eUJyMEZLR0NkdHNFTkE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcGFOTXJqb2diRUF4aS15RGlqMk5Ka3hmdHBGVzRRVmxlWTl0RUl0Uy12QmQxc0NPc3pmaURGU19tUzdzVnFyQzAwQW5nblphYWlZeE56NjRSNzVX0gFiQVVfeXFMTXhmYUhUME5PYmlkazFXZWxGWGp1UmN4dzJGR254QXBwZ2dGamtDNzlQZ21iWDJTSGlXR3hpcUl3NnZXczg3Ym9GLXRFMjEzdWxLTDJ6eUJyMEZLR0NkdHNFTkE?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "【福容大飯店福隆】新北貢寮親子住宿推薦！海洋探險主題房、遊戲室、泳池、海洋溫泉、海水浴場兩天一夜。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "【福容大飯店福隆】新北貢寮親子住宿推薦！海洋探險主題房、遊戲室、泳池、海洋溫泉、海水浴場兩天一夜。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "udn 女子漾",
-      "tags": [
-        "放電",
-        "好玩",
-        "大自然"
-      ],
-      "reason": "擁有兒童遊戲室與泳池可盡情放電，海水浴場沙灘寬廣適合全家戲水，海洋溫泉則是爸媽放鬆的獎勵，晴天雨天都有適合的設施。",
-      "published_at": "2026-10-19T04:47:23+00:00",
-      "collected_at": "2026-10-21T00:37:33.371698+00:00",
-      "query": "台灣 親子飯店 親子樂園"
     }
   ]
 }
