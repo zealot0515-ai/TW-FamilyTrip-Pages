@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T18:28:17.655273+00:00",
+  "updated_at": "2026-10-30T01:57:59.168924+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -53,6 +53,32 @@
       "published_at": "2026-10-29T07:30:00+00:00",
       "collected_at": "2026-10-29T18:27:56.959389+00:00",
       "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmitkfvx3lxte1lckxtvmxhcedjbxpyz2tdnelkudrxq",
+      "title": "8公斤嘉義火雞上桌！和逸飯店推感恩節分享餐5,499元享節慶大餐、虎姑婆親子住房3,308元起| 徐炳文 | 地方新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LckxtVmxHcEdJbXpYZ2tDNElKUDRXQVZqbkw4Wlp0MUJfNS1JV3AwUlhSTFBpc3ZaZlFsYmZVcFpjdVJoS3lzV2xWVnItdw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LckxtVmxHcEdJbXpYZ2tDNElKUDRXQVZqbkw4Wlp0MUJfNS1JV3AwUlhSTFBpc3ZaZlFsYmZVcFpjdVJoS3lzV2xWVnItdw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "8公斤嘉義火雞上桌！和逸飯店推感恩節分享餐5,499元享節慶大餐、虎姑婆親子住房3,308元起| 徐炳文 | 地方新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "8公斤嘉義火雞上桌！和逸飯店推感恩節分享餐5,499元享節慶大餐、虎姑婆親子住房3,308元起| 徐炳文 | 地方新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "價格與房型差異大，親子設施也可能需預約。",
+        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "風傳媒",
+      "tags": [
+        "室內",
+        "好玩"
+      ],
+      "reason": "飯店提供節慶分享餐與親子住房，適合怕冷、遇雨或不想安排長途行程的家庭作為備案。主題化住宿與餐點能讓小孩用餐、休息兼娛樂，減少家長同時處理吃飯與住宿的壓力。",
+      "published_at": "2026-10-28T12:37:00+00:00",
+      "collected_at": "2026-10-30T01:57:53.576858+00:00",
+      "query": "台南 高雄 屏東 親子景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmib0fvx3lxtfbrutvymwh2ykthmhp5vu45d0fqbtzpw",
@@ -182,6 +208,34 @@
       "published_at": "2026-10-28T02:19:00+00:00",
       "collected_at": "2026-10-28T18:20:36.285640+00:00",
       "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmixefvx3lxte9rs2lvd3jeadhpq01utk9kegxzuw0zq",
+      "title": "[台東景點]米國學校｜關山親子順遊景點！彩繪稻田、認識關山米、餵動物、必吃碗公飯",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rS2lVd3JEaDhpQ01UTk9keGxzUW0zQTBvSTVBblNKOGFldGlpS2FBTHBvVGpyaHdDVFVtb0FCVEZyQ2s4enZNV1RmbXlWbHVLaEhyUUg4ZHdpekFW0gFiQVVfeXFMTlg4UmJMT2RnVkRUY0ZpMjN6R2Z0cGdSaDc0ZExWSWhTd3I1N19acTMwYnFlX0lRX1FSUUt6aUNTdEEzLVBTZ1pLMzh3WUlhNTY0b3RzTGJicUVuSjR3WVZndVE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rS2lVd3JEaDhpQ01UTk9keGxzUW0zQTBvSTVBblNKOGFldGlpS2FBTHBvVGpyaHdDVFVtb0FCVEZyQ2s4enZNV1RmbXlWbHVLaEhyUUg4ZHdpekFW0gFiQVVfeXFMTlg4UmJMT2RnVkRUY0ZpMjN6R2Z0cGdSaDc0ZExWSWhTd3I1N19acTMwYnFlX0lRX1FSUUt6aUNTdEEzLVBTZ1pLMzh3WUlhNTY0b3RzTGJicUVuSjR3WVZndVE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "[台東景點]米國學校｜關山親子順遊景點！彩繪稻田、認識關山米、餵動物、必吃碗公飯。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "[台東景點]米國學校｜關山親子順遊景點！彩繪稻田、認識關山米、餵動物、必吃碗公飯。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "動物互動與自然觀察能提高孩子參與感。",
+        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
+        "tips": "出發前確認餵食、互動體驗與休園時間。"
+      },
+      "source_name": "udn 女子漾",
+      "tags": [
+        "放電",
+        "看動物",
+        "好玩",
+        "大自然"
+      ],
+      "reason": "結合彩繪稻田、米食教育與餵動物等活動，讓孩子在戶外走動參與中認識農業，兼具探索與放電效果。",
+      "published_at": "2026-10-25T15:23:02+00:00",
+      "collected_at": "2026-10-30T01:57:58.996294+00:00",
+      "query": "台灣 親子餐廳 景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmigwfbvv95cuxqodftemdwwmrzzew3revhu2tku1vra",
@@ -740,59 +794,6 @@
       "reason": "主題樂園遊樂設施適合帶孩子放電，且連假票價優惠可降低家庭支出。麗寶主打18歲以下免費，出發前仍須確認優惠適用日期與入園條件。",
       "published_at": "2026-10-20T02:20:14+00:00",
       "collected_at": "2026-10-27T18:00:12.180843+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5qqnzwcfl2awvladk3vejxulpxbe9jm",
-      "title": "大立空中樂園10月特別企劃 空中辦桌吃出獨特的高雄回憶",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qQnZwcFl2aWVlaDk3VEJxUlpxbE9jMmJPLV9wc0x1LUx5VmRwakx4dVVxajBYZE05aVdoX2ktY0lFY2FDdE5oR0lqQUtyb3hxUHc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qQnZwcFl2aWVlaDk3VEJxUlpxbE9jMmJPLV9wc0x1LUx5VmRwakx4dVVxajBYZE05aVdoX2ktY0lFY2FDdE5oR0lqQUtyb3hxUHc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "大立空中樂園10月特別企劃 空中辦桌吃出獨特的高雄回憶。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "大立空中樂園10月特別企劃 空中辦桌吃出獨特的高雄回憶。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "放電",
-        "室內",
-        "好玩"
-      ],
-      "reason": "「空中辦桌」把用餐變成高空主題體驗，適合帶小孩在室內參加特殊活動、釋放活力。仍建議事先確認活動年齡限制、餐點與座位安排，以及兒童活動時段。",
-      "published_at": "2026-10-19T09:57:05+00:00",
-      "collected_at": "2026-10-22T17:10:21.924333+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfbivu5pmhjeqkv3lwhubmw5wjlpr1fid",
-      "title": "嘉義舊監宿舍群變身木育樂園 全齡一起跟木頭玩",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIVU5PMHJEQkV3LWhUbmw5WjlpR1FIdFN0cTdORHJSYWZocFpjRC1IT3VlNkxpaS1xTVRxbWFHclJqTHRxZE8xaUlyUDNBZFhqMHc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIVU5PMHJEQkV3LWhUbmw5WjlpR1FIdFN0cTdORHJSYWZocFpjRC1IT3VlNkxpaS1xTVRxbWFHclJqTHRxZE8xaUlyUDNBZFhqMHc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "嘉義舊監宿舍群變身木育樂園 全齡一起跟木頭玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "嘉義舊監宿舍群變身木育樂園 全齡一起跟木頭玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "好玩",
-        "室內"
-      ],
-      "reason": "木育設施提供多元木質互動遊具，動手操作安全性高，適合親子共玩；室內空間雨天可正常遊玩，是雨天備案好去處。",
-      "published_at": "2026-10-19T09:06:00+00:00",
-      "collected_at": "2026-10-19T18:42:50.971313+00:00",
       "query": "台灣 遊樂園 親子 最新"
     }
   ]
