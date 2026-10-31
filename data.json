@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T01:35:30.273292+00:00",
+  "updated_at": "2026-10-31T17:15:01.339077+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -221,6 +221,36 @@
       "query": "台灣 親子放電 景點"
     },
     {
+      "id": "https-truemii-chinatimes-com-search-e8-a6-aa-e5-ad-90-e6-99-af-e9-bb-9e",
+      "title": "觸mii",
+      "url": "https://truemii.chinatimes.com/search/%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E",
+      "canonical_url": "https://truemii.chinatimes.com/search/%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E",
+      "image_url": "https://truemii.chinatimes.com/images/logo-truemii-1200x635.png",
+      "images": [
+        "https://truemii.chinatimes.com/images/logo-truemii-1200x635.png",
+        "https://images.chinatimes.com/newsphoto/2026-10-30/330/20261030002697.jpg",
+        "https://images.chinatimes.com/newsphoto/2026-09-17/330/20260917003295.jpg"
+      ],
+      "summary": "觸mii。2026新北城市展「New Taipei Band：共奏未來」今（30）日於新北市政府三重安芯中心開展，新北市長侯友宜出席開幕儀式，並邀請藝人黃鐙輝擔任觀展嘉賓，首度發表以新北城市聲景創作的主題曲《NEW LOOP》。展覽規劃7大展區，結合城市建設、產業文化、科技、親子藝術及美食等元素，呈現新北發展與生活樣貌，即日起至12月27日免費參觀。高雄親子遊樂園自自今年父親節開幕以來，已成為高雄熱門親子休憩據點，為兼顧設施維護品質並回應民眾多元休憩需求，高雄市政府工務局公園處今（17）日宣布，9月28日起休園保養日由原本每周一、二，改為每周二、三休園，不僅方便民眾連假遊玩，也更符合民眾出遊習慣。至於部分設施遭反映有損壞狀況，公園處會利用休園期間盡快修復，並提醒民眾正確使用。' + item.Content + '",
+      "analysis": {
+        "overview": "觸mii。2026新北城市展「New Taipei Band：共奏未來」今（30）日於新北市政府三重安芯中心開展，新北市長侯友宜出席開幕儀式，並邀請藝人黃鐙輝擔任觀展嘉賓，首度發表以新北城市聲景創作的主題曲《NEW LOOP》。展覽規劃7大展區，結合城市建設、產業文化、科技、親子藝術及美食等元素，呈現新北發展與生活樣貌，即日起至12月27日免費參觀。高雄親子遊樂園自自今年父親節開幕以來，已成為高雄熱門親子休憩據點，為兼顧設施維護品質並回應民眾多元休憩需求，高雄市政府工務局公園處今（17）日宣布，9月28日起休園保養",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "truemii.chinatimes.com",
+      "tags": [
+        "室內",
+        "大自然",
+        "放電",
+        "好玩"
+      ],
+      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
+      "published_at": "2026-10-29T17:01:00+00:00",
+      "collected_at": "2026-10-31T17:14:57.103899+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiggnbvv95cuxnoffodlnsme9qcvbnahdwukc1wknqu",
       "title": "「我的情緒探索樂園」熱鬧開展 桃園心理健康月邀市民探索情緒",
       "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNOFFodlNSME9qcVBnaHdwUkc1WkNqUnhjSkJxUHlWUm1qaHMwZXA5SHBncW1GdFdaZzNmcl9tSk1EWGFKQmo2U2tTZlNUY1NoSUx2bXZWYXlZeHB0MWp5WlpZTFhmT1R5OEtYVjQwRl9mcjJnWkptUHFUS014U3Nybzg0bWc5bzBkbkJqaEpNRHMtTWxJR214WE1XUDBOSnlicEF6dEJGMThMdTFwMFZPRFF2Sl9PNF9zOVJFZC1FQk56OTUyUFRqVlE5eDAxYm5mNEExSDVCRG85eE4wR0F6YmZ0QU1fNWhJMmpya3RLakFRcXl6akFHNTFDaDZWSmtGNHA1ZWkxb3FmaG1hWGpGbU1rU0VDTDVVSFdEMWtOb2RtZlgxZDNIeE1xSlJ1ODlwRTFsbTFQZnB5Y0RtNVQxa3RqYnJBZU1BVmNEU2hERnNMdVBFak44TXV2dUlZd1ZpSS1sVHZBVzFYUGtDWTNTanJxNjB0bUNnMFpNZmFBanFaZw?oc=5",
@@ -245,6 +275,32 @@
       "published_at": "2026-10-29T10:01:48+00:00",
       "collected_at": "2026-10-29T18:27:52.400537+00:00",
       "query": "台北 新北 桃園 親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte1swerntl9hwk40cg52wnoxcujkd29rv",
+      "title": "台中特寵餐廳推薦｜木需奶奶Brunch超療癒！爬蟲友善、親子美食一次滿足| 旅遊",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SWERnTl9HWk40cG52WnoxcUJKd29RVzlzX0NGbVdxRl9hQUh0NzJBSFBOb2RtVzdfblJiODF5eFhwTTdFX2Y0Unp4SHpVMXZR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SWERnTl9HWk40cG52WnoxcUJKd29RVzlzX0NGbVdxRl9hQUh0NzJBSFBOb2RtVzdfblJiODF5eFhwTTdFX2Y0Unp4SHpVMXZR?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台中特寵餐廳推薦｜木需奶奶Brunch超療癒！爬蟲友善、親子美食一次滿足| 旅遊。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台中特寵餐廳推薦｜木需奶奶Brunch超療癒！爬蟲友善、親子美食一次滿足| 旅遊。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "UDN",
+      "tags": [
+        "室內",
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-10-29T08:28:32+00:00",
+      "collected_at": "2026-10-31T17:14:57.785132+00:00",
+      "query": "台灣 親子景點 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte8takq0zs10uvg1tudowkxvdgk0adfiy",
@@ -750,59 +806,6 @@
       "published_at": "2026-10-22T11:44:30+00:00",
       "collected_at": "2026-10-22T17:09:53.156721+00:00",
       "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmibefvx3lxte5tq281uuzmb2lfunpwoujwdtvqwulsw",
-      "title": "百年古蹟變親子遊樂園！滬尾小學校禮堂3周年免費體驗懷舊童玩- 瘋台灣",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tQ281UUZmb2lFUnpwOUJwdTVqWUlSWENSaXdJT0t5enUxUFF4djluLTI2M3hTMkctSHRyNzcyM3lkUWdmMzJQa2NhUWlsUVZCRllhZGFrVWpaaHNTSms3Sm1zRG9YekFSN0h5Mg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tQ281UUZmb2lFUnpwOUJwdTVqWUlSWENSaXdJT0t5enUxUFF4djluLTI2M3hTMkctSHRyNzcyM3lkUWdmMzJQa2NhUWlsUVZCRllhZGFrVWpaaHNTSms3Sm1zRG9YekFSN0h5Mg?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "百年古蹟變親子遊樂園！滬尾小學校禮堂3周年免費體驗懷舊童玩- 瘋台灣。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "百年古蹟變親子遊樂園！滬尾小學校禮堂3周年免費體驗懷舊童玩- 瘋台灣。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "觸mii",
-      "tags": [
-        "好玩",
-        "室內",
-        "放電"
-      ],
-      "reason": "百年古蹟校園結合懷舊童玩，適合帶孩子一起體驗與探索，活動內容有趣又能達到放電效果。位於校舍禮堂內，適合作為下雨天的備案，且目前提供免費體驗，預算負擔較低。",
-      "published_at": "2026-10-22T06:33:56+00:00",
-      "collected_at": "2026-10-22T17:09:55.968340+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxtfbtejfeee5wewp1ec1koutquhpprxzit",
-      "title": "全台首座性教育遊戲場在新北！「性平不小室」連英國學者都來朝聖 | TVBS",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTejFEeE5weWp1eC1kOUtQUHppRXZiT0duNU1HdHhPbC1Ma01TdlpCSm1nLVkyRzNTaVlwdUR0cFJCdjZYdkNuTWtZNFlUVzZoMkNGaHh3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTejFEeE5weWp1eC1kOUtQUHppRXZiT0duNU1HdHhPbC1Ma01TdlpCSm1nLVkyRzNTaVlwdUR0cFJCdjZYdkNuTWtZNFlUVzZoMkNGaHh3?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "全台首座性教育遊戲場在新北！「性平不小室」連英國學者都來朝聖 | TVBS。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "全台首座性教育遊戲場在新北！「性平不小室」連英國學者都來朝聖 | TVBS。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "以遊戲互動融入性平教育，讓孩子在放電玩樂的過程中接觸身體界線、尊重與自我保護等觀念。適合家長在輕鬆陪伴下引導孩子建立正確的性平觀念。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "以遊戲互動融入性平教育，讓孩子在放電玩樂的過程中接觸身體界線、尊重與自我保護等觀念。適合家長在輕鬆陪伴下引導孩子建立正確的性平觀念。",
-      "published_at": "2026-10-21T16:06:15+00:00",
-      "collected_at": "2026-10-22T00:41:35.844659+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
     }
   ]
 }
