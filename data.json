@@ -1,8 +1,68 @@
 {
-  "updated_at": "2026-10-30T17:59:49.170072+00:00",
+  "updated_at": "2026-10-31T01:35:30.273292+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte1ocujeam83ogh6oxy1qtd2uhlibxr5c",
+      "title": "台灣知名遊樂園歇業淪法拍！熱門景點成回憶，「降價6917萬元仍賣不出去」， 專家曝原因",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ocUJEam83OGh6OXY1QTd2UHlIbXR5c21aVjR3R0FDcHo5ZFZ1QzRlUmFlaGVnaWdkTW9aZHE1Nk9nSkE4QmU2MWdfd3ByVDU1?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ocUJEam83OGh6OXY1QTd2UHlIbXR5c21aVjR3R0FDcHo5ZFZ1QzRlUmFlaGVnaWdkTW9aZHE1Nk9nSkE4QmU2MWdfd3ByVDU1?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台灣知名遊樂園歇業淪法拍！熱門景點成回憶，「降價6917萬元仍賣不出去」， 專家曝原因。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台灣知名遊樂園歇業淪法拍！熱門景點成回憶，「降價6917萬元仍賣不出去」， 專家曝原因。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "風傳媒",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-10-31T01:00:00+00:00",
+      "collected_at": "2026-10-31T01:35:27.295581+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-www-storm-mg-lifestyle-11177151",
+      "title": "武陵、綠世界輸了！台灣最強農場吸38萬人，遊客讚：絕景媲美歐洲、全家玩整天都不膩 | 王浩三 | 風生活",
+      "url": "https://www.storm.mg/lifestyle/11177151",
+      "canonical_url": "https://www.storm.mg/lifestyle/11177151",
+      "image_url": "https://images.storm.mg/cloud/6aceb01fe646f9bd26f32145e4dd06391bfb7afd.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2089111%2FHCPNVBny8w2fwEdrUm8AzQqiEyoR37NhqEN3rAjw.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+      "images": [
+        "https://images.storm.mg/cloud/6aceb01fe646f9bd26f32145e4dd06391bfb7afd.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2089111%2FHCPNVBny8w2fwEdrUm8AzQqiEyoR37NhqEN3rAjw.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+        "https://images.storm.mg/cloud/6aceb01fe646f9bd26f32145e4dd06391bfb7afd.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2089111%2FHCPNVBny8w2fwEdrUm8AzQqiEyoR37NhqEN3rAjw.jpg&g=sm&h=675&resize=fill&w=1200&format=webp",
+        "https://www.storm.mg/img/article-default-cover.jpg",
+        "https://images.storm.mg/cloud/42e3bd8c63cdc612dea4fed2e55c5bc23a23c8c3.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2231677%2FAXMh8ePmQ6iLJ074urPbAoVdKsLIDVI5XMcj1Oqa.jpeg&g=sm&h=400&resize=fill&w=400",
+        "https://images.storm.mg/cloud/9c841bf87e7aaa4009bbcbcb06e1f7c735230474.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2243327%2FVYHyX6tIt2NjMLlto0gpQ01L8izkRpal2Htpyiau.jpg&g=sm&h=400&resize=fill&w=400",
+        "https://images.storm.mg/cloud/9543e5c3894a1b2f6a62d794ae46f26845493ec6.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2243307%2FAf3XeNrxA7gekefdq7WTYAQgQmeSlM0kpaKJtx6X.jpg&g=sm&h=400&resize=fill&w=400",
+        "https://images.storm.mg/cloud/449869fb91374a822e338ce69b5ff0911d3c3447.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2145640%2FhxHSZvHZqUnsUYZgJRgfe70pqe1XjnaIddrlYI8G.jpg&g=sm&h=400&resize=fill&w=400",
+        "https://images.storm.mg/cloud/f4d2c059589c41e5010729d2dffa4bc73af5d434.webp?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2243336%2FeVY0FjD2LdL8MhcX8OJgb0Um8idli3EWgZkZgxtq.jpg&g=sm&h=400&resize=fill&w=400"
+      ],
+      "summary": "武陵、綠世界輸了！台灣最強農場吸38萬人，遊客讚：絕景媲美歐洲、全家玩整天都不膩 | 王浩三 | 風生活。座落於南投縣仁愛鄉、海拔約1,750公尺的清境農場，向來是全台高山農場的人氣常勝軍。園區內翠綠綿延的青青草原，搭配群山環繞的壯麗景致，充滿異國鄉村氛圍，因而享有「台灣小瑞士」的美譽，除了能在草地上與溫馴羊群近距離互動外，經典的「綿羊秀」與精彩的「蒙古馬術秀」更是遊客必看的重頭戲，漫步在高空觀景步道上，還能遠眺中央山脈群峰，炎炎夏日中，高山舒適宜人的涼爽氣溫更讓這裡成為避暑首選，光是暑假期間單月就吸引超過4.7萬人次上山造訪 。名列第2的武陵農場（含雪霸武陵遊客中心），前8個月累計吸引超過19.5萬人次造訪。位於台中和平區的高海拔山區，武陵四季皆有不同風貌：春季粉櫻盛開、夏季清涼避暑、秋冬則有楓紅與金黃銀杏，各個時節都吸引大量旅客朝聖。其中，每年2月的櫻花季更是農場全年的顛峰期，單月就湧入近8萬人次進園。除了如詩如畫的茶園花海外，農場鄰近雪霸國家公園武陵遊憩區，豐富的林相、清幽的桃山瀑布步道，以及國寶魚「台灣櫻花鉤吻鮭」的生態展示，也是登山客與生態愛好者必訪的景點。",
+      "analysis": {
+        "overview": "武陵、綠世界輸了！台灣最強農場吸38萬人，遊客讚：絕景媲美歐洲、全家玩整天都不膩 | 王浩三 | 風生活。座落於南投縣仁愛鄉、海拔約1,750公尺的清境農場，向來是全台高山農場的人氣常勝軍。園區內翠綠綿延的青青草原，搭配群山環繞的壯麗景致，充滿異國鄉村氛圍，因而享有「台灣小瑞士」的美譽，除了能在草地上與溫馴羊群近距離互動外，經典的「綿羊秀」與精彩的「蒙古馬術秀」更是遊客必看的重頭戲，漫步在高空觀景步道上，還能遠眺中央山脈群峰，炎炎夏日中，高山舒適宜人的涼爽氣溫更讓這裡成為避暑首選，光是暑假期間單月就吸引超過4.7萬",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。"
+      },
+      "source_name": "storm.mg",
+      "tags": [
+        "看動物",
+        "大自然",
+        "好玩"
+      ],
+      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
+      "published_at": "2026-10-30T11:59:00+00:00",
+      "collected_at": "2026-10-31T01:35:29.637142+00:00",
+      "query": "台灣 親子農場 景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmitkfvx3lxte80vfvbwf82aklvrklzntc3chbsq1pra",
       "title": "台東景點｜國立臺灣史前文化博物館：親子室內景點推薦，探索館互動遊戲、史前文化與親子共學",
@@ -79,6 +139,32 @@
       "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
       "published_at": "2026-10-30T07:19:13+00:00",
       "collected_at": "2026-10-30T17:59:47.149159+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfb0eucyblzldvjzql9fbk5nsef2ndi0u",
+      "title": "和逸飯店台南西門館推尾牙春酒及跨年住房專案 親子同樂迎接2027",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0eUcyblZldVJZQl9fbk5NSEF2NDI0UEgwOVVPcENxYkFBb3JFdHVnQlFTbC1VcnhQdHdZRURSVVY1SlhCSGNEQjctV0MyeVRMVFE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0eUcyblZldVJZQl9fbk5NSEF2NDI0UEgwOVVPcENxYkFBb3JFdHVnQlFTbC1VcnhQdHdZRURSVVY1SlhCSGNEQjctV0MyeVRMVFE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "和逸飯店台南西門館推尾牙春酒及跨年住房專案 親子同樂迎接2027。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "和逸飯店台南西門館推尾牙春酒及跨年住房專案 親子同樂迎接2027。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "價格與房型差異大，親子設施也可能需預約。",
+        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "室內",
+        "好玩"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-10-30T07:19:13+00:00",
+      "collected_at": "2026-10-31T01:35:30.120635+00:00",
       "query": "台灣 遊樂園 親子 最新"
     },
     {
@@ -717,85 +803,6 @@
       "published_at": "2026-10-21T16:06:15+00:00",
       "collected_at": "2026-10-22T00:41:35.844659+00:00",
       "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiwefvx3lxte0zqlrdvfjltm9lmthrzwrxr0e3nkdun",
-      "title": "大立空中樂園攜手金葉摸油湯 席開高空辦桌重現高雄人童年記憶",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zQlRDVFJlTm9lMThrZWRxR0E3NkdUNHhfSWI5ZW95bElSVHlVbE5pU0ZzSUlBQ1pVVEppV0YycFotOUlpd3BBMldiVVF5YldfQnAwMU9Wa2E?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zQlRDVFJlTm9lMThrZWRxR0E3NkdUNHhfSWI5ZW95bElSVHlVbE5pU0ZzSUlBQ1pVVEppV0YycFotOUlpd3BBMldiVVF5YldfQnAwMU9Wa2E?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "大立空中樂園攜手金葉摸油湯 席開高空辦桌重現高雄人童年記憶。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "大立空中樂園攜手金葉摸油湯 席開高空辦桌重現高雄人童年記憶。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "福爾摩沙時報",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "結合遊樂設施與高空辦桌活動，孩子可以放電、大人也能一起參與，適合安排成輕鬆的親子行程。位於商場內，遇上雨天也有備案，但前往前宜確認場館的推車動線與餐點座位安排。",
-      "published_at": "2026-10-20T15:53:45+00:00",
-      "collected_at": "2026-10-29T01:48:12.133206+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte5zelhhawhxs3zubmw1u2g5q3dkrnzfy",
-      "title": "是餐廳也是遊樂園！台北最新親子空間推薦、低消120元起，沙坑、挖土機必玩",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZelhHaWhxS3Zubmw1U2g5Q3dkRnZfY1BXQ1NxZHBLbmxobTVlTFlZanp2ZVB0dVNqZDV5WWVBMFhHZzN3WFNfV0NjVFE0U3FGZ2ltZw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZelhHaWhxS3Zubmw1U2g5Q3dkRnZfY1BXQ1NxZHBLbmxobTVlTFlZanp2ZVB0dVNqZDV5WWVBMFhHZzN3WFNfV0NjVFE0U3FGZ2ltZw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "是餐廳也是遊樂園！台北最新親子空間推薦、低消120元起，沙坑、挖土機必玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "是餐廳也是遊樂園！台北最新親子空間推薦、低消120元起，沙坑、挖土機必玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "食尚玩家",
-      "tags": [
-        "放電"
-      ],
-      "reason": "沙坑、挖土機等遊戲設施能讓小孩盡情玩耍、消耗體力。餐廳與遊樂空間結合，適合家長用餐時同步陪伴 kids，兼顧親子需求。",
-      "published_at": "2026-10-20T12:25:17+00:00",
-      "collected_at": "2026-10-29T18:28:11.218975+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte5zelhhawhxs3zubmw1u2g5q3dkrnzfy",
-      "title": "是餐廳也是遊樂園！台北最新親子空間推薦、低消120元起，沙坑、挖土機必玩",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZelhHaWhxS3Zubmw1U2g5Q3dkRnZfY1BXQ1NxZHBLbmxobTVlTFlZanp2ZVB0dVNqZDV5WWVBMFhHZzN3WFNfV0NjVFE0U3FGZ2ltZ9IBWkFVX3lxTE9JWWdUVGRkX2d1cjlLdWZhTXdHcS1GeWZxNnpnaFNmRmJ0WDdHUjQtRllra0M3SUtuOGE5LUR1OWRaU0UzQzhLMXJyQnpiLTBCc3JsVUFPV2F2QQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZelhHaWhxS3Zubmw1U2g5Q3dkRnZfY1BXQ1NxZHBLbmxobTVlTFlZanp2ZVB0dVNqZDV5WWVBMFhHZzN3WFNfV0NjVFE0U3FGZ2ltZ9IBWkFVX3lxTE9JWWdUVGRkX2d1cjlLdWZhTXdHcS1GeWZxNnpnaFNmRmJ0WDdHUjQtRllra0M3SUtuOGE5LUR1OWRaU0UzQzhLMXJyQnpiLTBCc3JsVUFPV2F2QQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "是餐廳也是遊樂園！台北最新親子空間推薦、低消120元起，沙坑、挖土機必玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "是餐廳也是遊樂園！台北最新親子空間推薦、低消120元起，沙坑、挖土機必玩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "食尚玩家",
-      "tags": [
-        "放電",
-        "好玩",
-        "室內"
-      ],
-      "reason": "結合餐廳與遊樂設施，室內空間雨天也能放電，低消120元cp值高，沙坑與挖土機設施能讓小孩盡情玩耍，家長可同時用餐休息。",
-      "published_at": "2026-10-20T12:10:00+00:00",
-      "collected_at": "2026-10-20T17:02:55.307434+00:00",
-      "query": "台灣 親子景點 最新"
     }
   ]
 }
