@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T21:42:12.659641+00:00",
+  "updated_at": "2026-11-03T03:28:17.839984+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -82,6 +82,31 @@
       "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
       "published_at": "2026-11-02T08:19:31+00:00",
       "collected_at": "2026-11-02T21:42:10.988484+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmitgjbvv95cuxotji0d2vwtezlrglhqjdxvjlqzlg0z",
+      "title": "親子秋日小旅行！ 台南「虎頭埤」音樂派對11/21登場一連兩天",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOTjI0d2VWTEZlRGlhQjdXVjlQZlg0Z2s0ejN5S240RjBJRWRwZ0hualZOV0xMcmhmVEtERDRjR2N2NHBGd1hmZWUzZTFsRldmR0JYcFNEOWxNZkM0RnJMOGYzTGhidzB1R0RQVWNoMUVqY1JpaWx2R0hGRVdJV2lyUlQ2cmlyOWZSUW9XR0g0a1BxeDRiV0drek5vUlJFbVpJLUljMHBXTXNCZEdYOERyVkI0ZzZ4NGFOcFFDSlVCQzVXSEpIN1ZkRE5nS1J1c3NJaGVXdGdZNkxzcGg1NDVidWJiLW56XzVvVHU3bHE1Uk9RUGc2YUZEaTdRbElNY01UbG54cXd0OExScGpaMlltZGYybC14R1RQV0ZidXk2VUp0dkNoQ0ZzZEZwMHJsOFlMMEpKbkVn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOTjI0d2VWTEZlRGlhQjdXVjlQZlg0Z2s0ejN5S240RjBJRWRwZ0hualZOV0xMcmhmVEtERDRjR2N2NHBGd1hmZWUzZTFsRldmR0JYcFNEOWxNZkM0RnJMOGYzTGhidzB1R0RQVWNoMUVqY1JpaWx2R0hGRVdJV2lyUlQ2cmlyOWZSUW9XR0g0a1BxeDRiV0drek5vUlJFbVpJLUljMHBXTXNCZEdYOERyVkI0ZzZ4NGFOcFFDSlVCQzVXSEpIN1ZkRE5nS1J1c3NJaGVXdGdZNkxzcGg1NDVidWJiLW56XzVvVHU3bHE1Uk9RUGc2YUZEaTdRbElNY01UbG54cXd0OExScGpaMlltZGYybC14R1RQV0ZidXk2VUp0dkNoQ0ZzZEZwMHJsOFlMMEpKbkVn?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "親子秋日小旅行！ 台南「虎頭埤」音樂派對11/21登場一連兩天。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "親子秋日小旅行！ 台南「虎頭埤」音樂派對11/21登場一連兩天。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-11-02T08:19:31+00:00",
+      "collected_at": "2026-11-03T03:28:15.090244+00:00",
       "query": "台灣 親子旅遊 最新"
     },
     {
@@ -529,6 +554,32 @@
       "query": "台灣 週末親子 去哪裡"
     },
     {
+      "id": "https-www-msn-com-zh-tw-health-topic-e4-b8-ad-e9-83-a8-e9-9b-a8-e5-a4-a9-e8-a6-8",
+      "title": "中部雨天要去哪! 周末親子好去處，彰化新開幕親子空間，一票暢玩彈跳床、沙坑、積木牆",
+      "url": "https://www.msn.com/zh-tw/health/topic/%E4%B8%AD%E9%83%A8%E9%9B%A8%E5%A4%A9%E8%A6%81%E5%8E%BB%E5%93%AA-%E5%91%A8%E6%9C%AB%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95-%E5%BD%B0%E5%8C%96%E6%96%B0%E9%96%8B%E5%B9%95%E8%A6%AA%E5%AD%90%E7%A9%BA%E9%96%93-%E4%B8%80%E7%A5%A8%E6%9A%A2%E7%8E%A9%E5%BD%88%E8%B7%B3%E5%BA%8A-%E6%B2%99%E5%9D%91-%E7%A9%8D%E6%9C%A8%E7%89%86/ar-AA2c3JU3",
+      "canonical_url": "https://www.msn.com/zh-tw/health/topic/%E4%B8%AD%E9%83%A8%E9%9B%A8%E5%A4%A9%E8%A6%81%E5%8E%BB%E5%93%AA-%E5%91%A8%E6%9C%AB%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95-%E5%BD%B0%E5%8C%96%E6%96%B0%E9%96%8B%E5%B9%95%E8%A6%AA%E5%AD%90%E7%A9%BA%E9%96%93-%E4%B8%80%E7%A5%A8%E6%9A%A2%E7%8E%A9%E5%BD%88%E8%B7%B3%E5%BA%8A-%E6%B2%99%E5%9D%91-%E7%A9%8D%E6%9C%A8%E7%89%86/ar-AA2c3JU3",
+      "image_url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "中部雨天要去哪! 周末親子好去處，彰化新開幕親子空間，一票暢玩彈跳床、沙坑、積木牆。中部不少讓孩子流連忘返的博物館與觀光工廠，不論雨天或是日曬，都是全家出遊的最佳去處，以下推薦6個中部雨天去哪放電？從寓教於樂的博物館，到趣味好玩的遊樂場，每一個都讓大朋友小朋友還想再來一次呢！不論台灣中部有許多寓教於樂的主題體驗博物館和觀光工廠，讓人待上一整個下午都不是問題，無論是乳酪的製程、巧克力的知識、蛋捲的故事、釣魚的最佳手勢、或是單純讓自己腦洞大開，徜徉在幻覺與想像力之中， ...",
+      "analysis": {
+        "overview": "中部雨天要去哪! 周末親子好去處，彰化新開幕親子空間，一票暢玩彈跳床、沙坑、積木牆。中部不少讓孩子流連忘返的博物館與觀光工廠，不論雨天或是日曬，都是全家出遊的最佳去處，以下推薦6個中部雨天去哪放電？從寓教於樂的博物館，到趣味好玩的遊樂場，每一個都讓大朋友小朋友還想再來一次呢！不論台灣中部有許多寓教於樂的主題體驗博物館和觀光工廠，讓人待上一整個下午都不是問題，無論是乳酪的製程、巧克力的知識、蛋捲的故事、釣魚的最佳手勢、或是單純讓自己腦洞大開，徜徉在幻覺與想像力之中， ...",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "msn.com",
+      "tags": [
+        "看動物",
+        "室內",
+        "放電",
+        "好玩"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-10-29T19:30:08+00:00",
+      "collected_at": "2026-11-03T03:28:15.401897+00:00",
+      "query": "台灣 雨天 親子 室內 景點"
+    },
+    {
       "id": "https-truemii-chinatimes-com-search-e8-a6-aa-e5-ad-90-e6-99-af-e9-bb-9e",
       "title": "觸mii",
       "url": "https://truemii.chinatimes.com/search/%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E",
@@ -736,59 +787,6 @@
       "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
       "published_at": "2026-10-28T12:05:00+00:00",
       "collected_at": "2026-10-30T17:59:48.266392+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivefvx3lxte4yblrflxfqrf93bzvjcxfksgzvbuhwo",
-      "title": "台中爸媽連假免煩惱！2026台中親子景點TOP18：免門票工廠、３千坪室內樂園",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yblRFLXFQRF93bzVjcXFkSGZvbUhWOF9EYm13U0dMYXBNUU4zdjNuNUhCYWFHdnUwQ25TUjh4aVdYYTJaaklwRnNUNXBwUVBlUENhUw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yblRFLXFQRF93bzVjcXFkSGZvbUhWOF9EYm13U0dMYXBNUU4zdjNuNUhCYWFHdnUwQ25TUjh4aVdYYTJaaklwRnNUNXBwUVBlUENhUw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台中爸媽連假免煩惱！2026台中親子景點TOP18：免門票工廠、３千坪室內樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台中爸媽連假免煩惱！2026台中親子景點TOP18：免門票工廠、３千坪室內樂園。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "食尚玩家",
-      "tags": [
-        "室內",
-        "放電",
-        "好玩"
-      ],
-      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
-      "published_at": "2026-10-28T10:20:09+00:00",
-      "collected_at": "2026-10-30T17:59:48.630355+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmimgnbvv95cuxnos02qvntcenvem5ln1rdr0iyumpnz",
-      "title": "和逸飯店高雄中山館推歲末雙亮點 爐烤火雞盛宴、親子展住房專案登場",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNOS02QVNTcENvem5lN1RDR0IyUmpnZlQzQVpETWo4eEtRcEU1dDhJamVDSHY5SlRGZDAtQXlmeFlwUGlxbGt6NDFTRDFRWlh2ZDlYVUFJRXNIWmtGSlBsTzgyOWVUU0kzbXp3RkNTX2JvVzNobDZvSDlGZk5xdkpENktJNzNVM0J0a0xLT3R1UXl0VDQ5ekx3VGdjdmtGRGdhWVNfRGgxMC13STI2ekFOYl9CbG05NUoxTzloZzRNN0duemhhd1lqRlZ5X2szcDRQYnl0dks3eE1USXpucjQxcUlkYmNaT2Y2emZJVVBCeEdEcUxLVXl6TU5JVVBMUEZVT3NaSmk5M2w0Z284T3c5X0VmWllSbWdGbV90NnBuUjExbkotZjdyT1NyUTZjRkVTSnhKRm9wM1BLM0NtWUJSN0kwZXFIZkVTREV3SldNbEREdlBkdkNIRS1aVE9mbjZlMnJFWTdrZ2c0Tjl1VEtiOUUzeC1CT2dHbWJoSEp5bS1zUXBNRjV1VjdrZkU5ZFFsVU9mZW4za05ZUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNOS02QVNTcENvem5lN1RDR0IyUmpnZlQzQVpETWo4eEtRcEU1dDhJamVDSHY5SlRGZDAtQXlmeFlwUGlxbGt6NDFTRDFRWlh2ZDlYVUFJRXNIWmtGSlBsTzgyOWVUU0kzbXp3RkNTX2JvVzNobDZvSDlGZk5xdkpENktJNzNVM0J0a0xLT3R1UXl0VDQ5ekx3VGdjdmtGRGdhWVNfRGgxMC13STI2ekFOYl9CbG05NUoxTzloZzRNN0duemhhd1lqRlZ5X2szcDRQYnl0dks3eE1USXpucjQxcUlkYmNaT2Y2emZJVVBCeEdEcUxLVXl6TU5JVVBMUEZVT3NaSmk5M2w0Z284T3c5X0VmWllSbWdGbV90NnBuUjExbkotZjdyT1NyUTZjRkVTSnhKRm9wM1BLM0NtWUJSN0kwZXFIZkVTREV3SldNbEREdlBkdkNIRS1aVE9mbjZlMnJFWTdrZ2c0Tjl1VEtiOUUzeC1CT2dHbWJoSEp5bS1zUXBNRjV1VjdrZkU5ZFFsVU9mZW4za05ZUQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "和逸飯店高雄中山館推歲末雙亮點 爐烤火雞盛宴、親子展住房專案登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "和逸飯店高雄中山館推歲末雙亮點 爐烤火雞盛宴、親子展住房專案登場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "室內",
-        "好玩"
-      ],
-      "reason": "親子展住房可讓孩子在房內參與展覽，兼顧住宿與遊樂需求；遇到下雨或不想外出時也有備案，適合安排短程親子踏青。",
-      "published_at": "2026-10-28T09:50:28+00:00",
-      "collected_at": "2026-10-28T18:20:33.523066+00:00",
       "query": "台灣 親子旅遊 最新"
     }
   ]
