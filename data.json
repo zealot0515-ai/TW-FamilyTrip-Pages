@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T19:29:02.479255+00:00",
+  "updated_at": "2026-11-04T02:20:16.662123+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -336,6 +336,33 @@
       "published_at": "2026-11-01T04:30:30+00:00",
       "collected_at": "2026-11-02T01:30:16.094493+00:00",
       "query": "台灣 免費親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmir0fvx3lxtfb4amuztwzet3lyrtvlsf91wdjvcnhiu",
+      "title": "蔡易餘化身「歐爾麥特」踩街與民同樂 第一手公布「雙菜魚親子樂園」11月登場 宣示打造育兒友善新嘉義",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB4amUzTWZET3lYRTVLSF91WDJvcnhiUGhtYUpiakdwVEctQUUwaFoyX3doaktKdTB0NEdZbE5kUnVfZU1QaWFv?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB4amUzTWZET3lYRTVLSF91WDJvcnhiUGhtYUpiakdwVEctQUUwaFoyX3doaktKdTB0NEdZbE5kUnVfZU1QaWFv?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "蔡易餘化身「歐爾麥特」踩街與民同樂 第一手公布「雙菜魚親子樂園」11月登場 宣示打造育兒友善新嘉義。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "蔡易餘化身「歐爾麥特」踩街與民同樂 第一手公布「雙菜魚親子樂園」11月登場 宣示打造育兒友善新嘉義。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "台灣新聞雲",
+      "tags": [
+        "看動物",
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-11-01T03:48:53+00:00",
+      "collected_at": "2026-11-04T02:20:05.669722+00:00",
+      "query": "台灣 遊樂園 親子 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte1ocujeam83ogh6oxy1qtd2uhlibxr5c",
@@ -763,31 +790,6 @@
       "published_at": "2026-10-28T12:37:00+00:00",
       "collected_at": "2026-10-30T01:57:53.576858+00:00",
       "query": "台南 高雄 屏東 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmib0fvx3lxtfbrutvymwh2ykthmhp5vu45d0fqbtzpw",
-      "title": "和逸飯店‧高雄中山館推感恩節火雞盛宴！外帶5,499元起 再享親子住房優惠",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrUTVYMWh2YktHMHp5VU45d0FqbTZPWjJ1T0ZkN1dQMlFwMjB6b2IxWkJxLWpiQXVFY0hrUVZpd0hMMkNHc2RoVUdzY3h0d3dWb25FMF9yTGhKTHFfb29IMUxRRmFVbzJRenBMS2Q4TQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrUTVYMWh2YktHMHp5VU45d0FqbTZPWjJ1T0ZkN1dQMlFwMjB6b2IxWkJxLWpiQXVFY0hrUVZpd0hMMkNHc2RoVUdzY3h0d3dWb25FMF9yTGhKTHFfb29IMUxRRmFVbzJRenBMS2Q4TQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "和逸飯店‧高雄中山館推感恩節火雞盛宴！外帶5,499元起 再享親子住房優惠。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "和逸飯店‧高雄中山館推感恩節火雞盛宴！外帶5,499元起 再享親子住房優惠。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "勁報",
-      "tags": [
-        "室內"
-      ],
-      "reason": "飯店提供感恩節火雞盛宴與親子住房優惠，適合全家用餐兼住宿，不必受戶外天氣影響。住宿與餐點整合方便，也能讓帶小孩的家庭減少行程安排上的負擔。",
-      "published_at": "2026-10-28T12:08:34+00:00",
-      "collected_at": "2026-10-28T18:20:31.333986+00:00",
-      "query": "台灣 室內親子景點"
     }
   ]
 }
