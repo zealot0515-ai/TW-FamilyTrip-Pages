@@ -1,8 +1,151 @@
 {
-  "updated_at": "2026-11-06T02:26:38.616216+00:00",
+  "updated_at": "2026-11-06T19:23:44.906848+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmisefvx3lxte5jdejqyzhkdgpbvnpjzfgydwjmtmtaq",
+      "title": "新竹市首度推動永續及親子友善旅宿認證10家業者獲表揚 高虹安市長：打造友善旅遊城市",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jdEJQYzhKdGpBVnpJZFgydWJmTmtaQUR6RGpCeDQ3Q0lvMGR2MkxzYk0yc1IxNXplZFFBQnJKM19TSklnUFpmbw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jdEJQYzhKdGpBVnpJZFgydWJmTmtaQUR6RGpCeDQ3Q0lvMGR2MkxzYk0yc1IxNXplZFFBQnJKM19TSklnUFpmbw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "新竹市首度推動永續及親子友善旅宿認證10家業者獲表揚 高虹安市長：打造友善旅遊城市。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "新竹市首度推動永續及親子友善旅宿認證10家業者獲表揚 高虹安市長：打造友善旅遊城市。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "台灣民眾電子報",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-11-06T08:30:48+00:00",
+      "collected_at": "2026-11-06T19:23:42.331492+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmi5ajbvv95cuxqltjruelzz2dqy04wwwxru0rcow5ru",
+      "title": "2026臺灣科學節台北場攻略》科教館親子必玩、免費嘉年華、門票與交通一次看",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQLTJrUElzZ2dQY04wWWxrU0RCOW5rUEk2YWQyYTg3ZW1RUUNDYXN2WEVjM1BUTTRmUUVEUE12TzdFZ2Q0S2d4SDJ1SkF5RWtTeXB4akRkMEdKaFI4Z0YzN19MOURteTE1Zml5akNqTWNkRnFYcEZPNWVLeklmMGdQRzZLMTVQdGgtdnlGWHMwenhyNVF2X3YzVkdKZWdJMTZXc0NnT2dKVW9PQ2J6UVlveWplcER6NHBoZ2hBa3B0SlpwTV8tS1Y3am0yMEV4OVVKWWhGNkVJTTdzRERvdWplZ09zaTdaZWMxZGlnS3hLNUVJTXdhNjVYdHRDNWhvRDRQWEFuME5WMGZMNmNaSDAyeHhDWTFwTzBXQ3VpYUlMQTZQLW9KSF9MdWNSVHhfNFdZdTdQN1NONEJQSWJ3RUhZTEdCM3Q3eW1VbVFKMnF1S0RZWnNVYlI1ckRidXJfRDFwNXZjOQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQLTJrUElzZ2dQY04wWWxrU0RCOW5rUEk2YWQyYTg3ZW1RUUNDYXN2WEVjM1BUTTRmUUVEUE12TzdFZ2Q0S2d4SDJ1SkF5RWtTeXB4akRkMEdKaFI4Z0YzN19MOURteTE1Zml5akNqTWNkRnFYcEZPNWVLeklmMGdQRzZLMTVQdGgtdnlGWHMwenhyNVF2X3YzVkdKZWdJMTZXc0NnT2dKVW9PQ2J6UVlveWplcER6NHBoZ2hBa3B0SlpwTV8tS1Y3am0yMEV4OVVKWWhGNkVJTTdzRERvdWplZ09zaTdaZWMxZGlnS3hLNUVJTXdhNjVYdHRDNWhvRDRQWEFuME5WMGZMNmNaSDAyeHhDWTFwTzBXQ3VpYUlMQTZQLW9KSF9MdWNSVHhfNFdZdTdQN1NONEJQSWJ3RUhZTEdCM3Q3eW1VbVFKMnF1S0RZWnNVYlI1ckRidXJfRDFwNXZjOQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "2026臺灣科學節台北場攻略》科教館親子必玩、免費嘉年華、門票與交通一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "2026臺灣科學節台北場攻略》科教館親子必玩、免費嘉年華、門票與交通一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "Life 生活網",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-11-06T07:53:11+00:00",
+      "collected_at": "2026-11-06T19:23:42.879741+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte9hn2ddynhfetzzre5wwxjlrkdkben1r",
+      "title": "2026臺灣科學節台北場攻略》科教館親子必玩、免費嘉年華、門票與交通一次看",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HN2dDYnhFeTZzRE5WWXJlRkdKbEN1RWZzOU9sd3B3N19EU0o3d2MtbkhmbGNEamMybmJab3NrVjVRQU1xRDc1UnNwWk5aX3JQZHc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HN2dDYnhFeTZzRE5WWXJlRkdKbEN1RWZzOU9sd3B3N19EU0o3d2MtbkhmbGNEamMybmJab3NrVjVRQU1xRDc1UnNwWk5aX3JQZHc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "2026臺灣科學節台北場攻略》科教館親子必玩、免費嘉年華、門票與交通一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "2026臺灣科學節台北場攻略》科教館親子必玩、免費嘉年華、門票與交通一次看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-11-06T07:53:11+00:00",
+      "collected_at": "2026-11-06T19:23:43.406096+00:00",
+      "query": "台灣 週末親子 去哪裡"
+    },
+    {
+      "id": "https-www-xinmedia-com-article-306715",
+      "title": "武陵、綠世界輸了！台灣最強農場吸38萬人，遊客讚：絕景媲美歐洲、全家玩整天都不膩 - XINMEDIA欣傳媒｜最懂生活的咖",
+      "url": "https://www.xinmedia.com/article/306715",
+      "canonical_url": "https://www.xinmedia.com/article/306715",
+      "image_url": "https://icrvb3jy2.xinmedia.com/solomo/article/306715/8120c930-2500-4f4d-a691-7e4e36e2d18b.webp",
+      "images": [
+        "https://icrvb3jy2.xinmedia.com/solomo/article/306715/8120c930-2500-4f4d-a691-7e4e36e2d18b.webp",
+        "https://icrvb3jy.xinmedia.com/solomo/article/306715/8949862b-5063-42cf-83fa-0ad530a9b02a.jpg",
+        "https://icrvb3jy.xinmedia.com/solomo/article/306715/eaebdf0d-bc35-477c-9233-bc9728b3d9de.jpg",
+        "https://icrvb3jy.xinmedia.com/solomo/article/306715/a93a9a15-06bb-4a2e-9758-f841e23dcf5c.jpg",
+        "https://icrvb3jy.xinmedia.com/solomo/article/306715/d0253b77-8169-43cc-8fcb-45afac089597.jpg",
+        "https://icrvb3jy.xinmedia.com/solomo/article/7125/27bd6a59-951e-4956-a258-5bb217ebebe7.webp",
+        "https://icrvb3jy.xinmedia.com/solomo/article/3646/028e37b7-8a1b-48d8-98c7-ec05cb5a01c0.webp",
+        "https://icrvb3jy.xinmedia.com/solomo/article/3891/dcd4c572-5eca-4bf5-a396-db2e9c6225ad.webp"
+      ],
+      "summary": "武陵、綠世界輸了！台灣最強農場吸38萬人，遊客讚：絕景媲美歐洲、全家玩整天都不膩 - XINMEDIA欣傳媒｜最懂生活的咖。11.07 S A T 美食 Food & Wine 旅遊 Travel & Exp 生活 Lifestyle 藝術文化 Art Pulse 專題 Special Issue 欣觀點 Notes 風格帶路 Style Travel 欣講堂 Xin Forum 首頁 > 旅遊 > 武陵、綠世界輸了！台灣最強農場吸38萬人，遊客讚：絕景媲美歐洲、全家玩整天都不膩 武陵、綠世界輸了！台灣最強農場吸38萬人，遊客讚：絕景媲美歐洲、全家玩整天都不膩 By 風傳媒 2026/11/06 圖片來源｜取自清境農場Qingjing Farm臉書；風傳媒授權使用 每逢週末假期，不少民眾總想暫離繁忙緊湊的城市步調，走向大自然好好放鬆，全台各地的高山與休閒農場，因同時能親近大自然，也能與可愛動物互動體驗，長年都是家庭出遊與親子放電的熱門首選。文章目錄 2026年1～8月台灣農場觀光人次排行 2026最強農場TOP 1：清境農場 2026最強農場TOP 2：武陵農場 根據交通部觀光署最新統計，2026年1月至8月全台農場觀光人次，南投「清境農場」以突破38.9萬人次的亮眼成績穩坐冠軍寶座，台中「武陵農場」與新竹「綠世界生態農場」則分別以19.5萬人次與18.6萬人次緊追在後，分列第2、第3名。",
+      "analysis": {
+        "overview": "武陵、綠世界輸了！台灣最強農場吸38萬人，遊客讚：絕景媲美歐洲、全家玩整天都不膩 - XINMEDIA欣傳媒｜最懂生活的咖。11.07 S A T 美食 Food & Wine 旅遊 Travel & Exp 生活 Lifestyle 藝術文化 Art Pulse 專題 Special Issue 欣觀點 Notes 風格帶路 Style Travel 欣講堂 Xin Forum 首頁 > 旅遊 > 武陵、綠世界輸了！台灣最強農場吸38萬人，遊客讚：絕景媲美歐洲、全家玩整天都不膩 武陵、綠世界輸了！台灣最強農場吸3",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 動物互動與自然觀察能提高孩子參與感。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 出發前確認餵食、互動體驗與休園時間。"
+      },
+      "source_name": "xinmedia.com",
+      "tags": [
+        "看動物",
+        "大自然",
+        "放電",
+        "好玩"
+      ],
+      "reason": "有動物或自然觀察元素，孩子比較容易投入；出發前可先確認餵食、展區與洗手設施。",
+      "published_at": "2026-11-06T00:52:00+00:00",
+      "collected_at": "2026-11-06T19:23:44.090484+00:00",
+      "query": "台灣 親子農場 景點"
+    },
+    {
+      "id": "https-applealmond-com-posts-331202",
+      "title": "2026 臺灣科學節 11/7 登場！5 大科學館、逾 2000 場活動、免費體驗與報名攻略 - 蘋果仁 - 果仁 iPhone/iOS/好物推薦科技媒體",
+      "url": "https://applealmond.com/posts/331202",
+      "canonical_url": "https://applealmond.com/posts/331202",
+      "image_url": "https://applealmond.com/wp-content/uploads/2026/11/1793694582-da3cc7cf00ee3432e32e56a6e9cb83b9.jpg",
+      "images": [
+        "https://sb.scorecardresearch.com/p?c1=2&c2=25796225&cv=3.6.0&cj=1",
+        "https://applealmond.com/wp-content/uploads/2025/07/1751299613-dc18100e12d5c9f7323c20ba06b48caf.png",
+        "https://applealmond.com/wp-content/uploads/2026/04/1777314915-b41c20e100387953f2691313d1f36df0.png",
+        "https://beta.applealmond.com/wp-content/uploads/2024/04/1712068696-b01c2ce25e34f80d499f0488d034b00b.png",
+        "https://applealmond.com/wp-content/uploads/2026/11/1793694582-da3cc7cf00ee3432e32e56a6e9cb83b9.jpg",
+        "https://applealmond.com/wp-content/uploads/2026/11/1793932109-c2350d7b01d55f202de740746d257c5b.jpg",
+        "https://applealmond.com/wp-content/uploads/2026/11/1793932674-37d5ed8ed61f343d39991fd4a49bc7f8.png",
+        "https://applealmond.com/wp-content/uploads/2026/11/1793925613-1f27d5023fa72658ded15e24ca5a0963-390x220.jpg"
+      ],
+      "summary": "2026 臺灣科學節 11/7 登場！5 大科學館、逾 2000 場活動、免費體驗與報名攻略 - 蘋果仁 - 果仁 iPhone/iOS/好物推薦科技媒體。=typeof localStorage){var header,mnIsDark=!1;(header=document.getElementById(\"theme-header\"))&&((header=header.classList).contains(\"main-nav-default-dark\")&&(mnIsDark=!0),header.contains(\"top-nav-default-dark\")&&(tnIsDark=!0),\"dark\"==tieSkin?5 大科學館、逾 2000 場活動、免費體驗與報名攻略 googletag.cmd.push(function() { googletag.display(\"div-gpt-ad-title-0\"); }); 最後更新： 2026 年 11 月 6 日 2026 臺灣科學節即將在 11 月 7 日登場！今年第七屆臺灣科學節以「科學共享 永續啟航」為主題，主要活動集中在 11 月 7、8 日以及 11 月 14、15 日兩個週末，串聯全台 5 大科學博物館與 34 個科普基地，總計規劃多達 2,063 場科普活動。",
+      "analysis": {
+        "overview": "2026 臺灣科學節 11/7 登場！5 大科學館、逾 2000 場活動、免費體驗與報名攻略 - 蘋果仁 - 果仁 iPhone/iOS/好物推薦科技媒體。=typeof localStorage){var header,mnIsDark=!1;(header=document.getElementById(\"theme-header\"))&&((header=header.classList).contains(\"main-nav-default-dark\")&&(mnIsDark=!0),header.cont",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "applealmond.com",
+      "tags": [
+        "室內",
+        "好玩"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-11-05T19:01:00+00:00",
+      "collected_at": "2026-11-06T19:23:44.796524+00:00",
+      "query": "台灣 免費親子景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte0xshjxeuy0c1luvv9qnglcces0oefjw",
       "title": "張嘉郡端北港升級藍圖 百年糖廠擬變雲林首座室內親子遊樂園區",
@@ -673,132 +816,6 @@
       "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
       "published_at": "2026-11-02T09:00:44+00:00",
       "collected_at": "2026-11-02T21:42:10.448533+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiw0fvx3lxte5kvg1hmmhwb3d0c0vrac1sdvrjvxlhw",
-      "title": "親子秋日小旅行！ 台南「虎頭埤」音樂派對11/21登場一連兩天| 旅遊",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kVG1HMmhwb3d0c0VraC1sdVRjVXlHWVZibFpjV0VTdWh2M0kwVTFHZ3BkR1VYdE5GaWVhaTBVUE9JT1J6TUEwdExJUHdkYnRVTUo4RHRDMXVjb2M?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kVG1HMmhwb3d0c0VraC1sdVRjVXlHWVZibFpjV0VTdWh2M0kwVTFHZ3BkR1VYdE5GaWVhaTBVUE9JT1J6TUEwdExJUHdkYnRVTUo4RHRDMXVjb2M?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "親子秋日小旅行！ 台南「虎頭埤」音樂派對11/21登場一連兩天| 旅遊。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "親子秋日小旅行！ 台南「虎頭埤」音樂派對11/21登場一連兩天| 旅遊。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "Newtalk新聞",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-      "published_at": "2026-11-02T08:19:31+00:00",
-      "collected_at": "2026-11-02T21:42:10.988484+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmitgjbvv95cuxotji0d2vwtezlrglhqjdxvjlqzlg0z",
-      "title": "親子秋日小旅行！ 台南「虎頭埤」音樂派對11/21登場一連兩天",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOTjI0d2VWTEZlRGlhQjdXVjlQZlg0Z2s0ejN5S240RjBJRWRwZ0hualZOV0xMcmhmVEtERDRjR2N2NHBGd1hmZWUzZTFsRldmR0JYcFNEOWxNZkM0RnJMOGYzTGhidzB1R0RQVWNoMUVqY1JpaWx2R0hGRVdJV2lyUlQ2cmlyOWZSUW9XR0g0a1BxeDRiV0drek5vUlJFbVpJLUljMHBXTXNCZEdYOERyVkI0ZzZ4NGFOcFFDSlVCQzVXSEpIN1ZkRE5nS1J1c3NJaGVXdGdZNkxzcGg1NDVidWJiLW56XzVvVHU3bHE1Uk9RUGc2YUZEaTdRbElNY01UbG54cXd0OExScGpaMlltZGYybC14R1RQV0ZidXk2VUp0dkNoQ0ZzZEZwMHJsOFlMMEpKbkVn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOTjI0d2VWTEZlRGlhQjdXVjlQZlg0Z2s0ejN5S240RjBJRWRwZ0hualZOV0xMcmhmVEtERDRjR2N2NHBGd1hmZWUzZTFsRldmR0JYcFNEOWxNZkM0RnJMOGYzTGhidzB1R0RQVWNoMUVqY1JpaWx2R0hGRVdJV2lyUlQ2cmlyOWZSUW9XR0g0a1BxeDRiV0drek5vUlJFbVpJLUljMHBXTXNCZEdYOERyVkI0ZzZ4NGFOcFFDSlVCQzVXSEpIN1ZkRE5nS1J1c3NJaGVXdGdZNkxzcGg1NDVidWJiLW56XzVvVHU3bHE1Uk9RUGc2YUZEaTdRbElNY01UbG54cXd0OExScGpaMlltZGYybC14R1RQV0ZidXk2VUp0dkNoQ0ZzZEZwMHJsOFlMMEpKbkVn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "親子秋日小旅行！ 台南「虎頭埤」音樂派對11/21登場一連兩天。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "親子秋日小旅行！ 台南「虎頭埤」音樂派對11/21登場一連兩天。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-      "published_at": "2026-11-02T08:19:31+00:00",
-      "collected_at": "2026-11-03T03:28:15.090244+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijwnbvv95cuxpdlhizv81vflvywxtt0div194yup5z",
-      "title": "新北特色公園狂到「包遊覽車」朝聖 李倩萍推共融遊戲場打造放電天堂",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPdlhIZV81VFlvYWxtT0dIV194YUp5ZzNCa2xuMnBtYzZLVHZyWnhPWlRpdVZvS01FV1llT3l5U0FrQVlNVG4zZkpxWVpVaExlTmpjMGNlbEdVZHZpcXEtRGlrOGRhVFNuWlN2RGE3SXhPSnRqbld4OTNaTnQ0U18xYjNTVVEtS0NVWjlSdzlYSERPVERpTVljdGpXdkxJZFhQcGJpMTZJUTVHS3dwM1dzaHNzdDdyRElhVkZUQTMxdG43RVFrNkU0MWlwOXR2RjJmR1hjQ3ZzSUZUUFBsR2pmMVQ0NERBMnNfQW5XUEx0T0tsLUtaaFJ2eDNudDVHUUlKSDBFdm1tTDZ5N05kZWJYakNZczZsb2dNUDNkQVhHb2NzVVhpY2dCQmx1ejBWTGR4bjNOd3ZDNG9NU2pBYVpuOE9zNE9ZbmRPWHZvZlk5SDBGaEJrVHpmV2RFcllXNnZWdTA3ZlhLbDBzYU9JZlpiU0MxOTZnWGR2Q0dxZ2dTSlFSSE1kQU4zbUdtVG5zTjQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPdlhIZV81VFlvYWxtT0dIV194YUp5ZzNCa2xuMnBtYzZLVHZyWnhPWlRpdVZvS01FV1llT3l5U0FrQVlNVG4zZkpxWVpVaExlTmpjMGNlbEdVZHZpcXEtRGlrOGRhVFNuWlN2RGE3SXhPSnRqbld4OTNaTnQ0U18xYjNTVVEtS0NVWjlSdzlYSERPVERpTVljdGpXdkxJZFhQcGJpMTZJUTVHS3dwM1dzaHNzdDdyRElhVkZUQTMxdG43RVFrNkU0MWlwOXR2RjJmR1hjQ3ZzSUZUUFBsR2pmMVQ0NERBMnNfQW5XUEx0T0tsLUtaaFJ2eDNudDVHUUlKSDBFdm1tTDZ5N05kZWJYakNZczZsb2dNUDNkQVhHb2NzVVhpY2dCQmx1ejBWTGR4bjNOd3ZDNG9NU2pBYVpuOE9zNE9ZbmRPWHZvZlk5SDBGaEJrVHpmV2RFcllXNnZWdTA3ZlhLbDBzYU9JZlpiU0MxOTZnWGR2Q0dxZ2dTSlFSSE1kQU4zbUdtVG5zTjQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "新北特色公園狂到「包遊覽車」朝聖 李倩萍推共融遊戲場打造放電天堂。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "新北特色公園狂到「包遊覽車」朝聖 李倩萍推共融遊戲場打造放電天堂。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-11-02T07:25:14+00:00",
-      "collected_at": "2026-11-02T21:42:11.657802+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte9pltnqnhvgmnrtcgvuv3diewzgmjnkd",
-      "title": "新竹市打造永續及親子友善住宿環境幸福旅宿．永續新竹！旅宿認證成果發表會11/6登場 | 台灣好新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pLTNQNHVGMnRtcGVuV3dieWZGMjNKd0Ita2lvUmFEejc1U3RLdzRUNWlxdlZVVjVPbFUzbUV4VU1Da1ZKUmk0Vkw5SlZ6bnhLZHBLNVNn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pLTNQNHVGMnRtcGVuV3dieWZGMjNKd0Ita2lvUmFEejc1U3RLdzRUNWlxdlZVVjVPbFUzbUV4VU1Da1ZKUmk0Vkw5SlZ6bnhLZHBLNVNn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "新竹市打造永續及親子友善住宿環境幸福旅宿．永續新竹！旅宿認證成果發表會11/6登場 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "新竹市打造永續及親子友善住宿環境幸福旅宿．永續新竹！旅宿認證成果發表會11/6登場 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "偏親子住宿或主題房型，適合想降低移動成本的家庭；可優先確認停車、早餐與備品。",
-      "published_at": "2026-11-02T02:03:36+00:00",
-      "collected_at": "2026-11-02T21:42:12.223886+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-zeekmagazine-com-archives-265695",
-      "title": "搭火車玩遍臺灣！KKday攜手臺鐵推出「臺鐵假期」一站串聯交通與在地體驗",
-      "url": "https://zeekmagazine.com/archives/265695",
-      "canonical_url": "https://zeekmagazine.com/archives/265695",
-      "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "搭火車玩遍臺灣！KKday攜手臺鐵推出「臺鐵假期」一站串聯交通與在地體驗。旅行不一定要走得遠，搭上火車就能重新發現臺灣的美好！亞洲領先的旅遊電商平台KKday宣布參與臺鐵公司全新推出的「臺鐵假期」，結合臺鐵鐵路網絡與KKday豐富的在地旅遊體驗資源，推出涵蓋親子出遊、自然探索、文化藝術等多元套裝商品，讓旅客透過一日遊、週末小旅行，以不同節奏深入探索臺灣。迎接2026年11月6日至9日台北國際 ...",
-      "analysis": {
-        "overview": "搭火車玩遍臺灣！KKday攜手臺鐵推出「臺鐵假期」一站串聯交通與在地體驗。旅行不一定要走得遠，搭上火車就能重新發現臺灣的美好！亞洲領先的旅遊電商平台KKday宣布參與臺鐵公司全新推出的「臺鐵假期」，結合臺鐵鐵路網絡與KKday豐富的在地旅遊體驗資源，推出涵蓋親子出遊、自然探索、文化藝術等多元套裝商品，讓旅客透過一日遊、週末小旅行，以不同節奏深入探索臺灣。迎接2026年11月6日至9日台北國際 ...",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。"
-      },
-      "source_name": "zeekmagazine.com",
-      "tags": [
-        "大自然",
-        "好玩"
-      ],
-      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-      "published_at": "2026-11-01T07:36:00+00:00",
-      "collected_at": "2026-11-02T01:30:15.694087+00:00",
       "query": "台灣 親子旅遊 景點 公園"
     }
   ]
