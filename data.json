@@ -1,8 +1,85 @@
 {
-  "updated_at": "2026-11-06T19:23:44.906848+00:00",
+  "updated_at": "2026-11-07T01:55:35.929017+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmipajbvv95cuxocwnvyk91wddwdei3ugtwdlzou2puv",
+      "title": "新竹童樂會最後2場免費玩！11／7孔廟看YOYO舞台劇 11／14大湳雅公園遊行、親子唱跳",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOcWNvYk91WDdWdEI3UGtwdlZOU2pUV3kzYkd3U3B2RWNiclVMWDBCYzFfUnpiMVN4aTVUcVNQZFFCbnM2LXJ4V2xvcjFUYWQ4clI5cnFZVFpkNDhhQmRtYllwR3BwWkltZFJHWnJUR19Qa3djNUU1RDg0bmVqWW9NSVB6ZGR2eXM1RTFreUQ5Z3MzRHlDVHlhNnBaWDJjQi1lekFTenV1MmZxcmJhcm9sR0xCNXBpTEEtREt3YmJDS3A1Vmp4Q2xISldjUy1mcXpCTnlzQndWVVBRdVhUbTZWeVZpV3NJamlocU9nZTRFLW03aHQyNzFDMDZTOWp1LXlJazdFdldteDJ4N0dReUZPTE12a3I4SGhaOXRyOFU1N3B5d1Rt?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOcWNvYk91WDdWdEI3UGtwdlZOU2pUV3kzYkd3U3B2RWNiclVMWDBCYzFfUnpiMVN4aTVUcVNQZFFCbnM2LXJ4V2xvcjFUYWQ4clI5cnFZVFpkNDhhQmRtYllwR3BwWkltZFJHWnJUR19Qa3djNUU1RDg0bmVqWW9NSVB6ZGR2eXM1RTFreUQ5Z3MzRHlDVHlhNnBaWDJjQi1lekFTenV1MmZxcmJhcm9sR0xCNXBpTEEtREt3YmJDS3A1Vmp4Q2xISldjUy1mcXpCTnlzQndWVVBRdVhUbTZWeVZpV3NJamlocU9nZTRFLW03aHQyNzFDMDZTOWp1LXlJazdFdldteDJ4N0dReUZPTE12a3I4SGhaOXRyOFU1N3B5d1Rt?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "新竹童樂會最後2場免費玩！11／7孔廟看YOYO舞台劇 11／14大湳雅公園遊行、親子唱跳。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "新竹童樂會最後2場免費玩！11／7孔廟看YOYO舞台劇 11／14大湳雅公園遊行、親子唱跳。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "Life 生活網",
+      "tags": [
+        "大自然",
+        "好玩"
+      ],
+      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
+      "published_at": "2026-11-06T22:30:00+00:00",
+      "collected_at": "2026-11-07T01:55:34.150943+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte9wrwhpsnjadw5duwrladj0wxjhreroe",
+      "title": "玩樂園、遊基隆！謝國樑推親子漫遊地圖 串聯七區樂園與33家店家優惠11/11開跑 | 台灣好新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wRWhpSnJadW5DUWRlaDJ0WXJHRERoemNLaHBYUGhnY0V3ZHVEbmxlckQwcUVUVVd0ZkdjRXZnU3QxYndPNFpVYWxWQW1GZFBUWURPNWpn?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wRWhpSnJadW5DUWRlaDJ0WXJHRERoemNLaHBYUGhnY0V3ZHVEbmxlckQwcUVUVVd0ZkdjRXZnU3QxYndPNFpVYWxWQW1GZFBUWURPNWpn?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "玩樂園、遊基隆！謝國樑推親子漫遊地圖 串聯七區樂園與33家店家優惠11/11開跑 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "玩樂園、遊基隆！謝國樑推親子漫遊地圖 串聯七區樂園與33家店家優惠11/11開跑 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-11-06T16:55:55+00:00",
+      "collected_at": "2026-11-07T01:55:34.466625+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte9rmel2bl9sac1lthd1skzqt1vsmg5fv",
+      "title": "武陵、綠世界輸了！台灣最強農場吸38萬人，遊客讚：絕景媲美歐洲、全家玩整天都不膩",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rMEl2bl9saC1lTHd1SkZqT1VSMG5FVk9lX0p6M2wtc3UwZmwwQW9NM04xSXMydDg1TUlhOWtYXy1XRzdwbGNTWnNHQ3JRSHRw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rMEl2bl9saC1lTHd1SkZqT1VSMG5FVk9lX0p6M2wtc3UwZmwwQW9NM04xSXMydDg1TUlhOWtYXy1XRzdwbGNTWnNHQ3JRSHRw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "武陵、綠世界輸了！台灣最強農場吸38萬人，遊客讚：絕景媲美歐洲、全家玩整天都不膩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "武陵、綠世界輸了！台灣最強農場吸38萬人，遊客讚：絕景媲美歐洲、全家玩整天都不膩。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "動物互動與自然觀察能提高孩子參與感。",
+        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
+        "tips": "出發前確認餵食、互動體驗與休園時間。"
+      },
+      "source_name": "XINMEDIA欣傳媒",
+      "tags": [
+        "看動物"
+      ],
+      "reason": "有動物或自然觀察元素，孩子比較容易投入；出發前可先確認餵食、展區與洗手設施。",
+      "published_at": "2026-11-06T08:52:00+00:00",
+      "collected_at": "2026-11-07T01:55:34.778588+00:00",
+      "query": "台灣 動物農場 親子 景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmisefvx3lxte5jdejqyzhkdgpbvnpjzfgydwjmtmtaq",
       "title": "新竹市首度推動永續及親子友善旅宿認證10家業者獲表揚 高虹安市長：打造友善旅遊城市",
@@ -76,6 +153,39 @@
       "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
       "published_at": "2026-11-06T07:53:11+00:00",
       "collected_at": "2026-11-06T19:23:43.406096+00:00",
+      "query": "台灣 週末親子 去哪裡"
+    },
+    {
+      "id": "https-n-yam-com-article-20261107850814",
+      "title": "台灣咖啡節親子週末來了！古坑綠色隧道聽YOYO唱跳、逛市集　交通與一日遊攻略 | 蕃新聞",
+      "url": "https://n.yam.com/Article/20261107850814",
+      "canonical_url": "https://n.yam.com/Article/20261107850814",
+      "image_url": "https://ni.yam.com/20261107/hero-yunlin-scaled-889b3bdd109bdbed.webp",
+      "images": [
+        "https://ni.yam.com/20261107/hero-yunlin-scaled-889b3bdd109bdbed.webp",
+        "https://ni.yam.com/20261107/dates-cf550e4e15f3b49c.webp",
+        "https://ni.yam.com/20261107/family-9d0b8931678680e9.webp",
+        "https://ni.yam.com/20261107/yunlin-market-scaled-6731e2d6aa3b3a40.webp",
+        "https://ni.yam.com/20261106/frontsite-cover-story-93012-manual-2760e1b155e3b76c-norm-v2-w1536-h1024.webp",
+        "https://ni.yam.com/20261107/c46772011dc42bb38b504ad3ac26d9e7-df4cf1c7fc489ccc.webp",
+        "https://ni.yam.com/20261107/e5efe17395240efab8545406ffcaef52-40bccab5f2c25d5f.webp",
+        "http://content-platform.content-platform-prod.svc.cluster.local/wp-content/uploads/2026/11/vietnam-used-digital-products-import-ban-circular-63-2026-jan-2027-2026-11-06_final_featured.jpg"
+      ],
+      "summary": "台灣咖啡節親子週末來了！古坑綠色隧道聽YOYO唱跳、逛市集　交通與一日遊攻略 | 蕃新聞。（ 媒角抵加 ／林忠勳報導）週末想帶孩子出門走走，不妨到雲林古坑聞咖啡香、聽音樂！2026台灣咖啡節11月7日、8日回到古坑綠色隧道，兩天分別以「重機騎聚咖」和「親子萌寵咖」為主題。8日安排YOYO哥哥姐姐陪孩子唱跳，閉幕嘉賓蔡佩軒也將登台，大人可以逛咖啡與特色市集，再帶孩子走訪附近景點，安排一趟親子小旅行。活動名稱：2026台灣咖啡節「咖了for World」。日期與時間：11月7日、8日，每天上午10時至晚上7時。地點：雲林縣古坑鄉古坑綠色隧道公園。主題活動：11月7日「重機騎聚咖」；11月8日「親子萌寵咖」。親子與演出：8日有YOYO哥哥姐姐唱跳，蔡佩軒擔任閉幕嘉賓；個別上台時間以主辦公布為準。特色市集：縣府指出，今年匯聚超過170個國內外咖啡及特色品牌。交通：台鐵斗六站可轉乘台灣好行Y01斗六古坑線，於「綠色隧道」站下車。手作體驗：原訂線上報名於10月29日截止；費用、是否開放現場候補及剩餘名額，請洽主辦確認。雲林縣政府指出，第24屆台灣咖啡節以「咖了for World」為主題，主會場活動分兩個週末舉行：10月31日至11月1日，以及11月7日至8日。",
+      "analysis": {
+        "overview": "台灣咖啡節親子週末來了！古坑綠色隧道聽YOYO唱跳、逛市集　交通與一日遊攻略 | 蕃新聞。（ 媒角抵加 ／林忠勳報導）週末想帶孩子出門走走，不妨到雲林古坑聞咖啡香、聽音樂！2026台灣咖啡節11月7日、8日回到古坑綠色隧道，兩天分別以「重機騎聚咖」和「親子萌寵咖」為主題。8日安排YOYO哥哥姐姐陪孩子唱跳，閉幕嘉賓蔡佩軒也將登台，大人可以逛咖啡與特色市集，再帶孩子走訪附近景點，安排一趟親子小旅行。活動名稱：2026台灣咖啡節「咖了for World」。日期與時間：11月7日、8日，每天上午10時至晚上7時。地點：雲",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "n.yam.com",
+      "tags": [
+        "大自然",
+        "好玩"
+      ],
+      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
+      "published_at": "2026-11-06T07:30:00+00:00",
+      "collected_at": "2026-11-07T01:55:35.179290+00:00",
       "query": "台灣 週末親子 去哪裡"
     },
     {
@@ -420,6 +530,32 @@
       "query": "台灣 親子旅遊 景點 公園"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmixkfvx3lxtfbusg1tmljkckdtr2hxmuq0ltnunlcwa",
+      "title": "新北公園台灣欒樹繽紛轉色　邀親子走進綠地賞秋景",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUSG1tMlJkckdtR2hXMUQ0LTNUNlcwaUx4ZEdQcFQ4djhGZlhvYjAxU0NXY2dKQTZIR1lVN19YQWxDYjl0MWZOa090RTJsdXJTZGxWY09sWUFEenhUalHSAUtBVV95cUxQRmJDbS1BWXl2ME51S3NKU3lPRHN5UXVhSmVlYzRBQ2V3eEFRMlJmZzY5SzZtVlhpRmhiZmh1bzFCbFIxWmlJWEkzNzg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUSG1tMlJkckdtR2hXMUQ0LTNUNlcwaUx4ZEdQcFQ4djhGZlhvYjAxU0NXY2dKQTZIR1lVN19YQWxDYjl0MWZOa090RTJsdXJTZGxWY09sWUFEenhUalHSAUtBVV95cUxQRmJDbS1BWXl2ME51S3NKU3lPRHN5UXVhSmVlYzRBQ2V3eEFRMlJmZzY5SzZtVlhpRmhiZmh1bzFCbFIxWmlJWEkzNzg?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "新北公園台灣欒樹繽紛轉色　邀親子走進綠地賞秋景。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "新北公園台灣欒樹繽紛轉色　邀親子走進綠地賞秋景。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "ETtoday新聞雲",
+      "tags": [
+        "大自然",
+        "好玩"
+      ],
+      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
+      "published_at": "2026-11-04T12:53:00+00:00",
+      "collected_at": "2026-11-07T01:55:35.503726+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmirwjbvv95cuxnnjaxtvvqehzks2rvwxdzuzhywhj0n",
       "title": "探索飛行樂趣！彰化縣「大興飛行樂園」正式啟用",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNNjAxTVVqeHZKS2RVWXdzUzhyWHJ0N0xYLXNaX1JadlZZa3RfcUNRV21IN0NmUEw0b1JQaXNiRlZVS2U5MHRsZW1CNEtTZUhraEFvWlNHWlRHS09Qak5ZTlpzbzkwU1hZTTNHdU9yS0dJRzNKMWJLeEdmOXlQRkhzaWdjck1ONy1LTHhSUWYtNV9QVXNLZThaSG9jRFFaVV9xbFB5V2RaaGFqbmhpeUFqVmQzWE5RUjh5YjFyTzkybzZWRlllNTludjFsd2JlYnkzellJQUt4czBDVlctbnZFMElzZ3VqeE41Vk8xbG13Mi1ac3ZoSS1ZakprUUtqZ1FTNnVteFREZXExUGVxM3gtZEJmaE9kb1JRWXJ2dVhPRmI0N09jQW4zbTJDaWctejA?oc=5",
@@ -521,6 +657,33 @@
       "published_at": "2026-11-04T04:17:48+00:00",
       "collected_at": "2026-11-04T19:44:25.372276+00:00",
       "query": "台灣 室內親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmizefvx3lxte0zb0s1agvrv0lpwwnarexhb2w4zjhfw",
+      "title": "討論牆 | 新北全新親子景點！板橋第7座特色遊戲場 森林系遊具玩不停",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zb0s1aGVRV0lPWWNaRExhb2w4ZjhFWFpCWFpKX3NwQ0tSelBHWV96aXd1M2ctY1lkVTc2cGpieTItT0FJUFR0SjJYVmMxSzd3bTlacXBxVHRzdTV1bVlERl9CcGo?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zb0s1aGVRV0lPWWNaRExhb2w4ZjhFWFpCWFpKX3NwQ0tSelBHWV96aXd1M2ctY1lkVTc2cGpieTItT0FJUFR0SjJYVmMxSzd3bTlacXBxVHRzdTV1bVlERl9CcGo?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "討論牆 | 新北全新親子景點！板橋第7座特色遊戲場 森林系遊具玩不停。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "討論牆 | 新北全新親子景點！板橋第7座特色遊戲場 森林系遊具玩不停。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "大自然",
+        "放電",
+        "好玩"
+      ],
+      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
+      "published_at": "2026-11-04T03:57:52+00:00",
+      "collected_at": "2026-11-07T01:55:35.790682+00:00",
+      "query": "台灣 親子景點 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte03lwnmay1kskxndxzlrenxndzuevljv",
@@ -658,165 +821,6 @@
       "published_at": "2026-11-03T16:00:00+00:00",
       "collected_at": "2026-11-04T19:44:27.866795+00:00",
       "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmif0fvx3lxte5wuxqxwufuazy2thzwetbrounhytbcq",
-      "title": "台中北屯住宿【中科大飯店】鄰近文心崇德捷運站、洲際棒球場。入住超酷恐龍主題四人房，台中親子住宿推薦。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wUXQxWUFUazY2THZweTBrOUNHYTBCQ1ZwdmhLeTMtZ3FSaHI1eW5leFJ2bXBHUGN1MjRRZW4xZ2x6TG94YzRaaVNTSV96R2k2TU1UX0RxZnNhVTJ5aEpBeGF5R3dJRlpLWlZCeFNCYjdwdjdlMUxHa2g2OUVHaUk?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wUXQxWUFUazY2THZweTBrOUNHYTBCQ1ZwdmhLeTMtZ3FSaHI1eW5leFJ2bXBHUGN1MjRRZW4xZ2x6TG94YzRaaVNTSV96R2k2TU1UX0RxZnNhVTJ5aEpBeGF5R3dJRlpLWlZCeFNCYjdwdjdlMUxHa2g2OUVHaUk?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台中北屯住宿【中科大飯店】鄰近文心崇德捷運站、洲際棒球場。入住超酷恐龍主題四人房，台中親子住宿推薦。。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台中北屯住宿【中科大飯店】鄰近文心崇德捷運站、洲際棒球場。入住超酷恐龍主題四人房，台中親子住宿推薦。。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "udn 女子漾",
-      "tags": [
-        "室內",
-        "好玩"
-      ],
-      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
-      "published_at": "2026-11-03T07:42:22+00:00",
-      "collected_at": "2026-11-03T19:29:00.025575+00:00",
-      "query": "台灣 親子飯店 親子樂園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmixefvx3lxtfbtz2v3avv0rkhez1ludnlwbxnhvkv6o",
-      "title": "台中北屯住宿【中科大飯店】鄰近文心崇德捷運站、洲際棒球場。入住超酷恐龍主題四人房，台中親子住宿推薦。",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtZ2V3aVV0RkhEZ1lUdnlWbXNhVkV6OFRuWl83RDJkVzVsbFItTzAtcGtQeHNITUJSbWJ3YWFhenZzQ0F1QjhFaGw2amRCalhkaW1PeGJWWGJOMDVF?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtZ2V3aVV0RkhEZ1lUdnlWbXNhVkV6OFRuWl83RDJkVzVsbFItTzAtcGtQeHNITUJSbWJ3YWFhenZzQ0F1QjhFaGw2amRCalhkaW1PeGJWWGJOMDVF?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台中北屯住宿【中科大飯店】鄰近文心崇德捷運站、洲際棒球場。入住超酷恐龍主題四人房，台中親子住宿推薦。。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台中北屯住宿【中科大飯店】鄰近文心崇德捷運站、洲際棒球場。入住超酷恐龍主題四人房，台中親子住宿推薦。。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "價格與房型差異大，親子設施也可能需預約。",
-        "tips": "訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "udn 女子漾",
-      "tags": [
-        "室內",
-        "好玩"
-      ],
-      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
-      "published_at": "2026-11-03T07:42:22+00:00",
-      "collected_at": "2026-11-03T19:29:00.569920+00:00",
-      "query": "台灣 特色飯店 親子 房型"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte5rcwrsre8ycevyn21mbdvns1fqaxptq",
-      "title": "板橋國光公園森林遊戲場啟用 提供居民及親子家庭更舒適遊戲環境 | 台灣好新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RcWRSRE8ycEVYN21mbDVnS1FqaXpTQ0pyeGhMcFl4Y04tOElTaFVnb2lFaUhMTkVManFhSERvMGF1WjluV0FmaktYR0ZBdzV3TjNZQVZ3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RcWRSRE8ycEVYN21mbDVnS1FqaXpTQ0pyeGhMcFl4Y04tOElTaFVnb2lFaUhMTkVManFhSERvMGF1WjluV0FmaktYR0ZBdzV3TjNZQVZ3?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "板橋國光公園森林遊戲場啟用 提供居民及親子家庭更舒適遊戲環境 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "板橋國光公園森林遊戲場啟用 提供居民及親子家庭更舒適遊戲環境 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "大自然",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-11-03T05:08:29+00:00",
-      "collected_at": "2026-11-05T19:56:10.013270+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmigwfbvv95cuxpvgl4v3r2bu9ldudpvujnujuwoufuw",
-      "title": "親子秋日小旅行！ 台南「虎頭埤」音樂派對11/21登場一連兩天 | Newtalk",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGl4V3R2bU9ldUdpVUJnUjUwOUFuWmlidDZOVmhiVnBRYnlJOGNXdkQ5SWxvaGdNZGlTQTUzUmRrNG5TdmhaamN0Tm1aOXpXWTRVVjh0elkzQlpTbkVEejhRWVRqeU5JU0ZvVHFhQW9IMWxYYVZvbU82SlhqZ3hjQy1Bcw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGl4V3R2bU9ldUdpVUJnUjUwOUFuWmlidDZOVmhiVnBRYnlJOGNXdkQ5SWxvaGdNZGlTQTUzUmRrNG5TdmhaamN0Tm1aOXpXWTRVVjh0elkzQlpTbkVEejhRWVRqeU5JU0ZvVHFhQW9IMWxYYVZvbU82SlhqZ3hjQy1Bcw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "親子秋日小旅行！ 台南「虎頭埤」音樂派對11/21登場一連兩天 | Newtalk。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "親子秋日小旅行！ 台南「虎頭埤」音樂派對11/21登場一連兩天 | Newtalk。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-      "published_at": "2026-11-02T19:31:48+00:00",
-      "collected_at": "2026-11-05T19:56:10.318584+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmikwnbvv95cuxoqk5ydhfvug9mtkvfuwvnczvntla1v",
-      "title": "台東景點｜10大親子遊推薦 農場/森林/博物館 附開放時間價格表",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOQk5YdHFvUG9mTkVFUWVNczVNTlA1VHluTmxoaU00QmZRaXdoNjI5dDFXdnhnVWUxVEFMa05nWWY5V29Za096V3hpbjRzR0ZFRnh1T3FRSVpkRy1VV2daSjhyMHByTUp0dXhkOW41b3pVTGdmdklYSG52QzFpNkFleVdzU0VKck12NVRvYlAtZmpBY0pfeFk3MmFTY2hnTDNpQkplRFRrU1BVbkpITHpoSVZXZ2xNQzVOWk5fak5kOVFwenotWjNwem5ieTN5T1U0MU1IN2ZENmFudnZoV012dVh3UTNfbzlHSXpaUy1qWkYwUmxIYUVzVW5VVEkzTXNYRVlUXzlSalZvb0MxNy1pNG5sRjZSaFZNZV9ocERBR3NDUnFOeV9oUjBsTEVKa1JhaWhGR2hsLVRZRnNXN0prMkxidzBzZzMyczVoWktWdFVqVEdYUldsZ2NNNEU4OFBIX1V0cGdLWThJT1dELV9aNGVkUHFnUnNMYnk3NzVDbnRicGpaWWFGLVU4Uks5RE9aOGRn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOQk5YdHFvUG9mTkVFUWVNczVNTlA1VHluTmxoaU00QmZRaXdoNjI5dDFXdnhnVWUxVEFMa05nWWY5V29Za096V3hpbjRzR0ZFRnh1T3FRSVpkRy1VV2daSjhyMHByTUp0dXhkOW41b3pVTGdmdklYSG52QzFpNkFleVdzU0VKck12NVRvYlAtZmpBY0pfeFk3MmFTY2hnTDNpQkplRFRrU1BVbkpITHpoSVZXZ2xNQzVOWk5fak5kOVFwenotWjNwem5ieTN5T1U0MU1IN2ZENmFudnZoV012dVh3UTNfbzlHSXpaUy1qWkYwUmxIYUVzVW5VVEkzTXNYRVlUXzlSalZvb0MxNy1pNG5sRjZSaFZNZV9ocERBR3NDUnFOeV9oUjBsTEVKa1JhaWhGR2hsLVRZRnNXN0prMkxidzBzZzMyczVoWktWdFVqVEdYUldsZ2NNNEU4OFBIX1V0cGdLWThJT1dELV9aNGVkUHFnUnNMYnk3NzVDbnRicGpaWWFGLVU4Uks5RE9aOGRn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台東景點｜10大親子遊推薦 農場/森林/博物館 附開放時間價格表。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台東景點｜10大親子遊推薦 農場/森林/博物館 附開放時間價格表。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 室內活動比較不受天氣影響，適合當雨天或高溫備案。 動物互動與自然觀察能提高孩子參與感。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 熱門時段可能人多，互動設施也可能需要排隊。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 可先預約或確認場次，並安排附近用餐點。 出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "香港01",
-      "tags": [
-        "看動物",
-        "室內",
-        "大自然",
-        "好玩"
-      ],
-      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
-      "published_at": "2026-11-02T09:00:44+00:00",
-      "collected_at": "2026-11-02T21:42:09.800022+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmitkfvx3lxte1itzrxcgfvsf9mq01uvlhwzk1jrwvub",
-      "title": "台東景點｜10大親子遊推薦 農場/森林/博物館 附開放時間價格表",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ITzRXcGFVSF9MQ01uVlhwZk1jRWVubTlsUTJKaktIc19OazFXcV9vZUN0OGt1eXJ3Z1pEUU92LVphdXBqVndUX2M1YWVrdw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ITzRXcGFVSF9MQ01uVlhwZk1jRWVubTlsUTJKaktIc19OazFXcV9vZUN0OGt1eXJ3Z1pEUU92LVphdXBqVndUX2M1YWVrdw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台東景點｜10大親子遊推薦 農場/森林/博物館 附開放時間價格表。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台東景點｜10大親子遊推薦 農場/森林/博物館 附開放時間價格表。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 室內活動比較不受天氣影響，適合當雨天或高溫備案。 動物互動與自然觀察能提高孩子參與感。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 熱門時段可能人多，互動設施也可能需要排隊。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 可先預約或確認場次，並安排附近用餐點。 出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "香港01",
-      "tags": [
-        "看動物",
-        "室內",
-        "大自然",
-        "好玩"
-      ],
-      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
-      "published_at": "2026-11-02T09:00:44+00:00",
-      "collected_at": "2026-11-02T21:42:10.448533+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
     }
   ]
 }
