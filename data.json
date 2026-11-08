@@ -1,8 +1,62 @@
 {
-  "updated_at": "2026-11-07T17:44:37.593167+00:00",
+  "updated_at": "2026-11-08T01:26:34.705858+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte85wuzkww5paurscmthq1c1qwlhbwtlw",
+      "title": "新北親子出遊新選擇！ 土城線形公園打造孩子放電好去處",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85WUZkWW5PaURScmtHQ1c1QWlHbWtLWDYyVDd5N29ELVNoUUlTOFo0RVZTUzlxT2NnR0VhYXJ1OC1sQjljMW5YWjU0RWhVbkw2cHc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85WUZkWW5PaURScmtHQ1c1QWlHbWtLWDYyVDd5N29ELVNoUUlTOFo0RVZTUzlxT2NnR0VhYXJ1OC1sQjljMW5YWjU0RWhVbkw2cHc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "新北親子出遊新選擇！ 土城線形公園打造孩子放電好去處。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "新北親子出遊新選擇！ 土城線形公園打造孩子放電好去處。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "大自然",
+        "放電",
+        "好玩"
+      ],
+      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
+      "published_at": "2026-11-08T00:32:00+00:00",
+      "collected_at": "2026-11-08T01:26:32.418218+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmib0fvx3lxte50qvriv3vhz2jvythwmvh6dufxtlfjs",
+      "title": "新北親子出遊新選擇！ 土城線形公園打造孩子放電好去處",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50QVRIV3VhZ2JVYThWMVh6dUFXTlFjSldOWDVkZnNHRUpzMG1tbnFwVllwUFc1ZHpSR3pkU2VTNGd2ajBocVlDN1gwakFzNWpBeVJFclNPOEJxNFJOel9MMUpiMlpvNXpnbXJCa2FoQQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50QVRIV3VhZ2JVYThWMVh6dUFXTlFjSldOWDVkZnNHRUpzMG1tbnFwVllwUFc1ZHpSR3pkU2VTNGd2ajBocVlDN1gwakFzNWpBeVJFclNPOEJxNFJOel9MMUpiMlpvNXpnbXJCa2FoQQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "新北親子出遊新選擇！ 土城線形公園打造孩子放電好去處。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "新北親子出遊新選擇！ 土城線形公園打造孩子放電好去處。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "花花日報",
+      "tags": [
+        "大自然",
+        "放電",
+        "好玩"
+      ],
+      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
+      "published_at": "2026-11-08T00:32:00+00:00",
+      "collected_at": "2026-11-08T01:26:33.087348+00:00",
+      "query": "台灣 親子放電 景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmir0fvx3lxtfb3tkrcbkzkbw5gm0o5yulzs0tstm9xz",
       "title": "雨天不減熱情！民眾黨「花蓮快樂補給站」親子同樂 戴于文盼增設室內遊樂空間",
@@ -61,6 +115,39 @@
       "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
       "published_at": "2026-11-07T08:39:00+00:00",
       "collected_at": "2026-11-07T17:44:35.308869+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-tw-news-yahoo-com-e5-ad-a9-e5-ad-90-e8-aa-aa-e4-ba-86-e7-ae-97-e8-87-ba-e6",
+      "title": "孩子說了算！臺東東海運動公園改造　親子「玩出」心中遊戲場",
+      "url": "https://tw.news.yahoo.com/%E5%AD%A9%E5%AD%90%E8%AA%AA%E4%BA%86%E7%AE%97-%E8%87%BA%E6%9D%B1%E6%9D%B1%E6%B5%B7%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E6%94%B9%E9%80%A0-%E8%A6%AA%E5%AD%90-%E7%8E%A9%E5%87%BA-%E5%BF%83%E4%B8%AD%E9%81%8A%E6%88%B2%E5%A0%B4-141126692.html",
+      "canonical_url": "https://tw.news.yahoo.com/%E5%AD%A9%E5%AD%90%E8%AA%AA%E4%BA%86%E7%AE%97-%E8%87%BA%E6%9D%B1%E6%9D%B1%E6%B5%B7%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92%E6%94%B9%E9%80%A0-%E8%A6%AA%E5%AD%90-%E7%8E%A9%E5%87%BA-%E5%BF%83%E4%B8%AD%E9%81%8A%E6%88%B2%E5%A0%B4-141126692.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/17cdc6a31a3fc7af981dbef29491dc51d26017d5cf53116123d3d985ccacbea4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnewstaiwandigi_com_938%2F0c6d10810c1fd84dcb12934e7624e823.jpg",
+      "images": [
+        "https://s.yimg.com/lo/mysterio/api/17cdc6a31a3fc7af981dbef29491dc51d26017d5cf53116123d3d985ccacbea4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnewstaiwandigi_com_938%2F0c6d10810c1fd84dcb12934e7624e823.jpg",
+        "https://s.yimg.com/lo/mysterio/api/d8524e951f23a71e02f38a34a4e9e93bb3dce4bc7cf718f8a03187113829cd98/lightyear_networkapi/resizefill_h48%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-02%2F11a11c90-397c-11e9-bbfb-8c0096ee353b",
+        "https://s.yimg.com/lo/mysterio/api/558ba7ae55522dbddabc45e8e3be9c9c908a2f597e1de103bfed2be734720fd9/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnewstaiwandigi_com_938%2F0c6d10810c1fd84dcb12934e7624e823.jpg",
+        "https://s.yimg.com/lo/mysterio/api/30d46fac74c9e7f1200e6838868b43dc45ff990b92ab508b885d0c796b4b1b69/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnewstaiwandigi_com_938%2F1d3e26808ceb8c10d834ed855b567074.jpg",
+        "https://s.yimg.com/lo/mysterio/api/086600b82f14e935e046112ce5f896ba0b021f3f4c4a75f66730b061460cd9ce/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Fnewstaiwandigi_com_938%2F63d24e121349667193538d9f64b3bab8.jpg",
+        "https://s.yimg.com/lo/mysterio/api/35CB2A8AB2F76185E09720054C69CC6229FA250DB14964BF8767D113F126E7FD/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Ftwautos.carnews.com%2Fe8d0859631b7aa926817814757074afb.jpg",
+        "https://s.yimg.com/lo/mysterio/api/F857D0EF613AD37B1FF3F111C9C6A9959EE1D09D493C6BD5B3613F7F5A82183E/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftwautos.carnews.com%2F869a183680ba14e4bf5e70a3941f4fe4.jpg",
+        "https://s.yimg.com/lo/mysterio/api/B4A12A5B9E0B99579F76C1FAD451EEAC102A9669F3BD8B2100A11310382A755B/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fmirrormedia.mg%2Fe1fc0d41f1291e95ecdd747f17a2ff21.jpg"
+      ],
+      "summary": "孩子說了算！臺東東海運動公園改造　親子「玩出」心中遊戲場。臺東東海運動公園改造 親子「玩出」心中遊戲場\",\"position\":3}]} Yahoo新聞 社會地方 孩子說了算！",
+      "analysis": {
+        "overview": "孩子說了算！臺東東海運動公園改造　親子「玩出」心中遊戲場。臺東東海運動公園改造 親子「玩出」心中遊戲場\",\"position\":3}]} Yahoo新聞 社會地方 孩子說了算！",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "tw.news.yahoo.com",
+      "tags": [
+        "大自然",
+        "好玩"
+      ],
+      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
+      "published_at": "2026-11-07T06:11:00+00:00",
+      "collected_at": "2026-11-08T01:26:34.569205+00:00",
       "query": "台灣 兒童遊戲場 新景點"
     },
     {
@@ -749,84 +836,6 @@
       "published_at": "2026-11-04T10:09:01+00:00",
       "collected_at": "2026-11-04T19:44:24.128402+00:00",
       "query": "台南 高雄 屏東 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxtfbyru5xq1dmu1i1t2nyrwnrsjz5cwjru",
-      "title": "彰化福興親子新亮點！大興飛行樂園啟用 玩遊具、探索飛行歷史 | 台灣好新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYRU5XQ1dMU1I1T2NyRWNrSjZ5cWJRUHhUdkRPaEQ0UEdzUUt4MTMtcG95YmZwa1haeU1YbTFld3QzZ1VaQnJPQy03QXRoSkFIX2txMkF3?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYRU5XQ1dMU1I1T2NyRWNrSjZ5cWJRUHhUdkRPaEQ0UEdzUUt4MTMtcG95YmZwa1haeU1YbTFld3QzZ1VaQnJPQy03QXRoSkFIX2txMkF3?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "彰化福興親子新亮點！大興飛行樂園啟用 玩遊具、探索飛行歷史 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "彰化福興親子新亮點！大興飛行樂園啟用 玩遊具、探索飛行歷史 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
-      "published_at": "2026-11-04T07:54:25+00:00",
-      "collected_at": "2026-11-04T19:44:24.495011+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijwnbvv95cuxpmmjizk9wr2zqejvqrxy1x1lxmkrtn",
-      "title": "彰化福興親子新亮點！大興飛行樂園啟用 玩遊具、探索飛行歷史",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPMmJIZk9wR2ZQejVQRXY1X1lXMkRTNjA2alJkVlFMN1ZYclNDbEtMZUlQRGZfNUtPUUk5RE5EY2dPUWltUWNLQW5ZbUE4SkNsTjIzY1kyOFFuVzRIWWJlOGJEYTRvV0ZOTDkzNmZQVmw5NEVvc3JERlRKMlAzek9YLWdaZVV4YTZDZUphVVBCZTU1VERTTmlaSEFvT2tpMVJMREZWS2J2QVZKb0pPSXg3aTNza3lla01Ob0Q5SHRLV0ZFbGVlbEZ2V0NWMWxTSEZGa0F5U280N2ZPS0ZjV19RMUJwVmJjMlZwaXFmR2xiZW42X1pGRmpnQ3h5bEpFZ2lvSHZyeDdrSXBiZmtTbmZ2SF9pRy1vcGpkc1FEZ3hSS2p3QUhFTTV2SmRjWVZ2QWFnWVpGd1NPclRTMWlZRG8weERJLVg0YkFHR1JlV3JUSTNjLU14eWhha3d6Sk1lLWwtY2JDWmJxM1FlbVVZV25iN1FZQ2pPM3lkTl95YjF2TVdhN0RwbmtON2l3NHJDeVE?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPMmJIZk9wR2ZQejVQRXY1X1lXMkRTNjA2alJkVlFMN1ZYclNDbEtMZUlQRGZfNUtPUUk5RE5EY2dPUWltUWNLQW5ZbUE4SkNsTjIzY1kyOFFuVzRIWWJlOGJEYTRvV0ZOTDkzNmZQVmw5NEVvc3JERlRKMlAzek9YLWdaZVV4YTZDZUphVVBCZTU1VERTTmlaSEFvT2tpMVJMREZWS2J2QVZKb0pPSXg3aTNza3lla01Ob0Q5SHRLV0ZFbGVlbEZ2V0NWMWxTSEZGa0F5U280N2ZPS0ZjV19RMUJwVmJjMlZwaXFmR2xiZW42X1pGRmpnQ3h5bEpFZ2lvSHZyeDdrSXBiZmtTbmZ2SF9pRy1vcGpkc1FEZ3hSS2p3QUhFTTV2SmRjWVZ2QWFnWVpGd1NPclRTMWlZRG8weERJLVg0YkFHR1JlV3JUSTNjLU14eWhha3d6Sk1lLWwtY2JDWmJxM1FlbVVZV25iN1FZQ2pPM3lkTl95YjF2TVdhN0RwbmtON2l3NHJDeVE?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "彰化福興親子新亮點！大興飛行樂園啟用 玩遊具、探索飛行歷史。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "彰化福興親子新亮點！大興飛行樂園啟用 玩遊具、探索飛行歷史。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
-      "published_at": "2026-11-04T07:26:09+00:00",
-      "collected_at": "2026-11-07T17:44:37.074360+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmigwnbvv95cuxozlm3ul95sja2zknstxbxbfottwyyz",
-      "title": "彰化福興親子新亮點！大興飛行樂園啟用 玩遊具、探索飛行歷史",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOZlM3Ul95SjA2ZkNsTXBxbFotTWYyZndQZnZqd3NoelpDaGMxbXVKQlpxTm16cUxWdjRnZ0lrbGd2OElwZjYtV28yZFhIdmZTZkZPZnI1RDVzMTBKdGVfX19MZFdpeU5ySHB1dl9YYkhYNXpQTVBXV1lmZE96b1R2aDdmZXZCcEFDcGI4MEc0WkE5QjZEOENfZnFDY2lwZjFmMHBJZTF4dzVmSDZlbEpMX2t4emZCNXpZVExPTUFmUTc3VC0wNS1paUVJUWlHU2dWTllrbXVDUkZhN1JRaUY5UlBHMU5IRUNTeUsyYk5jbzZ1S1BtYlU5UURuOGxLaGpjM0hxSG95VHZzeGIzbUVLZW5Vb09yczZyTlh1QVJ0cFdLaXotNW00czBtdkc3SldKM3pTbGpqZEFyWktjZ0MxN0JiVDB3OE40THlUUXlHR2ZhSnN5d2VpM096MTlPWWduTzFUZ003Rks4ZlVOYWZtZUFVcXloMURtODR2YkhGbDdQRmM?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOZlM3Ul95SjA2ZkNsTXBxbFotTWYyZndQZnZqd3NoelpDaGMxbXVKQlpxTm16cUxWdjRnZ0lrbGd2OElwZjYtV28yZFhIdmZTZkZPZnI1RDVzMTBKdGVfX19MZFdpeU5ySHB1dl9YYkhYNXpQTVBXV1lmZE96b1R2aDdmZXZCcEFDcGI4MEc0WkE5QjZEOENfZnFDY2lwZjFmMHBJZTF4dzVmSDZlbEpMX2t4emZCNXpZVExPTUFmUTc3VC0wNS1paUVJUWlHU2dWTllrbXVDUkZhN1JRaUY5UlBHMU5IRUNTeUsyYk5jbzZ1S1BtYlU5UURuOGxLaGpjM0hxSG95VHZzeGIzbUVLZW5Vb09yczZyTlh1QVJ0cFdLaXotNW00czBtdkc3SldKM3pTbGpqZEFyWktjZ0MxN0JiVDB3OE40THlUUXlHR2ZhSnN5d2VpM096MTlPWWduTzFUZ003Rks4ZlVOYWZtZUFVcXloMURtODR2YkhGbDdQRmM?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "彰化福興親子新亮點！大興飛行樂園啟用 玩遊具、探索飛行歷史。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "彰化福興親子新亮點！大興飛行樂園啟用 玩遊具、探索飛行歷史。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
-      "published_at": "2026-11-04T07:12:59+00:00",
-      "collected_at": "2026-11-04T19:44:24.858789+00:00",
-      "query": "台灣 遊樂園 親子 最新"
     }
   ]
 }
