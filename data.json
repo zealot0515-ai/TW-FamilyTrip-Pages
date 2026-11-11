@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-11-10T19:42:57.271805+00:00",
+  "updated_at": "2026-11-11T01:56:58.372281+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmizefvx3lxte1sekrlnmfmx2ffy0pammzvzdbldgdus",
+      "title": "討論牆 | 嘉義親子放電景點推薦！民雄童話秘境 巨型粉紅豬超好拍！",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sekRLNmFmX2FFY0paMmZvZDBldGduSUx1aWxCaUxSSV9CbHVwRUlqTU5vVS1aU3FSMkstdzdqVW5weWtfY2ZjQk85N1U0VWFkdWYtQWNvTzRJX2dndkp5UF9lUlo?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sekRLNmFmX2FFY0paMmZvZDBldGduSUx1aWxCaUxSSV9CbHVwRUlqTU5vVS1aU3FSMkstdzdqVW5weWtfY2ZjQk85N1U0VWFkdWYtQWNvTzRJX2dndkp5UF9lUlo?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "討論牆 | 嘉義親子放電景點推薦！民雄童話秘境 巨型粉紅豬超好拍！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "討論牆 | 嘉義親子放電景點推薦！民雄童話秘境 巨型粉紅豬超好拍！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-11-10T17:04:04+00:00",
+      "collected_at": "2026-11-11T01:56:46.886415+00:00",
+      "query": "台灣 親子放電 景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmixkfvx3lxte4zx0vindzwqmh3rllnvxy5dmmwthlod",
       "title": "2027 高雄冬日遊樂園《小小兵》1 月登場！限定造景、夜間光影、碼頭樂園必朝聖",
@@ -104,6 +130,57 @@
       "published_at": "2026-11-10T03:18:00+00:00",
       "collected_at": "2026-11-10T04:06:50.502509+00:00",
       "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-news-pchome-com-tw-travel-sharelife-20261110-index-79426880060707216015-ht",
+      "title": "嘉義親子放電景點推薦！民雄童話秘境 巨型粉紅豬超好拍！",
+      "url": "https://news.pchome.com.tw/travel/sharelife/20261110/index-79426880060707216015.html",
+      "canonical_url": "https://news.pchome.com.tw/travel/sharelife/20261110/index-79426880060707216015.html",
+      "image_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "嘉義親子放電景點推薦！民雄童話秘境 巨型粉紅豬超好拍！。從傳統養豬場到人氣親子樂園，嘉義民雄的「三隻小豬觀光農場」用童話故事為老畜牧場帶來全新生命！園區保留農場與動物親近的特色，並加入巨型粉紅豬、哈比屋等可愛造景，打造適合全家同遊的休閒空間。嘉義民雄有一座充滿童話色彩的親子景點！「三隻小豬觀光農場」前身為傳統養豬畜牧場，經過轉型後，以經典童話故事為主題，打造結合動物生態、戶外遊憩與休閒餐飲的特色園區。最吸睛的莫過於入口附近的巨型粉紅豬造景， ...",
+      "analysis": {
+        "overview": "嘉義親子放電景點推薦！民雄童話秘境 巨型粉紅豬超好拍！。從傳統養豬場到人氣親子樂園，嘉義民雄的「三隻小豬觀光農場」用童話故事為老畜牧場帶來全新生命！園區保留農場與動物親近的特色，並加入巨型粉紅豬、哈比屋等可愛造景，打造適合全家同遊的休閒空間。嘉義民雄有一座充滿童話色彩的親子景點！「三隻小豬觀光農場」前身為傳統養豬畜牧場，經過轉型後，以經典童話故事為主題，打造結合動物生態、戶外遊憩與休閒餐飲的特色園區。最吸睛的莫過於入口附近的巨型粉紅豬造景， ...",
+        "pros": "動物互動與自然觀察能提高孩子參與感。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "出發前確認餵食、互動體驗與休園時間。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "news.pchome.com.tw",
+      "tags": [
+        "看動物",
+        "放電",
+        "好玩"
+      ],
+      "reason": "有動物或自然觀察元素，孩子比較容易投入；出發前可先確認餵食、展區與洗手設施。",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "collected_at": "2026-11-11T01:56:57.676082+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxqwnfwt3pgtkf2akzrbenvcwo3vwh4l",
+      "title": "嘉義親子放電景點推薦！民雄童話秘境 巨型粉紅豬超好拍！",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnFWT3pGTkF2akZRbENvcWo3VWh4LVBrRTlwejVjYkFGdVJOR2lreUhrbk1tLUNRaEREWVkxanFIa0ZTTENmcmRoUWwyZW1RZjg5VjRpcG01bHdFZEtlaWZsd1hUS0hTSTktVTZKVVdhMXpWcGZwcE8xTjNHUzlKQlJadzJuazM3V25yMQ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnFWT3pGTkF2akZRbENvcWo3VWh4LVBrRTlwejVjYkFGdVJOR2lreUhrbk1tLUNRaEREWVkxanFIa0ZTTENmcmRoUWwyZW1RZjg5VjRpcG01bHdFZEtlaWZsd1hUS0hTSTktVTZKVVdhMXpWcGZwcE8xTjNHUzlKQlJadzJuazM3V25yMQ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "嘉義親子放電景點推薦！民雄童話秘境 巨型粉紅豬超好拍！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "嘉義親子放電景點推薦！民雄童話秘境 巨型粉紅豬超好拍！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "collected_at": "2026-11-11T01:56:58.263391+00:00",
+      "query": "台灣 親子景點 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmi6gjbvv95cuxqc01zavo3cgrdawitbedvbjjsvnrue",
@@ -740,91 +817,6 @@
       "published_at": "2026-11-07T03:39:34+00:00",
       "collected_at": "2026-11-07T17:44:35.911453+00:00",
       "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmipajbvv95cuxocwnvyk91wddwdei3ugtwdlzou2puv",
-      "title": "新竹童樂會最後2場免費玩！11／7孔廟看YOYO舞台劇 11／14大湳雅公園遊行、親子唱跳",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOcWNvYk91WDdWdEI3UGtwdlZOU2pUV3kzYkd3U3B2RWNiclVMWDBCYzFfUnpiMVN4aTVUcVNQZFFCbnM2LXJ4V2xvcjFUYWQ4clI5cnFZVFpkNDhhQmRtYllwR3BwWkltZFJHWnJUR19Qa3djNUU1RDg0bmVqWW9NSVB6ZGR2eXM1RTFreUQ5Z3MzRHlDVHlhNnBaWDJjQi1lekFTenV1MmZxcmJhcm9sR0xCNXBpTEEtREt3YmJDS3A1Vmp4Q2xISldjUy1mcXpCTnlzQndWVVBRdVhUbTZWeVZpV3NJamlocU9nZTRFLW03aHQyNzFDMDZTOWp1LXlJazdFdldteDJ4N0dReUZPTE12a3I4SGhaOXRyOFU1N3B5d1Rt?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOcWNvYk91WDdWdEI3UGtwdlZOU2pUV3kzYkd3U3B2RWNiclVMWDBCYzFfUnpiMVN4aTVUcVNQZFFCbnM2LXJ4V2xvcjFUYWQ4clI5cnFZVFpkNDhhQmRtYllwR3BwWkltZFJHWnJUR19Qa3djNUU1RDg0bmVqWW9NSVB6ZGR2eXM1RTFreUQ5Z3MzRHlDVHlhNnBaWDJjQi1lekFTenV1MmZxcmJhcm9sR0xCNXBpTEEtREt3YmJDS3A1Vmp4Q2xISldjUy1mcXpCTnlzQndWVVBRdVhUbTZWeVZpV3NJamlocU9nZTRFLW03aHQyNzFDMDZTOWp1LXlJazdFdldteDJ4N0dReUZPTE12a3I4SGhaOXRyOFU1N3B5d1Rt?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "新竹童樂會最後2場免費玩！11／7孔廟看YOYO舞台劇 11／14大湳雅公園遊行、親子唱跳。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "新竹童樂會最後2場免費玩！11／7孔廟看YOYO舞台劇 11／14大湳雅公園遊行、親子唱跳。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "大自然",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-11-06T22:30:00+00:00",
-      "collected_at": "2026-11-07T01:55:34.150943+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-n-yam-com-article-20261107884348",
-      "title": "新竹童樂會最後2場免費玩！11／7孔廟看YOYO舞台劇　11／14大湳雅公園遊行、親子唱跳 | 蕃新聞",
-      "url": "https://n.yam.com/Article/20261107884348",
-      "canonical_url": "https://n.yam.com/Article/20261107884348",
-      "image_url": "https://ni.yam.com/20261107/hsinchu-kids-2026-hero-f10331f3b93f1b5b.webp",
-      "images": [
-        "https://ni.yam.com/20261107/hsinchu-kids-2026-hero-f10331f3b93f1b5b.webp",
-        "https://ni.yam.com/20261107/hsinchu-kids-2026-card-f95b5d9dc848d91d.webp",
-        "https://ni.yam.com/20261107/frontsite-cover-story-93019-manual-50815904ea9824a6-norm-v2-w1536-h1024.webp",
-        "https://ni.yam.com/20261107/20261106060959574-5b19f5d9c32897fe.webp",
-        "https://ni.yam.com/20261107/20261106095645864-ce7179269cbea054.webp",
-        "https://ni.yam.com/20261107/hero-4-8bd9b0a438dddf4c.webp",
-        "https://ni.yam.com/20261107/porzingis-statement-dd6d095258ae00b4.webp",
-        "https://ni.yam.com/20261107/20261106095552267-ac45761afdbaa29e.webp"
-      ],
-      "summary": "新竹童樂會最後2場免費玩！11／7孔廟看YOYO舞台劇　11／14大湳雅公園遊行、親子唱跳 | 蕃新聞。（ 媒角抵加 ／林忠勳報導）「2026新竹童樂會－皮卡歐嗨YO！11月7日新竹孔廟廣場有YOYO音樂舞台劇及夢想主題闖關；11月14日移師大湳雅公園舉辦「能量大集結」，安排YOYO家族遊行、親子唱跳及氣墊設施。11月7日孔廟廣場：12時至17時闖關體驗，14時至17時舞台活動。11月14日大湳雅公園：10時至16時30分能量大集結，14時YOYO主題遊行。第五場巡迴以夢想能量為主題，原創YOYO親子音樂舞台劇《風之城：魔法寶石傳說》將進行系列最終場演出。舞台劇將新竹公園、十八尖山、青草湖及新竹漁港等景點融入故事。現場規劃夢想宣告、未來職業夢、角色配對三項任務，以及小小職人秀、夢想時光膠囊兩項體驗。完成指定任務並集滿3個不同關卡章，可兌換限量好禮。活動資訊 壓軸「能量大集結」上午10時至下午4時30分舉行；下午2時展開YOYO LIVE SHOW主題遊行，由活動吉祥物皮卡與YOYO家族哥哥姐姐、卡通明星參與，另有舞台演出、親子唱跳及主題曲共舞。",
-      "analysis": {
-        "overview": "新竹童樂會最後2場免費玩！11／7孔廟看YOYO舞台劇　11／14大湳雅公園遊行、親子唱跳 | 蕃新聞。（ 媒角抵加 ／林忠勳報導）「2026新竹童樂會－皮卡歐嗨YO！11月7日新竹孔廟廣場有YOYO音樂舞台劇及夢想主題闖關；11月14日移師大湳雅公園舉辦「能量大集結」，安排YOYO家族遊行、親子唱跳及氣墊設施。11月7日孔廟廣場：12時至17時闖關體驗，14時至17時舞台活動。11月14日大湳雅公園：10時至16時30分能量大集結，14時YOYO主題遊行。第五場巡迴以夢想能量為主題，原創YOYO親子音樂舞台劇《風",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "n.yam.com",
-      "tags": [
-        "大自然",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-11-06T22:30:00+00:00",
-      "collected_at": "2026-11-07T17:44:36.394767+00:00",
-      "query": "新竹 苗栗 台中 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxte9wrwhpsnjadw5duwrladj0wxjhreroe",
-      "title": "玩樂園、遊基隆！謝國樑推親子漫遊地圖 串聯七區樂園與33家店家優惠11/11開跑 | 台灣好新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wRWhpSnJadW5DUWRlaDJ0WXJHRERoemNLaHBYUGhnY0V3ZHVEbmxlckQwcUVUVVd0ZkdjRXZnU3QxYndPNFpVYWxWQW1GZFBUWURPNWpn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wRWhpSnJadW5DUWRlaDJ0WXJHRERoemNLaHBYUGhnY0V3ZHVEbmxlckQwcUVUVVd0ZkdjRXZnU3QxYndPNFpVYWxWQW1GZFBUWURPNWpn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "玩樂園、遊基隆！謝國樑推親子漫遊地圖 串聯七區樂園與33家店家優惠11/11開跑 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "玩樂園、遊基隆！謝國樑推親子漫遊地圖 串聯七區樂園與33家店家優惠11/11開跑 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
-      "published_at": "2026-11-06T16:55:55+00:00",
-      "collected_at": "2026-11-07T01:55:34.466625+00:00",
-      "query": "台灣 親子旅遊 最新"
     }
   ]
 }
