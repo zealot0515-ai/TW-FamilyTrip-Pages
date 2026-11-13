@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-11-12T19:53:19.304728+00:00",
+  "updated_at": "2026-11-13T02:37:33.686745+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte1uv1iwmhhgawduzur5u0rcoxz6rmvna",
+      "title": "一張房卡開啟府城藝術假期和逸飯店台南西門館推出雙年展主題住房與親子創作- 生活",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UV1IwMHhGaWdUZUR5U0RCOXZ6RmVna1cwaU05OXltVDdoaHJndkdyNEVrU0FPZkVPT3JadmNUU0NHS1FhMFkxQnRZbVpjVXBXNmMtM2VJWGZiSzJLQWNr?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UV1IwMHhGaWdUZUR5U0RCOXZ6RmVna1cwaU05OXltVDdoaHJndkdyNEVrU0FPZkVPT3JadmNUU0NHS1FhMFkxQnRZbVpjVXBXNmMtM2VJWGZiSzJLQWNr?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "一張房卡開啟府城藝術假期和逸飯店台南西門館推出雙年展主題住房與親子創作- 生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "一張房卡開啟府城藝術假期和逸飯店台南西門館推出雙年展主題住房與親子創作- 生活。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 價格與房型差異大，親子設施也可能需預約。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
+      },
+      "source_name": "工商時報",
+      "tags": [
+        "室內",
+        "好玩"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-11-13T02:30:00+00:00",
+      "collected_at": "2026-11-13T02:37:31.624836+00:00",
+      "query": "台灣 特色飯店 親子 房型"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmizefvx3lxte1hehbmejviy2u1oeriwwzpvxptvjhpq",
       "title": "討論牆 | 超萌大怪獸現身高雄親子遊樂園區！台鐵老機廠變身奇幻基地",
@@ -779,32 +805,6 @@
       "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
       "published_at": "2026-11-09T04:40:51+00:00",
       "collected_at": "2026-11-10T19:42:56.511630+00:00",
-      "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte9kb0rxsvlsqk9jzgvvddh5qwh2ujgye",
-      "title": "高雄旗山免費景點！糖廠冰品與老建築 親子一日遊好去處！",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kb0RxSVlSQk9JZGVVdDh5QWh2UjgyeGdwRGlxUWFXeU9DODRSX0stbXMzd0tNS2NERGpwOUFRX0JQMm5QUXh5bFFrZG5VcGR3c25uczN4ZHk3VEJmdGRV?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kb0RxSVlSQk9JZGVVdDh5QWh2UjgyeGdwRGlxUWFXeU9DODRSX0stbXMzd0tNS2NERGpwOUFRX0JQMm5QUXh5bFFrZG5VcGR3c25uczN4ZHk3VEJmdGRV?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "高雄旗山免費景點！糖廠冰品與老建築 親子一日遊好去處！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "高雄旗山免費景點！糖廠冰品與老建築 親子一日遊好去處！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "ShareLife 台灣旅行趣",
-      "tags": [
-        "大自然",
-        "好玩"
-      ],
-      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-      "published_at": "2026-11-09T03:31:45+00:00",
-      "collected_at": "2026-11-09T22:20:18.142633+00:00",
       "query": "台灣 免費親子景點"
     }
   ]
