@@ -1,8 +1,34 @@
 {
-  "updated_at": "2026-11-14T02:26:44.024495+00:00",
+  "updated_at": "2026-11-14T18:00:04.158506+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmitefvx3lxte0xuwg2s2yytdhbndnjdktvsur3zje5d",
+      "title": "周末親子遊！高雄親子樂園區有怪獸裝置　新北耶誕城迎童趣嘉年華",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xUWg2S2YyTDhBNDNjdktVSUR3ZjE5d3I1djFmbTNIT1I1MnRrTlVLakpTRXZSczcwZ2IwVG5BWWZVY0FaMUFPRS1mRXjSAVJBVV95cUxNd0tFVGlYZW5ncWVtT3VwQkxFdlpwbW1FZ2o5NjZMUy1XQkZNN2EwaFVCQ1BQTDJrYi1BWkVBVXNpcEt0eFRqV3luUlFmRWFZa0VR?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xUWg2S2YyTDhBNDNjdktVSUR3ZjE5d3I1djFmbTNIT1I1MnRrTlVLakpTRXZSczcwZ2IwVG5BWWZVY0FaMUFPRS1mRXjSAVJBVV95cUxNd0tFVGlYZW5ncWVtT3VwQkxFdlpwbW1FZ2o5NjZMUy1XQkZNN2EwaFVCQ1BQTDJrYi1BWkVBVXNpcEt0eFRqV3luUlFmRWFZa0VR?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "周末親子遊！高雄親子樂園區有怪獸裝置　新北耶誕城迎童趣嘉年華。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "周末親子遊！高雄親子樂園區有怪獸裝置　新北耶誕城迎童趣嘉年華。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "NOWnews今日新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-11-14T09:39:42+00:00",
+      "collected_at": "2026-11-14T18:00:03.999415+00:00",
+      "query": "台灣 親子飯店 親子樂園"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmi9anbvv95cuxnd1nxwhprd0nrn2vmc29idljfog5iq",
       "title": "親子必去！台北兒童職業體驗樂園KidZania11.24試營業！近50種職業體驗＋台灣限定布袋戲操偶師",
@@ -783,31 +809,6 @@
       "published_at": "2026-11-09T13:16:00+00:00",
       "collected_at": "2026-11-10T04:07:00.509221+00:00",
       "query": "台灣 親子放電 景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiv0fvx3lxte5krg1fuevgdnpzues3r2vwvkrlblv5t",
-      "title": "2027高雄冬日遊樂園主題公開！巨萌「小小兵」登陸愛河灣，活動預告搶先看",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KRG1fUEVGdnpzUEs3R2VwVkRLblV5TEJmcWprZkdHVFlKcVlxUEFyaF9NaEFnNFVxdjhWTlJfSGVMQ0l1dTdIbTUxdmRtQ25MS3FMbWRJUQ?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KRG1fUEVGdnpzUEs3R2VwVkRLblV5TEJmcWprZkdHVFlKcVlxUEFyaF9NaEFnNFVxdjhWTlJfSGVMQ0l1dTdIbTUxdmRtQ25MS3FMbWRJUQ?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "2027高雄冬日遊樂園主題公開！巨萌「小小兵」登陸愛河灣，活動預告搶先看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "2027高雄冬日遊樂園主題公開！巨萌「小小兵」登陸愛河灣，活動預告搶先看。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "食尚玩家",
-      "tags": [
-        "放電"
-      ],
-      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
-      "published_at": "2026-11-09T09:00:00+00:00",
-      "collected_at": "2026-11-09T22:20:17.172622+00:00",
-      "query": "台灣 遊樂園 親子 最新"
     }
   ]
 }
