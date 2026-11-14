@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T19:40:49.207866+00:00",
+  "updated_at": "2026-11-14T02:26:44.024495+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -235,6 +235,32 @@
       "published_at": "2026-11-12T00:18:00+00:00",
       "collected_at": "2026-11-12T02:59:19.226309+00:00",
       "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxqnklhmkw3nm95tujitxjnddjishbot",
+      "title": "超萌大怪獸現身高雄親子遊樂園區！台鐵老機廠變身奇幻基地- 旅遊新聞",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNklHMkw3Nm95TUJITXJNdDJiSHBoTWktdmhIUmRCUTAwRVA0czl3Um9ER3llTzV0eTh2dkZreUFvcGpwSjlGSFlBOVJxRHM0cFhldEo3VVk3endJa2FoMWN3YlFzSGxHb2hXR0hZZk1OMTluM2VwYjBhZ0lHUzViazRKMjdlRXNtWGtLZg?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNklHMkw3Nm95TUJITXJNdDJiSHBoTWktdmhIUmRCUTAwRVA0czl3Um9ER3llTzV0eTh2dkZreUFvcGpwSjlGSFlBOVJxRHM0cFhldEo3VVk3endJa2FoMWN3YlFzSGxHb2hXR0hZZk1OMTluM2VwYjBhZ0lHUzViazRKMjdlRXNtWGtLZg?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "超萌大怪獸現身高雄親子遊樂園區！台鐵老機廠變身奇幻基地- 旅遊新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "超萌大怪獸現身高雄親子遊樂園區！台鐵老機廠變身奇幻基地- 旅遊新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "collected_at": "2026-11-14T02:26:43.826679+00:00",
+      "query": "台灣 免費親子景點"
     },
     {
       "id": "https-news-ltn-com-tw-news-kaohsiung-breakingnews-5637851",
@@ -781,31 +807,6 @@
       "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
       "published_at": "2026-11-09T09:00:00+00:00",
       "collected_at": "2026-11-09T22:20:17.172622+00:00",
-      "query": "台灣 遊樂園 親子 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxtfaxzxrgzediq3r4u2psttjvbtratzhen",
-      "title": "「三蜜」變身遊樂地標！埔心蜜果樂園啟用 6公尺大樹塔吸睛 | 台灣好新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxZXRGZEdiQ3R4U2psTTJVbTRaTzhENS1CRjdRcThPbzRjYW0tbXFjTG9UeVFmeUQ2TjEwZlVUdDlNb0tIVV8tdjJxVGlWV3ZabkNWbm53?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxZXRGZEdiQ3R4U2psTTJVbTRaTzhENS1CRjdRcThPbzRjYW0tbXFjTG9UeVFmeUQ2TjEwZlVUdDlNb0tIVV8tdjJxVGlWV3ZabkNWbm53?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "「三蜜」變身遊樂地標！埔心蜜果樂園啟用 6公尺大樹塔吸睛 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "「三蜜」變身遊樂地標！埔心蜜果樂園啟用 6公尺大樹塔吸睛 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "LINE TODAY",
-      "tags": [
-        "放電"
-      ],
-      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
-      "published_at": "2026-11-09T07:28:53+00:00",
-      "collected_at": "2026-11-09T22:20:17.683765+00:00",
       "query": "台灣 遊樂園 親子 最新"
     }
   ]
