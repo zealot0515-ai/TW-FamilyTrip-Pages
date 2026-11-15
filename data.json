@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T18:00:04.158506+00:00",
+  "updated_at": "2026-11-15T01:55:44.435979+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -28,6 +28,39 @@
       "published_at": "2026-11-14T09:39:42+00:00",
       "collected_at": "2026-11-14T18:00:03.999415+00:00",
       "query": "台灣 親子飯店 親子樂園"
+    },
+    {
+      "id": "https-www-nownews-com-news-6892363",
+      "title": "周末親子遊！高雄親子樂園區有怪獸裝置 新北耶誕城迎童趣嘉年華 | 美食旅遊 | 生活 | NOWnews今日新聞",
+      "url": "https://www.nownews.com/news/6892363",
+      "canonical_url": "https://www.nownews.com/news/6892363",
+      "image_url": "https://media.nownews.com/nn_media/thumbnail/2026/11/1794648861128-b94d2e6ff4434027981df5304581dcf8-1200x800.webp?unShow=false",
+      "images": [
+        "https://www.nownews.com/NOWnews/images/app-promote.webp",
+        "https://media.nownews.com/nn_media/thumbnail/2026/11/1794648861128-b94d2e6ff4434027981df5304581dcf8-1200x800.webp?unShow=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/11/1794648928757-3af6b1fb7d804077a6fac1d035bc0f9e-500x333.webp?unShow=false&waterMark=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/11/1794648971848-2feee5651629443ca2539596c2a05c3d-500x333.webp?unShow=false&waterMark=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/11/1794649009057-150f1037e7044d8da8010bc15a86c5d6-500x707.webp?unShow=false&waterMark=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/11/1794648784917-87f229507c29403f9e2ef69d50a4357b-500x333.webp?unShow=false&waterMark=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/10/1793265669196-1ba2a9bed0034e0294b69f2a7aed0ad2-500x333.webp?unShow=false",
+        "https://media.nownews.com/nn_media/thumbnail/2026/11/1794475195618-f17e202dba464814bede92e59efe0922-500x375.webp?unShow=false"
+      ],
+      "summary": "周末親子遊！高雄親子樂園區有怪獸裝置 新北耶誕城迎童趣嘉年華 | 美食旅遊 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 葉盛耀 /綜合報導 ▲高雄親子樂園區新設置怪獸裝置，由國內藝術家創作，即日起展出，到2027年2月15日止。（圖／高雄市文化局提供） ✕ 高雄市文化局宣布，高雄親子遊樂園區有「怪獸大軍入侵」，園內設置期間限定大型藝術裝置，邀請知名藝術家將舊台鐵高雄機廠老工業建築，華麗轉化為巨型萌獸基地，包含《哈毛獸》、《追逐流星的怪獸》、《飛向自由的怪獸》共3件吸睛度爆表的巨型藝術裝置，將一路展出到2027年2月15日。我是廣告 請繼續往下閱讀 --> 高雄市文化局提到，本次高雄親子遊樂園區邀請藝術家王振瑋、徐至宏，為園區量身打造全新作品，帶來3件充滿童趣與想像力的大型藝術裝置，陪伴大小朋友展開奇幻冒險！藝術家王振瑋的《哈毛獸》，作品以既有工業建築為身體，將原本冰冷厚重的廠房立面，轉化為一隻巨大而親近的毛茸茸巨大怪獸。",
+      "analysis": {
+        "overview": "周末親子遊！高雄親子樂園區有怪獸裝置 新北耶誕城迎童趣嘉年華 | 美食旅遊 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 葉盛耀 /綜合報導 ▲高雄親子樂園區新設置怪獸裝置，由國內藝術家創作，即日起展出，到2027年2月15日止。（圖／高雄市文化局提供） ✕ 高雄市文化局宣布，高雄親子遊樂園區有「怪獸大軍入侵」，園內設置期間限定大",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "nownews.com",
+      "tags": [
+        "放電",
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-11-14T09:39:00+00:00",
+      "collected_at": "2026-11-15T01:55:43.812006+00:00",
+      "query": "台灣 遊樂園 親子 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmi9anbvv95cuxnd1nxwhprd0nrn2vmc29idljfog5iq",
@@ -784,31 +817,6 @@
       "published_at": "2026-11-09T16:00:00+00:00",
       "collected_at": "2026-11-10T04:06:50.985453+00:00",
       "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-www-mobile01-com-topicdetail-php-f-201-t-7314735",
-      "title": "嘉義親子放電景點推薦！民雄童話秘境 巨型粉紅豬超好拍！",
-      "url": "https://www.mobile01.com/topicdetail.php?f=201&t=7314735",
-      "canonical_url": "https://www.mobile01.com/topicdetail.php?f=201&t=7314735",
-      "image_url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "嘉義親子放電景點推薦！民雄童話秘境 巨型粉紅豬超好拍！。從傳統養豬場到人氣親子樂園，嘉義民雄的「三隻小豬觀光農場」用童話故事為老畜牧場帶來全新生命！園區保留農場與動物親近的特色，並加入巨型粉紅豬、哈比屋等可愛造景，打造適合全家同遊的休閒空間。嘉義民雄有一座充滿童話色彩的親子景點！「三隻小豬觀光農場」前身為傳統養豬畜牧場，...(嘉義縣 第1頁) ...",
-      "analysis": {
-        "overview": "嘉義親子放電景點推薦！民雄童話秘境 巨型粉紅豬超好拍！。從傳統養豬場到人氣親子樂園，嘉義民雄的「三隻小豬觀光農場」用童話故事為老畜牧場帶來全新生命！園區保留農場與動物親近的特色，並加入巨型粉紅豬、哈比屋等可愛造景，打造適合全家同遊的休閒空間。嘉義民雄有一座充滿童話色彩的親子景點！「三隻小豬觀光農場」前身為傳統養豬畜牧場，...(嘉義縣 第1頁) ...",
-        "pros": "動物互動與自然觀察能提高孩子參與感。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "出發前確認餵食、互動體驗與休園時間。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "mobile01.com",
-      "tags": [
-        "看動物",
-        "放電",
-        "好玩"
-      ],
-      "reason": "有動物或自然觀察元素，孩子比較容易投入；出發前可先確認餵食、展區與洗手設施。",
-      "published_at": "2026-11-09T13:16:00+00:00",
-      "collected_at": "2026-11-10T04:07:00.509221+00:00",
-      "query": "台灣 親子放電 景點"
     }
   ]
 }
