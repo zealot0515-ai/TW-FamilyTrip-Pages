@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T22:00:51.002449+00:00",
+  "updated_at": "2026-11-17T04:28:52.649240+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -643,6 +643,31 @@
       "query": "台灣 親子景點 最新"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmiigfbvv95cuxqq29haxqtuvpkoujhnkfecwzquejqv",
+      "title": "星光耶誕樹與療癒遊樂園迎佳節 台中新光三越耶誕活動登場- 生活新聞",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ29haXQtUVpkOUJHNkFEcWZqUEJqVm80dndLTy1KNjIzMnVXWV9rSkhpZWRQNkRBNndqamkwVDVNc3pQUEFjUjdGYS0tQVNvZXROY2QyOWEyNWpjSDVKN1c1WFRzQjRXSW92eU1aMzZYcFhpSE9JUGMzOXVJSE9ja3JIZEhHYmlMZkE?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ29haXQtUVpkOUJHNkFEcWZqUEJqVm80dndLTy1KNjIzMnVXWV9rSkhpZWRQNkRBNndqamkwVDVNc3pQUEFjUjdGYS0tQVNvZXROY2QyOWEyNWpjSDVKN1c1WFRzQjRXSW92eU1aMzZYcFhpSE9JUGMzOXVJSE9ja3JIZEhHYmlMZkE?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "星光耶誕樹與療癒遊樂園迎佳節 台中新光三越耶誕活動登場- 生活新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "星光耶誕樹與療癒遊樂園迎佳節 台中新光三越耶誕活動登場- 生活新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "放電"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-11-13T11:01:01+00:00",
+      "collected_at": "2026-11-17T04:28:52.537270+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmiiwfbvv95cuxpenviumdvckhlrzrhttzfrflmr3j0x",
       "title": "和逸飯店·台南西門館推出雙年展主題住房與親子創作一張房卡開啟府城藝術假期- 社會新聞",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPenViUmdVckhLRzRhTTZfRFlmR3J0X08wTGpVTnB5d3VORjJKMjVVMmNzTEZfY1RUbW1rS05BckZtOHdHVTVzSEtsYS1xanZkcF8ydTRtd1NGbHhZSnFTMms1Z3V4bEhKLVFxMTFPcXZ2dUdROTZMa2Z4MEZwaHc2c2d6bVdlS04yb0lr?oc=5",
@@ -796,32 +821,6 @@
       "published_at": "2026-11-12T02:32:00+00:00",
       "collected_at": "2026-11-12T19:53:13.817926+00:00",
       "query": "台灣 週末親子 去哪裡"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiwefvx3lxte1jc1d1bwdvvk1yd0izoxrqqs1nbwrjt",
-      "title": "這回沒丟水裡！ 陳其邁：3隻「怪獸」現身高雄親子遊樂園- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Jc1d1bWdVVk1Yd0IzOXRQQS1nbWRJTFZtd0o2bWFybS10aWNMOTVQbVl5NEVNUk1HdVBCOVB2OVVPQnB0bUo0MEQya28xTmtIcXlaTk9Tc04?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Jc1d1bWdVVk1Yd0IzOXRQQS1nbWRJTFZtd0o2bWFybS10aWNMOTVQbVl5NEVNUk1HdVBCOVB2OVVPQnB0bUo0MEQya28xTmtIcXlaTk9Tc04?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "這回沒丟水裡！ 陳其邁：3隻「怪獸」現身高雄親子遊樂園- 股市爆料同學會。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "這回沒丟水裡！ 陳其邁：3隻「怪獸」現身高雄親子遊樂園- 股市爆料同學會。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "CMoney",
-      "tags": [
-        "放電",
-        "好玩"
-      ],
-      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
-      "published_at": "2026-11-12T02:24:36+00:00",
-      "collected_at": "2026-11-12T19:53:14.362801+00:00",
-      "query": "台灣 遊樂園 親子 最新"
     }
   ]
 }
