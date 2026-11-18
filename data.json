@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T20:54:44.373105+00:00",
+  "updated_at": "2026-11-18T03:42:34.807768+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -127,6 +127,31 @@
       "published_at": "2026-11-17T05:56:12+00:00",
       "collected_at": "2026-11-17T20:54:40.579509+00:00",
       "query": "宜蘭 花蓮 台東 親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfbxcmszexl3nnfaunpmczfqqm5zvxfsc",
+      "title": "苗栗親子景點 巴巴坑道礦場一日遊 挖煤、搭小火車、DIY手作全攻略",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxcmszeXl3NnFaUnpMczFQQm5zVXFscFNndGFHQUpDX1N6MVJ6YVRVM1hhRE1jUDMxbTh5WmZtZDdZdlJmcnJ3d0lXbjA0bFhlWWc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxcmszeXl3NnFaUnpMczFQQm5zVXFscFNndGFHQUpDX1N6MVJ6YVRVM1hhRE1jUDMxbTh5WmZtZDdZdlJmcnJ3d0lXbjA0bFhlWWc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "苗栗親子景點 巴巴坑道礦場一日遊 挖煤、搭小火車、DIY手作全攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "苗栗親子景點 巴巴坑道礦場一日遊 挖煤、搭小火車、DIY手作全攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-11-17T05:56:12+00:00",
+      "collected_at": "2026-11-18T03:42:34.064169+00:00",
+      "query": "台灣 親子景點 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmi9gjbvv95cuxpme1evnvlstmyluxsttfkyvvus2c3u",
@@ -532,6 +557,33 @@
       "query": "台灣 親子旅遊 景點 公園"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmivkfvx3lxtfb6btdzvfjyr0h4alr0vnfmnmden0vva",
+      "title": "台南再添親子休憩新去處！ 永康西灣里滯洪池特色遊具公園正式啟用 | 台灣好新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6bTdZVFJYR0h4alR0VnFMNmdEN0VvaTFaREl6d2NDUmdKTFdSR1BYX2VwWHlCYkktbVVPemcwWXVXWldJWU9sUENyZ25aMjFwRlkwcm9R?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6bTdZVFJYR0h4alR0VnFMNmdEN0VvaTFaREl6d2NDUmdKTFdSR1BYX2VwWHlCYkktbVVPemcwWXVXWldJWU9sUENyZ25aMjFwRlkwcm9R?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台南再添親子休憩新去處！ 永康西灣里滯洪池特色遊具公園正式啟用 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台南再添親子休憩新去處！ 永康西灣里滯洪池特色遊具公園正式啟用 | 台灣好新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "LINE TODAY",
+      "tags": [
+        "大自然",
+        "放電",
+        "好玩"
+      ],
+      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
+      "published_at": "2026-11-15T05:15:03+00:00",
+      "collected_at": "2026-11-18T03:42:34.395837+00:00",
+      "query": "台灣 遊樂園 親子 最新"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmisanbvv95cuxosmxuak4xwux5njc5ou9zmdr3dmkzc",
       "title": "台南再添親子休憩新去處！ 永康西灣里滯洪池特色遊具公園正式啟用",
       "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxOSmxUak4xWUx5Njc5OU9ZMDR3dmkzcEVwS3pJeW9sUkctb29wVnFPUTZmeGJnaG4zUXJldzZZVGs1eV9QNFhwV1J5ZUZsS3d4NmVsRV9aYS0xcmVNOVN3WTRWTzMwUVU4eFAxdi1qRTg5VEZrTVdaU1RQS1NrbTV1a3Q5S0lJamVDRnFlaEtlNTRtMXFpRWpuWkRIXzBlU2pQSklESUQ4NHdPclRNRkRnVFFmXzRuQ1dZZnZBcldrUk9RcnVEWUk4cVhCcUd3MkRwRHBaNTFTUkxBMlRXZklvR1BDdEswdWxiSHktMHh1N1F1VlRQZ3FfZVhwOVgzNmxVTmtwaVQwTE93OG5USURmZm82aHVSdXNMZnZBNlhFanVNcDRXMm9JS0NVVkJpcjVVMFdFOURDWHlrblJsV1ZqM1NNWEMxamhPV0RMbXBFQUdSTWliaTFWQVVzbmRVdHFYYjZFZGVOamZUMmxPaGpXSWdqcmY1SlQ3RXJnd2hmSm5NTTZNNHBfdXc2RUE1elhGRjNPYWdLMHpLVkZ1NEVVbUtZY1JmMkJzb3RJT0MzVEE?oc=5",
@@ -759,60 +811,6 @@
       "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
       "published_at": "2026-11-15T03:35:17+00:00",
       "collected_at": "2026-11-17T20:54:42.403699+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmihanbvv95cuxpwm14a0e5mmp4s2dmczjbcmrjs1fiy",
-      "title": "桃園親子出遊免煩惱！4大特色公園推薦 小孩放電、大人放鬆一次滿足",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPWm14a0E5Mmp4S2dmczJBcmRjS1FiYWwwNzU3LXNTQWtMSHJkUEdjeTNSWGhiOWdwTVNUdnN0VkFuMmJPaFBPQVRPVFkwbnJZOEdCTVg2QXlzOEh6ZGFlZXo0MDhZOW1UbEd3QnVpUnQ0LThHdXU3ckNnNXhXWVloZDFmY2dodmdoc1djLWtPX2hkWmlaLWU1YXRRZlBQMFYxS29LQVBDTzdIdU9hdGg3cVlZYndHQVZIY0lfSHlkVmlHbE5sR3B5ZTdCNjZ0ZHZ5YUg5bmpUTGhURnE2cV82WmJjU1RZMThUZlhncnlhNE1TbV9pdjFtRFR6ZjJVajB3M0dIQjM1czB0YU5ySHJ0UjUzNDBEMzFKNXM4amRDb011R0NhZmtzY0NKWTVPOXc4bkRlV3YwbmRac2NHQWw1NUh6Wl94QUdXelZXMHNsemJsWTdYcDc4RW5adjdXWVFEOHhKUFlsNFZON0loZUVKWGZzSU9QSmVNLWdmTUxwMG1KX3VP?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPWm14a0E5Mmp4S2dmczJBcmRjS1FiYWwwNzU3LXNTQWtMSHJkUEdjeTNSWGhiOWdwTVNUdnN0VkFuMmJPaFBPQVRPVFkwbnJZOEdCTVg2QXlzOEh6ZGFlZXo0MDhZOW1UbEd3QnVpUnQ0LThHdXU3ckNnNXhXWVloZDFmY2dodmdoc1djLWtPX2hkWmlaLWU1YXRRZlBQMFYxS29LQVBDTzdIdU9hdGg3cVlZYndHQVZIY0lfSHlkVmlHbE5sR3B5ZTdCNjZ0ZHZ5YUg5bmpUTGhURnE2cV82WmJjU1RZMThUZlhncnlhNE1TbV9pdjFtRFR6ZjJVajB3M0dIQjM1czB0YU5ySHJ0UjUzNDBEMzFKNXM4amRDb011R0NhZmtzY0NKWTVPOXc4bkRlV3YwbmRac2NHQWw1NUh6Wl94QUdXelZXMHNsemJsWTdYcDc4RW5adjdXWVFEOHhKUFlsNFZON0loZUVKWGZzSU9QSmVNLWdmTUxwMG1KX3VP?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "桃園親子出遊免煩惱！4大特色公園推薦 小孩放電、大人放鬆一次滿足。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "桃園親子出遊免煩惱！4大特色公園推薦 小孩放電、大人放鬆一次滿足。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "Life 生活網",
-      "tags": [
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-11-15T02:58:27+00:00",
-      "collected_at": "2026-11-15T18:50:28.861182+00:00",
-      "query": "台北 新北 桃園 親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmitefvx3lxte1ncefswwuzvjfrb1gzsfbvt28wbew1q",
-      "title": "桃園親子出遊免煩惱！4大特色公園推薦 小孩放電、大人放鬆一次滿足",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NcEFsWWUzVjFRb1gzSFBVT28wbEw1QmF3YVZtN3lURHluSG1hbERXVVhCSXRtaS1XeFlETjI2WjNLTDhlTzQyblJ4TXg?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NcEFsWWUzVjFRb1gzSFBVT28wbEw1QmF3YVZtN3lURHluSG1hbERXVVhCSXRtaS1XeFlETjI2WjNLTDhlTzQyblJ4TXg?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "桃園親子出遊免煩惱！4大特色公園推薦 小孩放電、大人放鬆一次滿足。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "桃園親子出遊免煩惱！4大特色公園推薦 小孩放電、大人放鬆一次滿足。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "桃園電子報",
-      "tags": [
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-11-15T02:58:27+00:00",
-      "collected_at": "2026-11-16T02:07:56.934188+00:00",
       "query": "台灣 親子旅遊 景點 公園"
     }
   ]
