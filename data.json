@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T20:17:40.762277+00:00",
+  "updated_at": "2026-11-21T03:13:17.058573+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -164,6 +164,31 @@
       "published_at": "2026-11-20T00:11:15+00:00",
       "collected_at": "2026-11-20T03:15:14.052057+00:00",
       "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-pchome-com-tw-travel-sharelife-20261120-index-79513280040881216015-ht",
+      "title": "新北土城新親子景點！捷運車廂變溜滑梯 全齡設施升級！",
+      "url": "https://news.pchome.com.tw/travel/sharelife/20261120/index-79513280040881216015.html",
+      "canonical_url": "https://news.pchome.com.tw/travel/sharelife/20261120/index-79513280040881216015.html",
+      "image_url": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "新北土城新親子景點！捷運車廂變溜滑梯 全齡設施升級！。熟悉的捷運車廂，竟然變成超大型兒童遊具！新北市土城線形公園完成整建，將三節捷運車廂造型融入特色遊戲場，搭配車廂拉環、輪胎爬梯、攀爬網、高空橋與管狀旋轉溜滑梯，打造充滿城市交通元素的冒險空間。這次搭捷運不用刷卡，而是準備挑戰溜滑梯！新北市土城區的「土城線形公園」於2026年10月28日完成整建並正式啟用，原本的老舊公園如今搖身一變，成為結合特色遊戲與多元運動的全齡休憩空間。",
+      "analysis": {
+        "overview": "新北土城新親子景點！捷運車廂變溜滑梯 全齡設施升級！。熟悉的捷運車廂，竟然變成超大型兒童遊具！新北市土城線形公園完成整建，將三節捷運車廂造型融入特色遊戲場，搭配車廂拉環、輪胎爬梯、攀爬網、高空橋與管狀旋轉溜滑梯，打造充滿城市交通元素的冒險空間。這次搭捷運不用刷卡，而是準備挑戰溜滑梯！新北市土城區的「土城線形公園」於2026年10月28日完成整建並正式啟用，原本的老舊公園如今搖身一變，成為結合特色遊戲與多元運動的全齡休憩空間。",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "news.pchome.com.tw",
+      "tags": [
+        "大自然",
+        "放電",
+        "好玩"
+      ],
+      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "collected_at": "2026-11-21T03:13:16.342210+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmid0fvx3lxtfbnamnrbkl6awpnx0hhddhqbdlpa3bva",
@@ -743,32 +768,6 @@
       "published_at": "2026-11-16T17:53:00+00:00",
       "collected_at": "2026-11-16T22:00:30.131820+00:00",
       "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmixgjbvv95cuxongnbb0dub0p2r3i1wfvtznu3vulmn",
-      "title": "台南西灣里新公園！雙塔遊具超吸睛 大小孩都能玩！",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxONGNBb0dub0p2R3I1WFVtZnU3VUlMNkNKczQtS0MzWGJiWFVkQUxxUkwteXQ5ejBrRnExYlVFLUNjOVhrem1Ka19OU3NoNm1VaVBISWY4dEZreGdBVXo2bW9SZnkzQm1TSnhPTHVzY20zQTJYeEFiQ1YybUFFQjI4SXpKd1JBQ3Blbmt2eDNJQnJhRkVqTzg5UWlLRjZvcmFmeDNzdzB2eS1JNHI2YndFSWpTNFppQm45Y1BvbDA3bDlFTWlkalkzX0EtMEYtV1djZ1NPeWNOQ19obWN0TlQwT3F1Y1N0SHNRTU9nelRSVTczY01NZmR5b3kzbzRpSzZucFEtcURMYURlTjRzZWJaOUp0LWtxTlpYdlFQektkQzExSFJOdVU0NDBIQTMxMXlRTVMtNU9Uc2kxMUZ0THBQWXZHd0Itdw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxONGNBb0dub0p2R3I1WFVtZnU3VUlMNkNKczQtS0MzWGJiWFVkQUxxUkwteXQ5ejBrRnExYlVFLUNjOVhrem1Ka19OU3NoNm1VaVBISWY4dEZreGdBVXo2bW9SZnkzQm1TSnhPTHVzY20zQTJYeEFiQ1YybUFFQjI4SXpKd1JBQ3Blbmt2eDNJQnJhRkVqTzg5UWlLRjZvcmFmeDNzdzB2eS1JNHI2YndFSWpTNFppQm45Y1BvbDA3bDlFTWlkalkzX0EtMEYtV1djZ1NPeWNOQ19obWN0TlQwT3F1Y1N0SHNRTU9nelRSVTczY01NZmR5b3kzbzRpSzZucFEtcURMYURlTjRzZWJaOUp0LWtxTlpYdlFQektkQzExSFJOdVU0NDBIQTMxMXlRTVMtNU9Uc2kxMUZ0THBQWXZHd0Itdw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "台南西灣里新公園！雙塔遊具超吸睛 大小孩都能玩！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "台南西灣里新公園！雙塔遊具超吸睛 大小孩都能玩！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "LIFE 生活網",
-      "tags": [
-        "大自然",
-        "放電"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-11-16T16:00:00+00:00",
-      "collected_at": "2026-11-17T20:54:42.112872+00:00",
-      "query": "台灣 親子旅遊 景點 公園"
     }
   ]
 }
