@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-11-22T19:38:48.344290+00:00",
+  "updated_at": "2026-11-23T02:45:18.984399+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte12wwt1axnra2huduh1d1zuay1im3r4y",
+      "title": "麗寶、六福村輸了！全台最強遊樂園吸385萬人，遊客讚：設施豐富園區好逛、 玩兩天捨不得走",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12WWt1aXNra2hudUh1d1Zuay1iM3R4YTM1WGRlcUtvb1VYM3lQMF9uMjdBLXB1Ry0xYVcyMGRSWkx6SmczcFRoQVhsRkVHSWdm?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12WWt1aXNra2hudUh1d1Zuay1iM3R4YTM1WGRlcUtvb1VYM3lQMF9uMjdBLXB1Ry0xYVcyMGRSWkx6SmczcFRoQVhsRkVHSWdm?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "麗寶、六福村輸了！全台最強遊樂園吸385萬人，遊客讚：設施豐富園區好逛、 玩兩天捨不得走。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "麗寶、六福村輸了！全台最強遊樂園吸385萬人，遊客讚：設施豐富園區好逛、 玩兩天捨不得走。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "風傳媒",
+      "tags": [
+        "放電"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-11-23T02:30:00+00:00",
+      "collected_at": "2026-11-23T02:45:18.872781+00:00",
+      "query": "台灣 親子旅遊 最新"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmivefvx3lxte9xqtbqt3ngc3fpynj5dxp6eu5erzf6w",
       "title": "高雄響應國際身心障礙者日 親子遊樂園區舉辦盛大活動",
@@ -775,31 +800,6 @@
       "published_at": "2026-11-18T02:15:03+00:00",
       "collected_at": "2026-11-19T20:36:08.806463+00:00",
       "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxtfbaszj3dk5ncvzdvgdbu2kxlwfqqkj5t",
-      "title": "愛陪伴特教家庭走出戶外！新北第14屆「特教家庭日」近400人同樂 親子共學寫下幸福回憶",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaSzJ3dk5ncVZDVGdBU2kxLWFqQkJ5T3pRNFhiOVdvSHBmRC02eXBkZnpmUmNtUmliMTF6dVpWWk1YdnVJM3VtR2trdUg4WkhFUmc?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaSzJ3dk5ncVZDVGdBU2kxLWFqQkJ5T3pRNFhiOVdvSHBmRC02eXBkZnpmUmNtUmliMTF6dVpWWk1YdnVJM3VtR2trdUg4WkhFUmc?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "愛陪伴特教家庭走出戶外！新北第14屆「特教家庭日」近400人同樂 親子共學寫下幸福回憶。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "愛陪伴特教家庭走出戶外！新北第14屆「特教家庭日」近400人同樂 親子共學寫下幸福回憶。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "蕃新聞",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-      "published_at": "2026-11-17T12:23:42+00:00",
-      "collected_at": "2026-11-17T20:54:39.210683+00:00",
-      "query": "台北 新北 桃園 親子景點"
     }
   ]
 }
