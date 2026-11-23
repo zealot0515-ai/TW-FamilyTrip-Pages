@@ -1,8 +1,140 @@
 {
-  "updated_at": "2026-11-23T02:45:18.984399+00:00",
+  "updated_at": "2026-11-23T23:52:44.432277+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte5zcu05n05icgdyunhpyk4tyzbyyw11c",
+      "title": "串聯百年歷史九龍大榕公！彰化竹塘祥龍探索遊戲場正式亮相！",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zcU05N05icGdyUnhpYk4tYzByYW11cUhsMWxNbGtjR0dFVWdSSjhOdXBqeEtpcVF1U0k4THJLYTFBZ1NGZjRPOGlCNm5MSkpGcmRDWXl4eHJhb01ZbDNZ?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zcU05N05icGdyUnhpYk4tYzByYW11cUhsMWxNbGtjR0dFVWdSSjhOdXBqeEtpcVF1U0k4THJLYTFBZ1NGZjRPOGlCNm5MSkpGcmRDWXl4eHJhb01ZbDNZ?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "串聯百年歷史九龍大榕公！彰化竹塘祥龍探索遊戲場正式亮相！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "串聯百年歷史九龍大榕公！彰化竹塘祥龍探索遊戲場正式亮相！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "ShareLife 台灣旅行趣",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-11-23T12:33:44+00:00",
+      "collected_at": "2026-11-23T23:52:37.836556+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbminanbvv95cuxqalrqqxb0sm5fewdcm1lmuf9umwzzl",
+      "title": "親子景點＋１！台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQalRQQXB0Sm5feWdCM1lmUF9UMWZZLTZuTTBtWjQ0RVBWN1UzcEc4MktoLUxtQ2dXUVBBaDdPZV9WMVVkRnp0TXBuc2NyamdPTFNaVTB1WWF5MWNTZnFKODZaN3YxSmlfQ09QaHgyVFE5WWxSVVY4Tk1TTWlVSHNaVlJBMlpxVkV1V0tBeVNVSkNZeUtWLU5nWjFPWjhwRDY1b29lYTYtUFFIaC1KcFJ4d3puVVhWWkcyRXN4TXBqWVV5eUdnRWx1NlRqcW0tMWs3UG1aSFdqQ1Q4WXhFNjRvdWRvOTBrTnFHbzR1bkEyUWVqVWVDVHdhY0VEc2lhNWRRVl90SUF6Wm1TNFprVnVmVUd4aVJCR0RGUXFPUXNCOWhOcmFmaXRaVEl2MTNHNmdLR3dYRFE0R0VVUzlvTFRXYVI5MWJMZXF5T0RCd3plTEpqaUJBWk5nbWdCd0pJN0VSdmRTNnh5S3hqRWExOU5kc3BBZV9jUGdleTFFRzFjYzdtZk1QaFpXOFRBcXZlSTRQTTYyM0R0NU8tdXU3?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQalRQQXB0Sm5feWdCM1lmUF9UMWZZLTZuTTBtWjQ0RVBWN1UzcEc4MktoLUxtQ2dXUVBBaDdPZV9WMVVkRnp0TXBuc2NyamdPTFNaVTB1WWF5MWNTZnFKODZaN3YxSmlfQ09QaHgyVFE5WWxSVVY4Tk1TTWlVSHNaVlJBMlpxVkV1V0tBeVNVSkNZeUtWLU5nWjFPWjhwRDY1b29lYTYtUFFIaC1KcFJ4d3puVVhWWkcyRXN4TXBqWVV5eUdnRWx1NlRqcW0tMWs3UG1aSFdqQ1Q4WXhFNjRvdWRvOTBrTnFHbzR1bkEyUWVqVWVDVHdhY0VEc2lhNWRRVl90SUF6Wm1TNFprVnVmVUd4aVJCR0RGUXFPUXNCOWhOcmFmaXRaVEl2MTNHNmdLR3dYRFE0R0VVUzlvTFRXYVI5MWJMZXF5T0RCd3plTEpqaUJBWk5nbWdCd0pJN0VSdmRTNnh5S3hqRWExOU5kc3BBZV9jUGdleTFFRzFjYzdtZk1QaFpXOFRBcXZlSTRQTTYyM0R0NU8tdXU3?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "親子景點＋１！台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "親子景點＋１！台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "Yahoo新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-11-23T07:00:27+00:00",
+      "collected_at": "2026-11-23T23:52:38.384108+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmipanbvv95cuxnytboclqwwdzar1lesvhfy0lis2lpe",
+      "title": "親子景點＋１！台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNYTBoclQwWDZaR1lESVhFY0liS2lpemxCRTJlcFlSOFV6WllnQmtoSVpfMUxCZGRtWV9jYm4wV05KNGV1ZGFWM0JpUFU2cjRFLTZ3TmZUX1cxWkJqanFYLW03MDVTRmpadVAyRG9xSmhqeVRrSzFHc29fUXItYjZQV2w2R0dfZ1Y1ZjdYQ0lnM2xmaV93eVlEZ3RLbm1tak95alpVQ2RFWGxLMGhmM3FzOFdLOVJQOXdTY3hFX1U1djZGUHRYZkRLaGMxUUVDOXYtZ2NxUUxOZVBOZkJacURiOWxLWDNkaHBkYnoyVDdWZmxaNnh3OW0zOVlBcU9CTlNuVU9hQzMxMHAtZVJoRXdIMzVOOTFLeEppazdILTV3NnZXSHZGZEZXVnZYeE5aaFNsRjhlRXFsS0tDaE5LVzN3M3JPa0NMSS12NHpRUHhMZ1JfNkdrRkczcU9jcThoT3dEZ3pUVWpLcXhBQThIcXJnWWZSRzlBblpqVFoxYWcwX2FreDljaGtBWE01ZS16eU9JWjBJbWYwbDBDM2FYV3MxbjRkS3A?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNYTBoclQwWDZaR1lESVhFY0liS2lpemxCRTJlcFlSOFV6WllnQmtoSVpfMUxCZGRtWV9jYm4wV05KNGV1ZGFWM0JpUFU2cjRFLTZ3TmZUX1cxWkJqanFYLW03MDVTRmpadVAyRG9xSmhqeVRrSzFHc29fUXItYjZQV2w2R0dfZ1Y1ZjdYQ0lnM2xmaV93eVlEZ3RLbm1tak95alpVQ2RFWGxLMGhmM3FzOFdLOVJQOXdTY3hFX1U1djZGUHRYZkRLaGMxUUVDOXYtZ2NxUUxOZVBOZkJacURiOWxLWDNkaHBkYnoyVDdWZmxaNnh3OW0zOVlBcU9CTlNuVU9hQzMxMHAtZVJoRXdIMzVOOTFLeEppazdILTV3NnZXSHZGZEZXVnZYeE5aaFNsRjhlRXFsS0tDaE5LVzN3M3JPa0NMSS12NHpRUHhMZ1JfNkdrRkczcU9jcThoT3dEZ3pUVWpLcXhBQThIcXJnWWZSRzlBblpqVFoxYWcwX2FreDljaGtBWE01ZS16eU9JWjBJbWYwbDBDM2FYV3MxbjRkS3A?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "親子景點＋１！台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "親子景點＋１！台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "Yahoo股市",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-11-23T07:00:27+00:00",
+      "collected_at": "2026-11-23T23:52:38.882650+00:00",
+      "query": "台灣 室內親子景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmixefvx3lxte50lwruyvb0qvdlbjyylv84lufazxphv",
+      "title": "苗栗親子景點｜巴巴坑道礦場一日遊：挖煤、搭小火車、DIY手作全攻略",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50LWRUYVB0QVdlbjYyLV84LUFaZXphV0pBUmNjZmV1ZWxkXzduRXdyMjBLTmc4dkVMb3N4NjBrQ2FneG5rT2Z6djc4ZklhQWlPZ0R3Y2pKQ0tQTlo1?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50LWRUYVB0QVdlbjYyLV84LUFaZXphV0pBUmNjZmV1ZWxkXzduRXdyMjBLTmc4dkVMb3N4NjBrQ2FneG5rT2Z6djc4ZklhQWlPZ0R3Y2pKQ0tQTlo1?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "苗栗親子景點｜巴巴坑道礦場一日遊：挖煤、搭小火車、DIY手作全攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "苗栗親子景點｜巴巴坑道礦場一日遊：挖煤、搭小火車、DIY手作全攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "UDN",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-11-23T03:00:10+00:00",
+      "collected_at": "2026-11-23T23:52:39.377240+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
+      "id": "https-travel-udn-com-travel-story-7206-9889526",
+      "title": "苗栗親子景點｜巴巴坑道礦場一日遊：挖煤、搭小火車、DIY手作全攻略 | 聯合新聞網",
+      "url": "https://travel.udn.com/travel/story/7206/9889526",
+      "canonical_url": "https://travel.udn.com/travel/story/7206/9889526",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35534330.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600",
+      "images": [
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35534330.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600",
+        "https://sb.scorecardresearch.com/p?c1=2&c2=7390954&comscorekw=&cv=4.0.0&cj=1",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/author/photo/2120.jpg&w=100",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35534330.png&M=1&s=Y&x=0&y=0&sw=800&sh=600&sl=W&fw=930&exp=3600&w=930",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35534331.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=900&sl=W&fw=800&exp=3600&w=800",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35534332.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=900&sl=W&fw=800&exp=3600&w=800",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35534333.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=900&sl=W&fw=800&exp=3600&w=800",
+        "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35534334.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=900&sl=W&fw=800&exp=3600&w=800"
+      ],
+      "summary": "苗栗親子景點｜巴巴坑道礦場一日遊：挖煤、搭小火車、DIY手作全攻略 | 聯合新聞網。即時 要聞 快訊 直擊／高市府「畫大餅」蓋12.5億大樹冷鏈中心計畫泡湯 現況如廢墟 07:49 黃仁勳重返輝達受熱烈歡迎！位於苗栗三灣的巴巴坑道休閒礦場，原本是礦業遺址，現在轉型成結合歷史體驗與DIY活動的熱門去處。走進模擬坑道感受礦工日常，還能親手挖煤、搭乘礦坑小火車，甚至挑戰礦工帽彩繪、小礦車組裝等手",
+      "analysis": {
+        "overview": "苗栗親子景點｜巴巴坑道礦場一日遊：挖煤、搭小火車、DIY手作全攻略 | 聯合新聞網。即時 要聞 快訊 直擊／高市府「畫大餅」蓋12.5億大樹冷鏈中心計畫泡湯 現況如廢墟 07:49 黃仁勳重返輝達受熱烈歡迎！位於苗栗三灣的巴巴坑道休閒礦場，原本是礦業遺址，現在轉型成結合歷史體驗與DIY活動的熱門去處。走進模擬坑道感受礦工日常，還能親手挖煤、搭乘礦坑小火車，甚至挑戰礦工帽彩繪、小礦車組裝等手",
+        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
+        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
+        "tips": "建議備替換衣物、毛巾與簡單點心。"
+      },
+      "source_name": "travel.udn.com",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
+      "published_at": "2026-11-23T03:00:00+00:00",
+      "collected_at": "2026-11-23T23:52:40.420690+00:00",
+      "query": "台灣 親子旅遊 景點 公園"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiuefvx3lxte12wwt1axnra2huduh1d1zuay1im3r4y",
       "title": "麗寶、六福村輸了！全台最強遊樂園吸385萬人，遊客讚：設施豐富園區好逛、 玩兩天捨不得走",
@@ -27,6 +159,38 @@
       "published_at": "2026-11-23T02:30:00+00:00",
       "collected_at": "2026-11-23T02:45:18.872781+00:00",
       "query": "台灣 親子旅遊 最新"
+    },
+    {
+      "id": "https-tw-news-yahoo-com-e8-a6-aa-e5-ad-90-e6-99-af-e9-bb-9e-e5-8f-b0-e7-81-a3-e9",
+      "title": "親子景點＋１！台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！",
+      "url": "https://tw.news.yahoo.com/%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E-%E5%8F%B0%E7%81%A3%E9%A6%96%E5%BA%A7kidzania%E7%99%BB%E5%A0%B4-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%99%B6%E5%9C%93%E5%BB%A0%E5%85%A5%E9%A7%90-%E8%BF%9150%E7%A8%AE%E8%81%B7%E6%A5%AD%E9%83%BD%E8%83%BD%E9%AB%94%E9%A9%97-070027679.html",
+      "canonical_url": "https://tw.news.yahoo.com/%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E-%E5%8F%B0%E7%81%A3%E9%A6%96%E5%BA%A7kidzania%E7%99%BB%E5%A0%B4-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%99%B6%E5%9C%93%E5%BB%A0%E5%85%A5%E9%A7%90-%E8%BF%9150%E7%A8%AE%E8%81%B7%E6%A5%AD%E9%83%BD%E8%83%BD%E9%AB%94%E9%A9%97-070027679.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/5c0bec602f9a11130d10e18fdad1d547df536deba6cd7d2dc846011a4df4fec0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fctwant_styletc_883%2F181059baac599cd666c4e0df99281442.jpg_up.jpg",
+      "images": [
+        "https://s.yimg.com/lo/mysterio/api/5c0bec602f9a11130d10e18fdad1d547df536deba6cd7d2dc846011a4df4fec0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fctwant_styletc_883%2F181059baac599cd666c4e0df99281442.jpg_up.jpg",
+        "https://s.yimg.com/cv/apiv2/twnews/article-bts/super-app.png",
+        "https://s.yimg.com/lo/mysterio/api/bf3e57b0437ce91819904b41a33c7938a9aa0212b3d9ac3f43279b0ada184680/lightyear_networkapi/resizefill_h48%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-05%2F85a06840-f30d-11ed-acfb-64b973c8539d",
+        "https://s.yimg.com/lo/mysterio/api/3ac1fa978a9a3cb95ee12bea8326b47bbd1f55aac0cef82cb9b6dffcf150025f/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fctwant_styletc_883%2F181059baac599cd666c4e0df99281442.jpg_up.jpg",
+        "https://s.yimg.com/lo/mysterio/api/d9c3c9f9e1bd7d82d0adb356423d8132feced4cecea51c2495e9c37324413656/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fctwant_styletc_883%2Fa70fbaf2fc5099ffcf24ad72d6b77776.jpg",
+        "https://s.yimg.com/lo/mysterio/api/298174d30e5f498e106a6cb0aa6d54da9a9feb2d99248d9ef52748faa0cd26ee/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fctwant_styletc_883%2Fa2b4bf779d4f99e92bdabfb77ec5b9a0.jpg",
+        "https://s.yimg.com/lo/mysterio/api/1BAD44FA44753EBB1495FB832CA4D16E455E1E779ED2267C0D107190F806608F/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fsetn.com.tw%2F90979d8cf6722c363f8dea631e6b9469.jpg_up.jpg",
+        "https://s.yimg.com/lo/mysterio/api/00C652D2FEC3147119F199C0CD5AC04EE8235A81399B42FD8BB76FDAEF31D975/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F7ddc7c64accd9852f24ccf9812acd235.jpg"
+      ],
+      "summary": "台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！\",\"position\":3}]} Yahoo新聞 即時 親子景點＋１！台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"jobTitle\":\"\",\"name\":\"加七\",",
+      "analysis": {
+        "overview": "台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！\",\"position\":3}]} Yahoo新聞 即時 親子景點＋１！台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"jobTitle\":\"\",\"name\":\"加七\",",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "tw.news.yahoo.com",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-11-22T16:00:00+00:00",
+      "collected_at": "2026-11-23T23:52:41.698329+00:00",
+      "query": "台灣 親子景點 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmivefvx3lxte9xqtbqt3ngc3fpynj5dxp6eu5erzf6w",
@@ -553,6 +717,31 @@
       "query": "台灣 親子景點 最新"
     },
     {
+      "id": "https-news-google-com-rss-articles-cbmib0fvx3lxte9eoey0c2znotzcv2pfzedxbxdzbmfpw",
+      "title": "屏東親子旅遊推薦！海生館2027夜宿營開報",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EOEY0c2ZnOTZCV2pfZEdXbXdZbmFpWGk2WEpCSHBJYUNUbXJ4UFFwcmdpVXJyU0FBTXgwYU5RQXNNVGFnVk5CQy1NWVJ1QkR5emRYWXRDSU5BNFBidm9weXJ4OFpPOVJCQVB4VVpncw?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EOEY0c2ZnOTZCV2pfZEdXbXdZbmFpWGk2WEpCSHBJYUNUbXJ4UFFwcmdpVXJyU0FBTXgwYU5RQXNNVGFnVk5CQy1NWVJ1QkR5emRYWXRDSU5BNFBidm9weXJ4OFpPOVJCQVB4VVpncw?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "屏東親子旅遊推薦！海生館2027夜宿營開報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "屏東親子旅遊推薦！海生館2027夜宿營開報。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "勁報",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-11-19T15:57:35+00:00",
+      "collected_at": "2026-11-23T23:52:42.250526+00:00",
+      "query": "台灣 親子景點 最新"
+    },
+    {
       "id": "https-news-google-com-rss-articles-cbmijgjbvv95cuxodehgbepseurfcjlynkjfvm5oov95w",
       "title": "屏東親子旅遊推薦！海生館2027夜宿營開報",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdEhGbEpSeURfcjlyNkJfVm5oOV95WFNIOFJDTmNrNEdFaEdqTGxNUTI2SkpQdThtaVlRUjhPZElkT05BTnJ1ZGg1T3liUWFJMHl0dk1UVzRiTW8tYWY3QnRuR1R4dGRkOUVncFNjLU1QWXVvTzdEVEpUT0JJV3BMMmZJcERkOGZGdXM1SFRfS1ExS2w5YVZOLVhRZkdPUHJ4Nng0VldtOGc2REZOWU4wOFY3aENET1A4dlZQeUJDRVU1bGptaUs3VUJRUTRFYXhTY0xYenVEaEpNVlItejQzU0FRSDdmSmRCVlNKSk04NW10Y1VlTWRWYnZobEJSQW13dkktM1hVVHFlX2Mwbmc?oc=5",
@@ -627,179 +816,6 @@
       "published_at": "2026-11-19T07:43:37+00:00",
       "collected_at": "2026-11-21T19:14:50.837058+00:00",
       "query": "台灣 親子旅遊 景點 公園"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmitkfvx3lxte4xekfnswgxt2kwoth3sndryxiyulbio",
-      "title": "【台南親子體驗】康爺爺農場：台南拔蘿蔔，帶著另一半和孩子去體驗拔蘿蔔的快感，全部一根都只要10元耶",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xekFnSWgxT2kwOTh3SndrYXIyUlBIOTE0Z2VULUREamxJVFM5S01ZeEVScjNheTVoVVZOSWJwRVNndVFXVnYwM1Zadjd1dw?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xekFnSWgxT2kwOTh3SndrYXIyUlBIOTE0Z2VULUREamxJVFM5S01ZeEVScjNheTVoVVZOSWJwRVNndVFXVnYwM1Zadjd1dw?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "【台南親子體驗】康爺爺農場：台南拔蘿蔔，帶著另一半和孩子去體驗拔蘿蔔的快感，全部一根都只要10元耶。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "【台南親子體驗】康爺爺農場：台南拔蘿蔔，帶著另一半和孩子去體驗拔蘿蔔的快感，全部一根都只要10元耶。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "動物互動與自然觀察能提高孩子參與感。",
-        "cons": "互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "熱血玩台南。跳躍新世界",
-      "tags": [
-        "看動物",
-        "好玩"
-      ],
-      "reason": "有動物或自然觀察元素，孩子比較容易投入；出發前可先確認餵食、展區與洗手設施。",
-      "published_at": "2026-11-19T07:17:06+00:00",
-      "collected_at": "2026-11-22T02:13:55.704096+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmiywjbvv95cuxncnlvx0xtdw9nyzhfrhncynmyam8tz",
-      "title": "屏東親子旅遊體驗推薦！換孩子帶爸媽認識海洋生物 海生館2027年夜宿迷你解說員親子營場次公布",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNcnlvX0xtdW9nYzhfRHNCYnMyam8tZXFWQWtiY1JJVXZSdUNmQ1NiaGpmbFUteHRkdURmR1V6OTJ3NzI3bk1tVWlZc2pyVE1vejZaWHJPVjMzblNyZHgza1ludnp2VHhzdjBvNE9BZVVmOXJ1bW10MS1vODRwRk1jUm8zSFQ0LVZfWWl5bFFLZkxyM0FDVkhPWlZFOUpKX0FQT0NUOTJaT0NHRERJVzZ0d2xwWmtTeWVSbFlUblVKV2IySFhJOXo4WklSZ0NmUGQxdjNUQ2gzdTMydUotR3lCTW1oV2tkMXpmMlVFVmhnNGNaRVl1cmhQNmVNYXJ2clRfdDRUU2lNcHpETXNyN0FJNDhaQ2dqcm1oUXEzLVJjWkVJc05yUjd4T1NYMkRjNE9fZTIyQ1lqZldueTEwMXZEbXdWSEF2RW1oR3Vv?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNcnlvX0xtdW9nYzhfRHNCYnMyam8tZXFWQWtiY1JJVXZSdUNmQ1NiaGpmbFUteHRkdURmR1V6OTJ3NzI3bk1tVWlZc2pyVE1vejZaWHJPVjMzblNyZHgza1ludnp2VHhzdjBvNE9BZVVmOXJ1bW10MS1vODRwRk1jUm8zSFQ0LVZfWWl5bFFLZkxyM0FDVkhPWlZFOUpKX0FQT0NUOTJaT0NHRERJVzZ0d2xwWmtTeWVSbFlUblVKV2IySFhJOXo4WklSZ0NmUGQxdjNUQ2gzdTMydUotR3lCTW1oV2tkMXpmMlVFVmhnNGNaRVl1cmhQNmVNYXJ2clRfdDRUU2lNcHpETXNyN0FJNDhaQ2dqcm1oUXEzLVJjWkVJc05yUjd4T1NYMkRjNE9fZTIyQ1lqZldueTEwMXZEbXdWSEF2RW1oR3Vv?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "屏東親子旅遊體驗推薦！換孩子帶爸媽認識海洋生物 海生館2027年夜宿迷你解說員親子營場次公布。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "屏東親子旅遊體驗推薦！換孩子帶爸媽認識海洋生物 海生館2027年夜宿迷你解說員親子營場次公布。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "www.yesmedia.com.tw",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-      "published_at": "2026-11-19T04:58:01+00:00",
-      "collected_at": "2026-11-19T20:35:47.359718+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-more-news-tw-772684",
-      "title": "台灣旅遊首次帶小孩出門怎麼挑景點？適合親子同遊的場所類型與年齡分級實用建議",
-      "url": "https://more-news.tw/772684/",
-      "canonical_url": "https://more-news.tw/772684",
-      "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "台灣旅遊首次帶小孩出門怎麼挑景點？適合親子同遊的場所類型與年齡分級實用建議。第一次帶孩子出門旅遊，很多台灣父母都有相同的挫敗經驗：孩子在景點門口就哭鬧不停、走沒多久就喊累、設施根本不適合那個年齡，全家人掃興而歸。台灣親子旅遊的關鍵不在於選了哪個熱門打卡景點，而在於你有沒有選對「場所類型」。本文以年齡分級為核心軸線，幫助首次帶小孩出遊的父母建立一套可直接套用的選景邏輯，讓出遊成功率大幅提升。許多父母第一次規劃行程，習慣直接搜尋「台灣熱門 ...",
-      "analysis": {
-        "overview": "台灣旅遊首次帶小孩出門怎麼挑景點？適合親子同遊的場所類型與年齡分級實用建議。第一次帶孩子出門旅遊，很多台灣父母都有相同的挫敗經驗：孩子在景點門口就哭鬧不停、走沒多久就喊累、設施根本不適合那個年齡，全家人掃興而歸。台灣親子旅遊的關鍵不在於選了哪個熱門打卡景點，而在於你有沒有選對「場所類型」。本文以年齡分級為核心軸線，幫助首次帶小孩出遊的父母建立一套可直接套用的選景邏輯，讓出遊成功率大幅提升。許多父母第一次規劃行程，習慣直接搜尋「台灣熱門 ...",
-        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "more-news.tw",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "collected_at": "2026-11-19T20:35:58.146592+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxouelyrxhtqxjncflscglsufrsqkffm",
-      "title": "邊玩邊學民主精神！新竹縣府\"森林職業站\"帶孩子體驗投票趣- 旅遊新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUElyRXhtQXJncFlScGlSUFRSQkFFMEdTUFo5dlFmQkRfWjg2TVBFN3NpOWphUDBWcC1oYVl5dXZuQ1hjd19jbllCVUZOd2pOc2syYW5ubFZNSzRnd2J2TXhldU5zYjZGUWFJUENpQTlCWlNhS2RVZ0htMW1DUDFSY1pqWllYTUFxajExUA?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUElyRXhtQXJncFlScGlSUFRSQkFFMEdTUFo5dlFmQkRfWjg2TVBFN3NpOWphUDBWcC1oYVl5dXZuQ1hjd19jbllCVUZOd2pOc2syYW5ubFZNSzRnd2J2TXhldU5zYjZGUWFJUENpQTlCWlNhS2RVZ0htMW1DUDFSY1pqWllYTUFxajExUA?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "邊玩邊學民主精神！新竹縣府\"森林職業站\"帶孩子體驗投票趣- 旅遊新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "邊玩邊學民主精神！新竹縣府\"森林職業站\"帶孩子體驗投票趣- 旅遊新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "PChome Online 新聞",
-      "tags": [
-        "大自然",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "collected_at": "2026-11-21T19:14:51.319700+00:00",
-      "query": "台灣 週末親子 去哪裡"
-    },
-    {
-      "id": "https-www-yesmedia-com-tw-e5-b1-8f-e6-9d-b1-e8-a6-aa-e5-ad-90-e6-97-85-e9-81-8a-",
-      "title": "屏東親子旅遊體驗推薦！換孩子帶爸媽認識海洋生物 海生館2027年夜宿迷你解說員親子營場次公布",
-      "url": "https://www.yesmedia.com.tw/%e5%b1%8f%e6%9d%b1%e8%a6%aa%e5%ad%90%e6%97%85%e9%81%8a%e9%ab%94%e9%a9%97%e6%8e%a8%e8%96%a6%ef%bc%81%e6%8f%9b%e5%ad%a9%e5%ad%90%e5%b8%b6%e7%88%b8%e5%aa%bd%e8%aa%8d%e8%ad%98%e6%b5%b7%e6%b4%8b%e7%94%9f/",
-      "canonical_url": "https://www.yesmedia.com.tw/%e5%b1%8f%e6%9d%b1%e8%a6%aa%e5%ad%90%e6%97%85%e9%81%8a%e9%ab%94%e9%a9%97%e6%8e%a8%e8%96%a6%ef%bc%81%e6%8f%9b%e5%ad%a9%e5%ad%90%e5%b8%b6%e7%88%b8%e5%aa%bd%e8%aa%8d%e8%ad%98%e6%b5%b7%e6%b4%8b%e7%94%9f",
-      "image_url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=1400&q=80",
-      "images": [],
-      "summary": "屏東親子旅遊體驗推薦！換孩子帶爸媽認識海洋生物 海生館2027年夜宿迷你解說員親子營場次公布。【記者范家豪／車城報導】 屏東海生館「夜宿-迷你解說員親子營」2027年場次正式公布，現正開放報名中！活動依年齡分為小學班及兒童班，涵蓋寒假、暑假及平日、假日等多個梯次，讓家長能依照孩子年齡及行程安排習慣，規劃合適的親子旅行。活動透過兩天一夜的職人夜宿體驗，陪孩子從認識海洋生物、學習解說技巧，到實際穿上迷你背心、拿起麥克風，完成小小解說員任務挑戰。",
-      "analysis": {
-        "overview": "屏東親子旅遊體驗推薦！換孩子帶爸媽認識海洋生物 海生館2027年夜宿迷你解說員親子營場次公布。【記者范家豪／車城報導】 屏東海生館「夜宿-迷你解說員親子營」2027年場次正式公布，現正開放報名中！活動依年齡分為小學班及兒童班，涵蓋寒假、暑假及平日、假日等多個梯次，讓家長能依照孩子年齡及行程安排習慣，規劃合適的親子旅行。活動透過兩天一夜的職人夜宿體驗，陪孩子從認識海洋生物、學習解說技巧，到實際穿上迷你背心、拿起麥克風，完成小小解說員任務挑戰。",
-        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "yesmedia.com.tw",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-      "published_at": "2026-11-18T20:58:00+00:00",
-      "collected_at": "2026-11-19T20:36:08.248673+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmi3wjbvv95cuxpv0pwtflsnnyxzmviblbryujnafrqy",
-      "title": "苗栗親子景點巴巴坑道礦場一日遊挖煤、搭小火車、DIY手作全攻略- 最懂妳的女性風格誌",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPV0pwTFlSNnYxZmViblBrYUJNaFRQYW5mM3FmSjh2YVFsLWhuZ0ZualZXX284eU8zbzZfWmlmQ2FBR3lZbVBwblRNVkVwY09JdThXRHZKd3RQNG1mMjZuczVSY1pzazFUVllaTmgzTEptQ3d4SFdvRkxZeW9XWHJ3UVdOdGVkUGlkNXBYbUN5Vms3RzVNWk5PczQtY3dNYkRfLVJYS0c2TXY4M3hKRFh4dE9WaFRXclAxYnJXVm1Hek1YdXlKX1IzRlJTUW5KbGk1T3hyWVVvTlRXaEtNa1lqZ1B5T1V5X3lXbndSclhGMGQyUnhHMWozcWF1TktDbUs3czhzWHQ3ZVZ2ZXk1SmtFYVE0MW0xU2swZV9vZ0c4blktb1RtY1lTVzRaMWRuNW4xdEVzR1I1T05RLUZvOEJTTU8yVjVSajBoYXg0OVFRRVBROEVxQnBqTXZtNTd4dGM?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPV0pwTFlSNnYxZmViblBrYUJNaFRQYW5mM3FmSjh2YVFsLWhuZ0ZualZXX284eU8zbzZfWmlmQ2FBR3lZbVBwblRNVkVwY09JdThXRHZKd3RQNG1mMjZuczVSY1pzazFUVllaTmgzTEptQ3d4SFdvRkxZeW9XWHJ3UVdOdGVkUGlkNXBYbUN5Vms3RzVNWk5PczQtY3dNYkRfLVJYS0c2TXY4M3hKRFh4dE9WaFRXclAxYnJXVm1Hek1YdXlKX1IzRlJTUW5KbGk1T3hyWVVvTlRXaEtNa1lqZ1B5T1V5X3lXbndSclhGMGQyUnhHMWozcWF1TktDbUs3czhzWHQ3ZVZ2ZXk1SmtFYVE0MW0xU2swZV9vZ0c4blktb1RtY1lTVzRaMWRuNW4xdEVzR1I1T05RLUZvOEJTTU8yVjVSajBoYXg0OVFRRVBROEVxQnBqTXZtNTd4dGM?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "苗栗親子景點巴巴坑道礦場一日遊挖煤、搭小火車、DIY手作全攻略- 最懂妳的女性風格誌。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "苗栗親子景點巴巴坑道礦場一日遊挖煤、搭小火車、DIY手作全攻略- 最懂妳的女性風格誌。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "twjinmedia.com",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
-      "published_at": "2026-11-18T05:17:58+00:00",
-      "collected_at": "2026-11-20T20:17:27.504724+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmix0fvx3lxte1nuno4d1vfakytrtcwt1nkznbyqvnsb",
-      "title": "週五下午免費逛！台中科博館「恐龍時代」親子半日遊推薦！:ShareLife 台灣旅行趣",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nUno4d1VFakYtRTcwT1NKZnBYQVNsbFVwX19JNzNnUEkyeDRRVmROS3hPUFRYWkF5T0NnVHh1TnU0Q3hGb3F6Y0FFQlhuYW42WHdJUF8wV2QyTFFqeUdF?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nUno4d1VFakYtRTcwT1NKZnBYQVNsbFVwX19JNzNnUEkyeDRRVmROS3hPUFRYWkF5T0NnVHh1TnU0Q3hGb3F6Y0FFQlhuYW42WHdJUF8wV2QyTFFqeUdF?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "週五下午免費逛！台中科博館「恐龍時代」親子半日遊推薦！:ShareLife 台灣旅行趣。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "週五下午免費逛！台中科博館「恐龍時代」親子半日遊推薦！:ShareLife 台灣旅行趣。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "ShareLife 台灣旅行趣",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-      "published_at": "2026-11-18T02:15:03+00:00",
-      "collected_at": "2026-11-19T20:36:08.806463+00:00",
-      "query": "台灣 免費親子景點"
     }
   ]
 }
