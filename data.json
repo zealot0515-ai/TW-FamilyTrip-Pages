@@ -1,8 +1,33 @@
 {
-  "updated_at": "2026-11-24T22:25:43.270247+00:00",
+  "updated_at": "2026-11-25T04:53:40.677206+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmiukfvx3lxte5luleybhiyevvqre1xrnfftv9qq2u2a",
+      "title": "彰化竹塘九龍大榕公 變身祥龍探索遊戲場",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lUlEybHIyeVVQRE1xRnFFTV9QQ2U2aTRuUE5FaEZRSEROaE9TcGdla3Flc0tudXh6a0hibms1NjNWUWlhY2RYcC1fS0s2VU4xQmc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lUlEybHIyeVVQRE1xRnFFTV9QQ2U2aTRuUE5FaEZRSEROaE9TcGdla3Flc0tudXh6a0hibms1NjNWUWlhY2RYcC1fS0s2VU4xQmc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "彰化竹塘九龍大榕公 變身祥龍探索遊戲場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "彰化竹塘九龍大榕公 變身祥龍探索遊戲場。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "蕃新聞",
+      "tags": [
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-11-25T01:30:00+00:00",
+      "collected_at": "2026-11-25T04:53:40.089322+00:00",
+      "query": "台灣 兒童遊戲場 新景點"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmijwnbvv95cuxoc3g0s0hganjpwkzlsehhmktlxzqxm",
       "title": "三鶯線北大站變身親子樂園！逛市集、喝咖啡體驗捷運新生活新北捷運攜手路易莎打造「NuMove 續行」 親子嘉年華開啟軌道經濟新篇章",
@@ -179,6 +204,32 @@
       "published_at": "2026-11-24T03:14:33+00:00",
       "collected_at": "2026-11-24T06:03:08.156190+00:00",
       "query": "台灣 兒童遊戲場 新景點"
+    },
+    {
+      "id": "https-news-google-com-rss-articles-cbmiigfbvv95cuxqbufnvuzdrk52bnzhmwxpcy1vzwc4r",
+      "title": "大手牽小手出發去集章新北微笑山線串起五大山系親子旅程- 旅遊新聞",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUFnVUZDRk52bnZhMWxPcy1VZWc4RHJabmV0UlkwV2ZQdDBIU2RQSmM2bERBMnpnLXJqcTZHb3dUbFhMa0JVLV9tXzJubHhqeWw3NTh0NFJhdFdSNmc4cEFFbWlJakd4YURWemVLYkNOX3lRX3A0T3pySU9ZUG1HSXd4eDhCYm1Wemc?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUFnVUZDRk52bnZhMWxPcy1VZWc4RHJabmV0UlkwV2ZQdDBIU2RQSmM2bERBMnpnLXJqcTZHb3dUbFhMa0JVLV9tXzJubHhqeWw3NTh0NFJhdFdSNmc4cEFFbWlJakd4YURWemVLYkNOX3lRX3A0T3pySU9ZUG1HSXd4eDhCYm1Wemc?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "大手牽小手出發去集章新北微笑山線串起五大山系親子旅程- 旅遊新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "大手牽小手出發去集章新北微笑山線串起五大山系親子旅程- 旅遊新聞。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
+        "tips": "先確認地址、營業時間、停車與是否推車友善。"
+      },
+      "source_name": "PChome Online 新聞",
+      "tags": [
+        "大自然",
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-11-24T01:34:00+00:00",
+      "collected_at": "2026-11-25T04:53:40.579142+00:00",
+      "query": "台灣 親子旅遊 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmijafbvv95cuxot0dntgllzmxotetibexysulengjac",
@@ -760,66 +811,6 @@
       "published_at": "2026-11-20T06:42:52+00:00",
       "collected_at": "2026-11-20T20:17:22.822178+00:00",
       "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmitefvx3lxte1vwu50cfvyyzk0nnzub3l1neljmmnds",
-      "title": "九族、麗寶輸了！台灣遊樂園最新排行出爐　義大世界年吸501萬人",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VWU50cFVYYzk0NnZub3l1NEljMmNDSVNOcE9pX2NOTGZRMF9VdVJOVGtqYkptRnJMNmJ2V2szZllIeDR5UmZ4TjFFUDjSAVJBVV95cUxPb2xwbkRCbUE3YzlUTnAtaUdRNFJJY1RpdkVJZGJ3a041OU9UN2t4Vl9BaVd5NVM3cXRwcGFJelUzVUVjSTRKU2gwN1dTOGs4a3Vn?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VWU50cFVYYzk0NnZub3l1NEljMmNDSVNOcE9pX2NOTGZRMF9VdVJOVGtqYkptRnJMNmJ2V2szZllIeDR5UmZ4TjFFUDjSAVJBVV95cUxPb2xwbkRCbUE3YzlUTnAtaUdRNFJJY1RpdkVJZGJ3a041OU9UN2t4Vl9BaVd5NVM3cXRwcGFJelUzVUVjSTRKU2gwN1dTOGs4a3Vn?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "九族、麗寶輸了！台灣遊樂園最新排行出爐　義大世界年吸501萬人。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "九族、麗寶輸了！台灣遊樂園最新排行出爐　義大世界年吸501萬人。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "遊具與體驗性強，適合安排半日到一日放電。",
-        "cons": "假日容易排隊，部分設施可能有年齡或身高限制。",
-        "tips": "建議備替換衣物、毛巾與簡單點心。"
-      },
-      "source_name": "NOWnews今日新聞",
-      "tags": [
-        "放電"
-      ],
-      "reason": "遊具與體驗性強，適合安排半日放電；建議避開尖峰並先確認身高限制與排隊時間。",
-      "published_at": "2026-11-20T06:42:52+00:00",
-      "collected_at": "2026-11-20T20:17:23.507538+00:00",
-      "query": "台灣 親子旅遊 最新"
-    },
-    {
-      "id": "https-www-nownews-com-news-6894054",
-      "title": "九族、麗寶輸了！台灣遊樂園最新排行出爐 義大世界年吸501萬人 | 生活消費 | 生活 | NOWnews今日新聞",
-      "url": "https://www.nownews.com/news/6894054",
-      "canonical_url": "https://www.nownews.com/news/6894054",
-      "image_url": "https://media.nownews.com/nn_media/thumbnail/2022/05/1653906692062-62cc843d7ff7496386a3a93a1e47f394-1200x675.jpeg?unShow=false",
-      "images": [
-        "https://www.nownews.com/NOWnews/images/app-promote.webp",
-        "https://media.nownews.com/nn_media/thumbnail/2022/05/1653906692062-62cc843d7ff7496386a3a93a1e47f394-1200x675.jpeg?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2023/02/1676782923802-9668674a00554524b93abd68dd2938da-500x333.jpg?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2023/02/1677479838280-ac0048a894c14e9a8740bbd8b2326a06-500x375.jpg?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2024/12/1733808947820-38bfa7e6e37c4b7a9bd2495d09af318f-500x375.webp?unShow=false&waterMark=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/11/1794875460342-90d8dc2f46084435a14a55021dee8fb0-1107x839.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/11/1795057387640-d9235ce1f85b42a2b0c89cda0a2e4c27-1200x677.webp?unShow=false",
-        "https://media.nownews.com/nn_media/thumbnail/2026/11/1795138938603-8201b225ad2b490dae440a136f4d8e82-1008x618.webp?unShow=false"
-      ],
-      "summary": "九族、麗寶輸了！台灣遊樂園最新排行出爐 義大世界年吸501萬人 | 生活消費 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 賴禹妡 ／綜合報導 ▲交通部觀光署統計，2025年全台遊樂園人次由高雄義大世界以501萬人次奪冠，台中麗寶樂園渡假村以449萬人次排名第二，苗栗尚順育樂世界則以330萬人次擠進前三，超越六福村與劍湖山。（圖／義大世界提供） ✕ 想安排假日親子出遊，台灣有哪些遊樂園值得一去？根據 交通部觀光署統計 ，2025年全台遊樂園人次由高雄義大世界拿下第一，全年吸引501萬人次，台中麗寶樂園渡假村以449萬人次居次，苗栗尚順育樂世界則以330萬人次躋身第三，人氣甚至超越六福村與劍湖山。若觀察2026年1月至9月數據，前三名依舊由這3座樂園包辦，義大世界以希臘風情、50多項設施及超過700個品牌的OUTLET購物廣場，打造玩樂購物一站式行程；麗寶結合陸上、水上樂園、摩天輪、賽車場與飯店，適合安排整日活動；苗栗尚順則主打近萬坪室內空間，提供18項遊樂設施，不受天候限制。",
-      "analysis": {
-        "overview": "九族、麗寶輸了！台灣遊樂園最新排行出爐 義大世界年吸501萬人 | 生活消費 | 生活 | NOWnews今日新聞。NOWNEWS今日新聞 《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。記者 賴禹妡 ／綜合報導 ▲交通部觀光署統計，2025年全台遊樂園人次由高雄義大世界以501萬人次奪冠，台中麗寶樂園渡假村以449萬人次排名第二，苗栗尚順育樂世界則以330萬人次擠進前三，超越六福村與劍湖山。（圖／",
-        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。 遊具與體驗性強，適合安排半日到一日放電。 住宿型行程能降低移動疲勞，對小小孩家庭較友善。",
-        "cons": "熱門時段可能人多，互動設施也可能需要排隊。 假日容易排隊，部分設施可能有年齡或身高限制。 價格與房型差異大，親子設施也可能需預約。",
-        "tips": "可先預約或確認場次，並安排附近用餐點。 建議備替換衣物、毛巾與簡單點心。 訂房前確認停車、早餐、嬰幼兒備品與退房時間。"
-      },
-      "source_name": "nownews.com",
-      "tags": [
-        "室內",
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
-      "published_at": "2026-11-20T06:42:00+00:00",
-      "collected_at": "2026-11-20T20:17:26.371168+00:00",
-      "query": "台灣 親子旅遊 最新"
     }
   ]
 }
