@@ -1,8 +1,61 @@
 {
-  "updated_at": "2026-11-26T21:30:23.347689+00:00",
+  "updated_at": "2026-11-27T04:15:36.855128+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
+    {
+      "id": "https-news-google-com-rss-articles-cbmizgjbvv95cuxqzzrvdhvjvxe0audbug9sbmdfnfjkz",
+      "title": "台中市民野餐日12/6登場！北屯雙公園推親子足球、食農DIY 600頂漁夫帽限量送",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQZzRvdHVjVXE0aUdBUG9SbmdfNFJKZE1zSW83a1FlLWJXUVE2ZmlLQ1duRXdDTDFEakZwT1dNdzNQdVc5eEVKbkNnbHNQdGVvdXRfT3ZMSHNHdW5KdTU4eU5Kd0lFcmZ4em90YkRqNmFCWFljSExsX0ZUUUJ5OWFNTHVSLUZMZ1Z0UDFCZUVFV01CcGwwSGFjUTZaXzN0RDh2U2d6ZHJ2RTFjX0ZIemVzN3NzWFNwRW1hbXgwQUJvOG9iU0tJbXp2b3ZOSUdacVNHY3Q1Y1hoUVBVbDRzUHRzTlhjRnQtMnRSQ09uTkpHUVgxbDJsRXRlei1GNVBqcWRJRVM1Q3Z5dXIyYzFIaGNsRnFFdlMyY1dCYnBBbE1vcGhFaFJsd19LRmc5Rl9lNW1BWndSU3BSNUdrV3dlZlNQdkh3ZjY0UXJCeU1wTlBB?oc=5",
+      "canonical_url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQZzRvdHVjVXE0aUdBUG9SbmdfNFJKZE1zSW83a1FlLWJXUVE2ZmlLQ1duRXdDTDFEakZwT1dNdzNQdVc5eEVKbkNnbHNQdGVvdXRfT3ZMSHNHdW5KdTU4eU5Kd0lFcmZ4em90YkRqNmFCWFljSExsX0ZUUUJ5OWFNTHVSLUZMZ1Z0UDFCZUVFV01CcGwwSGFjUTZaXzN0RDh2U2d6ZHJ2RTFjX0ZIemVzN3NzWFNwRW1hbXgwQUJvOG9iU0tJbXp2b3ZOSUdacVNHY3Q1Y1hoUVBVbDRzUHRzTlhjRnQtMnRSQ09uTkpHUVgxbDJsRXRlei1GNVBqcWRJRVM1Q3Z5dXIyYzFIaGNsRnFFdlMyY1dCYnBBbE1vcGhFaFJsd19LRmc5Rl9lNW1BWndSU3BSNUdrV3dlZlNQdkh3ZjY0UXJCeU1wTlBB?oc=5",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "images": [
+        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      ],
+      "summary": "台中市民野餐日12/6登場！北屯雙公園推親子足球、食農DIY 600頂漁夫帽限量送。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "analysis": {
+        "overview": "台中市民野餐日12/6登場！北屯雙公園推親子足球、食農DIY 600頂漁夫帽限量送。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
+        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
+        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
+      },
+      "source_name": "LIFE 生活網",
+      "tags": [
+        "大自然",
+        "好玩"
+      ],
+      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
+      "published_at": "2026-11-27T03:15:47+00:00",
+      "collected_at": "2026-11-27T04:15:25.152871+00:00",
+      "query": "新竹 苗栗 台中 親子景點"
+    },
+    {
+      "id": "https-news-pchome-com-tw-living-m00363-20261127-index-79572434032152363009-html",
+      "title": "海線爸媽有福了！台中梧棲親子館11/26正式開幕 燈塔、小漁船讓孩子免費玩",
+      "url": "https://news.pchome.com.tw/living/m00363/20261127/index-79572434032152363009.html",
+      "canonical_url": "https://news.pchome.com.tw/living/m00363/20261127/index-79572434032152363009.html",
+      "image_url": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1400&q=80",
+      "images": [],
+      "summary": "海線爸媽有福了！台中梧棲親子館11/26正式開幕 燈塔、小漁船讓孩子免費玩。家裡有小小孩的爸媽，假日最常煩惱的就是要帶孩子去哪裡放電。全新打造的梧棲親子館11月26日正式開幕，以港灣、燈塔及漁村文化為主題，讓孩子不用到海邊，也能在室內體驗捕魚、開船的樂趣。",
+      "analysis": {
+        "overview": "海線爸媽有福了！台中梧棲親子館11/26正式開幕 燈塔、小漁船讓孩子免費玩。家裡有小小孩的爸媽，假日最常煩惱的就是要帶孩子去哪裡放電。全新打造的梧棲親子館11月26日正式開幕，以港灣、燈塔及漁村文化為主題，讓孩子不用到海邊，也能在室內體驗捕魚、開船的樂趣。",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "news.pchome.com.tw",
+      "tags": [
+        "看動物",
+        "室內",
+        "大自然",
+        "放電",
+        "好玩"
+      ],
+      "reason": "適合作為雨天或炎熱天氣備案，室內動線相對好掌握，也比較方便安排休息與廁所時間。",
+      "published_at": "2026-11-26T06:19:00+00:00",
+      "collected_at": "2026-11-27T04:15:36.057581+00:00",
+      "query": "台灣 週末親子 去哪裡"
+    },
     {
       "id": "https-news-google-com-rss-articles-cbmiiwfbvv95cuxqamtzskndeuj1z0jldjhsmkvlt19vn",
       "title": "台中市民野餐日12/6海線登場勞工局攜手大安區公所於龜殼生態、頂庄公園推親子活動- 旅遊新聞",
@@ -745,71 +798,6 @@
       "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
       "published_at": "2026-11-23T00:11:00+00:00",
       "collected_at": "2026-11-26T21:30:21.292322+00:00",
-      "query": "台灣 兒童遊戲場 新景點"
-    },
-    {
-      "id": "https-tw-news-yahoo-com-e8-a6-aa-e5-ad-90-e6-99-af-e9-bb-9e-e5-8f-b0-e7-81-a3-e9",
-      "title": "親子景點＋１！台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！",
-      "url": "https://tw.news.yahoo.com/%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E-%E5%8F%B0%E7%81%A3%E9%A6%96%E5%BA%A7kidzania%E7%99%BB%E5%A0%B4-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%99%B6%E5%9C%93%E5%BB%A0%E5%85%A5%E9%A7%90-%E8%BF%9150%E7%A8%AE%E8%81%B7%E6%A5%AD%E9%83%BD%E8%83%BD%E9%AB%94%E9%A9%97-070027679.html",
-      "canonical_url": "https://tw.news.yahoo.com/%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E-%E5%8F%B0%E7%81%A3%E9%A6%96%E5%BA%A7kidzania%E7%99%BB%E5%A0%B4-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%99%B6%E5%9C%93%E5%BB%A0%E5%85%A5%E9%A7%90-%E8%BF%9150%E7%A8%AE%E8%81%B7%E6%A5%AD%E9%83%BD%E8%83%BD%E9%AB%94%E9%A9%97-070027679.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/5c0bec602f9a11130d10e18fdad1d547df536deba6cd7d2dc846011a4df4fec0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fctwant_styletc_883%2F181059baac599cd666c4e0df99281442.jpg_up.jpg",
-      "images": [
-        "https://s.yimg.com/lo/mysterio/api/5c0bec602f9a11130d10e18fdad1d547df536deba6cd7d2dc846011a4df4fec0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fctwant_styletc_883%2F181059baac599cd666c4e0df99281442.jpg_up.jpg",
-        "https://s.yimg.com/cv/apiv2/twnews/article-bts/super-app.png",
-        "https://s.yimg.com/lo/mysterio/api/bf3e57b0437ce91819904b41a33c7938a9aa0212b3d9ac3f43279b0ada184680/lightyear_networkapi/resizefill_h48%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-05%2F85a06840-f30d-11ed-acfb-64b973c8539d",
-        "https://s.yimg.com/lo/mysterio/api/3ac1fa978a9a3cb95ee12bea8326b47bbd1f55aac0cef82cb9b6dffcf150025f/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fctwant_styletc_883%2F181059baac599cd666c4e0df99281442.jpg_up.jpg",
-        "https://s.yimg.com/lo/mysterio/api/d9c3c9f9e1bd7d82d0adb356423d8132feced4cecea51c2495e9c37324413656/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fctwant_styletc_883%2Fa70fbaf2fc5099ffcf24ad72d6b77776.jpg",
-        "https://s.yimg.com/lo/mysterio/api/298174d30e5f498e106a6cb0aa6d54da9a9feb2d99248d9ef52748faa0cd26ee/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fctwant_styletc_883%2Fa2b4bf779d4f99e92bdabfb77ec5b9a0.jpg",
-        "https://s.yimg.com/lo/mysterio/api/1BAD44FA44753EBB1495FB832CA4D16E455E1E779ED2267C0D107190F806608F/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fsetn.com.tw%2F90979d8cf6722c363f8dea631e6b9469.jpg_up.jpg",
-        "https://s.yimg.com/lo/mysterio/api/00C652D2FEC3147119F199C0CD5AC04EE8235A81399B42FD8BB76FDAEF31D975/subgraphmysterio/smartcrop_w184_h184_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F7ddc7c64accd9852f24ccf9812acd235.jpg"
-      ],
-      "summary": "台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！\",\"position\":3}]} Yahoo新聞 即時 親子景點＋１！台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"jobTitle\":\"\",\"name\":\"加七\",",
-      "analysis": {
-        "overview": "台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！\",\"position\":3}]} Yahoo新聞 即時 親子景點＋１！台灣首座KidZania登場，台積電晶圓廠入駐、近50種職業都能體驗！{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"jobTitle\":\"\",\"name\":\"加七\",",
-        "pros": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-        "cons": "文章資訊可能不完整，實際適合度仍需點進原文確認。",
-        "tips": "先確認地址、營業時間、停車與是否推車友善。"
-      },
-      "source_name": "tw.news.yahoo.com",
-      "tags": [
-        "好玩"
-      ],
-      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
-      "published_at": "2026-11-22T16:00:00+00:00",
-      "collected_at": "2026-11-23T23:52:41.698329+00:00",
-      "query": "台灣 親子景點 最新"
-    },
-    {
-      "id": "https-tw-news-yahoo-com-e6-95-b2-e7-a2-97-e7-ad-89-e9-b9-bf-e6-b8-af-e7-94-9f-e6",
-      "title": "敲碗等！鹿港生態公園兒童遊戲場搶先看 何時開放縣府說話了",
-      "url": "https://tw.news.yahoo.com/%E6%95%B2%E7%A2%97%E7%AD%89-%E9%B9%BF%E6%B8%AF%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92%E5%85%92%E7%AB%A5%E9%81%8A%E6%88%B2%E5%A0%B4%E6%90%B6%E5%85%88%E7%9C%8B-%E4%BD%95%E6%99%82%E9%96%8B%E6%94%BE%E7%B8%A3%E5%BA%9C%E8%AA%AA%E8%A9%B1%E4%BA%86-014910062.html",
-      "canonical_url": "https://tw.news.yahoo.com/%E6%95%B2%E7%A2%97%E7%AD%89-%E9%B9%BF%E6%B8%AF%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92%E5%85%92%E7%AB%A5%E9%81%8A%E6%88%B2%E5%A0%B4%E6%90%B6%E5%85%88%E7%9C%8B-%E4%BD%95%E6%99%82%E9%96%8B%E6%94%BE%E7%B8%A3%E5%BA%9C%E8%AA%AA%E8%A9%B1%E4%BA%86-014910062.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/c47dd6326884921d74a8e89d475dccabe6e7f564feb85da48b0ffdbe6e98d96a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2F98b7c662f74f99df5c845c4f8dad2300.jpg_up.jpg",
-      "images": [
-        "https://s.yimg.com/lo/mysterio/api/c47dd6326884921d74a8e89d475dccabe6e7f564feb85da48b0ffdbe6e98d96a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2F98b7c662f74f99df5c845c4f8dad2300.jpg_up.jpg",
-        "https://s.yimg.com/cv/apiv2/twnews/article-bts/super-app.png",
-        "https://s.yimg.com/lo/mysterio/api/b427d047c0eed0397a2cc6c9b19dbbc82ef8492114d7a8bf053db43938b9ee5f/lightyear_networkapi/resizefill_h48%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-06%2Fddc518a0-410c-11f0-97f9-02e7ad2438c5",
-        "https://s.yimg.com/lo/mysterio/api/ce6d0ef6fd917b4cb82d3ccc2a705e442e84a4f2889e2e0e200a02d3ac9f0a4c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2F98b7c662f74f99df5c845c4f8dad2300.jpg_up.jpg",
-        "https://s.yimg.com/lo/mysterio/api/60439891b4f06868bf565a7c9ad7d1608d693a4d3aefb69504df0ff1859fe002/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2Fb092c3f61749727b856c8424a4a88801.jpg",
-        "https://s.yimg.com/lo/mysterio/api/725c42b38233bfdb13636d17b3d6b5bc39d1e337f135fb02fe2c2e1352fe1ff7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2F57109ceb2f2a6c2adc4686132ab3a8a8.jpg",
-        "https://s.yimg.com/lo/mysterio/api/929047b2c430527ba62545988125a613f23a01c3fcb7c2517f200786806df77f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2Ff22e953aee7360b497da0aeda6ff2e05.jpg",
-        "https://s.yimg.com/lo/mysterio/api/fe4852c3cfbbd825b3006bc2bd6f94dffbee135b3b16aa100dc530d5063aa2b1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fko%2Flibertytimes_786%2F1e7712d4144f63d9097ebb2d46c61153.jpg"
-      ],
-      "summary": "鹿港生態公園兒童遊戲場搶先看 何時開放縣府說話了\",\"position\":3}]} Yahoo新聞 社會地方 敲碗等！鹿港生態公園兒童遊戲場搶先看 何時開放縣府說話了 {\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"jobTitle\":\"\",\"name\":\"劉曉欣",
-      "analysis": {
-        "overview": "鹿港生態公園兒童遊戲場搶先看 何時開放縣府說話了\",\"position\":3}]} Yahoo新聞 社會地方 敲碗等！鹿港生態公園兒童遊戲場搶先看 何時開放縣府說話了 {\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"jobTitle\":\"\",\"name\":\"劉曉欣",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。"
-      },
-      "source_name": "tw.news.yahoo.com",
-      "tags": [
-        "看動物",
-        "大自然"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-11-22T16:00:00+00:00",
-      "collected_at": "2026-11-26T21:30:22.738743+00:00",
       "query": "台灣 兒童遊戲場 新景點"
     }
   ]
