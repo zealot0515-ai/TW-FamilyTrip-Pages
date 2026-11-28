@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T21:16:21.152768+00:00",
+  "updated_at": "2026-11-28T03:54:17.989838+00:00",
   "source": "TW-FamilyTrip-Data",
   "count": 30,
   "items": [
@@ -29,6 +29,40 @@
       "published_at": "2026-11-27T15:35:42+00:00",
       "collected_at": "2026-11-27T21:15:56.807040+00:00",
       "query": "台灣 雨天 親子 室內 景點"
+    },
+    {
+      "id": "https-n-yam-com-article-20261127334956",
+      "title": "馬祖秋冬親子旅遊新玩法　手作生態探索玩出島嶼驚喜 | 蕃新聞",
+      "url": "https://n.yam.com/Article/20261127334956",
+      "canonical_url": "https://n.yam.com/Article/20261127334956",
+      "image_url": "https://ni.yam.com/20261127/s-53829642-9e245554d54fd09d.webp",
+      "images": [
+        "https://ni.yam.com/20261127/s-53829642-9e245554d54fd09d.webp",
+        "https://ni.yam.com/20261127/s-53829644-0-f432db6862a09014.webp",
+        "https://ni.yam.com/20261127/s-53829645-0-0a77254ef32ac799.webp",
+        "https://ni.yam.com/20261127/s-53829646-0-5475f25cf2da4eb4.webp",
+        "https://ni.yam.com/20261126/7bbc71c67b9d410fa00a9d9be0cb174e-d2774bca69f28ce6.webp",
+        "https://ni.yam.com/20261127/2d97fc0f49f04b11a9ce1d69de6b0e64-3d9cd8c85bf012ba.webp",
+        "https://ni.yam.com/20261127/01_0-scaled-70daab89d8859504.webp",
+        "https://ni.yam.com/20261127/jpg-f38ff06abe74acfc.webp"
+      ],
+      "summary": "馬祖秋冬親子旅遊新玩法　手作生態探索玩出島嶼驚喜 | 蕃新聞。【互傳媒／記者 蘇彩娥／馬祖 報導】馬祖不只有戰地風光，秋冬也有適合親子同遊的多元玩法！連江縣交通旅遊局邀請6組旅遊及美食KOL，以「跟著孩子玩馬祖」為主題，實地走訪馬祖特色景點，透過親子視角探索自然生態、傳統信仰、閩東聚落及在地美食，並結合創意手作與文化體驗，展現馬祖不同於傳統印象的旅遊魅力，邀請家庭旅客趁著秋冬時節，帶孩子展開一趟寓教於樂的海島小旅行。此次參與踩線拍攝的創作者包括「吃心絕對」、「快樂的過每一天」、「西莉亞玩樂人生」、「天生寶家族」、「涼子是也」及「老爺爺與小老婆」，透過各具特色的拍攝風格，記錄親子互動、趣味手作及聚落漫遊的旅程點滴。除了呈現馬祖旅遊亮點，也分享跨島交通、景點安排及親子步行等實用資訊，讓家庭旅客能依照孩子年齡與體力，彈性規劃適合全家的行程。旅程從「夜光藍眼淚肌理畫DIY」展開，親子一起運用創作素材描繪海浪紋理，透過夜光效果呈現馬祖藍眼淚的夢幻景象。活動更融入海洋廢棄物再利用概念，將淡菜殼轉化為藝術創作素材，讓孩子在動手製作的過程中，認識海洋資源循環利用與環境保育的重要性，將環境教育融入旅遊體驗。",
+      "analysis": {
+        "overview": "馬祖秋冬親子旅遊新玩法　手作生態探索玩出島嶼驚喜 | 蕃新聞。【互傳媒／記者 蘇彩娥／馬祖 報導】馬祖不只有戰地風光，秋冬也有適合親子同遊的多元玩法！連江縣交通旅遊局邀請6組旅遊及美食KOL，以「跟著孩子玩馬祖」為主題，實地走訪馬祖特色景點，透過親子視角探索自然生態、傳統信仰、閩東聚落及在地美食，並結合創意手作與文化體驗，展現馬祖不同於傳統印象的旅遊魅力，邀請家庭旅客趁著秋冬時節，帶孩子展開一趟寓教於樂的海島小旅行。此次參與踩線拍攝的創作者包括「吃心絕對」、「快樂的過每一天」、「西莉亞玩樂人生」、「天生寶家族」、「",
+        "pros": "室內活動比較不受天氣影響，適合當雨天或高溫備案。",
+        "cons": "熱門時段可能人多，互動設施也可能需要排隊。",
+        "tips": "可先預約或確認場次，並安排附近用餐點。"
+      },
+      "source_name": "n.yam.com",
+      "tags": [
+        "看動物",
+        "大自然",
+        "好玩"
+      ],
+      "reason": "看起來具備親子出遊題材，建議點進原文確認地點、交通、開放時間與是否推車友善。",
+      "published_at": "2026-11-27T08:58:00+00:00",
+      "collected_at": "2026-11-28T03:54:17.844301+00:00",
+      "query": "台灣 親子旅遊 最新"
     },
     {
       "id": "https-news-google-com-rss-articles-cbmi6ajbvv95cuxqowxnce1ea2hxnktanvjtz0lnctbou",
@@ -766,34 +800,6 @@
       "published_at": "2026-11-23T11:02:00+00:00",
       "collected_at": "2026-11-24T22:25:41.818974+00:00",
       "query": "台灣 免費親子景點"
-    },
-    {
-      "id": "https-news-google-com-rss-articles-cbmi-wnbvv95cuxqq3zwsjrjbdetb0jfd0dashriv3jix",
-      "title": "雲林親子景點最新推薦 6大高CP值放電天堂 親水公園、全齡遊戲場與免門票牧場全攻略",
-      "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxQQ3ZWSjRjbDEtb0JFd0daSHRiV3JIX09ZQ2gwOWEwM2JDYUNZc1QyNTU4OGFCS05GUlZKNEZLbnRuQ3BhN3lNZnlJbzJQYUZrQTJKNXd6cVk0bEJCT2wxbE9MSXdHcW5zbVlzY1NmbU5VdTVSUUwxcTJJYTRzYk1UQ095Wk5DdUwwSl9WNWdQM1J0WEpYb0RnU0NxUnFXNTlrSUU4dUlsYXJlQkkyZV9QYXhSd3FsTGwwMjVaUThfOGhudjFDT0FtNUo0N0hBTnAzaVdsUzFoNG9FUzFNODQyaEpVMHl1dFY4RFpxcENFNGpzVFRQeklUZjR6SXZNWHhFSUw0SU9lUFNyZk1mempVNEJOQlVrOUUxb0dCeEZia19WakdST0d5aVNhUkRaVkdMV1I0enpaWkdfTVQ5TG81ZlB6R0hlc2tKNGhBeC13V2pRVDE5N09jam1yVGtobF9BMnpGRU9kWWlMaVlXV2Z1YjlaNU1wQjZOa1IyUFYwaGRlQWE0Q2c4OGRnTHFiMkhBNkpzZXRkczg0Y1FDN2VrNDVtTlY4VjVieEdBNkc0TW43dGhDRWk2aXZBSTVpT1lLR3VOZGR4RGhHLS11MDVGVm4tcDVQZlhJdk9lZHgzc2tGa3l3T0ppRXBoVW5nSjczWmQ5MnNocGFmNm9NRlo0?oc=5",
-      "canonical_url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxQQ3ZWSjRjbDEtb0JFd0daSHRiV3JIX09ZQ2gwOWEwM2JDYUNZc1QyNTU4OGFCS05GUlZKNEZLbnRuQ3BhN3lNZnlJbzJQYUZrQTJKNXd6cVk0bEJCT2wxbE9MSXdHcW5zbVlzY1NmbU5VdTVSUUwxcTJJYTRzYk1UQ095Wk5DdUwwSl9WNWdQM1J0WEpYb0RnU0NxUnFXNTlrSUU4dUlsYXJlQkkyZV9QYXhSd3FsTGwwMjVaUThfOGhudjFDT0FtNUo0N0hBTnAzaVdsUzFoNG9FUzFNODQyaEpVMHl1dFY4RFpxcENFNGpzVFRQeklUZjR6SXZNWHhFSUw0SU9lUFNyZk1mempVNEJOQlVrOUUxb0dCeEZia19WakdST0d5aVNhUkRaVkdMV1I0enpaWkdfTVQ5TG81ZlB6R0hlc2tKNGhBeC13V2pRVDE5N09jam1yVGtobF9BMnpGRU9kWWlMaVlXV2Z1YjlaNU1wQjZOa1IyUFYwaGRlQWE0Q2c4OGRnTHFiMkhBNkpzZXRkczg0Y1FDN2VrNDVtTlY4VjVieEdBNkc0TW43dGhDRWk2aXZBSTVpT1lLR3VOZGR4RGhHLS11MDVGVm4tcDVQZlhJdk9lZHgzc2tGa3l3T0ppRXBoVW5nSjczWmQ5MnNocGFmNm9NRlo0?oc=5",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "images": [
-        "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-      ],
-      "summary": "雲林親子景點最新推薦 6大高CP值放電天堂 親水公園、全齡遊戲場與免門票牧場全攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-      "analysis": {
-        "overview": "雲林親子景點最新推薦 6大高CP值放電天堂 親水公園、全齡遊戲場與免門票牧場全攻略。Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-        "pros": "戶外空間較大，孩子比較能跑跳放電，也適合拍照與簡單野餐。 動物互動與自然觀察能提高孩子參與感。",
-        "cons": "天氣影響大，夏天要留意遮蔭、防曬與補水。 互動體驗可能有時段限制，也要留意清潔與洗手動線。",
-        "tips": "建議早上或傍晚前往，並先查停車與洗手間位置。 出發前確認餵食、互動體驗與休園時間。"
-      },
-      "source_name": "Yahoo新聞",
-      "tags": [
-        "看動物",
-        "大自然",
-        "放電",
-        "好玩"
-      ],
-      "reason": "戶外空間感較足，適合讓孩子跑跳放電；建議搭配防曬、飲水與推車動線確認。",
-      "published_at": "2026-11-23T08:00:00+00:00",
-      "collected_at": "2026-11-27T21:16:10.215277+00:00",
-      "query": "台灣 親子旅遊 最新"
     }
   ]
 }
